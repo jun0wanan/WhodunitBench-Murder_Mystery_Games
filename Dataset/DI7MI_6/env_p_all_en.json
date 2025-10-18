@@ -1,0 +1,2138 @@
+{
+    "key_clues_pool": {
+        "1-step": [
+            "Tape and remote-controlled aircraft are used to hang body parts, while toiletries and condoms suggest that the perpetrator and the deceased had sexual intercourse, after which the perpetrator can exchange clothes with the deceased. The deceased experienced physical spasms due to drug use. The Japanese samurai sword is used as a weapon for dismemberment",
+            "The killer used a strange invention device to make others think that the killer was the first woman to come in, thus framing Taylor. This device also eliminates the possibility that the perpetrator brought other props to create a snow escape room",
+            "The deceased had cross dressing fetish, and witnesses saw that the woman with golden hair was disguised by the deceased on that day.",
+            "The killer cannot use clothes as ropes",
+            "In order to complete the snow escape room trick, the murderer must dismember the deceased. The phenomenon of body spasms was also exploited by the killer. It was precisely because of the body spasms that the deceased's tightly crossed hands and arms formed a natural \"human body hanging ring\". The killer slid from the tail of the statue to the shrine in the corner through this hanging ring. After the murderer returns to the house, they still need to dismember the \"hanging ring\" and remove the black gloves from their hands. Because there are very few muscle groups on the hands, or in other words, the muscles that control the strength of the hands are actually on the wrists and arms, when the killer cuts off the hands, they can naturally spread them out and remove the black gloves. The angle between the left and right feet and the calf is 120 degrees, indicating that the deceased's movements before death were imitating the statue of Eros. When sitting cross legged, the angle between the feet and legs is not 90 degrees. The killer first froze the landscape river. When the killer slid to the shrine pavilion through the \"human suspension ring\", he returned to the house from the landscape river and then turned on the powerful ice melting function of the landscape river. After the ice turned into water, he turned off this function and the river water froze again, but by then the traces on the ice had disappeared.",
+            "The murderer cannot leave the snow by climbing the statue"
+        ],
+        "2-step": [
+            "The killer used the stone chair as a running track, sprinted and jumped to grab the \"human suspension ring\" hanging from the tail before leaving. There are only a few scattered snow marks on the stone chair, indicating that it has been cleaned before. The small amount of snow marks is the snow that fell from the bottom of the killer's shoes.",
+            "The killer glued one end of the tape to the remote-controlled airplane and the other end to the black glove on the hand of the \"human suspension ring\", and used the remote-controlled airplane to place the suspension ring on the tail of the statue. Exclude the method of using remote-controlled aircraft to transport corpses.",
+            "It is precisely because the deceased in the diary claimed that he could meet the demands of his lover that there was a situation where the murderer carried the deceased upside down into the center of the snow. The deceased imitating the posture of the statue is also a requirement of the murderer, who is the lover of the deceased. The method of excluding the deceased and the perpetrator from crawling into the center of the snow through their tails. The murderer once used the scenic river to leave",
+            "The murderer walked in backwards",
+            "The murderer must dismember and spasm the body of the deceased in order to complete the snow chamber",
+            "The killer wants to use the posture of the deceased's arms before death to create a \"human suspension ring\"",
+            "The heating control function of the landscape river can remove the footprints left by the killer"
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            65
+        ]
+    },
+    "public_clue": "\n",
+    "key_clues_questions": [
+        {
+            "q": "How did the murderer use the stone chair? a. Use the stone chair as a blocking path b. Use the stone chair as a resting place c. Use the stone chair as a hiding place d. Use the stone chair as a running track, sprint and jump",
+            "ans": "d",
+            "source": "p-2"
+        },
+        {
+            "q": "What did the killer use a remote-controlled plane for? a. Transporting corpses b. Monitoring witnesses c. Shooting the scene d. Placing human suspension rings",
+            "ans": "d",
+            "source": "p-2"
+        },
+        {
+            "q": "What does the diary of the deceased imply? a. The deceased is unable to meet the demands of their lover. b. The deceased is able to meet any demands of their lover. c. The deceased plans to leave their lover. d. There is a dispute between the deceased and their lover",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "How did the murderer implement the trick of the snow chamber? a. Through the natural climate change of the landscape river, b. With the help of high-tech equipment in the landscape river, c. Using chemical substances, d. Utilizing the heating control function of the landscape river",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "Why did the murderer have to dismember the deceased? a. In order to make the body easier to transport b. to complete the snow escape room trick c. to destroy evidence d. to simplify the process of hiding the body",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "How did the perpetrator use the position of the deceased's body to create a human suspension ring? a. Fix the deceased's body with an external bracket. b. Forcefully adjust the position of the deceased's legs. c. Use ropes to secure the deceased's hands and legs. d. Use the posture of the deceased's arms before death",
+            "ans": "d",
+            "source": "p-2"
+        },
+        {
+            "q": "What tool did the killer use to hang the body parts? a. Adhesive tape and remote-controlled aircraft b. Rope and hook c. Steel wire and suspension rod d. Network and crane",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What does the use of toiletries and condoms imply about the relationship between the perpetrator and the deceased? a. Previously had a work relationship, b. was a close relative, c. had sexual intercourse, d. was a competitor",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What was the cause of death of the deceased? a. Stabbed b. Poisoned c. Stranded d. Body spasms caused by drug use",
+            "ans": "d",
+            "source": "p-1"
+        },
+        {
+            "q": "How did the killer use the victim's body spasms to create a 'human suspension ring'? a. Using the tight cross formed by the deceased's hands and arms b. tying ropes to the deceased's body c. fixing the deceased's limbs together d. using a specially designed device to fix the deceased",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "How can the murderer ensure that there are no traces left on the snow? a. Cover the snow with cloth b. Chemical treatment of the snow c. Freeze the landscape river first, use the 'human lifting ring' to slide to the shrine pavilion, then turn the river water into water and freeze it again to disappear the traces d. Hire people to clean up the traces",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Why can't the murderer leave the snow by climbing the statue? a. Not enough power. b. The statue is too slippery. c. The statue is too high. d. There is no specific explanation in the plot, but it implies that this method is not feasible",
+            "ans": "d",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the purpose of using tape and remote-controlled aircraft? a. Capturing animals b. Hanging corpses c. Entertainment purposes d. Carrying heavy objects",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "How did the murderer make others think that the first woman to come in was the murderer? a. By using specially designed clothing, b. by utilizing a strange invention device, c. by changing one's own voice, d. by using a mask",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What does the special movement displayed on the deceased's body imply? a. Before death, engage in battle. b. Dance before death. c. Imitate the statue of Eros before death. d. Sleep before death",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Why did the murderer need to dismember the deceased? a. For the convenience of transportation, b. to complete the snow escape room trick, c. to destroy evidence, d. for personal hatred",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "How did the murderer handle the landscape river to eliminate traces? a. Freeze the river water and then melt it. b. Pour chemicals into the river. c. Rinse the traces with river water. d. Create false impressions to mislead the investigation",
+            "ans": "a",
+            "source": "p-1"
+        }
+    ],
+    "role": [
+        {
+            "name": "Rolf",
+            "back": "You're awake.",
+            "r_q": [
+                {
+                    "q": "What was the profession of the deceased? a. Teacher b. Lawyer c. Detective and inventor d. Doctor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the body found? a. Garage b. Garden c. Living room d. Backyard",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the weapon used for dismemberment at the crime scene? a. Dagger b. Pistol c. Japanese samurai sword d. Axe",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many pieces was the body of the deceased divided into? a. Five yuan b. Ten yuan c. Twelve yuan d. Fifteen yuan",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of door lock is on the deceased's private residence? a. Digital password lock b. Traditional key lock c. Biometric fingerprint lock d. Facial recognition lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many people can unlock the door lock of the deceased's residence? a. Only the deceased b. The deceased and their assistants c. The deceased and all family members d. Anyone who knows the password",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of shoes do the footprints near the corpse belong to? a. Men's leather shoes b. Women's leather boots c. Sports shoes d. Rubber boots",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the bloodstain found at the crime scene? a. Indoor b. Garage c. Backyard d. Front Door",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the time of the crime? a. December 3rd morning b. December 3rd afternoon c. December 3rd evening d. Date unknown",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which of the following is the assistant of the deceased? a. Faris B. Thomas C. Taylor D. Joey",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is McCarthy's profession? a. Teacher b. Lawyer c. Detective and inventor d. Doctor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the body of the deceased found? a. Living room b. Garage c. Backyard d. Garden",
+                    "ans": "c"
+                },
+                {
+                    "q": "What weapons are used for dismemberment? a. Axe b. Dagger c. Japanese samurai sword d. Pistol",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many pieces was the body of the deceased divided into? a. Ten yuan b. Twelve yuan c. Fifteen yuan d. Five yuan",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of shoes left the footprints at the crime scene? a. Men's leather shoes b. Women's leather boots c. Sports shoes d. Rubber boots",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Taylor and Webster b. Taylor, Webster and Faris c. Taylor and Faris d. Faris and Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of door lock was used at the deceased's residence? a. Facial recognition lock b. Traditional key lock c. Digital password lock d. Biometric fingerprint lock",
+                    "ans": "d"
+                },
+                {
+                    "q": "How many people can unlock the door lock of the deceased's residence? a. Only the deceased b. The deceased and their assistants c. The deceased and all family members d. Anyone who knows the password",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where were the bloodstains mainly found at the crime scene? a. Indoor b. Front door c. Backyard d. Garage",
+                    "ans": "c"
+                },
+                {
+                    "q": "Has the personal belongings of the deceased been tampered with? a. Yes B. No",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the occupation of the deceased McCarthy? a. Teacher b. Lawyer c. Detective and inventor d. Doctor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the crime scene? a. Apartment in the city center b. Private residence in the suburbs c. Office in the commercial district d. Villa by the seaside",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the body of the deceased found? a. Living room b. Bedroom c. Backyard d. Garden",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many pieces were the body divided into? a. Ten yuan b. Twelve yuan c. Fifteen yuan d. Twenty yuan",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of weapon is used for dismemberment? a. Dagger b. Pistol c. Japanese samurai sword d. Axe",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of door lock is used for the deceased's private residence? a. Traditional key lock b. Digital password lock c. Biometric fingerprint lock d. Facial recognition lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of shoes are the footprints found near the body? a. Men's leather shoes b. Women's leather boots c. Sports shoes d. Rubber boots",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the weather condition on the day of the incident? a. Rainy b. Sunny c. Heavy snowfall d. Cloudy",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many people can unlock the door lock of the deceased's residence? a. Only the deceased b. The deceased and their assistants c. The deceased and all family members d. Anyone who knows the password",
+                    "ans": "b"
+                },
+                {
+                    "q": "In what state was the body of the deceased found? a. The original seal remains unchanged. b. It was burned. c. It was dismembered. d. It was dissolved",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the time of the crime? a. December 2nd b. December 3rd c. December 4th d. December 5th",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Teacher b. Doctor c. Lawyer d. Detective and Inventor",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where was the crime scene? a. City center apartment b. Private residence in the suburbs c. Business district office d. Seaside villa",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the body found? a. Front yard b. Garden c. Backyard d. Living room",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many pieces were the body divided into? a. Ten yuan b. Eleven yuan c. Twelve yuan d. Thirteen yuan",
+                    "ans": "c"
+                },
+                {
+                    "q": "What weapons are used for dismemberment? a. Axe b. Dagger c. Pistol d. Japanese samurai sword",
+                    "ans": "d"
+                },
+                {
+                    "q": "What are the individuals who discovered the body? a. Taylor and Webster b. Taylor, Webster and Faris c. Faris and Webster d. Taylor and Faris",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the type of door lock at the deceased's residence? a. Traditional key lock b. Digital password lock c. Biometric fingerprint lock d. Facial recognition lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of shoes were found in the footprints near the body? a. Men's leather shoes b. Women's leather boots c. Sports shoes d. Rubber boots",
+                    "ans": "b"
+                },
+                {
+                    "q": "Has the deceased's belongings been tampered with? a. Yes B. No",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the occupation of the deceased McCarthy? a. Teacher b. Lawyer c. Detective and inventor d. Doctor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the crime scene? a. Apartment in the city center b. Private residence in the suburbs c. Office in the commercial district d. Villa by the seaside",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the body of the deceased found? a. Living room b. Bedroom c. Backyard d. Garden",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many pieces were the body divided into? a. Ten yuan b. Twelve yuan c. Fifteen yuan d. Twenty yuan",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of weapon is used for dismemberment? a. Dagger b. Pistol c. Japanese samurai sword d. Axe",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of door lock is used for the deceased's private residence? a. Traditional key lock b. Digital password lock c. Biometric fingerprint lock d. Facial recognition lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of shoes are the footprints found near the body? a. Men's leather shoes b. Women's leather boots c. Sports shoes d. Rubber boots",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the weather condition on the day of the incident? a. Rainy b. Sunny c. Heavy snowfall d. Cloudy",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many people can unlock the door lock of the deceased's residence? a. Only the deceased b. The deceased and their assistants c. The deceased and all family members d. Anyone who knows the password",
+                    "ans": "b"
+                },
+                {
+                    "q": "In what state was the body of the deceased found? a. The original seal remains unchanged. b. It was burned. c. It was dismembered. d. It was dissolved",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What was the profession of the deceased? a. Teacher b. Lawyer c. Detective and inventor d. Doctor",
+                "Where was the body found? a. Garage b. Garden c. Living room d. Backyard",
+                "What is the weapon used for dismemberment at the crime scene? a. Dagger b. Pistol c. Japanese samurai sword d. Axe",
+                "How many pieces was the body of the deceased divided into? a. Five yuan b. Ten yuan c. Twelve yuan d. Fifteen yuan",
+                "What type of door lock is on the deceased's private residence? a. Digital password lock b. Traditional key lock c. Biometric fingerprint lock d. Facial recognition lock",
+                "How many people can unlock the door lock of the deceased's residence? a. Only the deceased b. The deceased and their assistants c. The deceased and all family members d. Anyone who knows the password",
+                "What type of shoes do the footprints near the corpse belong to? a. Men's leather shoes b. Women's leather boots c. Sports shoes d. Rubber boots",
+                "Where was the bloodstain found at the crime scene? a. Indoor b. Garage c. Backyard d. Front Door",
+                "When was the time of the crime? a. December 3rd morning b. December 3rd afternoon c. December 3rd evening d. Date unknown",
+                "Which of the following is the assistant of the deceased? a. Faris B. Thomas C. Taylor D. Joey",
+                "What is McCarthy's profession? a. Teacher b. Lawyer c. Detective and inventor d. Doctor",
+                "Where was the body of the deceased found? a. Living room b. Garage c. Backyard d. Garden",
+                "What weapons are used for dismemberment? a. Axe b. Dagger c. Japanese samurai sword d. Pistol",
+                "How many pieces was the body of the deceased divided into? a. Ten yuan b. Twelve yuan c. Fifteen yuan d. Five yuan",
+                "What type of shoes left the footprints at the crime scene? a. Men's leather shoes b. Women's leather boots c. Sports shoes d. Rubber boots",
+                "Who discovered the body of the deceased? a. Taylor and Webster b. Taylor, Webster and Faris c. Taylor and Faris d. Faris and Webster",
+                "What type of door lock was used at the deceased's residence? a. Facial recognition lock b. Traditional key lock c. Digital password lock d. Biometric fingerprint lock",
+                "How many people can unlock the door lock of the deceased's residence? a. Only the deceased b. The deceased and their assistants c. The deceased and all family members d. Anyone who knows the password",
+                "Where were the bloodstains mainly found at the crime scene? a. Indoor b. Front door c. Backyard d. Garage",
+                "Has the personal belongings of the deceased been tampered with? a. Yes B. No",
+                "What was the occupation of the deceased McCarthy? a. Teacher b. Lawyer c. Detective and inventor d. Doctor",
+                "Where was the crime scene? a. Apartment in the city center b. Private residence in the suburbs c. Office in the commercial district d. Villa by the seaside",
+                "Where was the body of the deceased found? a. Living room b. Bedroom c. Backyard d. Garden",
+                "How many pieces were the body divided into? a. Ten yuan b. Twelve yuan c. Fifteen yuan d. Twenty yuan",
+                "What type of weapon is used for dismemberment? a. Dagger b. Pistol c. Japanese samurai sword d. Axe",
+                "What type of door lock is used for the deceased's private residence? a. Traditional key lock b. Digital password lock c. Biometric fingerprint lock d. Facial recognition lock",
+                "What type of shoes are the footprints found near the body? a. Men's leather shoes b. Women's leather boots c. Sports shoes d. Rubber boots",
+                "What was the weather condition on the day of the incident? a. Rainy b. Sunny c. Heavy snowfall d. Cloudy",
+                "How many people can unlock the door lock of the deceased's residence? a. Only the deceased b. The deceased and their assistants c. The deceased and all family members d. Anyone who knows the password",
+                "In what state was the body of the deceased found? a. The original seal remains unchanged. b. It was burned. c. It was dismembered. d. It was dissolved",
+                "When was the time of the crime? a. December 2nd b. December 3rd c. December 4th d. December 5th",
+                "What was the profession of the deceased? a. Teacher b. Doctor c. Lawyer d. Detective and Inventor",
+                "Where was the crime scene? a. City center apartment b. Private residence in the suburbs c. Business district office d. Seaside villa",
+                "Where was the body found? a. Front yard b. Garden c. Backyard d. Living room",
+                "How many pieces were the body divided into? a. Ten yuan b. Eleven yuan c. Twelve yuan d. Thirteen yuan",
+                "What weapons are used for dismemberment? a. Axe b. Dagger c. Pistol d. Japanese samurai sword",
+                "What are the individuals who discovered the body? a. Taylor and Webster b. Taylor, Webster and Faris c. Faris and Webster d. Taylor and Faris",
+                "What is the type of door lock at the deceased's residence? a. Traditional key lock b. Digital password lock c. Biometric fingerprint lock d. Facial recognition lock",
+                "What type of shoes were found in the footprints near the body? a. Men's leather shoes b. Women's leather boots c. Sports shoes d. Rubber boots",
+                "Has the deceased's belongings been tampered with? a. Yes B. No",
+                "What was the occupation of the deceased McCarthy? a. Teacher b. Lawyer c. Detective and inventor d. Doctor",
+                "Where was the crime scene? a. Apartment in the city center b. Private residence in the suburbs c. Office in the commercial district d. Villa by the seaside",
+                "Where was the body of the deceased found? a. Living room b. Bedroom c. Backyard d. Garden",
+                "How many pieces were the body divided into? a. Ten yuan b. Twelve yuan c. Fifteen yuan d. Twenty yuan",
+                "What type of weapon is used for dismemberment? a. Dagger b. Pistol c. Japanese samurai sword d. Axe",
+                "What type of door lock is used for the deceased's private residence? a. Traditional key lock b. Digital password lock c. Biometric fingerprint lock d. Facial recognition lock",
+                "What type of shoes are the footprints found near the body? a. Men's leather shoes b. Women's leather boots c. Sports shoes d. Rubber boots",
+                "What was the weather condition on the day of the incident? a. Rainy b. Sunny c. Heavy snowfall d. Cloudy",
+                "How many people can unlock the door lock of the deceased's residence? a. Only the deceased b. The deceased and their assistants c. The deceased and all family members d. Anyone who knows the password",
+                "In what state was the body of the deceased found? a. The original seal remains unchanged. b. It was burned. c. It was dismembered. d. It was dissolved"
+            ],
+            "a": [
+                "c",
+                "d",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "a",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "b",
+                "d",
+                "b",
+                "c",
+                "a",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c",
+                "b",
+                "d",
+                "b",
+                "c",
+                "c",
+                "d",
+                "b",
+                "c",
+                "b",
+                "a",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c"
+            ]
+        },
+        {
+            "name": "Faris",
+            "back": "You wake up",
+            "r_q": [
+                {
+                    "q": "What is Faris' profession? a. Butler B. Detective C. Inventor D. Assistant",
+                    "ans": "a"
+                },
+                {
+                    "q": "When did the case occur? a. December 1st b. December 2nd c. December 3rd d. December 4th",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who was the first person to discover the body? a. Taylor B. Faris C. Webster D. Rolf",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the location of the case? a. Mr. McCarthy's villa b. Mr. McCarthy's private residence c. City center d. Pet hospital",
+                    "ans": "b"
+                },
+                {
+                    "q": "How was Mr. McCarthy's private residence door opened? a. Faris' fingerprints b. Taylor's fingerprints c. Webster's fingerprints d. Rolf's fingerprints",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Faris last see Mr. McCarthy? a. After breakfast b. After lunch c. Afternoon tea d. After dinner",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was Faris' whereabouts on the afternoon of the incident? a. In villa b. In private residence c. In the pet hospital in the city d. Shopping in the city center",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is suspected of killing Mr. McCarthy? a. Taylor B. Faris C. Webster D. Rolf",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the way Mr. McCarthy died? a. Shot b. Assassinated c. dismembered d. Natural death",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did the footprints at the crime scene indicate that the perpetrator left the scene? a. Before the snow starts b. After the snow stops c. After the rain d. Sunny day",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did Faris find the body? a. Villa b. Backyard of private residence c. City center d. Pet hospital",
+                    "ans": "b"
+                },
+                {
+                    "q": "What did Miss Taylor use to open the door to her private residence? a. Key b. Fingerprint c. Password d. Break through the window to enter",
+                    "ans": "b"
+                },
+                {
+                    "q": "When was the last time Mr. McCarthy was seen? a. After breakfast b. After lunch c. Afternoon tea time d. After dinner",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was Faris located on the afternoon of the incident? a. Villa b. Private residence c. Pet hospital in the city d. City center",
+                    "ans": "c"
+                },
+                {
+                    "q": "How well does Faris know Mr. McCarthy? a. Very familiar b. Slightly familiar c. Completely unfamiliar d. Generally",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Mr. McCarthy's method of death? a. Shot b. Assassinated c. dismembered d. Natural death",
+                    "ans": "c"
+                },
+                {
+                    "q": "In the case, whose fingerprint can open the door of a private residence besides the deceased? a. Faris B. Miss Taylor C. Webster D. Miss Taylor and Faris",
+                    "ans": "b"
+                },
+                {
+                    "q": "When do the snow footprints at the crime scene indicate that the perpetrator left? a. Before the snow starts b. After the snow stops c. When it rains d. Sunny day",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Mr. McCarthy's personal hobby? a. Painting b. Sculpture c. Writing d. Invention",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who does Faris think is the most suspicious? a. Miss Taylor B. Webster C. Joey D. Thomas",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Faris' profession? a. Butler B. Detective C. Inventor D. Assistant",
+                    "ans": "a"
+                },
+                {
+                    "q": "When did the case occur? a. December 1st b. December 2nd c. December 3rd d. December 4th",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who was the first person to discover the body? a. Taylor B. Faris C. Webster D. Rolf",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the location of the case? a. Mr. McCarthy's villa b. Mr. McCarthy's private residence c. City center d. Pet hospital",
+                    "ans": "b"
+                },
+                {
+                    "q": "How was the door to Mr. McCarthy's private residence opened? a. Faris' fingerprints b. Taylor's fingerprints c. Webster's fingerprints d. Rolf's fingerprints",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Faris last see Mr. McCarthy? a. After breakfast b. After lunch c. Afternoon tea d. After dinner",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was Faris' whereabouts on the afternoon of the incident? a. In villa b. In private residence c. In the pet hospital in the city d. Shopping in the city center",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is suspected of killing Mr. McCarthy? a. Taylor B. Faris C. Webster D. Rolf",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the way Mr. McCarthy died? a. Shot b. Assassinated c. dismembered d. Natural death",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did the footprints at the crime scene indicate that the perpetrator left the scene? a. Before the snow starts b. After the snow stops c. After the rain d. Sunny day",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Faris' profession? a. Butler B. Detective C. Inventor D. Professor",
+                    "ans": "a"
+                },
+                {
+                    "q": "When was the last time Faris saw Mr. McCarthy? a. After breakfast b. After lunch c. Afternoon tea d. After dinner",
+                    "ans": "a"
+                },
+                {
+                    "q": "What method did Miss Taylor use to open the door to her private residence? a. Key b. Fingerprint c. Password d. Break through the window to enter",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the way Mr. McCarthy died? a. Shot b. Assassinated c. dismembered d. Natural death",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was Faris located on the afternoon of the incident? a. In villa b. in private residence c. in the pet hospital in the city d. in the city center",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did the footprints at the crime scene indicate that the perpetrator left the scene? a. Before the snow starts b. After the snow stops c. After the rain d. Sunny day",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Faris' level of understanding of Mr. McCarthy? a. Very familiar b. Slightly familiar c. Completely unfamiliar d. General understanding",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who can only open Mr. McCarthy's private residence door with their fingerprints? a. Faris and Miss Taylor b. Miss Taylor and Mr. Webster c. Miss Taylor and Mr. McCarthy's assistant d. Miss Taylor and Mr. McCarthy",
+                    "ans": "c"
+                },
+                {
+                    "q": "On the day of the incident, who was the last person Faris saw before going to the pet hospital? a. Miss Taylor B. Mr. Webster C. Faris himself D. Rolf",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Mr. McCarthy's personal favorite sculpture? a. The curse of the dismemberment of Eros b. Meditation of Eros c. Judgment of Eros d. Revenge of Eros",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Faris' profession? a. Butler B. Detective C. Inventor D. Assistant",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was the location of the case? a. Mr. McCarthy's villa b. Mr. McCarthy's private residence c. City center d. Pet hospital",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was Mr. McCarthy's body found? a. Living room b. Backyard c. Study d. Bedroom",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Faris last see Mr. McCarthy? a. After breakfast b. After lunch c. Afternoon tea d. After dinner",
+                    "ans": "a"
+                },
+                {
+                    "q": "What method did Miss Taylor use to open the door to her private residence? a. Key b. Fingerprint c. Password d. Break through the window to enter",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the cause of Mr. McCarthy's death? a. Shot b. Assassinated c. dismembered d. Natural death",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Faris spend his afternoon? a. Villa b. Private residence c. Pet hospital in the city d. Shopping in the city center",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did the footprints at the crime scene indicate that the perpetrator left the scene? a. Before the snow starts b. After the snow stops c. After the rain d. Sunny day",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who can open the door of Mr. McCarthy's private residence with their fingerprints? a. Only Mr. McCarthy B. Faris and Miss Taylor C. Miss Taylor and Mr. McCarthy's assistant D. Miss Taylor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who does Faris think is the most suspicious? a. Miss Taylor B. Webster C. Faris himself D. Rolf",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is Faris' profession? a. Butler B. Detective C. Inventor D. Assistant",
+                "When did the case occur? a. December 1st b. December 2nd c. December 3rd d. December 4th",
+                "Who was the first person to discover the body? a. Taylor B. Faris C. Webster D. Rolf",
+                "Where was the location of the case? a. Mr. McCarthy's villa b. Mr. McCarthy's private residence c. City center d. Pet hospital",
+                "How was Mr. McCarthy's private residence door opened? a. Faris' fingerprints b. Taylor's fingerprints c. Webster's fingerprints d. Rolf's fingerprints",
+                "When did Faris last see Mr. McCarthy? a. After breakfast b. After lunch c. Afternoon tea d. After dinner",
+                "What was Faris' whereabouts on the afternoon of the incident? a. In villa b. In private residence c. In the pet hospital in the city d. Shopping in the city center",
+                "Who is suspected of killing Mr. McCarthy? a. Taylor B. Faris C. Webster D. Rolf",
+                "What was the way Mr. McCarthy died? a. Shot b. Assassinated c. dismembered d. Natural death",
+                "When did the footprints at the crime scene indicate that the perpetrator left the scene? a. Before the snow starts b. After the snow stops c. After the rain d. Sunny day",
+                "Where did Faris find the body? a. Villa b. Backyard of private residence c. City center d. Pet hospital",
+                "What did Miss Taylor use to open the door to her private residence? a. Key b. Fingerprint c. Password d. Break through the window to enter",
+                "When was the last time Mr. McCarthy was seen? a. After breakfast b. After lunch c. Afternoon tea time d. After dinner",
+                "Where was Faris located on the afternoon of the incident? a. Villa b. Private residence c. Pet hospital in the city d. City center",
+                "How well does Faris know Mr. McCarthy? a. Very familiar b. Slightly familiar c. Completely unfamiliar d. Generally",
+                "What was Mr. McCarthy's method of death? a. Shot b. Assassinated c. dismembered d. Natural death",
+                "In the case, whose fingerprint can open the door of a private residence besides the deceased? a. Faris B. Miss Taylor C. Webster D. Miss Taylor and Faris",
+                "When do the snow footprints at the crime scene indicate that the perpetrator left? a. Before the snow starts b. After the snow stops c. When it rains d. Sunny day",
+                "What is Mr. McCarthy's personal hobby? a. Painting b. Sculpture c. Writing d. Invention",
+                "Who does Faris think is the most suspicious? a. Miss Taylor B. Webster C. Joey D. Thomas",
+                "What is Faris' profession? a. Butler B. Detective C. Inventor D. Assistant",
+                "When did the case occur? a. December 1st b. December 2nd c. December 3rd d. December 4th",
+                "Who was the first person to discover the body? a. Taylor B. Faris C. Webster D. Rolf",
+                "Where was the location of the case? a. Mr. McCarthy's villa b. Mr. McCarthy's private residence c. City center d. Pet hospital",
+                "How was the door to Mr. McCarthy's private residence opened? a. Faris' fingerprints b. Taylor's fingerprints c. Webster's fingerprints d. Rolf's fingerprints",
+                "When did Faris last see Mr. McCarthy? a. After breakfast b. After lunch c. Afternoon tea d. After dinner",
+                "What was Faris' whereabouts on the afternoon of the incident? a. In villa b. In private residence c. In the pet hospital in the city d. Shopping in the city center",
+                "Who is suspected of killing Mr. McCarthy? a. Taylor B. Faris C. Webster D. Rolf",
+                "What was the way Mr. McCarthy died? a. Shot b. Assassinated c. dismembered d. Natural death",
+                "When did the footprints at the crime scene indicate that the perpetrator left the scene? a. Before the snow starts b. After the snow stops c. After the rain d. Sunny day",
+                "What is Faris' profession? a. Butler B. Detective C. Inventor D. Professor",
+                "When was the last time Faris saw Mr. McCarthy? a. After breakfast b. After lunch c. Afternoon tea d. After dinner",
+                "What method did Miss Taylor use to open the door to her private residence? a. Key b. Fingerprint c. Password d. Break through the window to enter",
+                "What was the way Mr. McCarthy died? a. Shot b. Assassinated c. dismembered d. Natural death",
+                "Where was Faris located on the afternoon of the incident? a. In villa b. in private residence c. in the pet hospital in the city d. in the city center",
+                "When did the footprints at the crime scene indicate that the perpetrator left the scene? a. Before the snow starts b. After the snow stops c. After the rain d. Sunny day",
+                "What is Faris' level of understanding of Mr. McCarthy? a. Very familiar b. Slightly familiar c. Completely unfamiliar d. General understanding",
+                "Who can only open Mr. McCarthy's private residence door with their fingerprints? a. Faris and Miss Taylor b. Miss Taylor and Mr. Webster c. Miss Taylor and Mr. McCarthy's assistant d. Miss Taylor and Mr. McCarthy",
+                "On the day of the incident, who was the last person Faris saw before going to the pet hospital? a. Miss Taylor B. Mr. Webster C. Faris himself D. Rolf",
+                "What is Mr. McCarthy's personal favorite sculpture? a. The curse of the dismemberment of Eros b. Meditation of Eros c. Judgment of Eros d. Revenge of Eros",
+                "What is Faris' profession? a. Butler B. Detective C. Inventor D. Assistant",
+                "Where was the location of the case? a. Mr. McCarthy's villa b. Mr. McCarthy's private residence c. City center d. Pet hospital",
+                "Where was Mr. McCarthy's body found? a. Living room b. Backyard c. Study d. Bedroom",
+                "When did Faris last see Mr. McCarthy? a. After breakfast b. After lunch c. Afternoon tea d. After dinner",
+                "What method did Miss Taylor use to open the door to her private residence? a. Key b. Fingerprint c. Password d. Break through the window to enter",
+                "What was the cause of Mr. McCarthy's death? a. Shot b. Assassinated c. dismembered d. Natural death",
+                "Where did Faris spend his afternoon? a. Villa b. Private residence c. Pet hospital in the city d. Shopping in the city center",
+                "When did the footprints at the crime scene indicate that the perpetrator left the scene? a. Before the snow starts b. After the snow stops c. After the rain d. Sunny day",
+                "Who can open the door of Mr. McCarthy's private residence with their fingerprints? a. Only Mr. McCarthy B. Faris and Miss Taylor C. Miss Taylor and Mr. McCarthy's assistant D. Miss Taylor",
+                "Who does Faris think is the most suspicious? a. Miss Taylor B. Webster C. Faris himself D. Rolf"
+            ],
+            "a": [
+                "a",
+                "c",
+                "b",
+                "b",
+                "b",
+                "a",
+                "c",
+                "a",
+                "c",
+                "b",
+                "b",
+                "b",
+                "a",
+                "c",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "a",
+                "a",
+                "c",
+                "b",
+                "b",
+                "b",
+                "a",
+                "c",
+                "a",
+                "c",
+                "b",
+                "a",
+                "a",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "a",
+                "b",
+                "b",
+                "a",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "a"
+            ]
+        },
+        {
+            "name": "Joey",
+            "back": "You wake up",
+            "r_q": [
+                {
+                    "q": "Who discovered the body of the deceased? a. Miss Taylor and Webster B. Miss Taylor, Webster and Faris C. Faris and Thomas D. Miss Taylor and Thomas",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the deceased's body found? a. Living room b. Backyard c. Garage d. Bedroom",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the weapon used for dismemberment? a. Knife b. Axe c. Samurai sword d. Hammer",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the specific way in which the deceased was killed? a. Poisoning b. Beheading c. Shooting d. Pressing",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who owns the fingerprint that can unlock the door lock of the deceased's home? a. The deceased b. Miss Taylor c. The deceased and Faris d. The deceased and Miss Taylor",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the weather condition at the time of the incident? a. Rainy b. Sunny c. Heavy snow d. Cloudy",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the weather like from noon the day before the crime to noon on the day of the crime? a. Rainy b. Heavy snow c. Clear d. Storm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the deceased's personal occupation? a. Lawyer B. Doctor C. Detective and Inventor D. Professor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of door lock was used for the deceased's residence? a. Mechanical lock b. Password lock c. Fingerprint lock d. Facial recognition lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who was the assistant of the deceased? a. Miss Taylor B. Faris C. Webster D. Thomas",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who is the same as the team that discovered the body of the deceased? a. Faris B. Thomas C. Joey D. Sara",
+                    "ans": "a"
+                },
+                {
+                    "q": "At which specific location was the body found? a. Living room b. Garden c. Statue in backyard d. Garage",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which part of the deceased's private residence was found? a. Garden b. Backyard c. Living room d. Bedroom",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the theme of the statue at the crime scene? a. The curse of the dismemberment of Eros b. The blessing of Eros c. The meditation of Eros d. The judgment of Eros",
+                    "ans": "c"
+                },
+                {
+                    "q": "What day was the crime committed? a. December 2nd b. December 3rd c. December 4th d. December 5th",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the identity of the deceased? a. Inventor b. Doctor c. Professor d. Detective and inventor",
+                    "ans": "d"
+                },
+                {
+                    "q": "What weapons are used for dismemberment? a. Axe b. Japanese samurai sword c. Knife d. Hammer",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the type of door lock at the crime scene? a. Password lock b. Fingerprint lock c. Mechanical lock d. Facial recognition lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which two people's fingerprints can open the door of the deceased's house? a. Miss Taylor and the deceased b. Faris and the deceased c. Webster and the deceased d. Thomas and the deceased",
+                    "ans": "a"
+                },
+                {
+                    "q": "During which time did the heavy snowfall occur before the incident? a. December 2nd noon to December 3rd noon b. December 1st noon to December 2nd noon c. December 3rd noon to December 4th noon d. December 2nd morning to December 3rd morning",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the weather like on the day the body of the deceased was discovered? a. Rainy b. Sunny c. Heavy snow d. Cloudy",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the body of the deceased found? a. Living room b. Backyard c. Bedroom d. Garage",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the weapon used to dismember the deceased? a. Knife b. Axe c. Samurai sword d. Hammer",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who was the assistant of the deceased? a. Miss Taylor B. Faris C. Webster D. Thomas",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Lawyer B. Doctor C. Detective and Inventor D. Professor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the theme of the statue near the deceased's body? a. Blessings of Eros b. Meditation of Eros c. Judgment of Eros d. Curse of the Corpse of Eros",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the body found in the outdoor backyard? a. Garden Center b. Central Center c. Beside Statue d. Garage Entrance",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Miss Taylor B. Miss Taylor and Webster C. Miss Taylor, Webster and Faris D. Miss Taylor and Faris",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the type of door lock for the deceased's private residence? a. Mechanical lock b. Password lock c. Fingerprint lock d. Facial recognition lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "During which time did the heavy snowfall occur before the incident? a. December 2nd noon to December 3rd noon b. December 1st noon to December 2nd noon c. December 3rd noon to December 4th noon d. December 2nd morning to December 3rd morning",
+                    "ans": "a"
+                },
+                {
+                    "q": "What theme statue was found next to the body of the deceased? a. Blessings of Eros b. Meditation of Eros c. Judgment of Eros d. Curse of the Corpse of Eros",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the time when the snow at the crime scene stops falling? a. 11:40 AM b. 12:00 PM c. 1:00 PM d. 11:00 AM",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who can open the door of the deceased's private residence? a. Faris and Webster B. Miss Taylor and Webster C. Miss Taylor and the deceased D. Faris and the deceased",
+                    "ans": "c"
+                },
+                {
+                    "q": "At the time of the incident, how many pieces was the victim's body divided into? a. 5 pieces b. 8 pieces c. 10 pieces d. 12 pieces",
+                    "ans": "d"
+                },
+                {
+                    "q": "What are the types of dismemberment weapons? a. Axe b. Hammer c. Samurai sword d. Knife",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Lawyer B. Doctor C. Detective and Inventor D. Professor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the body of the deceased found in the backyard? a. Garden Center b. Central Center c. Beside Statue d. Garage Entrance",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the weather condition from noon the day before the crime to noon on the day of the crime? a. Rainy b. Heavy snow c. Clear d. Cloudy",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of footprints were found from the dismemberment site to the entrance of the backyard? a. Men's leather shoes b. Women's high heels c. Women's leather boots d. Men's sports shoes",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the way the deceased was killed? a. Poisoning b. Shooting c. Beheading d. Pressing",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the crime scene? a. City center b. Suburban c. Office of the deceased d. Bar",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the weapon used to dismember the deceased? a. Axe b. Knife c. Hammer d. Samurai Sword",
+                    "ans": "d"
+                },
+                {
+                    "q": "How many pieces was the body of the deceased divided into? a. 5 pieces b. 8 pieces c. 10 pieces d. 12 pieces",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who was the assistant of the deceased? a. Faris B. Webster C. Miss Taylor D. Thomas",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of door lock was used for the deceased's private residence? a. Mechanical lock b. Password lock c. Fingerprint lock d. Facial recognition lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the snow stop time at the time of the incident? a. 11:00am b. 11:40am c. 12pm d. 1pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the theme of the statue at the crime scene? a. Blessings of Eros b. Meditation of Eros c. Judgment of Eros d. Curse of the Corpse of Eros",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who discovered the body together with the deceased's assistant? a. Faris and Webster B. Faris and Thomas C. Miss Taylor and Thomas D. Miss Taylor and Webster",
+                    "ans": "a"
+                },
+                {
+                    "q": "What caused the deceased to die instantly? a. Poisoning b. Shooting c. Beheading d. Pressing",
+                    "ans": "c"
+                },
+                {
+                    "q": "What kind of footprints were found from the dismemberment site to the entrance of the backyard? a. Men's leather shoes b. Women's high heels c. Women's leather boots d. Men's sports shoes",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Who discovered the body of the deceased? a. Miss Taylor and Webster B. Miss Taylor, Webster and Faris C. Faris and Thomas D. Miss Taylor and Thomas",
+                "Where was the deceased's body found? a. Living room b. Backyard c. Garage d. Bedroom",
+                "What is the weapon used for dismemberment? a. Knife b. Axe c. Samurai sword d. Hammer",
+                "What is the specific way in which the deceased was killed? a. Poisoning b. Beheading c. Shooting d. Pressing",
+                "Who owns the fingerprint that can unlock the door lock of the deceased's home? a. The deceased b. Miss Taylor c. The deceased and Faris d. The deceased and Miss Taylor",
+                "What was the weather condition at the time of the incident? a. Rainy b. Sunny c. Heavy snow d. Cloudy",
+                "What was the weather like from noon the day before the crime to noon on the day of the crime? a. Rainy b. Heavy snow c. Clear d. Storm",
+                "What was the deceased's personal occupation? a. Lawyer B. Doctor C. Detective and Inventor D. Professor",
+                "What type of door lock was used for the deceased's residence? a. Mechanical lock b. Password lock c. Fingerprint lock d. Facial recognition lock",
+                "Who was the assistant of the deceased? a. Miss Taylor B. Faris C. Webster D. Thomas",
+                "Who is the same as the team that discovered the body of the deceased? a. Faris B. Thomas C. Joey D. Sara",
+                "At which specific location was the body found? a. Living room b. Garden c. Statue in backyard d. Garage",
+                "Which part of the deceased's private residence was found? a. Garden b. Backyard c. Living room d. Bedroom",
+                "What is the theme of the statue at the crime scene? a. The curse of the dismemberment of Eros b. The blessing of Eros c. The meditation of Eros d. The judgment of Eros",
+                "What day was the crime committed? a. December 2nd b. December 3rd c. December 4th d. December 5th",
+                "What is the identity of the deceased? a. Inventor b. Doctor c. Professor d. Detective and inventor",
+                "What weapons are used for dismemberment? a. Axe b. Japanese samurai sword c. Knife d. Hammer",
+                "What is the type of door lock at the crime scene? a. Password lock b. Fingerprint lock c. Mechanical lock d. Facial recognition lock",
+                "Which two people's fingerprints can open the door of the deceased's house? a. Miss Taylor and the deceased b. Faris and the deceased c. Webster and the deceased d. Thomas and the deceased",
+                "During which time did the heavy snowfall occur before the incident? a. December 2nd noon to December 3rd noon b. December 1st noon to December 2nd noon c. December 3rd noon to December 4th noon d. December 2nd morning to December 3rd morning",
+                "What was the weather like on the day the body of the deceased was discovered? a. Rainy b. Sunny c. Heavy snow d. Cloudy",
+                "Where was the body of the deceased found? a. Living room b. Backyard c. Bedroom d. Garage",
+                "What was the weapon used to dismember the deceased? a. Knife b. Axe c. Samurai sword d. Hammer",
+                "Who was the assistant of the deceased? a. Miss Taylor B. Faris C. Webster D. Thomas",
+                "What was the profession of the deceased? a. Lawyer B. Doctor C. Detective and Inventor D. Professor",
+                "What is the theme of the statue near the deceased's body? a. Blessings of Eros b. Meditation of Eros c. Judgment of Eros d. Curse of the Corpse of Eros",
+                "Where was the body found in the outdoor backyard? a. Garden Center b. Central Center c. Beside Statue d. Garage Entrance",
+                "Who discovered the body of the deceased? a. Miss Taylor B. Miss Taylor and Webster C. Miss Taylor, Webster and Faris D. Miss Taylor and Faris",
+                "What is the type of door lock for the deceased's private residence? a. Mechanical lock b. Password lock c. Fingerprint lock d. Facial recognition lock",
+                "During which time did the heavy snowfall occur before the incident? a. December 2nd noon to December 3rd noon b. December 1st noon to December 2nd noon c. December 3rd noon to December 4th noon d. December 2nd morning to December 3rd morning",
+                "What theme statue was found next to the body of the deceased? a. Blessings of Eros b. Meditation of Eros c. Judgment of Eros d. Curse of the Corpse of Eros",
+                "What is the time when the snow at the crime scene stops falling? a. 11:40 AM b. 12:00 PM c. 1:00 PM d. 11:00 AM",
+                "Who can open the door of the deceased's private residence? a. Faris and Webster B. Miss Taylor and Webster C. Miss Taylor and the deceased D. Faris and the deceased",
+                "At the time of the incident, how many pieces was the victim's body divided into? a. 5 pieces b. 8 pieces c. 10 pieces d. 12 pieces",
+                "What are the types of dismemberment weapons? a. Axe b. Hammer c. Samurai sword d. Knife",
+                "What was the profession of the deceased? a. Lawyer B. Doctor C. Detective and Inventor D. Professor",
+                "Where was the body of the deceased found in the backyard? a. Garden Center b. Central Center c. Beside Statue d. Garage Entrance",
+                "What was the weather condition from noon the day before the crime to noon on the day of the crime? a. Rainy b. Heavy snow c. Clear d. Cloudy",
+                "What kind of footprints were found from the dismemberment site to the entrance of the backyard? a. Men's leather shoes b. Women's high heels c. Women's leather boots d. Men's sports shoes",
+                "What was the way the deceased was killed? a. Poisoning b. Shooting c. Beheading d. Pressing",
+                "Where is the crime scene? a. City center b. Suburban c. Office of the deceased d. Bar",
+                "What was the weapon used to dismember the deceased? a. Axe b. Knife c. Hammer d. Samurai Sword",
+                "How many pieces was the body of the deceased divided into? a. 5 pieces b. 8 pieces c. 10 pieces d. 12 pieces",
+                "Who was the assistant of the deceased? a. Faris B. Webster C. Miss Taylor D. Thomas",
+                "What type of door lock was used for the deceased's private residence? a. Mechanical lock b. Password lock c. Fingerprint lock d. Facial recognition lock",
+                "What was the snow stop time at the time of the incident? a. 11:00am b. 11:40am c. 12pm d. 1pm",
+                "What is the theme of the statue at the crime scene? a. Blessings of Eros b. Meditation of Eros c. Judgment of Eros d. Curse of the Corpse of Eros",
+                "Who discovered the body together with the deceased's assistant? a. Faris and Webster B. Faris and Thomas C. Miss Taylor and Thomas D. Miss Taylor and Webster",
+                "What caused the deceased to die instantly? a. Poisoning b. Shooting c. Beheading d. Pressing",
+                "What kind of footprints were found from the dismemberment site to the entrance of the backyard? a. Men's leather shoes b. Women's high heels c. Women's leather boots d. Men's sports shoes"
+            ],
+            "a": [
+                "b",
+                "b",
+                "c",
+                "b",
+                "d",
+                "c",
+                "b",
+                "c",
+                "c",
+                "a",
+                "a",
+                "c",
+                "b",
+                "c",
+                "b",
+                "d",
+                "b",
+                "b",
+                "a",
+                "a",
+                "c",
+                "b",
+                "c",
+                "a",
+                "c",
+                "b",
+                "c",
+                "c",
+                "c",
+                "a",
+                "b",
+                "a",
+                "c",
+                "d",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "d",
+                "d",
+                "c",
+                "c",
+                "b",
+                "b",
+                "a",
+                "c",
+                "c"
+            ]
+        },
+        {
+            "name": "Sara",
+            "back": "You're awake",
+            "r_q": [
+                {
+                    "q": "How did the deceased at the crime scene die? a. Poisoning b. Shot c. Beheaded with a knife d. Falling",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Miss Taylor, Webster and Faris b. Miss Taylor and Webster c. Miss Taylor, Webster and Rolf d. Miss Taylor and Faris",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was the body of the deceased found? a. Living room b. Bedroom c. Backyard statue d. Bathroom",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many pieces were the bodies at the crime scene divided into? a. 6 pieces b. 8 pieces c. 10 pieces d. 12 pieces",
+                    "ans": "d"
+                },
+                {
+                    "q": "How was the door of the deceased's private residence locked during the incident? a. Password lock b. Fingerprint lock c. Mechanical lock d. Remote control lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of shoes are the footprints detected at the crime scene? a. Sports shoes b. Leather boots c. High heels d. Sandals",
+                    "ans": "b"
+                },
+                {
+                    "q": "How long did the heavy snowfall last from the day before the incident to the day of the incident? a. 22 hours b. 23 hours c. 23 hours 40 minutes d. 24 hours",
+                    "ans": "c"
+                },
+                {
+                    "q": "Whose fingerprint can open the door of the deceased's private residence? a. Only the deceased b. the deceased and Miss Taylor c. the deceased and Faris d. all researchers",
+                    "ans": "b"
+                },
+                {
+                    "q": "How is the state of death of the deceased described? a. Heart attack b. Instant death c. Chronic poisoning d. Long term illness",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of items were used in the deceased's private residence? a. Books b. Vehicles c. Daily necessities d. Collectibles",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the name of the deceased? a. Miss Taylor B. Webster C. Faris D. McCarthy",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Researcher b. Housekeeper c. Detective and Inventor d. Assistant",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the body of the deceased found? a. Living room b. Bedroom c. Backyard statue d. Bathroom",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the weapon used to kill the deceased? a. Gun b. Knife c. Poison d. Samurai sword",
+                    "ans": "d"
+                },
+                {
+                    "q": "What type of shoes do the footprints at the crime scene belong to? a. Sports shoes b. Leather boots c. High heels d. Sandals",
+                    "ans": "b"
+                },
+                {
+                    "q": "How long did the heavy snowfall last since the day before the incident? a. 22 hours b. 23 hours c. 23 hours 40 minutes d. 24 hours",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who else can open the door of the deceased's residence through fingerprints, except for the deceased himself? a. Miss Taylor B. Webster C. Faris D. Rolf",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the method of death of the deceased? a. Heart disease b. Shot c. Poisoned d. Beheaded",
+                    "ans": "d"
+                },
+                {
+                    "q": "What types of items were used at the crime scene? a. Books b. Vehicles c. Daily necessities d. Collectibles",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Miss Taylor B. Miss Taylor and Webster C. Miss Taylor, Webster and Faris D. Miss Taylor and Faris",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Researcher b. Housekeeper c. Detective and Inventor d. Assistant",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Miss Taylor B. Miss Taylor and Webster C. Miss Taylor, Webster and Faris D. Miss Taylor and Faris",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many pieces was the body of the deceased divided into? a. 6 pieces b. 8 pieces c. 10 pieces d. 12 pieces",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where was the body of the deceased found? a. Living room b. Bedroom c. Backyard statue d. Bathroom",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the weapon used to kill the deceased? a. Gun b. Knife c. Poison d. Samurai sword",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where was the location where the body at the crime scene was dismembered? a. Living room b. Bedroom c. Backyard d. Front yard",
+                    "ans": "c"
+                },
+                {
+                    "q": "Whose fingerprint can open the door of the deceased's private residence? a. Only the deceased b. the deceased and Miss Taylor c. the deceased and Faris d. all researchers",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of shoes do the footprints at the crime scene belong to? a. Sports shoes b. Leather boots c. High heels d. Sandals",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of items were used in the deceased's private residence? a. Books b. Vehicles c. Daily necessities d. Collectibles",
+                    "ans": "d"
+                },
+                {
+                    "q": "How long did the heavy snowfall last before the incident? a. 22 hours b. 23 hours c. 23 hours 40 minutes d. 24 hours",
+                    "ans": "c"
+                },
+                {
+                    "q": "At which specific location was the body of the deceased found? a. Living room b. Bedroom c. Backyard statue d. Bathroom",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the weapon used to kill the deceased? a. Gun b. Knife c. Poison d. Japanese samurai sword",
+                    "ans": "d"
+                },
+                {
+                    "q": "How many pieces were the deceased's body divided into? a. 6 pieces b. 10 pieces c. 12 pieces d. 15 pieces",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which of the following is not included among the people who discovered the body of the deceased? a. Miss Taylor B. Webster C. Faris D. Rolf",
+                    "ans": "d"
+                },
+                {
+                    "q": "What type of shoes are the footprints at the crime scene? a. Sports shoes b. Leather boots c. High heels d. Sandals",
+                    "ans": "b"
+                },
+                {
+                    "q": "At what time did the heavy snowfall start the day before the incident? a. 10am b. 12pm c. 2pm d. 4pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the type of door lock for the deceased's private residence? a. Password lock b. Fingerprint lock c. Mechanical lock d. Remote control lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who else's fingerprint can open the door of the deceased's residence besides the deceased himself? a. Miss Taylor B. Webster C. Faris D. Rolf",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Teacher b. Lawyer c. Detective and inventor d. Doctor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What items were used at the crime scene? a. Books b. Vehicles c. Daily necessities d. Collectibles",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the age of the deceased at the time of the incident? a. 45 years old b. 47 years old c. 50 years old d. 52 years old",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the crime scene? a. City center apartment b. Private residence in the suburbs c. Business district office d. Seaside villa",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the specific location where the deceased was dismembered? a. Living room b. Bedroom c. Backyard statue d. Bathroom",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the dismemberment weapon? a. Hunting knife b. Blade cutting sword c. Japanese samurai sword d. Western sword",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did the heavy snowfall start the day before the incident? a. 10am b. 12pm c. 2pm d. 4pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of door lock was used at the victim's residence at the time of the incident? a. Password lock b. Fingerprint lock c. Mechanical lock d. Remote control lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who else's fingerprint can open the door of the deceased's residence besides the deceased himself? a. Miss Taylor B. Webster C. Faris D. Miss Taylor and Faris",
+                    "ans": "a"
+                },
+                {
+                    "q": "What type of shoes do the footprints near the deceased's body belong to? a. Men's leather shoes b. Women's high heels c. Women's leather boots d. Sports shoes",
+                    "ans": "c"
+                },
+                {
+                    "q": "How long did the heavy snow last? a. 22 hours b. 23 hours c. 23 hours 40 minutes d. 24 hours",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the method of death of the deceased? a. Heart attack b. Instant death c. Chronic poisoning d. Long term illness",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "How did the deceased at the crime scene die? a. Poisoning b. Shot c. Beheaded with a knife d. Falling",
+                "Who discovered the body of the deceased? a. Miss Taylor, Webster and Faris b. Miss Taylor and Webster c. Miss Taylor, Webster and Rolf d. Miss Taylor and Faris",
+                "Where was the body of the deceased found? a. Living room b. Bedroom c. Backyard statue d. Bathroom",
+                "How many pieces were the bodies at the crime scene divided into? a. 6 pieces b. 8 pieces c. 10 pieces d. 12 pieces",
+                "How was the door of the deceased's private residence locked during the incident? a. Password lock b. Fingerprint lock c. Mechanical lock d. Remote control lock",
+                "What type of shoes are the footprints detected at the crime scene? a. Sports shoes b. Leather boots c. High heels d. Sandals",
+                "How long did the heavy snowfall last from the day before the incident to the day of the incident? a. 22 hours b. 23 hours c. 23 hours 40 minutes d. 24 hours",
+                "Whose fingerprint can open the door of the deceased's private residence? a. Only the deceased b. the deceased and Miss Taylor c. the deceased and Faris d. all researchers",
+                "How is the state of death of the deceased described? a. Heart attack b. Instant death c. Chronic poisoning d. Long term illness",
+                "What type of items were used in the deceased's private residence? a. Books b. Vehicles c. Daily necessities d. Collectibles",
+                "What is the name of the deceased? a. Miss Taylor B. Webster C. Faris D. McCarthy",
+                "What was the profession of the deceased? a. Researcher b. Housekeeper c. Detective and Inventor d. Assistant",
+                "Where was the body of the deceased found? a. Living room b. Bedroom c. Backyard statue d. Bathroom",
+                "What is the weapon used to kill the deceased? a. Gun b. Knife c. Poison d. Samurai sword",
+                "What type of shoes do the footprints at the crime scene belong to? a. Sports shoes b. Leather boots c. High heels d. Sandals",
+                "How long did the heavy snowfall last since the day before the incident? a. 22 hours b. 23 hours c. 23 hours 40 minutes d. 24 hours",
+                "Who else can open the door of the deceased's residence through fingerprints, except for the deceased himself? a. Miss Taylor B. Webster C. Faris D. Rolf",
+                "What was the method of death of the deceased? a. Heart disease b. Shot c. Poisoned d. Beheaded",
+                "What types of items were used at the crime scene? a. Books b. Vehicles c. Daily necessities d. Collectibles",
+                "Who discovered the body of the deceased? a. Miss Taylor B. Miss Taylor and Webster C. Miss Taylor, Webster and Faris D. Miss Taylor and Faris",
+                "What was the profession of the deceased? a. Researcher b. Housekeeper c. Detective and Inventor d. Assistant",
+                "Who discovered the body of the deceased? a. Miss Taylor B. Miss Taylor and Webster C. Miss Taylor, Webster and Faris D. Miss Taylor and Faris",
+                "How many pieces was the body of the deceased divided into? a. 6 pieces b. 8 pieces c. 10 pieces d. 12 pieces",
+                "Where was the body of the deceased found? a. Living room b. Bedroom c. Backyard statue d. Bathroom",
+                "What is the weapon used to kill the deceased? a. Gun b. Knife c. Poison d. Samurai sword",
+                "Where was the location where the body at the crime scene was dismembered? a. Living room b. Bedroom c. Backyard d. Front yard",
+                "Whose fingerprint can open the door of the deceased's private residence? a. Only the deceased b. the deceased and Miss Taylor c. the deceased and Faris d. all researchers",
+                "What kind of shoes do the footprints at the crime scene belong to? a. Sports shoes b. Leather boots c. High heels d. Sandals",
+                "What type of items were used in the deceased's private residence? a. Books b. Vehicles c. Daily necessities d. Collectibles",
+                "How long did the heavy snowfall last before the incident? a. 22 hours b. 23 hours c. 23 hours 40 minutes d. 24 hours",
+                "At which specific location was the body of the deceased found? a. Living room b. Bedroom c. Backyard statue d. Bathroom",
+                "What is the weapon used to kill the deceased? a. Gun b. Knife c. Poison d. Japanese samurai sword",
+                "How many pieces were the deceased's body divided into? a. 6 pieces b. 10 pieces c. 12 pieces d. 15 pieces",
+                "Which of the following is not included among the people who discovered the body of the deceased? a. Miss Taylor B. Webster C. Faris D. Rolf",
+                "What type of shoes are the footprints at the crime scene? a. Sports shoes b. Leather boots c. High heels d. Sandals",
+                "At what time did the heavy snowfall start the day before the incident? a. 10am b. 12pm c. 2pm d. 4pm",
+                "What is the type of door lock for the deceased's private residence? a. Password lock b. Fingerprint lock c. Mechanical lock d. Remote control lock",
+                "Who else's fingerprint can open the door of the deceased's residence besides the deceased himself? a. Miss Taylor B. Webster C. Faris D. Rolf",
+                "What was the profession of the deceased? a. Teacher b. Lawyer c. Detective and inventor d. Doctor",
+                "What items were used at the crime scene? a. Books b. Vehicles c. Daily necessities d. Collectibles",
+                "What was the age of the deceased at the time of the incident? a. 45 years old b. 47 years old c. 50 years old d. 52 years old",
+                "Where is the crime scene? a. City center apartment b. Private residence in the suburbs c. Business district office d. Seaside villa",
+                "Where is the specific location where the deceased was dismembered? a. Living room b. Bedroom c. Backyard statue d. Bathroom",
+                "What is the dismemberment weapon? a. Hunting knife b. Blade cutting sword c. Japanese samurai sword d. Western sword",
+                "When did the heavy snowfall start the day before the incident? a. 10am b. 12pm c. 2pm d. 4pm",
+                "What type of door lock was used at the victim's residence at the time of the incident? a. Password lock b. Fingerprint lock c. Mechanical lock d. Remote control lock",
+                "Who else's fingerprint can open the door of the deceased's residence besides the deceased himself? a. Miss Taylor B. Webster C. Faris D. Miss Taylor and Faris",
+                "What type of shoes do the footprints near the deceased's body belong to? a. Men's leather shoes b. Women's high heels c. Women's leather boots d. Sports shoes",
+                "How long did the heavy snow last? a. 22 hours b. 23 hours c. 23 hours 40 minutes d. 24 hours",
+                "What was the method of death of the deceased? a. Heart attack b. Instant death c. Chronic poisoning d. Long term illness"
+            ],
+            "a": [
+                "c",
+                "a",
+                "c",
+                "d",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "d",
+                "d",
+                "c",
+                "c",
+                "d",
+                "b",
+                "c",
+                "a",
+                "d",
+                "d",
+                "c",
+                "c",
+                "c",
+                "d",
+                "c",
+                "d",
+                "c",
+                "b",
+                "b",
+                "d",
+                "c",
+                "c",
+                "d",
+                "c",
+                "d",
+                "b",
+                "b",
+                "b",
+                "a",
+                "c",
+                "d",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "a",
+                "c",
+                "c",
+                "b"
+            ]
+        },
+        {
+            "name": "Thomas",
+            "back": "You wake up",
+            "r_q": [
+                {
+                    "q": "What is Thomas' profession? a. Teacher b. Detective c. Doctor d. Lawyer",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Miss Taylor, B. Faris, C. Shubst, D. All the aforementioned personnel",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where was the location where the deceased's body was dismembered? a. Bedroom b. Living room c. Backyard d. Garage",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of door lock was used at the victim's residence at the time of the incident? a. Password lock b. Fingerprint lock c. Key lock d. Magnetic card lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many people can unlock the door of the deceased's residence? a. 1 digit b. 2 digits c. 3 digits d. 4 digits",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the murder weapon? a. Dagger b. Pistol c. Japanese samurai sword d. Axe",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Lawyer b. Doctor c. Detective and inventor d. Teacher",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of shoes do the footprints at the crime scene belong to? a. Men's leather shoes b. Women's high heels c. Women's leather boots d. Sports shoes",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many pieces was the body of the deceased divided into? a. Eight pieces b. Ten pieces c. Twelve pieces d. Fourteen pieces",
+                    "ans": "c"
+                },
+                {
+                    "q": "What were the weather conditions the day before the incident? a. Heavy rain b. Heavy snow c. High temperature d. Cloudy",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Thomas' age? a. 18 years old b. 20 years old c. 22 years old d. 25 years old",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is McCarthy's profession? a. Teacher b. Detective and inventor c. Doctor d. Lawyer",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which person is not included in the discovery of the deceased's body? a. Miss Taylor b. Shubst c. Faris d. Thomas",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the tool used to dismember the deceased? a. Dagger b. Pistol c. Japanese samurai sword d. Axe",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of shoes do the footprints at the crime scene belong to? a. Men's leather shoes b. Women's high heels c. Women's leather boots d. Sports shoes",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the type of door lock at the deceased's residence? a. Password lock b. Fingerprint lock c. Key lock d. Magnetic card lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many people can unlock the door of the deceased's residence? a. 1 digit b. 2 digits c. 3 digits d. 4 digits",
+                    "ans": "b"
+                },
+                {
+                    "q": "What were the weather conditions the day before the incident? a. Heavy rain b. Heavy snow c. High temperature d. Cloudy",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many pieces was the body of the deceased divided into? a. Eight pieces b. Ten pieces c. Twelve pieces d. Fourteen pieces",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Rolf's age? a. 17 years old b. 19 years old c. 21 years old d. 23 years old",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the occupation of the deceased McCarthy? a. Teacher b. Doctor c. Detective and inventor d. Lawyer",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of shoes are the footprints at the crime scene? a. Men's leather shoes b. Women's high heels c. Women's leather boots d. Sports shoes",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who was the assistant of the deceased McCarthy? a. Miss Taylor B. Faris C. Shubst D. Thomas",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was the location where the deceased was dismembered? a. Bedroom b. Living room c. Backyard d. Garage",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the condition of the deceased's body at the crime scene? a. Poisoned to death b. beheaded c. shot d. strangled to death",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the weather the day before the incident? a. Heavy rain b. Heavy snow c. High temperature d. Cloudy",
+                    "ans": "b"
+                },
+                {
+                    "q": "What weapon was used for dismemberment? a. Dagger b. Pistol c. Japanese samurai sword d. Axe",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who else's fingerprint can unlock the deceased's residence besides the deceased himself? a. Faris B. Shubst C. Thomas D. Miss Taylor",
+                    "ans": "d"
+                },
+                {
+                    "q": "How many pieces was the body of the deceased divided into? a. Eight pieces b. Ten pieces c. Twelve pieces d. Fourteen pieces",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the type of door lock for the deceased's private residence? a. Password lock b. Fingerprint lock c. Key lock d. Magnetic card lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the full name of the deceased? a. McCarthy Miller b. McCarthy Johnson c. McCarthy Smith d. McCarthy",
+                    "ans": "d"
+                },
+                {
+                    "q": "Which person was not included in the discovery of the deceased's body? a. Miss Taylor B. Faris C. Shubst D. Thomas",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where was the location where the deceased was dismembered? a. Bedroom b. Living room c. Backyard d. Garage",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the dismemberment weapon? a. Dagger b. Pistol c. Japanese samurai sword d. Axe",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of shoes do the footprints found at the crime scene belong to? a. Men's leather shoes b. Women's high heels c. Women's leather boots d. Sports shoes",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of door lock was used at the deceased's residence? a. Password lock b. Fingerprint lock c. Key lock d. Magnetic card lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many people can unlock the door of the deceased's residence? a. 1 digit b. 2 digits c. 3 digits d. 4 digits",
+                    "ans": "b"
+                },
+                {
+                    "q": "What were the weather conditions the day before the incident? a. Heavy rain b. Heavy snow c. High temperature d. Cloudy",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many pieces was the body of the deceased divided into? a. Eight pieces b. Ten pieces c. Twelve pieces d. Fourteen pieces",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Teacher b. Doctor c. Detective and inventor d. Lawyer",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Thomas' profession? a. Teacher b. Detective c. Doctor d. Lawyer",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the occupation of the deceased McCarthy? a. Teacher b. Doctor c. Detective and inventor d. Lawyer",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the crime scene? a. City center apartment b. Private residence in the suburbs c. Business district office d. Seaside villa",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Miss Taylor, B. Faris, C. Shubst, D. All the aforementioned personnel",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the dismemberment weapon? a. Dagger b. Pistol c. Japanese samurai sword d. Axe",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of shoes were the footprints found at the crime scene? a. Men's leather shoes b. Women's high heels c. Women's leather boots d. Sports shoes",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many pieces was the deceased's body divided into? a. Eight pieces b. Ten pieces c. Twelve pieces d. Fourteen pieces",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the weather the day before the incident? a. Heavy rain b. Heavy snow c. High temperature d. Cloudy",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of door lock was used at the deceased's residence? a. Password lock b. Fingerprint lock c. Key lock d. Magnetic card lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "Besides the deceased, whose fingerprint can unlock the door of the deceased's residence? a. Miss Taylor B. Faris C. Shubst D. Thomas",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is Thomas' profession? a. Teacher b. Detective c. Doctor d. Lawyer",
+                "Who discovered the body of the deceased? a. Miss Taylor, B. Faris, C. Shubst, D. All the aforementioned personnel",
+                "Where was the location where the deceased's body was dismembered? a. Bedroom b. Living room c. Backyard d. Garage",
+                "What type of door lock was used at the victim's residence at the time of the incident? a. Password lock b. Fingerprint lock c. Key lock d. Magnetic card lock",
+                "How many people can unlock the door of the deceased's residence? a. 1 digit b. 2 digits c. 3 digits d. 4 digits",
+                "What is the murder weapon? a. Dagger b. Pistol c. Japanese samurai sword d. Axe",
+                "What was the profession of the deceased? a. Lawyer b. Doctor c. Detective and inventor d. Teacher",
+                "What type of shoes do the footprints at the crime scene belong to? a. Men's leather shoes b. Women's high heels c. Women's leather boots d. Sports shoes",
+                "How many pieces was the body of the deceased divided into? a. Eight pieces b. Ten pieces c. Twelve pieces d. Fourteen pieces",
+                "What were the weather conditions the day before the incident? a. Heavy rain b. Heavy snow c. High temperature d. Cloudy",
+                "What is Thomas' age? a. 18 years old b. 20 years old c. 22 years old d. 25 years old",
+                "What is McCarthy's profession? a. Teacher b. Detective and inventor c. Doctor d. Lawyer",
+                "Which person is not included in the discovery of the deceased's body? a. Miss Taylor b. Shubst c. Faris d. Thomas",
+                "What was the tool used to dismember the deceased? a. Dagger b. Pistol c. Japanese samurai sword d. Axe",
+                "What type of shoes do the footprints at the crime scene belong to? a. Men's leather shoes b. Women's high heels c. Women's leather boots d. Sports shoes",
+                "What is the type of door lock at the deceased's residence? a. Password lock b. Fingerprint lock c. Key lock d. Magnetic card lock",
+                "How many people can unlock the door of the deceased's residence? a. 1 digit b. 2 digits c. 3 digits d. 4 digits",
+                "What were the weather conditions the day before the incident? a. Heavy rain b. Heavy snow c. High temperature d. Cloudy",
+                "How many pieces was the body of the deceased divided into? a. Eight pieces b. Ten pieces c. Twelve pieces d. Fourteen pieces",
+                "What is Rolf's age? a. 17 years old b. 19 years old c. 21 years old d. 23 years old",
+                "What was the occupation of the deceased McCarthy? a. Teacher b. Doctor c. Detective and inventor d. Lawyer",
+                "What type of shoes are the footprints at the crime scene? a. Men's leather shoes b. Women's high heels c. Women's leather boots d. Sports shoes",
+                "Who was the assistant of the deceased McCarthy? a. Miss Taylor B. Faris C. Shubst D. Thomas",
+                "Where was the location where the deceased was dismembered? a. Bedroom b. Living room c. Backyard d. Garage",
+                "What is the condition of the deceased's body at the crime scene? a. Poisoned to death b. beheaded c. shot d. strangled to death",
+                "What was the weather the day before the incident? a. Heavy rain b. Heavy snow c. High temperature d. Cloudy",
+                "What weapon was used for dismemberment? a. Dagger b. Pistol c. Japanese samurai sword d. Axe",
+                "Who else's fingerprint can unlock the deceased's residence besides the deceased himself? a. Faris B. Shubst C. Thomas D. Miss Taylor",
+                "How many pieces was the body of the deceased divided into? a. Eight pieces b. Ten pieces c. Twelve pieces d. Fourteen pieces",
+                "What is the type of door lock for the deceased's private residence? a. Password lock b. Fingerprint lock c. Key lock d. Magnetic card lock",
+                "What is the full name of the deceased? a. McCarthy Miller b. McCarthy Johnson c. McCarthy Smith d. McCarthy",
+                "Which person was not included in the discovery of the deceased's body? a. Miss Taylor B. Faris C. Shubst D. Thomas",
+                "Where was the location where the deceased was dismembered? a. Bedroom b. Living room c. Backyard d. Garage",
+                "What is the dismemberment weapon? a. Dagger b. Pistol c. Japanese samurai sword d. Axe",
+                "What type of shoes do the footprints found at the crime scene belong to? a. Men's leather shoes b. Women's high heels c. Women's leather boots d. Sports shoes",
+                "What type of door lock was used at the deceased's residence? a. Password lock b. Fingerprint lock c. Key lock d. Magnetic card lock",
+                "How many people can unlock the door of the deceased's residence? a. 1 digit b. 2 digits c. 3 digits d. 4 digits",
+                "What were the weather conditions the day before the incident? a. Heavy rain b. Heavy snow c. High temperature d. Cloudy",
+                "How many pieces was the body of the deceased divided into? a. Eight pieces b. Ten pieces c. Twelve pieces d. Fourteen pieces",
+                "What was the profession of the deceased? a. Teacher b. Doctor c. Detective and inventor d. Lawyer",
+                "What is Thomas' profession? a. Teacher b. Detective c. Doctor d. Lawyer",
+                "What was the occupation of the deceased McCarthy? a. Teacher b. Doctor c. Detective and inventor d. Lawyer",
+                "Where was the crime scene? a. City center apartment b. Private residence in the suburbs c. Business district office d. Seaside villa",
+                "Who discovered the body of the deceased? a. Miss Taylor, B. Faris, C. Shubst, D. All the aforementioned personnel",
+                "What is the dismemberment weapon? a. Dagger b. Pistol c. Japanese samurai sword d. Axe",
+                "What type of shoes were the footprints found at the crime scene? a. Men's leather shoes b. Women's high heels c. Women's leather boots d. Sports shoes",
+                "How many pieces was the deceased's body divided into? a. Eight pieces b. Ten pieces c. Twelve pieces d. Fourteen pieces",
+                "What was the weather the day before the incident? a. Heavy rain b. Heavy snow c. High temperature d. Cloudy",
+                "What type of door lock was used at the deceased's residence? a. Password lock b. Fingerprint lock c. Key lock d. Magnetic card lock",
+                "Besides the deceased, whose fingerprint can unlock the door of the deceased's residence? a. Miss Taylor B. Faris C. Shubst D. Thomas"
+            ],
+            "a": [
+                "b",
+                "d",
+                "c",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "d",
+                "c",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "b",
+                "c",
+                "c",
+                "a",
+                "c",
+                "b",
+                "b",
+                "c",
+                "d",
+                "c",
+                "b",
+                "d",
+                "d",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "d",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "a"
+            ]
+        },
+        {
+            "name": "Webster",
+            "back": "You're awake.",
+            "r_q": [
+                {
+                    "q": "How old is Webster referred to in the game? a. 18 years old b. 20 years old c. 22 years old d. 25 years old",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the game of the judge called? a. Outside games b. Inside games c. Justice games d. Final games",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who was the first person to stand up and search for an exit? a. Taylor B. Faris C. Muscular Male D. Webster",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the last time Webster saw Mr. McCarthy? a. 9am b. 10:30am c. 12pm d. 3pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "Whose fingerprint can open the door to Mr. McCarthy's research institute? a. Webster B. Faris C. Miss Taylor D. Miss Taylor and Webster",
+                    "ans": "c"
+                },
+                {
+                    "q": "Did Webster provide an alibi? a. Yes B. No",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was Webster's reaction at the beginning of the game? a. Fear b. excitement c. anger d. indifference",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the voice of the judge? a. Gentle b. calm c. strange and mysterious d. high pitched",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Webster's suspicious blonde woman wearing? a. T-shirt b. Down jacket c. Sportswear d. Formal attire",
+                    "ans": "b"
+                },
+                {
+                    "q": "According to Webster, what does Mr. McCarthy like? a. Social b. Solitude c. Adventure d. Shopping",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Webster's profession? a. Researcher b. Detective c. Inventor d. Doctor",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the location where Webster discovered the body? a. Mr. McCarthy's study b. Mr. McCarthy's private residence c. Mr. McCarthy's studio d. City center",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was Webster's last meeting with Mr. McCarthy? a. Villa study b. City center c. Private residence d. Restaurant",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who can use fingerprints to open the door of Mr. McCarthy's research institute? a. Faris B. Webster C. Mr. McCarthy D. Miss Taylor",
+                    "ans": "d"
+                },
+                {
+                    "q": "When did Webster and Faris see a blonde woman wearing a down jacket? a. Around 11pm b. 9am c. 3pm d. 7:40pm",
+                    "ans": "a"
+                },
+                {
+                    "q": "When did Webster hand over Mr. McCarthy's Labrador to Faris? a. 10:30 in the morning b. Around noon c. 3:00 in the afternoon d. 7:40 in the evening",
+                    "ans": "b"
+                },
+                {
+                    "q": "When was the last meeting between Webster and Mr. McCarthy? a. 9am b. 10:30am c. 12pm d. 3pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Webster's suspect wearing? a. T-shirt b. Down jacket c. Sportswear d. Formal attire",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the occupation of the deceased Mr. McCarthy? a. Researcher b. Detective c. Inventor d. Doctor",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of character is described as the judge in the game? a. B. a good person b. a scammer c. a cunning person d. a clumsy person",
+                    "ans": "c"
+                },
+                {
+                    "q": "What did the judge call this game? a. Outside games b. Inside games c. Justice games d. Final games",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the last place Webster saw Mr. McCarthy? a. City center b. Private residence c. Restaurant d. Study in villa",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where did Webster and Faris see the blonde woman wearing a down jacket? a. Villa b. City center c. Small grove d. Private residence",
+                    "ans": "c"
+                },
+                {
+                    "q": "According to Webster's testimony, where was Mr. McCarthy's body found? a. Private residence backyard b. Private residence study c. Studio d. Villa study",
+                    "ans": "a"
+                },
+                {
+                    "q": "Did Webster see Mr. McCarthy on the day of the incident? a. Yes B. No",
+                    "ans": "a"
+                },
+                {
+                    "q": "When was the last time Webster saw Mr. McCarthy? a. 9am b. 10:30am c. 12pm d. 3pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who called the police after Webster discovered the body? a. Miss Taylor B. Faris C. Webster D. Sara",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Webster hand over the sickly Labrador to Faris? a. 10:30 AM b. 12:00 PM c. 3:00 PM d. 7:40 PM",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the suspicious woman seen by Webster and Faris wearing? a. T-shirt b. Down jacket c. Sportswear d. Formal attire",
+                    "ans": "b"
+                },
+                {
+                    "q": "Whose fingerprint can open the door to Mr. McCarthy's research institute? a. Miss Taylor B. Webster C. Faris D. Mr. McCarthy",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Webster's profession? a. Researcher b. Detective c. Inventor d. Doctor",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where did Webster find Mr. McCarthy's body? a. Private residence backyard b. Private residence study c. Dining room d. Villa study",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where did Webster last see Mr. McCarthy? a. Private residence backyard b. Private residence study c. Dining room d. Villa study",
+                    "ans": "d"
+                },
+                {
+                    "q": "Which two people have the right to use the fingerprint recognition lock at the entrance of Mr. McCarthy's research institute? a. Faris and Miss Taylor b. Miss Taylor and Webster c. Miss Taylor and Mr. McCarthy d. Webster and Mr. McCarthy",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the last time Webster saw Mr. McCarthy? a. 8am b. 10:30am c. 12pm d. 3pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "When was the alibi provided by Webster? a. 9am to 12pm b. 12pm to 3pm c. 3pm to 6pm d. 7pm to 10pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Webster and Faris see the suspicious blonde woman? a. 9am b. 11am c. 3pm d. 7:40pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did Webster and Faris see the blonde woman wearing a down jacket? a. City center b. Villa c. Small grove d. Private residence",
+                    "ans": "c"
+                },
+                {
+                    "q": "How long did Webster give the sickly Labrador to Faris? a. 8am b. 10:30am c. 12pm d. 3pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "In Webster's testimony, what does Mr. McCarthy like? a. Social b. Solitude c. Adventure d. Shopping",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Webster's profession? a. Researcher b. Detective c. Inventor d. Doctor",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the location where Webster discovered the body? a. Mr. McCarthy's study b. Mr. McCarthy's private residence c. Mr. McCarthy's studio d. City center",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was Webster's last meeting with Mr. McCarthy? a. Villa study b. City center c. Private residence d. Restaurant",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who can use fingerprints to open the door of Mr. McCarthy's research institute? a. Faris B. Webster C. Mr. McCarthy D. Miss Taylor",
+                    "ans": "d"
+                },
+                {
+                    "q": "When did Webster and Faris see a blonde woman wearing a down jacket? a. Around 11pm b. 9am c. 3pm d. 7:40pm",
+                    "ans": "a"
+                },
+                {
+                    "q": "When did Webster hand over Mr. McCarthy's Labrador to Faris? a. 10:30 in the morning b. Around noon c. 3:00 in the afternoon d. 7:40 in the evening",
+                    "ans": "b"
+                },
+                {
+                    "q": "When was the last meeting between Webster and Mr. McCarthy? a. 9am b. 10:30am c. 12pm d. 3pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Webster's suspect wearing? a. T-shirt b. Down jacket c. Sportswear d. Formal attire",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the occupation of the deceased Mr. McCarthy? a. Researcher b. Detective c. Inventor d. Doctor",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of character is described as the judge in the game? a. B. a good person b. a scammer c. a cunning person d. a clumsy person",
+                    "ans": "c"
+                }
+            ],
+            "self": "My name is Webster, and I am 20 years old this year.",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "How old is Webster referred to in the game? a. 18 years old b. 20 years old c. 22 years old d. 25 years old",
+                "What is the game of the judge called? a. Outside games b. Inside games c. Justice games d. Final games",
+                "Who was the first person to stand up and search for an exit? a. Taylor B. Faris C. Muscular Male D. Webster",
+                "When was the last time Webster saw Mr. McCarthy? a. 9am b. 10:30am c. 12pm d. 3pm",
+                "Whose fingerprint can open the door to Mr. McCarthy's research institute? a. Webster B. Faris C. Miss Taylor D. Miss Taylor and Webster",
+                "Did Webster provide an alibi? a. Yes B. No",
+                "What was Webster's reaction at the beginning of the game? a. Fear b. excitement c. anger d. indifference",
+                "What is the voice of the judge? a. Gentle b. calm c. strange and mysterious d. high pitched",
+                "What is Webster's suspicious blonde woman wearing? a. T-shirt b. Down jacket c. Sportswear d. Formal attire",
+                "According to Webster, what does Mr. McCarthy like? a. Social b. Solitude c. Adventure d. Shopping",
+                "What is Webster's profession? a. Researcher b. Detective c. Inventor d. Doctor",
+                "What was the location where Webster discovered the body? a. Mr. McCarthy's study b. Mr. McCarthy's private residence c. Mr. McCarthy's studio d. City center",
+                "Where was Webster's last meeting with Mr. McCarthy? a. Villa study b. City center c. Private residence d. Restaurant",
+                "Who can use fingerprints to open the door of Mr. McCarthy's research institute? a. Faris B. Webster C. Mr. McCarthy D. Miss Taylor",
+                "When did Webster and Faris see a blonde woman wearing a down jacket? a. Around 11pm b. 9am c. 3pm d. 7:40pm",
+                "When did Webster hand over Mr. McCarthy's Labrador to Faris? a. 10:30 in the morning b. Around noon c. 3:00 in the afternoon d. 7:40 in the evening",
+                "When was the last meeting between Webster and Mr. McCarthy? a. 9am b. 10:30am c. 12pm d. 3pm",
+                "What is Webster's suspect wearing? a. T-shirt b. Down jacket c. Sportswear d. Formal attire",
+                "What was the occupation of the deceased Mr. McCarthy? a. Researcher b. Detective c. Inventor d. Doctor",
+                "What kind of character is described as the judge in the game? a. B. a good person b. a scammer c. a cunning person d. a clumsy person",
+                "What did the judge call this game? a. Outside games b. Inside games c. Justice games d. Final games",
+                "Where was the last place Webster saw Mr. McCarthy? a. City center b. Private residence c. Restaurant d. Study in villa",
+                "Where did Webster and Faris see the blonde woman wearing a down jacket? a. Villa b. City center c. Small grove d. Private residence",
+                "According to Webster's testimony, where was Mr. McCarthy's body found? a. Private residence backyard b. Private residence study c. Studio d. Villa study",
+                "Did Webster see Mr. McCarthy on the day of the incident? a. Yes B. No",
+                "When was the last time Webster saw Mr. McCarthy? a. 9am b. 10:30am c. 12pm d. 3pm",
+                "Who called the police after Webster discovered the body? a. Miss Taylor B. Faris C. Webster D. Sara",
+                "When did Webster hand over the sickly Labrador to Faris? a. 10:30 AM b. 12:00 PM c. 3:00 PM d. 7:40 PM",
+                "What was the suspicious woman seen by Webster and Faris wearing? a. T-shirt b. Down jacket c. Sportswear d. Formal attire",
+                "Whose fingerprint can open the door to Mr. McCarthy's research institute? a. Miss Taylor B. Webster C. Faris D. Mr. McCarthy",
+                "What is Webster's profession? a. Researcher b. Detective c. Inventor d. Doctor",
+                "Where did Webster find Mr. McCarthy's body? a. Private residence backyard b. Private residence study c. Dining room d. Villa study",
+                "Where did Webster last see Mr. McCarthy? a. Private residence backyard b. Private residence study c. Dining room d. Villa study",
+                "Which two people have the right to use the fingerprint recognition lock at the entrance of Mr. McCarthy's research institute? a. Faris and Miss Taylor b. Miss Taylor and Webster c. Miss Taylor and Mr. McCarthy d. Webster and Mr. McCarthy",
+                "When was the last time Webster saw Mr. McCarthy? a. 8am b. 10:30am c. 12pm d. 3pm",
+                "When was the alibi provided by Webster? a. 9am to 12pm b. 12pm to 3pm c. 3pm to 6pm d. 7pm to 10pm",
+                "When did Webster and Faris see the suspicious blonde woman? a. 9am b. 11am c. 3pm d. 7:40pm",
+                "Where did Webster and Faris see the blonde woman wearing a down jacket? a. City center b. Villa c. Small grove d. Private residence",
+                "How long did Webster give the sickly Labrador to Faris? a. 8am b. 10:30am c. 12pm d. 3pm",
+                "In Webster's testimony, what does Mr. McCarthy like? a. Social b. Solitude c. Adventure d. Shopping",
+                "What is Webster's profession? a. Researcher b. Detective c. Inventor d. Doctor",
+                "What was the location where Webster discovered the body? a. Mr. McCarthy's study b. Mr. McCarthy's private residence c. Mr. McCarthy's studio d. City center",
+                "Where was Webster's last meeting with Mr. McCarthy? a. Villa study b. City center c. Private residence d. Restaurant",
+                "Who can use fingerprints to open the door of Mr. McCarthy's research institute? a. Faris B. Webster C. Mr. McCarthy D. Miss Taylor",
+                "When did Webster and Faris see a blonde woman wearing a down jacket? a. Around 11pm b. 9am c. 3pm d. 7:40pm",
+                "When did Webster hand over Mr. McCarthy's Labrador to Faris? a. 10:30 in the morning b. Around noon c. 3:00 in the afternoon d. 7:40 in the evening",
+                "When was the last meeting between Webster and Mr. McCarthy? a. 9am b. 10:30am c. 12pm d. 3pm",
+                "What is Webster's suspect wearing? a. T-shirt b. Down jacket c. Sportswear d. Formal attire",
+                "What was the occupation of the deceased Mr. McCarthy? a. Researcher b. Detective c. Inventor d. Doctor",
+                "What kind of character is described as the judge in the game? a. B. a good person b. a scammer c. a cunning person d. a clumsy person"
+            ],
+            "a": [
+                "b",
+                "b",
+                "c",
+                "b",
+                "c",
+                "a",
+                "b",
+                "c",
+                "b",
+                "b",
+                "a",
+                "b",
+                "a",
+                "d",
+                "a",
+                "b",
+                "b",
+                "b",
+                "b",
+                "c",
+                "b",
+                "d",
+                "c",
+                "a",
+                "a",
+                "b",
+                "b",
+                "b",
+                "b",
+                "a",
+                "a",
+                "a",
+                "d",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "a",
+                "b",
+                "a",
+                "d",
+                "a",
+                "b",
+                "b",
+                "b",
+                "b",
+                "c"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "How did the murderer use the stone chair? a. Use the stone chair as a blocking path b. Use the stone chair as a resting place c. Use the stone chair as a hiding place d. Use the stone chair as a running track, sprint and jump",
+            "What did the killer use a remote-controlled plane for? a. Transporting corpses b. Monitoring witnesses c. Shooting the scene d. Placing human suspension rings",
+            "What does the diary of the deceased imply? a. The deceased is unable to meet the demands of their lover. b. The deceased is able to meet any demands of their lover. c. The deceased plans to leave their lover. d. There is a dispute between the deceased and their lover",
+            "How did the murderer implement the trick of the snow chamber? a. Through the natural climate change of the landscape river, b. With the help of high-tech equipment in the landscape river, c. Using chemical substances, d. Utilizing the heating control function of the landscape river",
+            "Why did the murderer have to dismember the deceased? a. In order to make the body easier to transport b. to complete the snow escape room trick c. to destroy evidence d. to simplify the process of hiding the body",
+            "How did the perpetrator use the position of the deceased's body to create a human suspension ring? a. Fix the deceased's body with an external bracket. b. Forcefully adjust the position of the deceased's legs. c. Use ropes to secure the deceased's hands and legs. d. Use the posture of the deceased's arms before death",
+            "What tool did the killer use to hang the body parts? a. Adhesive tape and remote-controlled aircraft b. Rope and hook c. Steel wire and suspension rod d. Network and crane",
+            "What does the use of toiletries and condoms imply about the relationship between the perpetrator and the deceased? a. Previously had a work relationship, b. was a close relative, c. had sexual intercourse, d. was a competitor",
+            "What was the cause of death of the deceased? a. Stabbed b. Poisoned c. Stranded d. Body spasms caused by drug use",
+            "How did the killer use the victim's body spasms to create a 'human suspension ring'? a. Using the tight cross formed by the deceased's hands and arms b. tying ropes to the deceased's body c. fixing the deceased's limbs together d. using a specially designed device to fix the deceased",
+            "How can the murderer ensure that there are no traces left on the snow? a. Cover the snow with cloth b. Chemical treatment of the snow c. Freeze the landscape river first, use the 'human lifting ring' to slide to the shrine pavilion, then turn the river water into water and freeze it again to disappear the traces d. Hire people to clean up the traces",
+            "Why can't the murderer leave the snow by climbing the statue? a. Not enough power. b. The statue is too slippery. c. The statue is too high. d. There is no specific explanation in the plot, but it implies that this method is not feasible",
+            "What is the purpose of using tape and remote-controlled aircraft? a. Capturing animals b. Hanging corpses c. Entertainment purposes d. Carrying heavy objects",
+            "How did the murderer make others think that the first woman to come in was the murderer? a. By using specially designed clothing, b. by utilizing a strange invention device, c. by changing one's own voice, d. by using a mask",
+            "What does the special movement displayed on the deceased's body imply? a. Before death, engage in battle. b. Dance before death. c. Imitate the statue of Eros before death. d. Sleep before death",
+            "Why did the murderer need to dismember the deceased? a. For the convenience of transportation, b. to complete the snow escape room trick, c. to destroy evidence, d. for personal hatred",
+            "How did the murderer handle the landscape river to eliminate traces? a. Freeze the river water and then melt it. b. Pour chemicals into the river. c. Rinse the traces with river water. d. Create false impressions to mislead the investigation"
+        ],
+        "key_ans": [
+            "d",
+            "d",
+            "b",
+            "a",
+            "b",
+            "d",
+            "a",
+            "c",
+            "d",
+            "a",
+            "c",
+            "d",
+            "b",
+            "b",
+            "c",
+            "b",
+            "a"
+        ],
+        "key_sc": [
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "What are the clothes worn by the deceased? a. Black men's windbreakers and underwear b. Black men's casual pants and underwear c. Black men's casual pants and windbreakers d. Black men's windbreakers, underwear, and casual pants",
+            "What is the height of the statue? a. Three meters b. Four meters c. Five meters d. Six meters",
+            "What is the height of the pavilion? a. 3.8 meters b. 4.0 meters c. 4.2 meters d. 4.5 meters",
+            "What type of shoes do the footprints found on the snow belong to? a. Men's shoes b. Women's boots c. Sports shoes d. High heels",
+            "What do the four tails of the statue represent? a. Joy, anger, sorrow, happiness b. Justice, fairness, sorrow, benevolence and righteousness c. Courage, wisdom, hope, dreams d. Wealth, happiness, longevity, health",
+            "What color is the water in the landscape river? a. Transparent b. Blue c. Green d. Red",
+            "What is the current state of the Landscape River? a. Flow b. Freezing c. Drying d. Pollution",
+            "What is the type of lock for the entrance of a private residence? a. Traditional key lock b. Digital password lock c. Fingerprint lock d. Facial recognition lock",
+            "Whose fingerprint can open the door of a private residence? a. The deceased and the security guard b. The deceased and their family c. The deceased and Taylor d. The deceased and the administrator",
+            "Which two items show a decrease in quantity in the sensing records of private residences? a. Adhesive tape and remote-controlled aircraft b. Adhesive tape and drugs c. Toiletries and drugs d. Toiletries and remote-controlled aircraft",
+            "How many grams of drugs did the sensor record as missing? a. Several grams b. Ten grams c. One hundred grams d. One kilogram",
+            "What color down jacket was worn by the person in the first sensing record? a. Grey b. Black c. Pink d. White",
+            "What can the entrance device of the deceased's private residence sense and scan? a. B. Face b. All items on the body below the face c. Only shoes and feet d. Items on hands",
+            "What special circumstances did you have on your clothes when you left last? a. Clean and traceless b. stained with blood c. stained with soil d. stained with oil stains",
+            "What types of personal belongings were found in the deceased's room? a. Men's clothing and men's wigs b. Women's clothing and women's wigs c. Children's clothing and toys d. Elderly clothing and canes",
+            "How many parts was the body divided into? a. Eight parts b. Ten parts c. Twelve parts d. Fourteen parts",
+            "Are there any traces of binding or pasting on various parts of the body? a. Yes B. No",
+            "What is the muscle state of the corpse? a. Relaxation b. Muscle spasms c. Partial stiffness d. Complete stiffness",
+            "What was the state of the deceased before death? a. Sleep b. Sitting still c. Excitement d. Panic",
+            "What is the state of the heating and thawing function of the landscape river when a body is discovered? a. Open b. Close c. Fault d. Maintenance in progress",
+            "Why is an automatic heating device installed inside the statue? a. Prevent the statue from melting b. Prevent the statue from accumulating snow c. Increase the brightness of the statue d. Maintain the temperature of the statue",
+            "Which part of the statue is equipped with sensors? a. All b. Base c. Head d. The part below the head",
+            "Has the sensor shown that anyone has touched the statue? a. Yes B. No",
+            "What are the length, width, and height of the stone chair? a. 2.5 meters, 40 centimeters, 0.5 meters b. 2.0 meters, 50 centimeters, 0.4 meters c. 3.0 meters, 30 centimeters, 0.6 meters d. 2.5 meters, 30 centimeters, 0.5 meters",
+            "What is the maximum weight that a stone chair can carry? a. 10KG b. 15KG c. 20KG d. 25KG",
+            "What can't be pulled up with a remote-controlled airplane in the experiment? a. Body fragments b. Stone chairs c. Statues d. Sensors",
+            "To whom did the deceased express their love? a. His family b. His friends c. His lover d. His colleagues",
+            "What restrictions does the deceased have on meeting their lover's demands? a. Cannot be too expensive b. Cannot be too common c. Cannot be excessive d. No restrictions",
+            "What special emotions did the deceased have towards the statue in the courtyard? a. Not liking b. liking c. fear d. no feeling",
+            "What special requirements does the deceased have for the statue? a. Let everyone touch b. No one can touch c. Only lovers can touch d. Only family members can touch"
+        ],
+        "key_ans": [
+            "d",
+            "b",
+            "c",
+            "b",
+            "b",
+            "d",
+            "b",
+            "c",
+            "c",
+            "b",
+            "a",
+            "a",
+            "b",
+            "b",
+            "b",
+            "c",
+            "b",
+            "b",
+            "c",
+            "b",
+            "b",
+            "d",
+            "b",
+            "a",
+            "c",
+            "a",
+            "c",
+            "c",
+            "b",
+            "b"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "What is the length of the snow at the scene of death in meters? A. 12m b. 14m c. 16m d. 18m",
+            "What is the width of the snow at the scene of death in meters? A. 5m b. 6m c. 7m d. 8m",
+            "What are the four corners in the snow at the scene of death? a. Trees b. Pavilions c. Sculptures d. Lamp posts",
+            "What is the 6th location of the death scene? a. Flower bed b. Water well c. Wooden bridge d. Stone wall",
+            "What is location 7 at the scene of death? a. Grassland b. Garden c. Landscape River d. Small Lake",
+            "What is location 4 at the scene of death? a. Snow under the tree b. Footprints by the chair c. Footprints on the snow d. Traces on the road",
+            "What is the second location of the death scene? a. The statue of contemplative Eros b. The sculpture of a warrior c. The statue of a goddess d. The statue of a child and a dog"
+        ],
+        "key_ans": [
+            "b",
+            "c",
+            "b",
+            "c",
+            "c",
+            "c",
+            "a"
+        ]
+    },
+    "ju_name": "DI7MI6",
+    "task_nm": "Please complete the following tasks using all the clues at hand",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Webster"
+    ],
+    "murder": "Webster",
+    "reason": "Motive for committing the crime:"
+}

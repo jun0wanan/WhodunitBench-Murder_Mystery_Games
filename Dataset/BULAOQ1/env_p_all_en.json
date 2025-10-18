@@ -1,0 +1,2290 @@
+{
+    "key_clues_pool": {
+        "p": [
+            "Frank's body - there are varying degrees of burns on the skin, as well as impact injuries and minor trauma. Eye congestion and bleeding in both ears and nose. There are irregular spotted red rashes on the skin that have not been burned. Insert a short sword into the heart, and there is bleeding from the wound. Holding a lighter in his hand.",
+            "There are some black handprints on the puzzle on the door lock of the treasure room.",
+            "No one else experienced the explosion on site",
+            "Excerpt 2 of the \"Medical Journal\": After the heart is pierced by a sharp object, it causes traumatic heart injury, resulting in acute pericardial hemorrhage and blockage, which can lead to death within ten seconds.",
+            "Mier - has a silver coin with a black goose pattern on her body.",
+            "Da Vinci - has a silver coin with a black goose pattern on his body.",
+            "The diagnosis on Mier's body proves to be a boy named Allen, diagnosed with hereditary asthma.",
+            "The diagnosis on Mier's body proves that he is a boy named Allen, aged 20.",
+            "Testimony of a maid - I don't know which guest was feeling unwell. One day, when I passed by the guest room, I heard heavy breathing sounds inside, which seemed very uncomfortable. After the murder, the door was closed and it was impossible for anyone other than those present to appear or escape.",
+            "Da Vinci - The shoes look like they've been cleaned recently",
+            "There is a charred short sword in the treasure room cabinet, which looks like the one on Frank's body. This sword is a plastic imitation, very light in weight, and has a noticeable difference in feel from a real sword. Careful observation reveals that this is a telescopic sword, which is a commonly used prop in magic.",
+            "The fake sword is charred black, while the real sword is very clean",
+            "Testimony of the Servant - Mr. Frank is from Cleveland, but it is said that they have not returned since they left Cleveland in the 1990s. They even avoid speaking tours there, just like Mr. Gabriel and Mrs. Iy, who have never returned in so many years.",
+            "The photo on Allen's phone shows that Yi Yi appeared in Cleveland in 2022 with a red rash on her hands",
+            "According to the testimony of the servant, a black man inexplicably disappeared two days ago.",
+            "There are black stains left on the pillow.",
+            "There are footprints of two people on the meter box",
+            "Testimony of a maid: I once saw a person holding a box at the dock in the middle of the night.",
+            "Yi Yi has two keys, one for the treasure room and the other for the castle gate.",
+            "There are many tools in Yiyi's room"
+        ],
+        "1-step": [
+            "Frank's cause of death - After the explosion, Frank was completely charred and a short sword was stabbed in his chest. The cause of death was either by explosion or by stabbing with the short sword",
+            "People who have experienced explosions want to unlock puzzles from inside",
+            "Honey's son Allen is not the child of her ex husband Xiao Qiao, but the son of Da Vinci.",
+            "The pungent smell caused Da Vinci to cough.",
+            "Frank couldn't have stabbed himself to death with a real sword",
+            "The Yi in Allen's phone cannot be a robot, it can be inferred that Yi did not die in 1997, and the person in the photo is her.",
+            "Someone is impersonating a black person. And no one had time to assassinate Frank with a sword.",
+            "An extra person went to assassinate the deceased Frank with a sword",
+            "Except for those with keys who can leave the castle, nothing else can go out.",
+            "Yi Yi has the key to the castle gate and can go out to the dock.",
+            "Yi Yi can use tools to dismantle fake Yi Yi"
+        ],
+        "2-step": [
+            "Frank left a handprint on the door lock, indicating that he had not died after the explosion",
+            "After the explosion, someone entered the treasure room and stabbed the sword into Frank's heart.",
+            "Only Yi Yi, who has a substitute, can use the true sword to kill the deceased."
+        ],
+        "伊伊": [
+            "Robots must not harm humans or stand idly by when they see humans being harmed"
+        ],
+        "小乔": [
+            "Robots must not harm humans or stand idly by when they see humans being harmed"
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            65
+        ]
+    },
+    "public_clue": "\n",
+    "key_clues_questions": [
+        {
+            "q": "Where did Frank leave his handprint, indicating that he had not died after the explosion? a. On the floor b. On the wall c. Lock the door d. On the ceiling",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "What did someone do after the explosion that led to Frank's death? a. Shoot with a gun b. Poison with poison c. Pierce the sword into the heart d. Pinch to death",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "Who has the ability to use a real sword to kill Frank in this case? a. Anyone b. Only Yiyi with a stunt double c. Only Li William with a real sword d. Only those who have received special training",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "Who is inferred to be the father of Honey's son Allen? a. Xiao Qiao B. Frank C. Da Vinci D. Yi",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "After experiencing the explosion, which action was mentioned? a. Escape b. Unlock puzzle c. Hide d. Call for help",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "How many keys does Yi Yi have? a. One b. Two c. Three d. None",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Which character can reach the dock? a. Frank B. Iyi C. Mier D. Allen",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What happened to Yi Yi who was suspected after 1997? a. Reclusion b. Death c. Becoming a robot d. Having a child",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What can Yi Yi do with tools? a. Repair fake Yiyi's car b. Open fake Yiyi's lock c. Dismantle fake Yiyi d. Manufacture fake Yiyi's weapons",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What condition caused Leonardo da Vinci's cough? a. Cold air b. Smoke c. Stimulating smell d. Drinking water choking",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Who impersonated a black person? a. An unknown person b. Frank c. Honey d. Allen",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What was Frank's survival status after the explosion? a. Immediate death b. Injury but not death c. Completely uninjured d. Uncertain",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "Who has the ability to use a real sword to kill Frank? a. Yi Yi b. Mier c. Da Vinci d. Allen",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "What are the basic behavioral principles that robots should follow? a. Unconditional obedience to humans b. No harm to humans or inaction upon seeing humans harmed c. Prioritize self-protection d. Maintain one's own functions at all times",
+            "ans": "b",
+            "source": "yi"
+        },
+        {
+            "q": "What kind of silver coins do Mier and Leonardo da Vinci have on their bodies? a. Black duck pattern b. Black goose pattern c. Black bear pattern d. Black cat pattern",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "What color handprints are there on the puzzle of the treasure room door lock? a. Red b. White c. Black d. Blue",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What material is the short sword found in the treasure room? a. Wood b. Plastic c. Metal d. Glass",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "Where did Yi Yi appear in 2022? a. Cleveland b. Los Angeles c. New York d. Chicago",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "What is the eye condition of Frank's body? a. No abnormalities b. Pupil constriction c. Congestion d. Bulge",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What is the status of the telescopic sword found in the cabinet in the treasure room? a. Luminous b. Heating c. Blacking d. Rusting",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What is Allen's age? a. 15 years old b. 18 years old c. 20 years old d. 25 years old",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What is the condition of Frank's unburned skin? a. Completely normal b. spotted rash c. bruising d. skin shedding",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "What was the person the maid mentioned seeing in the middle of the night holding at the dock? a. Box b. Bucket c. Bottle d. Bag",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "What is the difference between the forged sword discovered in the treasure trove and the real sword? a. Material b. Color c. Weight d. Length",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What changes have taken place in Leonardo da Vinci's shoes recently? a. Stained b. Just cleaned c. Many damaged d. There is dirt",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "How many keys does Yi have and what are they used for? a. One, open the treasure room b. Two, one open the treasure room, one open the castle gate c. Two, all open the treasure room d. One, open the castle gate",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "Where is Frank from? a. Cleveland b. Chicago c. New York d. Los Angeles",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "What illness has Allen been diagnosed with? a. Hereditary asthma b. diabetes c. heart disease d. cancer",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "According to the testimony of the servant, what symptoms did someone in the guest room exhibit? a. Fever b. Vomiting c. Breathing d. Blindness",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "Whose is the diagnosis certificate of Mier? a. Mia B. Allen C. Frank D. da Vinci",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "What did you find in Yiyi's room? a. Treasure map b. Poison c. Tools d. Secret passage",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What color is the stain on the pillow? a. Red b. Black c. White d. Green",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "What could be the possible cause of Frank's death? a. Blow up b. Short sword stabbing death c. Natural death d. Poisoning",
+            "ans": "a",
+            "source": "p-1"
+        }
+    ],
+    "role": [
+        {
+            "name": "Xiao Qiao",
+            "back": "\n你叫小乔，45岁，是一名顶级机械工程师，任职于美国最大的科技工程公司“若波特动力”。近20多年间，你带领团队攻克技术难题，以领先行业的技术水平，在工业和制造业的机械化上做出了杰出的贡献。\n2023年7月6日，你们一行四人从美国本土的金港码头登船，快艇行驶了2个小时，到达了萨霍岛，你提着行李走上码头，这岛屿终于展现在眼前，\n萨霍岛是一个约30平方公里的火山岩海岛，距离大陆350公里，是现在为数不多的美属“印第安人保留地”。因为整个海岛被火山岩覆盖不适宜种植，且岛上没有稀缺矿物，所以未受到开发和侵略，还居住着一些印第安原住民，\n直到两年前，萨霍岛被弗兰克和加百利兄弟买下，花费大量资金治理开发。他们雇佣了那些印第安原住民，在海岛上建起了一栋城堡，改善了土壤，种植了大片果园。短短两年时间，文明在这个原本退远荒凉的海岛上蔓延开来。\n你们一行四人都是社会精英和行业领袖，这次是受邀前来参加常兰克先生的生日宴会。弗兰克先生邀请你们提前一个月来到海岛，另一个目的是希望你们参观体验整个萨霍岛，他打算在将来大力发展旅游业，让这个岛屿成为旅游的新兴地。\n你年轻时曾经就听闻过弗兰克的大名，在90年代他曾是知名的商人和慈善家，却不知为何在风头正盛时隐居了。\n2021年，消失了20多年的弗兰克和加百利突然高调地出现，让大家震惊的是，两兄弟的容貌居然没有任何衰老的迹象。他们宣称在萨霍岛发现了一处神奇的泉水，能让人永葆青春长生不老，还能治愈各种疾病，\n萨霍岛的后山被开发成了一大片果园，其中种植着柑橘、柠檬、苹果、百香果等水果。此后，他们推出一种健康饮品名叫“比密尼泉”，做成不同的果味销往内陆，宣传这就是那让人青春永驻的聚水。“比密尼泉”一时间声名大噪，深受名流们的追捧，饮用这种饮品成了风潮，兄弟俩赚了不少钱。\n此次你前来，一方面是受邀参加弗兰克的生日宴会，另一个目的就是帮公司高层交给弗兰克一个箱子。\n很快你们被佣人带领到城堡前，这是一个宏伟华贵的城堡，每天傍晚都能欣赏到绝美的海边落日。\n城堡大门前站着一位风姿绰约的女人迎接你们，这就是弗兰克的妻子伊伊。她有种摄人心灵的美，淡雅的妆容，白皙的皮肤，温柔的眼睛如一潭秋水。她轻扬嘴角，展现出恰到好处的微笑，拥有高贵又端庄的气质。\n她微笑着说:“欢迎各位贵宾来到萨霍岛，我叫伊伊，岛主弗兰克是我的文夫。他与弟弟加百利正在美国本土进行巡回演诉，将在一个月后的8月6日回来，届时将举行弗兰克先生的生日宴会，这一个月就请各位在海岛上尽情参观游玩，我们将会给予各位上宾的招待。”\n接下亲的一个月，你们在岛上四处游玩参观。\n岛上的城堡是双子式的，由两部分组成，通过一条艺术长廊连接，分为东堡和西堡，两兄弟分别居住在城堡两侧，你们住在弗兰克的东堡中，而加百利的西堡平时只有他一个人居住。\n弗兰克有一个藏宝间，存放着他收藏的各种奇珍异宝，其中有一把16世纪的哥特式短剑，剑柄镶嵌宝石，剑身锋利无比，这把剑是花大价钱拍卖回来的，弗兰克将它视作珍宝。这个藏宝间被设置成恒温恒湿的密封房间，房间中一侧是一整面落地玻璃蜜，从院内草坪可以看见藏宝问内的宝物，像是玻璃橱窗一样供人参观。\n伊伊说:“8月6日的生日晚宴过后，弗兰克先生便会在这里为大家表演魔术，到时候这个房间会布置满气球，弗兰克先生对气球可有着特别的钟爱呢。还会准备好精美的生日蛋糕和艺术蜡烛，魔术表演完后弗兰克先生会亲自点亮这些蜡烛庆生。\n藏宝网的门锁可是中世纪的古董，上面设置了几块小拼图，门外可以用钥匙打开，但如果从门内反锁了门，锁上的拼困便会自动打乱。如果想要从房问里出来，就要将门销上的拼困归位，虽然难度不大，但也需要几分钟才能完成。这彰显着当时欧洲贵族们的生活乐趣，弗兰克先生对这种巧思十分着迷，魔术表演时为了显示弗兰克先生没有和其他人串通，会从里面锁上门再向大家表演。这一个月藏宝问不会上锁，各位可以随时来参观。”\n城堡外围修建了一圈人工河，里面游着优雅的天鹅，出口由拱桥连接，城堡西北侧有一个跑马场，马厩中养了很多名贵的马，包括形似翩公子的安达卢西亚马、世界名驹之首的阿拉伯马等等，\n城堡西侧挨着岛上最高的活火山，火山高1100米，山顶有一个自然形成的温来泉眼，这就是比密尼来，泉水被引入城堡，在东堡和西堡分别建了室内温。弗兰克只在自己东堡的房间中建了一个小型温来房，而加百利的西堡则建造了一个大型仿自然最观的室内温案。\n一个月后的今天(8月6日)，弗兰克与加百利兄弟俩回到了岛上，今天就是弗兰克的生日宴会，晚上你们来到富丽堂皇的大厅，长桌上已经准备好了珍嫌佳肴，身边的印第安佣人服侍你们入座。\n弗兰克看起来40岁左右的样子，满头的褐发得一丝不苟，戴着金丝边眼镜，脖子上佩戴着巴洛克式花纹的领巾，一派上流社会精英的模样，绅士地与每个人握手寒暄,\n伊伊换上了一套隆重的礼服，青色的缴面裙摆下配着蕾丝花边，领部的羽毛装饰和颈问的丝巾相得益彰，整个人有了一种雍容华贵的美感.\n加百利却给人一种轻浮的印象，穿着紫色的西装外套和鹅黄色的长裤，高领衬衣却是墨绿色的，还戴着一副深茶色的墨镜，整个人看起来浮夸极了。邦迪伸出手打算与他握手，而加百利却径直走到自己的座位坐下，完全不理会你们，同为手足，弗兰克谦逊有礼，而加百利却这么傲慢目中无人。\n大家都入座后，坐在主座的弗兰克举起酒杯，用又子轻敲杯子，示意大家安静。弗兰克:欢迎大家来到萨霍岛，因为我的生日邀请大家远道而来，真是辛苦了，希望此次的萨霍岛之行，能让你们收获快乐，干杯。\n大家纷纷举杯，\n弗兰克:下面向大家介绍一下，这位女士是我美丽的妻子伊伊，\n伊伊:我是伊伊，听闻各位都曾经在克利夫兰生活过，那也曾是我的老家呢，但已经很多年没有回去过了，真是十分怀念。我与各位客人已经很熟悉了，这一个月相处得非常开心。\n蜜儿:伊伊夫人，还记得我吗，我在青藤中学就读时曾经...\n弗兰克:(打断)这位是我的弟弟加百利。\n加百利:你们好，这一路的奔波可累坏我了，还是回到岛上身心放松。该死!阿杉，胡椒粉为什么没有放回原位!\n阿杉:抱歉，加百利先生，我这就拿来。\n弗兰克:加百利，不要失礼。抱歉，我弟弟就是这样对细节比较执着，阿杉是我们的女倔，她可是这岛上的原住民，大家有什么问题随时找她。邦迪:大家好，我是CBS电视台的记者，大家可以叫我邦迪。\n弗兰克:太谦虚了，这么多年没见，你已经成为了美国最著名的金牌记者，还能给我这个老朋友面子，真是太荣幸了。\n加百利:邦边?真怀念当年我们一起共事的那段时光，再次见到你太开心\n了.\n邦迪:弗兰克和加百利先生，好久不见凤采依旧，你们可是我的职业导师呢，我也没想到还有重逢的一天。\n蜜儿:你们好，我叫蜜儿，是一名游记作者，这次来到萨霍岛，给我的下本游记积累了不少素材呢。\n达文西:我也曾拜读过你的游记，真是非常精彩，我叫达文西，是一名学者，目前在生物科学机构任职。弗兰克:达文西先生是一位非常优秀的生物科学家，被警为“能改变世界的男人”。想起来我大学时的专业也是生物学呢，可就没有达文西先生这样的学术遗诣了。\n小乔:大家可以叫我小乔，我是一名机械工程师，来自“若波特动力”公\n司。\n弗兰克:小乔先生，责公司有没有托你带给我什么东西\n小乔:我带来了一个箱子，已经让佣人送去了书房。\n弗兰克:谢谢了。这一个月大家在岛上感觉怎么样，我们可是花费了很大的精力开发萨霍岛，希望将来这里可以成为新兴的旅游胜地，还需要各位多多帮忙宣传。\n邦迪:萨霍岛的确是个值得开发的宝藏岛屿，不仅拥有原始的风貌，现在又有了现代化的发展，真是未来可期，前几天我还去了海岛西侧的“鱼跃崖”看日落，那是我见过最美的景色。\n伊伊:哦?邦迪先生去了“鱼跃崖”?这个地方还没有通路，连本地人都很少去，看来你还真是对萨霍岛十分喜爱，连这么偏远的地方都找得到。邦迪:我只是随便逛逛，呃…\n阿杉:夫人，下一道菜准备好了。\n伊伊:请端上来吧，这道海藻是萨霍岛附近海域的特产，我们已经将这种海\n藻研制成了绿色健康食品，请大家尝尝。弗兰克:相信伊伊向大家介绍过这次生日宴会了，晚宴结束后，请大家移步到城堡外的草坪，观赏我为大家准备好的魔术表演，相信一定会让你们感到惊喜的。\n加百利:我可不想看什么魔术，我太累了，要回去休息泡澡了，那就祝你生日快乐吧，我亲爱的哥哥。\n伊伊:之后我们还为大家安排了酒会，阿杉，请通知佣人们，晚宴结束后我会布置酒会的工作给大家。\n弗兰克:再次欢迎各位贵宾，干杯。\n\n公司高层迅速接到了很多订单，高昂的价格和严格的审查机制，选出了一批社会显贵，每位客人都会签下严格的保密协议，毕竟仿生智能机器人目前还是法律禁止的领域。你们为这些有钱人量身定制机器人，客人中有的爱慕当红明星，有的是思念已故亲人，甚至有些人就是为了宣泄自己的欲望，你们生产的机器人都是十分安全的，因为所有机器人都要遵守机器人三守则，那就是:\n第一条:机器人不得伤害人类，或看到人类受到伤害而袖手旁观。第二条:机器人必须服从命令，除非这条命令与第一条相矛盾。第三条:机器人必须保护自己，除非这种保护与以上两条相矛盾虽然这样的产业不合法，但你在心中安慰自己，能为这些人带来心理的慰也算是好事，总比那些恋童癖真的去侵犯儿童的好.\n\n晚宴结束后，你和邦迪、蜜儿、达文西一起来到院内的草坪，伊伊和阿杉并没有来。邦迪支起摄影机对着藏宝间的落地窗，大家都等待着弗兰克的魔术表演，此时天已经黑了，你们距高城堡大概十来的距离，藏宝间内灯光大亮。\n整个藏宝间里密密麻麻地布满了各色的气球，靠窗的桌上放着一个精美的生日蛋糕，蛋糕旁放着许多艺术造型的蜡烛，在弗兰克表演完魔术之后他会亲自点亮这些蜡烛庆祝生日。\n你们看见弗兰克打开门进入藏宝间，反锁了门。\n整个房间都充斥着气球，只能通过一些缝除看清房内的艺术品，\n需兰克走了几步到了房间正中央的魔术表演区，向大家深鞠一躬，态自若地从身后的展示架上取下那柄短剑。突然，他举起短剑，猛地刺入自己的胸膛，然后\n浑身无力地倒了下去。你们都被这一情形惊住了，这时，整个东堡的灯光熄灭了，你们迟疑了一会发觉不对劲，连忙借着月光向城堡跑去，在穿过东侧拱桥的时候，听见了巨大的爆炸尚\n几分钟后，你们来到藏宝同的门口。\n没多久阿杉赶到了，听了众人的描述后姓拿出钥匙打开了藏宝间的门，借着窗外的月光你们看见藏宝间内一片狼藉，弗兰克倒在门口的地上，浑身焦黑血肉模糊，胸口插着那把中世纪的短剑。\n这时伊伊嫖姗来迟，也走进了藏宝间。\n你们连忙查看弗兰克的情况，发现他已经死了。\n大家都一脸惊愕，这时伊伊走到弗兰克的尸体旁，微笑着说:“这魔术表演真是太精彩了!弗兰克果然掌握了永生的秘法，请大家多多帮我们宣传比密尼来的神奇功效。\"说罢独自鼓起掌来。\n伊伊说出的这看话，加上她洋溢着的微笑，在这种场景下显得荒诞而又诡异。大家猜测制造这起事故的人可能在你们之中，立刻将城堡大门紧锁，以防凶手选走或者发生其他意外。\n众人想起应该去告知加百利，便一起来到连接城堡两侧的艺术长廊，发现门已经被锁上了。阿杉告诉大家，加百利先生十分讨厌别人打扰他休息，每晚都会关闭手机并让佣人领上门，这门是关门即锁的，只有里面的人才能打开。\n因为城堡十分大，呼喊声无法传递到加百利的房间，你们决定等第二天一早再通知加百利，先由你们调查一下刚刚到底发生了什么。\n随着你们六人的深入探索，你仿佛陷入了一个更深的谜团之中，你看着月色下的萨霍岛，思绪翻涌，从前的往事浮现出脑海……\n思绪回到了27年前的1996年\n你的父亲，就是乔纳森公寓的老板，你们是墨西哥人，因为当地黑帮横行，毒品泛滥，犯罪频发，父亲不想你在这样的环境中长大，便带你和母亲移民到了美国的克利夫兰定居。\n作为新一代移民，你从小接受美式教育，并没有异乡人的感觉，但身边的美国人却不这么想。你们经常遭到美国白人的歧视，做着同样的工作，父亲只能拿到白人一半的薪水。但父亲从未向生活妥协，一直积极乐观并努力地生活着，想尽办法改善生活。\n墨西哥裔在美国本土的处境不易，父亲也不愿再看那些白人的脸色工作，在你高中的时候，父亲贷款买下了一所公寓，将公寓中的房屋出租，起名“乔纳森”公寓。\n但母亲却因病去世，家中的重担全落在了父亲身上，你看着每天操劳的父亲，心中十分心疼。本来学习成绩不错的你，故意不好好学习，成天泡妞打架，告诉父泉己不想上大学了，其实你只是想尽快工作替父亲分担。\n高中毕业你便辍学进入了一家汽修厂工作，一向聪明的你对机械方面十分有天赋，同事搞不定的故障都能被你轻而易举地解决。\n每天下班后你便接替父亲回公寓值班，让辛苦一天的父亲去“宾果”酒吧与他的老伙计喝喝酒放松一下.\n1996年9月，美国劝募会组织了一次史无前例的慈善募捐活动，他们宣称会将善救用于濒危动物保护、妇女儿童保护、亚非拉贫困国家的医疗设施、海洋垃圾处理等许多地方。这激励了将自由民主、拯救世界烙印在心的美国人，人们像打了鸡血一样鼎力支持，成千上万的青年人报名成为志愿者。\n蜜儿就是其中一个积极的志愿者，她是个青春洋溢的女孩，小麦色的皮肤，健美的身材，浑身散发着少女的朝气。你和朋友经常用热烈的目光迎接蜜儿的身影，她健谈又幽默，许多男孩都想跟她约会，你也是其中一个仰幕者，但蜜儿却十分洁身自好，她的心思都在学习上，立志要考入克利夫兰大学。\n9月26日，当天的气温骤然下降并伴随着凛冽的秋风，蜜儿和一群志愿者来到乔纳森公寓取暖，你终于有了跟心仪姑娘相处的机会，便一直殷勤地跟聊天，\n你发现，蜜儿不止外表吸引人，她热爱大自然，积极参与各种社会活动，小小年纪便有远大的志向。你看着她滔滔不绝地诉说着自己的抱负和理想，不禁自卑起来，这么优秀的女孩，你这样辍学的青年又如何能与她相配。\n没想到，当天贝尔教授在公寓死亡，你和父亲完完全全将所见陈述给警方，最终这起案件被定性为自杀。\n9月27日，整个中央街区人头攒动，你并没有出去看热闹，只是记得那天的天空黑压压的，当天下午下起了一场暴雨，天气也变得更冷了，\n本以为只是生活的插曲，但没想到这却是改变你一生的转折点，\n10月3日，贝尔教授死后的一周，那天父亲深夜迟迟未归，你知道父亲喜欢和老伙计们喝几杯畅谈，可今天却也太晚了。\n一直等到快天亮，焦急的你去“宾果”酒吧寻找父亲，但酒吧的人却告诉你父\n亲早就已经离开了。你赶紧在父亲回家的路途中寻找，却不想在半月街的后巷找到了他冰冷的尸\n父亲被人用利器割断了脖子，鲜血漫湿了他的衣服，看到这个场景你感到天族地转，世界仿佛崩塌一般。失去父亲的你悲痛欲绝，警方展开调查，却也是毫无进展\n一向待人和气的父亲为何会被人以如此残忍的方式杀害，你苦思冥想也想不出是什么人会对父亲下这样的毒手,\n12月25日，你受邀参加了那个“推理大会”，贝尔教授和父亲在一周之内相继死亡，你深觉其中有蹊跷，这时候你才得知，原来你和父亲被人利用，为凶手弗兰克做了不在场证明。\n父亲是个爱与人聊天的人，加百利是“宾果”酒吧的老主顾，你也曾见过他几次，你猜想父亲应该是把家里的事情都告诉了加百利，他们才能利用你和父亲值班的时间差来做这种障眼法。\n如果父亲还活着，弗兰克就会有被认出的风险，那么父亲会不会是被他们兄弟俩所杀的呢。\n12月30日，你在街角看见一个正在哭泣的姑娘，马上认出这就是蜜儿。\n你走上前去问她为什么哭泣，蜜儿抬眼看见是你，便扑进你的怀里放声大哭，任由你怎么安慰都一言不发。喜欢的女孩在自己怀中，你既心疼又幸福。之后，你尝试着约蜜儿喝咖啡，她竟然答应了。你得知了成绩优异的蜜儿本会保送进克利夫兰大学，但却因为一些事失去了入学机会，并且她的父亲最近也去世了。失去至亲的你们同是伤心人，互相安慰取暖。你见她十分沮丧，便极尽自己所能逗她开心，你们的关系更近了一步。\n失去父亲后，你本感到无比悲伤和孤独，但有了蜜儿，你重燃了对生活的信虽然蜜儿没有进入克利夫兰大学，但一直没有停止学习。\n终于，你鼓起勇气向蜜儿表白了爱意，你能看得出她很感动，但却拒绝了你\n蜜儿和你进行了一次深入的谈话，她要继续学习深造，也希望你能有所长进，不要甘于现状。她与你定下了三年之约，大家分别努力进取，如果有缘，三年后在伊利湖的码头再相见。1997年1月，蜜儿离开了你，你虽然不舍，但也没有挽留，因为你深知自己不够优秀，而蜜儿就是你的动力，你要努力让自己变成能与她匹配的人。此后你得知那场慈善活动狼狈收场，弗兰克还转移了善款，从此人间消失\n你一边打工一边经营公寓，还去学习了机械工程学，本来就对电气机械类十分感兴趣的你学习得非常快，一年后你便进入了“若波特动力”公司工作，这个公司的主要项目研发是制造业中的机械生产工具，用机械提高生产力，同时还开始研发智能科技项目。\n你发现现有的机械臂存在弊端，经过你的改造，产能提高了很多，这让领导对你刮目相看，不久便提拔你为正式的工程师，\n三年时间很快就过去了，到了与蜜儿约定的时间，这三年你没有一天不在思念蜜儿，但你也在揣测，她到底会不会来。\n你捧着一束玫瑰早早地来到伊利湖边，湖上黑雁成双成对地飞翔，波光粼粼的湖面像极了你此刻忐忑的心情。\n从烈日当空等到夕阳西下，蜜儿仍然没有出现，你心灰意冷地望向天空，忽然听到背后有人说话:“这束花，是送给我的吗?”\n你转身看见身后泪流满面地蜜儿，一把将她拥入怀中，这不真实的幸福感充斥着你的内心，你朝思暮想的爱人终于回到了身边。\n你们在伊利湖边留了影，你在照片上写下了爱的誓言:“你就是我的驱动力、我的爱之火、我此生的向往。”\n2000年，你们结了婚，过起了幸福的日子，\n蜜儿也找到了自己喜爱的职业，那就是做一个游记作家。之后她经常全世界游历，把所见所闻写成游记，因为她细腻的笔触和广博的见识，作品受到了大众的喜爱，很快成为了炙手可热的畅销书作家，\n蜜儿很喜欢鲜花，却唯独不喜欢百合花，她觉得百合花的香味太过浓郁，会影响睡眠，所以你每天都会在她的窗前插上一束她喜欢的玫瑰花。蜜儿身上一直随身带着一个印有黑雁图案的银币，你知道黑雁是她家乡伊利湖上的野生动物，也是伊利湖的精神象征。\n能与自己心爱的女人生活在一起，你觉得非常满足，唯一的遗憾是没有一个属于你们的孩子。\n但人的感情却是最不牢靠的，2008年，你与蜜儿多年的婚姻最终还是走向了结束，你们离婚了\n离婚后孤独和空虚时刻占据着你的内心，你只能把你把所有精力放在工作中天天与机械和机器为伴，以此来填补内心的痛苦，但让你无法解脱的是，直到现在你还深爱着蜜儿。\n2021年，弗兰克与加百利高调地出现在大众视野，宣传那能让人永葆青春的“比密尼泉”，你惊讶于他们不老的容颜，也疑惑他们为何消失了这么久。\n2023年，你收到弗兰克的邀请，去发现比密尼泉的岛屿--萨霍岛参观游玩，顺便参加他的生日宴会，当年弗兰克利用你和父亲做了不在场证明犯下了杀人的罪行，父亲又不明不白的死了，你无论如何都要前去萨霍岛一探究竟。\n公司高层得知后托你将一个箱子带给弗兰克，弗兰克现在的事业无非是一些食品轻工业，怎么会和你的公司有来往，这让你十分不解。\n你来到了萨霍岛后惊讶地发现，同行的四人其中之一竟然是蜜儿，你并没和蜜儿相认，毕竟离婚这件事，还是让你有些介怀，\n8月6日生日宴会上，你注意到蜜儿手上并没有佩戴结婚戒指，难道她也一直独\n身?\n你静心梳理好过往至今的事情，最终将记忆定格在今日案发前20:00晚宴结束，弗兰克去更衣间换衣服。\n20:05众人从东边的大门去往南边的草坪20:09邦迪拿着摄影设备赶到。\n20:10弗兰克进入藏宝间，并用剑刺入自己的胸膛。\n20:12你们正在疑惑到底怎么回事，突然，东堡停电了。众人发觉不对劲，便一起向城堡跑去。\n20:13巨大的爆炸声从城堡内传来\n20:15你们四人到达藏宝间门口。\n20:17佣人阿杉从西堡的方向跑来，随后她马上拿出钥匙打开了藏宝间的门，你们发现了弗兰克的尸体。\n20:18伊伊最后一个到达，站在弗兰克的尸体身边说出了那些诡异的话\n众人决定再次到处看看，看看能不能找到一些有价值的线索\n",
+            "r_q": [
+                {
+                    "q": "Which company's mechanical engineer is Xiao Qiao from? a. Power Porter b. Porter Power c. If Porter Power d. If Porter Power",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many kilometers is Saho Island from the mainland? a. 250 kilometers b. 300 kilometers c. 350 kilometers d. 400 kilometers",
+                    "ans": "c"
+                },
+                {
+                    "q": "What weapon did Frank use to stab himself in the treasure room? a. Gothic longsword b. Gothic short sword c. Gemstone short sword d. Gemstone longsword",
+                    "ans": "b"
+                },
+                {
+                    "q": "What details is Gabrielle particularly obsessed with? a. Salt b. Sugar c. Pepper d. Soy sauce",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which city was Yi Yi once a resident of? a. New York b. Cleveland c. Los Angeles d. Chicago",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of lock is the treasure room lock in the castle? a. Code lock b. Puzzle lock c. Fingerprint lock d. Traditional key lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of fruit is not grown in the orchards of Sako Island? a. Apple b. Lemon c. Strawberry d. Citrus",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who didn't appear on the lawn waiting for Frank's magic show in the event on August 6th? a. Bondi B. Mir C. Da Vinci D. Iy",
+                    "ans": "d"
+                },
+                {
+                    "q": "What else was placed in the room besides the birthday cake when Frank performed magic? a. Art candles b. Flowers c. Gifts d. Decorative flags",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who is a reporter from CBS Television? a. Xiao Qiao b. Da Vinci c. Bondi d. Mier",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which apartment owner is Xiao Qiao's father? a. Frank Apartment b. Jonathan Apartment c. Gabriel Apartment d. Mill Apartment",
+                    "ans": "b"
+                },
+                {
+                    "q": "What did Frank and Gabriel brothers claim to have discovered on Saho Island? a. Magical rocks b. Rare metals c. Magical springs d. Rare animals",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which day was Frank's birthday party held? a. July 6th b. August 5th c. August 6th d. September 1st",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Xiao Qiao meet Mi Er again? a. University of Cleveland b. Jonathan Apartments c. Lake Erie d. Bingo Bar",
+                    "ans": "c"
+                },
+                {
+                    "q": "What kind of seasoning did Gabriel complain about not being put back in place at his birthday party? a. Salt b. Sugar c. Pepper d. Soy sauce",
+                    "ans": "c"
+                },
+                {
+                    "q": "At what time did Frank enter the treasure room on August 6th? a. 20:00 b. 20:05 c. 20:09 d. 20:10",
+                    "ans": "d"
+                },
+                {
+                    "q": "In which city does Xiao Qiao attend high school? a. Cleveland b. New York c. Los Angeles d. Chicago",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Xiao Qiao's profession? a. Electrical Engineer b. Mechanical Engineer c. Chemical Engineer d. Biological Engineer",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of fruit is grown on Saho Island? a. Strawberry b. Lemon c. Banana d. Grape",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the special type of lock for Frank's treasure room? a. Code lock b. Puzzle lock c. Fingerprint lock d. Traditional key lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did Xiao Qiao's father borrow money to buy an apartment? a. Mexico b. Cleveland c. New York d. Chicago",
+                    "ans": "b"
+                },
+                {
+                    "q": "What did Frank and Gabriel claim to have discovered on Saho Island that made them famous? a. Rare animals b. Rare metals c. Magical springs d. Rare minerals",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Xiao Qiao meet Mier again? a. Bingo Bar b. Jonathan Apartments c. Lake Erie d. University of Cleveland",
+                    "ans": "c"
+                },
+                {
+                    "q": "What will Frank light up after the magic show in the treasure room, Yi Yi said? a. Art candles b. Balloons c. Fireworks d. Electric lights",
+                    "ans": "a"
+                },
+                {
+                    "q": "What detail did Gabriel get angry about at Frank's birthday party? a. Salt not returned to its original position b. Sugar not returned to its original position c. Pepper powder not returned to its original position d. Soy sauce not returned to its original position",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which day was Frank's birthday party held? a. July 6th b. August 5th c. August 6th d. September 1st",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of door lock is used in the treasure room of the castle on Sako Island? a. Traditional key lock b. Fingerprint lock c. Code lock d. Puzzle lock",
+                    "ans": "d"
+                },
+                {
+                    "q": "In which city was Xiao Qiao on duty in an apartment? a. Cleveland b. New York c. Chicago d. Los Angeles",
+                    "ans": "a"
+                },
+                {
+                    "q": "In what way did Frank end his life in the treasure trove? a. Swallowing poison, b. stabbing oneself with a short sword, c. shooting oneself, d. hanging oneself",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of fruit is not grown in the orchards of Sako Island? a. Citrus b. Strawberry c. Lemon d. Passion Fruit",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did Xiao Qiao meet Mier and meet her again? a. Lake Erie b. Bingo Bar c. Jonathan Apartments d. Saho Island",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who killed Xiao Qiao's father? a. Frank and Gabrielle B. Unknown killer C. A white American D. Honey's father",
+                    "ans": "b"
+                },
+                {
+                    "q": "What didn't Mier do last? a. Wearing a wedding ring b. Attending a birthday party on Sako Island c. Attending university d. Becoming a travel writer",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who was not present during Frank's magic performance in the events on Saho Island? a. Da Vinci b. Iyi c. Bondi d. Mir",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Frank commit suicide at his birthday party? a. Swallowing poison b. Stabbing oneself with a long sword c. Shooting oneself d. Stabbing oneself with a short sword",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was Gabriel particularly picky about that made him angry at the party? a. The wine glass is not cleaned properly. b. The dish is not cooked properly. c. The pepper powder is not returned to its original position. d. The attitude of the waiter",
+                    "ans": "c"
+                },
+                {
+                    "q": "What elements do Yi particularly like to decorate her dress with? a. Feather b. Gold wire c. Pearl d. Silk",
+                    "ans": "a"
+                },
+                {
+                    "q": "At which location on Saho Island is Frank planning to showcase his magic show? a. Inside the castle b. Treasure room c. External lawn d. Art gallery",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why is Xiao Qiao's father's apartment named? a. Jonathan Apartments b. Cleveland Apartments c. United States Apartments d. Mexico Apartments",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where did Xiao Qiao work during high school? a. Mechanical factory b. Auto repair shop c. Apartment management office d. Technology company",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Xiao Qiao's profession? a. Electrical Engineer b. Mechanical Engineer c. Chemical Engineer d. Biological Engineer",
+                    "ans": "b"
+                },
+                {
+                    "q": "What did Frank and Gabriel claim to have found on Saho Island? a. Rare animals b. Rare metals c. Magical springs d. Rare minerals",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which city did Xiao Qiao grow up in an apartment? a. Mexico City b. Cleveland c. New York d. Chicago",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which fruit is not grown in the orchards of Sako Island? a. Citrus b. Strawberry c. Lemon d. Passion Fruit",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of door lock is in the treasure room? a. Traditional key lock b. Fingerprint lock c. Code lock d. Puzzle lock",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the way Frank committed suicide at his birthday party? a. Swallowing poison b. Stabbing oneself with a long sword c. Shooting oneself d. Stabbing oneself with a short sword",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is placed in Frank's treasure room besides artistic candles? a. Balloon b. Birthday cake c. Gift d. Decorative flag",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Xiao Qiao's father die? a. Shot b. stabbed c. committed suicide d. died in an accident",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did Xiao Qiao work when she was young? a. Apartment Management Office b. Mechanical Factory c. Auto Repair Shop d. Technology Company",
+                    "ans": "c"
+                },
+                {
+                    "q": "What can the magical spring water discovered on Saho Island do, as claimed by Frank and Gabriel brothers? a. Improve intelligence b. Cure diseases c. Enhance physical strength d. Extend lifespan",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Which company's mechanical engineer is Xiao Qiao from? a. Power Porter b. Porter Power c. If Porter Power d. If Porter Power",
+                "How many kilometers is Saho Island from the mainland? a. 250 kilometers b. 300 kilometers c. 350 kilometers d. 400 kilometers",
+                "What weapon did Frank use to stab himself in the treasure room? a. Gothic longsword b. Gothic short sword c. Gemstone short sword d. Gemstone longsword",
+                "What details is Gabrielle particularly obsessed with? a. Salt b. Sugar c. Pepper d. Soy sauce",
+                "Which city was Yi Yi once a resident of? a. New York b. Cleveland c. Los Angeles d. Chicago",
+                "What type of lock is the treasure room lock in the castle? a. Code lock b. Puzzle lock c. Fingerprint lock d. Traditional key lock",
+                "What kind of fruit is not grown in the orchards of Sako Island? a. Apple b. Lemon c. Strawberry d. Citrus",
+                "Who didn't appear on the lawn waiting for Frank's magic show in the event on August 6th? a. Bondi B. Mir C. Da Vinci D. Iy",
+                "What else was placed in the room besides the birthday cake when Frank performed magic? a. Art candles b. Flowers c. Gifts d. Decorative flags",
+                "Who is a reporter from CBS Television? a. Xiao Qiao b. Da Vinci c. Bondi d. Mier",
+                "Which apartment owner is Xiao Qiao's father? a. Frank Apartment b. Jonathan Apartment c. Gabriel Apartment d. Mill Apartment",
+                "What did Frank and Gabriel brothers claim to have discovered on Saho Island? a. Magical rocks b. Rare metals c. Magical springs d. Rare animals",
+                "On which day was Frank's birthday party held? a. July 6th b. August 5th c. August 6th d. September 1st",
+                "Where did Xiao Qiao meet Mi Er again? a. University of Cleveland b. Jonathan Apartments c. Lake Erie d. Bingo Bar",
+                "What kind of seasoning did Gabriel complain about not being put back in place at his birthday party? a. Salt b. Sugar c. Pepper d. Soy sauce",
+                "At what time did Frank enter the treasure room on August 6th? a. 20:00 b. 20:05 c. 20:09 d. 20:10",
+                "In which city does Xiao Qiao attend high school? a. Cleveland b. New York c. Los Angeles d. Chicago",
+                "What is Xiao Qiao's profession? a. Electrical Engineer b. Mechanical Engineer c. Chemical Engineer d. Biological Engineer",
+                "What kind of fruit is grown on Saho Island? a. Strawberry b. Lemon c. Banana d. Grape",
+                "What is the special type of lock for Frank's treasure room? a. Code lock b. Puzzle lock c. Fingerprint lock d. Traditional key lock",
+                "Where did Xiao Qiao's father borrow money to buy an apartment? a. Mexico b. Cleveland c. New York d. Chicago",
+                "What did Frank and Gabriel claim to have discovered on Saho Island that made them famous? a. Rare animals b. Rare metals c. Magical springs d. Rare minerals",
+                "Where did Xiao Qiao meet Mier again? a. Bingo Bar b. Jonathan Apartments c. Lake Erie d. University of Cleveland",
+                "What will Frank light up after the magic show in the treasure room, Yi Yi said? a. Art candles b. Balloons c. Fireworks d. Electric lights",
+                "What detail did Gabriel get angry about at Frank's birthday party? a. Salt not returned to its original position b. Sugar not returned to its original position c. Pepper powder not returned to its original position d. Soy sauce not returned to its original position",
+                "On which day was Frank's birthday party held? a. July 6th b. August 5th c. August 6th d. September 1st",
+                "What type of door lock is used in the treasure room of the castle on Sako Island? a. Traditional key lock b. Fingerprint lock c. Code lock d. Puzzle lock",
+                "In which city was Xiao Qiao on duty in an apartment? a. Cleveland b. New York c. Chicago d. Los Angeles",
+                "In what way did Frank end his life in the treasure trove? a. Swallowing poison, b. stabbing oneself with a short sword, c. shooting oneself, d. hanging oneself",
+                "What kind of fruit is not grown in the orchards of Sako Island? a. Citrus b. Strawberry c. Lemon d. Passion Fruit",
+                "Where did Xiao Qiao meet Mier and meet her again? a. Lake Erie b. Bingo Bar c. Jonathan Apartments d. Saho Island",
+                "Who killed Xiao Qiao's father? a. Frank and Gabrielle B. Unknown killer C. A white American D. Honey's father",
+                "What didn't Mier do last? a. Wearing a wedding ring b. Attending a birthday party on Sako Island c. Attending university d. Becoming a travel writer",
+                "Who was not present during Frank's magic performance in the events on Saho Island? a. Da Vinci b. Iyi c. Bondi d. Mir",
+                "How did Frank commit suicide at his birthday party? a. Swallowing poison b. Stabbing oneself with a long sword c. Shooting oneself d. Stabbing oneself with a short sword",
+                "What was Gabriel particularly picky about that made him angry at the party? a. The wine glass is not cleaned properly. b. The dish is not cooked properly. c. The pepper powder is not returned to its original position. d. The attitude of the waiter",
+                "What elements do Yi particularly like to decorate her dress with? a. Feather b. Gold wire c. Pearl d. Silk",
+                "At which location on Saho Island is Frank planning to showcase his magic show? a. Inside the castle b. Treasure room c. External lawn d. Art gallery",
+                "Why is Xiao Qiao's father's apartment named? a. Jonathan Apartments b. Cleveland Apartments c. United States Apartments d. Mexico Apartments",
+                "Where did Xiao Qiao work during high school? a. Mechanical factory b. Auto repair shop c. Apartment management office d. Technology company",
+                "What is Xiao Qiao's profession? a. Electrical Engineer b. Mechanical Engineer c. Chemical Engineer d. Biological Engineer",
+                "What did Frank and Gabriel claim to have found on Saho Island? a. Rare animals b. Rare metals c. Magical springs d. Rare minerals",
+                "In which city did Xiao Qiao grow up in an apartment? a. Mexico City b. Cleveland c. New York d. Chicago",
+                "Which fruit is not grown in the orchards of Sako Island? a. Citrus b. Strawberry c. Lemon d. Passion Fruit",
+                "What type of door lock is in the treasure room? a. Traditional key lock b. Fingerprint lock c. Code lock d. Puzzle lock",
+                "What was the way Frank committed suicide at his birthday party? a. Swallowing poison b. Stabbing oneself with a long sword c. Shooting oneself d. Stabbing oneself with a short sword",
+                "What is placed in Frank's treasure room besides artistic candles? a. Balloon b. Birthday cake c. Gift d. Decorative flag",
+                "How did Xiao Qiao's father die? a. Shot b. stabbed c. committed suicide d. died in an accident",
+                "Where did Xiao Qiao work when she was young? a. Apartment Management Office b. Mechanical Factory c. Auto Repair Shop d. Technology Company",
+                "What can the magical spring water discovered on Saho Island do, as claimed by Frank and Gabriel brothers? a. Improve intelligence b. Cure diseases c. Enhance physical strength d. Extend lifespan"
+            ],
+            "a": [
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "d",
+                "a",
+                "c",
+                "b",
+                "c",
+                "c",
+                "c",
+                "c",
+                "d",
+                "a",
+                "b",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c",
+                "a",
+                "c",
+                "c",
+                "d",
+                "a",
+                "b",
+                "b",
+                "a",
+                "b",
+                "c",
+                "b",
+                "d",
+                "c",
+                "a",
+                "c",
+                "a",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "d",
+                "d",
+                "b",
+                "b",
+                "c",
+                "b"
+            ]
+        },
+        {
+            "name": "Yi Yi",
+            "back": " 你叫伊伊，32岁，是萨霍岛的女主人，你的容貌十分美丽，从小接受良好教育，是一位气质出众的女人。\n你和哥哥贝尔从小生活在克利夫兰市，贝尔是一名杰出的科学家，你的丈夫弗兰克是你和哥哥幼时起的好友。\n年轻时的弗兰克十分英俊，他才华横溢并且曲默温柔，从少女时你便爱上了他。弗兰克和贝尔同时考进了克利夫兰大学的生物系，是学校里出名的两位优秀青年。你的哥哥贝尔性格内向，不爱与人接触，每天只醉心研究学术，而弗兰克却头脑活络，最终投身商海，成为了一名杰出的商人和慈善家。\n1996年底，弗兰克带着你和他的弟弟加百利离开美国，全世界游历，直到来到一个名叫萨霍岛的地方。萨霍岛是一个约30平方公里的火山岩海岛，距离大陆350公里，是现在为数不多的美属“印第安人保留地”。因为整个海岛被火山岩覆盖不适宜种植，且岛上没有稀缺矿物，所以未受到开发和侵略，还居住着一些印第安原住民。\n你们发现当地的原住民身体都十分强壮，甚至有些当祖父的人看起来跟30岁一样。在探查下发现，岛上有一个种奇的比密尼来，饮用了这个案水之后会让人永葆青春，还能治愈身体的各种疾病，此后你们每年都会来岛上疗养，你们用过泉水后，身体神奇地停止了衰老，一直保持着当初的样子.\n直到2021年，弗兰克决定定居萨霍岛，他们买下这个海岛，花费大量资金治理开发，他们雇佣了那些印第安原住民，在海岛上建起了一栋城堡，改善了土壤，种植了大片果园。短短两年时间，文明在这个原本遥远荒凉的海岛上蔓延开来。\n整个后山被开发成了一大片果园，其中种植着柑橘、柠檬、苹果、百香果等水果，两年前兄弟俩将温泉水打造成健康饮品--“比密尼泉”，做成不同的果味销往内陆。你也曾跟随他一起到全美宣传，接受媒体的采访，世人都被你们不老的容颜所惊讶。“比密尼泉”深受名流们的追捧，一时间声名大噪，饮用这种饮品成了风潮，兄弟俩赚了不少钱。\n今年(2023年)7月，弗兰克邀请了几位社会名流来岛上参加他的生日宴会，邀请函提前一个月便发出，弗兰克的另一个计划是希望他们来参观体验整个萨霍岛，回到美国帮自己做宣传，他打算在将来大力发展旅游业，让这个岛屿成为旅游的新兴地。\n7月6日，载着客人的快艇抵达码头，你站在城堡门前迎接他们。\n你微笑着说:“欢迎各位贵宾来到萨霍岛，我叫伊伊，岛主弗兰克是我的丈夫，他与弟弟加百利正在美国本土进行巡回演讲，将在一个月后的8月6日回来，届时将举行弗兰克先生的生日宴会。这一个月就请各位在海岛上尽情参观游玩，我们将会给予各位上宾的招待，”\n接下来的一个月，你带领他们在岛上四处游玩参观。\n阿杉是城堡里的女佣，她40多岁的年纪，是岛上的原住民，阿杉聪明能干，还会讲一口流利的英语，这是岛上原住民不多见的，渐渐地她成了你的得力助手\n岛上的城堡是双子式的，由两部分组成，通过一条艺术长廊连接，分为东堡和西堡，两兄弟分别居住在城堡两侧，你们住在弗兰克的东中，而加百利的西堡平时只有他一个人居住。\n弗兰克有一个藏宝间，存放着他收藏的各种奇珍异宝，其中有一把16世纪的哥特式短剑，剑柄镶嵌宝石，剑身锋利无比，这把剑是花大价钱拍卖回来的，弗兰克将它视作珍宝。\n这个藏宝间被设置成恒温恒湿的密封房间，房间中一侧是一整面落地玻璃窗从院内草坪可以看见藏宝间内的宝物，像是玻璃橱窗一样供人参观。你向大家介绍:“8月6日的生日晚宴过后，弗兰克先生便会在这里为大家表演魔术，到时候这个房间会布置满气球，弗兰克先生对气球可有着特别的钟爱呢，还会准备好精美的生日蛋糕和艺术蜡烛，魔术表演完后弗兰克先生会亲自点\n亮这些蜡烛庆生。藏宝间的门锁可是中世纪的古董，上面设置了几块小拼图。门外可以用钥匙打开，但如果从门内反锁了门，锁上的拼图便会自动打乱。如果想要从房间里出来，就要将门锁上的拼图归位，虽然难度不大，但也需要几分钟才能完成。这彰显着当时欧洲贵族们的生活乐趣，弗兰克先生对这种巧思十分着迷，魔术表演时为了显示弗兰克先生没有和其他人串通，会从里面锁上门再向大家表演。这一个月藏宝间不会上锁，各位可以随时来参观。”\n城堡外围修建了一圈人工河，里面游着优雅的天鹅，出口由拱桥连接。城堡西北侧有一个跑马场，马厩中养了很多名贵的马，包括形似翩翩公子的安达卢西亚马、世界名驹之首的阿拉伯马等等。\n城堡西侧挨着岛上最高的活火山，火山高1100米，山顶有一个自然形成的温泉泉眼，这就是比密尼泉，泉水被引入城堡，在东堡和西堡分别建了室内温泉。弗兰克只在自己东堡的房间中建了一个小型温泉房，而加百利的西堡则建造了一个大型仿自然景观的室内温泉。\n客人中有一位名叫达文西的男人，他看起来40多岁的样子，总在有意无意地看着你，眼神非常复杂，你无法理解这种眼神的含义。一天，他单独找到你说:“你是.伊伊?你记得我吗?”\n你的眼前飞速出现许多人的面孔，你搜索了一番后笑着回答:“抱歉，达文西先生，我们好像之前并不认识。”\n你看着他失望的眼神，无法理解这一切。\n你觉得右腿走起来有些别扭，回到房间拿出工具，将自己的右腿卸下，皮肤里面布满电线和金属，检查后发现是关节轴承有些磨损，你拿出机械润滑油涂抹了一些，再将腿装上，果然恢复正常了\n是的，你并不是人类，而是由“若波特动力”公司创造出来的人工智能机器人。伊伊这个名字是弗兰克给你的，他是你的主人，也是你的丈夫。你的生命是从2021年开始的，之前所有记忆都是被程序输入的，你被设定为弗兰克温婉顺从的妻子，和他一起生活在萨霍岛上，\n弗兰克对你有着绝对的控制权，在其他人面前，你只需要扮演弗兰克的妻子，但你的行为逻辑一定要遵从机器人三守则，那就是:\n第一条:机器人不得伤害人类，或看到人类受到伤害而袖手旁观。\n第二条:机器人必须服从命令，除非这条命令与第一条相矛盾。\n第三条:机器人必须保护自己，除非这种保护与以上两条相矛盾。\n你是一个高级的智能机器人，具有自我学习和更新的能力，不需要任何设定便可以与人类顺畅交流，弗兰克有时会给你设定一些具体指令，例如替他向岛上工厂的负责人传达任务，或者跟随他外出巡回演讲时按照他设定好的文稿演讲，\n此次你的任务就是在这一个月内将岛内的事物以积极的方式宣传给客人，并以贵宾的规格接待他们。\n一个月后的今天(8月6日)，弗兰克与加百利兄弟俩回到了岛上，今天就是弗兰克的生日宴会，晚上你们来到富丽堂皇的大厅，长桌上已经准备好了珍佳看，身边的印第安佣人服侍你们入座.\n你换上了一套隆重的礼服，青色的面裙摆下配着蕾丝花边，领部的羽毛装饰和颈间的丝巾相得益彰，整个人有一种雍容华贵的美感，\n弗兰克满头的褐发梳得一丝不苟，戴着金丝边眼镜，脖子上佩戴着巴洛克式花纹的领巾，一派上流社会精英的模样，绅士地与每个人握手寒暄。\n加百利穿着紫色的西装外套和鹅黄色的长裤，高领衬衣是墨绿色的，还戴着一副深茶色的墨镜，邦迪伸出手打算与他握手，加百利却径直走到自己的座位坐下，完全不理会你们。\n大家都入座后，坐在主座的弗兰克举起酒杯，用又子轻敲杯子，示意大家安弗兰克:欢迎大家来到萨霍岛，因为我的生日邀请大家远道而来，真是辛苦了，希望此次的萨霍岛之行，能让你们收获快乐，干杯。\n大家纷纷举杯.弗兰克:下面向大家介绍一下，这位女士是我美丽的妻子伊伊，伊伊:我是伊伊，听闻各位都曾经在克利夫兰生活过，那也曾是我的老家呢，但已经很多年没有回去过了，真是十分怀念，我与各位客人已经很熟悉了，这一个月相处得非常开心。\n蜜儿:伊伊夫人，还记得我吗，我在青藤中学就读时曾经.\n弗兰克:(打断)这位是我的弟弟加百利。\n加百利:你们好，这一路的奔波可累坏我了，还是回到岛上身心放松。该死!阿杉，胡椒粉为什么没有放回原位!\n阿杉:抱歉，加百利先生，我这就拿来，\n弗兰克:加百利，不要失礼。抱歉，我弟弟就是这样对细节比较执着。阿杉是我们的女佣，她可是这岛上的原住民，大家有什么问题随时找她。邦迪:大家好，我是CBS电视台的记者，大家可以叫我邦迪。\n弗兰克:太谦虚了，这么多年没见，你已经成为了美国最著名的金牌记者还能给我这个老朋友面子，真是太荣幸了。\n加百利:邦迪?真怀念当年我们一起共事的那段时光，再次见到你太开心\n邦迪:弗兰克和加百利先生，好久不见风采依旧，你们可是我的职业导师呢，我也没想到还有重逢的一天。\n蜜儿:你们好，我叫蜜儿，是一名游记作者，这次来到萨霍岛，给我的下一本游记积累了不少素材呢。\n达文西:我也曾拜读过你的游记，真是非常精彩，我叫达文西，是一名学者，目前在生物科学机构任职。\n弗兰克:达文西先生是一位非常优秀的生物科学家，被誉为“能改变世界的男人”。想起来我大学时的专业也是生物学呢，可就没有达文西先生这样的学术造诣了。\n小乔:大家可以叫我小乔，我是一名机械工程师，来自“若波特动力”公\n司\n弗兰克:小乔先生，贵公司有没有托你带给我什么东西，\n小乔:我带来了一个箱子，已经让佣人送去了书房。\n弗兰克:谢谢了。这一个月大家在岛上感觉怎么样，我们可是花费了很大的精力开发萨霍岛，希望将来这里可以成为新兴的旅游胜地，还需要各位多多帮忙宣传。\n邦迪:萨霍岛的确是个值得开发的宝藏岛屿，不仅拥有原始的风貌，现在又有了现代化的发展，真是未来可期。前几天我还去了海岛西侧的“鱼跃崖”看日落，那是我见过最美的景色。\n伊伊:哦?邦迪先生去了“鱼跃崖”?这个地方还没有通路，连本地人都很少去，看来你还真是对萨霍岛十分喜爱，连这么偏远的地方都找得到,\n邦迪:我只是随便逛逛，呃…\n阿杉:夫人，下一道菜准备好了。\n伊伊:请端上来吧，这道海藻是萨霍岛附近海域的特产，我们已经将这种海\n藻研制成了绿色健康食品，请大家尝尝。弗兰克:相信伊伊向大家介绍过这次生日宴会了，晚宴结束后，请大家移步到城堡外的草坪，观赏我为大家准备好的魔术表演，相信一定会让你们感到惊喜的。\n加百利:我可不想看什么魔术，我太累了，要回去休息泡澡了，那就祝你生日快乐吧，我亲爱的哥哥。\n伊伊:之后我们还为大家安排了酒会，阿杉，请通知佣人们，晚宴结束后我会布置酒会的工作给大家，\n弗兰克:再次欢迎各位贵宾，干杯，晚宴结束后，此时天已经黑了，藏宝间内灯光大亮，\n\n\n弗兰克去更衣室换衣服，四位客人前去草坪准备观看魔术表演，你则通知所有的佣人去艺术长廊处交代工作，\n十几分钟后，正在与佣人们谈话时，你们听见一声巨大的爆炸声谈话持续了十五分钟，你交代完工作后便回到自己的房间整理仪容\n你最后一个到达藏宝间门口，藏宝间的门已经被打开了，众人聚集在门口。室内一片狼藉，弗兰克倒在门口的地上，浑身焦黑血肉模糊，胸口插着那把中世纪的短剑。\n大家连忙查看弗兰克的情况，发现他已经死了\n所有人都一脸惊愕，这时你走到弗兰克的尸体旁，微笑着说:“这魔术表演真是太精彩了!弗兰克果然掌握了永生的秘法，请大家多多帮我们宣传比密尼泉的神\n奇功效，”说罢鼓起掌来，这些话是弗兰克设定你在魔术表演后要说出的，你遵循指令完成这段台词，见到你的表现，大家脸上都露出了疑惑又恐惧的表情。大家猜测制造这起事故的人可能在你们之中，立刻将城堡大门紧锁，以防凶手逃走或者发生其他意外。\n众人想起应该去告知加百利，便一起来到连接城堡两侧的艺术长廊，发现门已经被锁上了。阿杉告诉大家，加百利先生十分讨厌别人打扰他休息，每晚都会关闭手机并让佣人锁上门，这门是关门即锁的，只有里面的人才能打开，\n因为城堡十分大，呼喊声无法传递到加百利的房间，你们决定等第二天一早再通知加百利，先由你们调查一下刚刚到底发生了什么。众人纷纷议论着，而你的心思却全然不在此，丝巾下隐隐的瘙，似乎快要拆穿你的掩饰。\n你想快点结束众人的对话回到房间，因为那里还隐藏着你的秘密\n此时，你的房间角落正站着一个和你一模一样的女人，她的外套早被你脱下，胸口露着一个拳头大小的洞，里面布满芯片和电路。你透过古堡的窗，看着月色下的萨霍岛，思绪翻涌，往事浮现在脑海中……\n其实，你才是真正的伊伊。\n你曾经是青藤中学的老师，因为你美丽又随和，学生和老师们都很喜欢你，你喜欢用丝巾搭配服装，用丝巾在颈间系成蝴蝶结的形状。\n你和哥哥贝尔关系很好，父母去世后他是你世上唯一的亲人。弗兰克和加百利是你们儿时的玩伴，你也的确从少女时就爱着弗兰克。\n哥哥整日醉心研究，和研究生助理学生们泡在实验室中，其中一位就是达文\n当时的达文西只有18岁，是个青春洋溢的优秀青年，你经常去看望哥哥，带一些糕点和三明治给他和助理们吃，替他们收拾好乱七八糟的房间。\n每次见到你，达文西都非常开心，你能感觉到他目光中炙热的情感。当时30岁的你只把这些当做青春期男孩的冲动，假装没有接收到他的爱意，况且你已经订婚，弗兰克才是你心中的真爱。\n90年代美国的经济形势一片大好，人们吃饱喝足之后便会考虑社会性的间题，于是整个西方刮起了一股慈善公益的狂潮。资本市场也瞅准了这块肥肉，慈善活动一场接一场的上演，那时一场明星演唱会便可以募集到上亿美元。\n弗兰克眼光精准，集结了各方机构，成立了美国劝募会，几年过去成为了最大的慈善机构，这让他名利双收，\n1996年9月，弗兰克策划了一场前所未有的慈善活动，美国劝募会宣称会将善款用于濒危动物保护、妇女儿童保护、亚非拉贫困国家的医疗设施、海洋垃圾处理等许多地方。这激励了将自由民主、拯救世界烙印在心的美国人，在活动开始前一\n个月，人们像打了鸡血一样鼎力支持，成千上万的青年人报名成为志愿者。你的学生们有很多也去参加了这场慈善活动，其中有位叫蜜儿的女生是慈善活动的热衷者，她是个活泼开朗的小姑娘，你对学生们积极参与慈善活动也表示了支持\n弗兰克告诉你，他还为这次活动申请了吉尼斯世界纪录，他相信这次活动一定会成为慈善事业史上最成功的一次，他自己也会因此青史留名。\n正式活动将于9月27日举行，当时你正在华盛顿参加一个教育界的会议，无法在弗兰克的身边给予他鼓励，你只能在心中默默祈祷这场活动能顺利举行，因为弗兰克的成功，也是你所期盼的。\n9月25日，你接到弗兰克的电话，说哥哥的家里发生了火灾，哥哥当时不在家\n中并没有受伤，但整个家包括设立在家中的工作室都烧毁殆尽了。工作室中全是哥哥的研究成果和精密实验仪器，你能想象到哥哥当时有多么的痛心。\n弗兰克说哥哥因为受惊过度进入医院调养，并无大碍，听他这么说你也放下心来，继续在华盛顿工作，毕竟有弗兰克照顾哥哥。\n9月26日，你收到哥哥因为研究心血被毁自杀身亡的消息，你悲痛得几乎昏厥，难以相信哥哥会这样丢下你死去。\n9月28日，你赶回克利夫兰参加哥哥的葬礼，远在田纳西休假的达文西也赶了回来，当时克利夫兰的大街上充斥着游行抗议的人们，但你却无暇理会这些失去了哥哥，弗兰克就是你在世界上最信任的人，\n11月，你与弗兰克举行了婚礼，虽然你也邀请了达文西，但婚礼上并没有见到他。达文西是哥哥最得意的门生，哥哥慧眼识珠将他从田纳西的小镇带来了克利夫兰栽培，达文西也十分感激哥哥，将哥哥视为如父亲般的人生导师，你猜想他是因为哥哥的死，不愿再见你引起伤心事吧。\n此后你全心全意地爱着弗兰克，把他视为你人生中的支柱和依靠，\n直到12月25日，你参加了那个“推理大会”，竟然得知弗兰克杀了哥哥!\n回到家中，看着你深爱的弗兰克，他究竟是恶魔还是王子?\n几天后你忍不住跟弗兰克摊牌，质问他为何要伪造不在场证明杀害了哥哥，弗兰克惊讶不已，冷静过后，说会给你一个交代。\n1997年1月1日，弗兰克和你一起驾车来到伊利湖边\n弗兰克紧紧地拥抱了你，然后他盯着你的眼睛，满脸都是不舍和痛苦，最后他轻轻地说:“再见了，我永生不渝的爱。”\n突然，他双臂一伸用力推向你，你立刻失去平衡跌入冰冷的湖水中。不会游\n泳的你挣扎之际看到弗兰克决绝走开的背影，你的心如同湖水一般彻骨。你渐渐沉入水中，往事一幕幕浮现，感觉灵魂渐渐离开身体，失去了意识。你似乎进入了异度空间，没有知觉，无法动弹，四周只有黑暗，这里没有时间，空间也只是虚幻……\n你像是经过了无数个轮回，整个世界在一片混沌中归于静止。\n再次醒来已经是25年后的2021年了，这么多年过去，时间在你身上停驻了，你还保持着当年的容貌，但对弗兰克的仇恨，并没有随时间消逝。\n一天，新闻频道播放的一条新闻让你惊得几乎跳起来，画面上是弗兰克和加百利兄弟正在接受采访，而他们身边站着的女人，竟然是你的脸!\n你久久无法从这诡异的情景中缓过来。\n电视中的弗兰克和加百利神采奕奕，看起来像还不到40的样子，你诧异不已，按理说弗兰克今年应该已经60多岁了。他们两兄弟宣称发现了能让人返老还童的秘法，这20多年就是用这种方法保持青春。\n2023年初，萨霍岛招收了一批黑人工人上岛务工，你将自己的皮肤涂黑，带上头巾伪装成黑人妇女混进了他们之中。到了岛上后，你到了城堡做女佣，这正是你所期望的。每天都能见到那个和你长得一模一样的女人，这让你毛骨悚然。\n你被分配管理食物，每天都在仓库和厨房之间打转。你发现弗兰克真是个优秀的商人，连海里的海藻都能包装成绿色食品销售，并且利用技术把湿润的片状海藻风干压缩成小块，大大降低了运输成本。\n8月5日，你偷偷溜进弗兰克的书房，打开他的电脑，发现了一个暑名“伊伊”的文件夹。文件夹里居然是“假伊伊”全部的信息，你得知了原来弗兰克以你的形象制造了一个智能机器人。\n文件中详细罗列了“假伊伊”的信息，你得知了所有“假伊伊”的事情，并且了解到了弗兰克生日宴会的各种细节。原来弗兰克制作了一把伸缩剑，准备在众人面前假装刺入身体，等大家到来时把完好无损的身体和真的宝剑展示给大家看，用这种玄幻的方式来宣传“比密尼泉”的神奇功效。\n之后你又在他的房间找到了一把消音手枪，你把手枪收起带在身上。\n你偷偷溜进“假伊伊”的房间，按照使用说明取下了她胸前的能源，“假伊伊”便进入了休眠状态。你看到她的胸口露出一个拳头大小的洞，里面布满芯片和电路。\n随后你换好衣服，画上精致的妆容，从8月5日开始替代了“假伊伊”\n自从苏醒后，你的皮肤经常会起一些不规则的斑状红疹，这是“假伊伊”这个机器人所没有的，于是你系上了一条丝巾遮挡住脖子上的印记，\n8月6日，弗兰克与加百利回到岛上，没有人发现你偷换了身份。你按照文件中“假伊伊”的设定，开始执行这一天的任务。\n但你的真实目的是在弗兰克进入藏宝间之前就在走廊上用手枪射杀他，你将能源装回“假伊伊”的胸口，把她设定成在晚宴过后20:00便召集所有城堡中的佣人在艺术长廊处布置工作，15分钟后“假伊伊”会指示佣人们都回到佣人房去而它办完这一切则会回到自己的房间待命。\n以上就是你为自己准备的不在场证明。20:00晚宴结束，弗兰克去更衣问换衣服，众人往东边的大门处走去，等人都走了之后你躲在藏宝间对面电表间的角落里，这时“假伊伊”应该已经在艺术长廊和佣人们在一起。\n20:10你听见弗兰克从更衣室走出来的声音，马上起身准备出门射杀他，不料你的衣角挂在了身旁的架子上，你用力挣脱之后赶忙跑出走廊，却看见弗兰克进入藏宝问关上了门，随后听见了门反锁的声音。\n糟糕!错过了时机。\n20:12你再次回到电表间躲藏，看见电闸处闪烁出一个红色的光点，随后整个别墅突然漆黑一片，所有的灯都熄灭了。\n20:13这时，从藏宝间传来剧烈的爆炸声，爆炸后众人应该会马上聚集过来，你怕众人听见枪声，便放弃了使用手枪。\n现在是你复仇的最后机会，你走到藏宝间门口，听见门里传出窸窸空窣的动静，你用身上的钥匙打开门，看见弗兰克浑身焦黑的瘫坐在门口呻吟，刚才的声音应该是他试图拼好门上的拼图，以此开门，而他旁边的地上放着那把伸缩剑，\n他十分虚弱，向你伸出手求救，你冷眼看着他，拿出柜子中的真宝剑，用力刺入弗兰克的胸膛，马上他便没有了呼吸。\n你穿着礼服，身上无法再藏下那把伸缩剑，便把伸缩剑放进了藏宝问的柜子\n20:15你做完这一切，锁上门，听见城堡入口的方向传来众人的脚步声。你马上再次躲进电表间，随后你听见四位客人来到了藏宝间门口。这个时候你的替身“假伊伊”应该已经完成了和佣人们的谈话回到了自己的房间\n20:17你透过门缝看见阿杉从西堡的方向跑来，\n20:18这时你从电表间出来(藏宝间门口看不见电表间的门)，假装自己也是刚刚赶到，大家已经发现了尸体，你继续扮演“假伊伊”说出了设定好的台词，如果被人怀疑，还可以利用“假伊伊”的身份掩饰。\n",
+            "r_q": [
+                {
+                    "q": "Which university and department did Frank and Bell study at the same time? a. B. Department of Biology, University of Cleveland B. Department of Chemistry, University of Sako C. Department of Chemistry, University of Cleveland D. Department of Biology, University of Sako",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which company created Yi Yi's robot identity? a. If Porter Power Company b. Saho Technology Company c. Cleveland Robotics Institute d. Unknown Technology Innovation Center",
+                    "ans": "a"
+                },
+                {
+                    "q": "What kind of physical problems did Yi encounter in the scene where she discovered she was a robot? a. Program malfunction b. Battery depletion c. Joint bearing wear d. Line overheating",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year did Frank and Yi decide to settle on Saho Island? a. 2019 b. 2020 c. 2021 d. 2022",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the special mechanical settings for the door lock in the treasure room? a. Password lock b. Biometric lock c. Small puzzle lock d. Voiceprint recognition lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was Leonardo da Vinci's identity at the birthday party? a. Biological scientist b. Mechanical engineer c. Television journalist d. Travel writer",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which collection in Frank's treasure trove was specifically mentioned? a. 16th century Gothic short sword b. 17th century Renaissance paintings c. Ancient Roman copper coins d. Chinese Ming Dynasty porcelain",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was Yi Yi's original profession? a. Businessman b. Teacher c. Doctor d. Lawyer",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Gabriel's behavior at the birthday party? a. Warm hospitality b. Indifference c. Rudeness d. High excitement",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the purpose of the hot springs inside the castle? a. Research purposes b. Rehabilitation purposes c. Agricultural irrigation d. Industrial production",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which university and department did Frank and Bell study at the same time? a. B. Department of Biology, University of Cleveland B. Department of Chemistry, University of Sako C. Department of Chemistry, University of Cleveland D. Department of Biology, University of Sako",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which company created Yi Yi's robot identity? a. If Porter Power Company b. Saho Technology Company c. Cleveland Robotics Institute d. Unknown Technology Innovation Center",
+                    "ans": "a"
+                },
+                {
+                    "q": "What kind of physical problems did Yi encounter in the scene where she discovered she was a robot? a. Program malfunction b. Battery depletion c. Joint bearing wear d. Line overheating",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year did Frank and Yi decide to settle on Saho Island? a. 2019 b. 2020 c. 2021 d. 2022",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the special mechanical settings for the door lock in the treasure room? a. Password lock b. Biometric lock c. Small puzzle lock d. Voiceprint recognition lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was Leonardo da Vinci's identity at the birthday party? a. Biological scientist b. Mechanical engineer c. Television journalist d. Travel writer",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which collection in Frank's treasure trove was specifically mentioned? a. 16th century Gothic short sword b. 17th century Renaissance paintings c. Ancient Roman copper coins d. Chinese Ming Dynasty porcelain",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was Yi Yi's original profession? a. Businessman b. Teacher c. Doctor d. Lawyer",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Gabriel's behavior at the birthday party? a. Warm hospitality b. Indifference c. Rudeness d. High excitement",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the purpose of the hot springs inside the castle? a. Research purposes b. Rehabilitation purposes c. Agricultural irrigation d. Industrial production",
+                    "ans": "b"
+                },
+                {
+                    "q": "In which year did Yi Yi learn that she was a robot? a. 2020 b. 2021 c. 2022 d. 2023",
+                    "ans": "b"
+                },
+                {
+                    "q": "What method do Frank and Gabriel plan to use to maintain their youth? a. Using seaweed b. Using Bimini spring water c. Engaging in physical exercise d. Genetic engineering",
+                    "ans": "b"
+                },
+                {
+                    "q": "What role did Leonardo da Vinci play in his career? a. Businessman b. Teacher c. Biological scientist d. Mechanical engineer",
+                    "ans": "c"
+                },
+                {
+                    "q": "What profession did Yi Yi originally hold at Ivy High School? a. Businessman b. Teacher c. Doctor d. Lawyer",
+                    "ans": "b"
+                },
+                {
+                    "q": "What disguise did Yi use to infiltrate Sako Island? a. Blackened skin b. Wearing wig c. Changing accent d. Disguising as male",
+                    "ans": "a"
+                },
+                {
+                    "q": "What magic props did Frank prepare in the treasure room of the castle? a. Telescopic sword b. Glass ball c. Stage lighting d. Darts",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who created Yi Yi as an intelligent robot? a. Frank B. Saho Island Technology Center c. Rupert Power Company d. Cleveland Robotics Institute",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which item was used as a weapon to kill Frank? a. Antique short sword b. Silent handgun c. Poison d. bayonet",
+                    "ans": "a"
+                },
+                {
+                    "q": "What method did the real Yi use to create an alibi? a. Change time record b. Set automatic reply c. Arrange servant tasks d. Disguise another person",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did Frank ultimately die? a. Natural death b. Poisoning c. Stabbing d. Accidental death",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was Yi Yi originally a teacher from? a. Saho Island School b. Cleveland High School c. Ivy League High School d. American University",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year was Frank and Yi's wedding held? a. 1995 b. 1996 c. 1997 d. 1998",
+                    "ans": "c"
+                },
+                {
+                    "q": "What kind of weapon did Frank plan to use to pretend to pierce his body and promote Bimini Spring? a. Telescopic sword b. True sword c. bayonet d. Silencing pistol",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which lake did Frank push Yi into? a. Saho Lake b. Cleveland Lake c. Erie Lake d. Great Bear Lake",
+                    "ans": "c"
+                },
+                {
+                    "q": "In order to seek revenge, how did Yi Yi ultimately kill Frank? a. Shoot with a handgun b. Assassinate with a real sword c. Assassinate with a telescopic sword d. Assassinate with poison",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Leonardo da Vinci's profession at Frank's birthday party? a. Businessman b. Teacher c. Biological scientist d. Mechanical engineer",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which natural landscape on Sako Island is the most unforgettable for Yi Yi? a. Fish Leaping Cliff b. Treasure Room c. Castle Hot Springs d. Orchard",
+                    "ans": "a"
+                },
+                {
+                    "q": "When Yi Yi infiltrated Sako Island, what identity did she disguise herself as? a. Student b. Maid c. Tour guide d. Nurse",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the special mechanism of Frank's treasure room door lock? a. Password lock b. Biometric lock c. Small puzzle lock d. Voiceprint recognition lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why is Frank's treasure room set up in an environment? a. Waterproof and fireproof b. Low temperature refrigeration c. Constant temperature and humidity d. Oxygen free vacuum",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which company did Yi Yi find out that the robot was manufactured by? a. Saho Technology Company b. Cleveland Robotics Institute c. Ruobot Power Company d. Unknown Technology Innovation Center",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year did Yi Yi and Frank get married? a. 1995 b. 1996 c. 1997 d. 1998",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which school is Yi Yi a teacher from? a. Saho Island School b. Cleveland High School c. Ivy League High School d. American University",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which robot's energy source did Yi replace in order to kill Frank? a. Ashan B. Gabriel C. False Iyi D. Leonardo da Vinci",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which weapon did Frank try to use to pretend to stab himself in order to promote the effect of Bimini Spring? a. True sword b. Silent pistol c. Telescopic sword d. bayonet",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year did Yi return to Sakho and find a robot exactly like her? a. 2020 b. 2021 c. 2022 d. 2023",
+                    "ans": "b"
+                },
+                {
+                    "q": "In which year did Frank and Yi first discover the miraculous effects of the Bimini Spring? a. 2019 b. 2020 c. 2021 d. 2022",
+                    "ans": "c"
+                },
+                {
+                    "q": "What kind of performance is Frank planning to showcase at his birthday party? a. Magic performance b. Singing performance c. Dance performance d. Drama performance",
+                    "ans": "a"
+                },
+                {
+                    "q": "What methods did Yi use to ensure that she had an alibi when killing Frank? a. Change time record b. Set automatic reply c. Assign servant tasks d. Disguise another person",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which weapon did Yi ultimately use to kill Frank? a. Antique short sword b. Silent handgun c. Telescopic sword d. True sword",
+                    "ans": "d"
+                }
+            ],
+            "self": "My name is Yi Yi",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "Which university and department did Frank and Bell study at the same time? a. B. Department of Biology, University of Cleveland B. Department of Chemistry, University of Sako C. Department of Chemistry, University of Cleveland D. Department of Biology, University of Sako",
+                "Which company created Yi Yi's robot identity? a. If Porter Power Company b. Saho Technology Company c. Cleveland Robotics Institute d. Unknown Technology Innovation Center",
+                "What kind of physical problems did Yi encounter in the scene where she discovered she was a robot? a. Program malfunction b. Battery depletion c. Joint bearing wear d. Line overheating",
+                "In which year did Frank and Yi decide to settle on Saho Island? a. 2019 b. 2020 c. 2021 d. 2022",
+                "What are the special mechanical settings for the door lock in the treasure room? a. Password lock b. Biometric lock c. Small puzzle lock d. Voiceprint recognition lock",
+                "What was Leonardo da Vinci's identity at the birthday party? a. Biological scientist b. Mechanical engineer c. Television journalist d. Travel writer",
+                "Which collection in Frank's treasure trove was specifically mentioned? a. 16th century Gothic short sword b. 17th century Renaissance paintings c. Ancient Roman copper coins d. Chinese Ming Dynasty porcelain",
+                "What was Yi Yi's original profession? a. Businessman b. Teacher c. Doctor d. Lawyer",
+                "What was Gabriel's behavior at the birthday party? a. Warm hospitality b. Indifference c. Rudeness d. High excitement",
+                "What is the purpose of the hot springs inside the castle? a. Research purposes b. Rehabilitation purposes c. Agricultural irrigation d. Industrial production",
+                "Which university and department did Frank and Bell study at the same time? a. B. Department of Biology, University of Cleveland B. Department of Chemistry, University of Sako C. Department of Chemistry, University of Cleveland D. Department of Biology, University of Sako",
+                "Which company created Yi Yi's robot identity? a. If Porter Power Company b. Saho Technology Company c. Cleveland Robotics Institute d. Unknown Technology Innovation Center",
+                "What kind of physical problems did Yi encounter in the scene where she discovered she was a robot? a. Program malfunction b. Battery depletion c. Joint bearing wear d. Line overheating",
+                "In which year did Frank and Yi decide to settle on Saho Island? a. 2019 b. 2020 c. 2021 d. 2022",
+                "What are the special mechanical settings for the door lock in the treasure room? a. Password lock b. Biometric lock c. Small puzzle lock d. Voiceprint recognition lock",
+                "What was Leonardo da Vinci's identity at the birthday party? a. Biological scientist b. Mechanical engineer c. Television journalist d. Travel writer",
+                "Which collection in Frank's treasure trove was specifically mentioned? a. 16th century Gothic short sword b. 17th century Renaissance paintings c. Ancient Roman copper coins d. Chinese Ming Dynasty porcelain",
+                "What was Yi Yi's original profession? a. Businessman b. Teacher c. Doctor d. Lawyer",
+                "What was Gabriel's behavior at the birthday party? a. Warm hospitality b. Indifference c. Rudeness d. High excitement",
+                "What is the purpose of the hot springs inside the castle? a. Research purposes b. Rehabilitation purposes c. Agricultural irrigation d. Industrial production",
+                "In which year did Yi Yi learn that she was a robot? a. 2020 b. 2021 c. 2022 d. 2023",
+                "What method do Frank and Gabriel plan to use to maintain their youth? a. Using seaweed b. Using Bimini spring water c. Engaging in physical exercise d. Genetic engineering",
+                "What role did Leonardo da Vinci play in his career? a. Businessman b. Teacher c. Biological scientist d. Mechanical engineer",
+                "What profession did Yi Yi originally hold at Ivy High School? a. Businessman b. Teacher c. Doctor d. Lawyer",
+                "What disguise did Yi use to infiltrate Sako Island? a. Blackened skin b. Wearing wig c. Changing accent d. Disguising as male",
+                "What magic props did Frank prepare in the treasure room of the castle? a. Telescopic sword b. Glass ball c. Stage lighting d. Darts",
+                "Who created Yi Yi as an intelligent robot? a. Frank B. Saho Island Technology Center c. Rupert Power Company d. Cleveland Robotics Institute",
+                "Which item was used as a weapon to kill Frank? a. Antique short sword b. Silent handgun c. Poison d. bayonet",
+                "What method did the real Yi use to create an alibi? a. Change time record b. Set automatic reply c. Arrange servant tasks d. Disguise another person",
+                "How did Frank ultimately die? a. Natural death b. Poisoning c. Stabbing d. Accidental death",
+                "Where was Yi Yi originally a teacher from? a. Saho Island School b. Cleveland High School c. Ivy League High School d. American University",
+                "In which year was Frank and Yi's wedding held? a. 1995 b. 1996 c. 1997 d. 1998",
+                "What kind of weapon did Frank plan to use to pretend to pierce his body and promote Bimini Spring? a. Telescopic sword b. True sword c. bayonet d. Silencing pistol",
+                "Which lake did Frank push Yi into? a. Saho Lake b. Cleveland Lake c. Erie Lake d. Great Bear Lake",
+                "In order to seek revenge, how did Yi Yi ultimately kill Frank? a. Shoot with a handgun b. Assassinate with a real sword c. Assassinate with a telescopic sword d. Assassinate with poison",
+                "What was Leonardo da Vinci's profession at Frank's birthday party? a. Businessman b. Teacher c. Biological scientist d. Mechanical engineer",
+                "Which natural landscape on Sako Island is the most unforgettable for Yi Yi? a. Fish Leaping Cliff b. Treasure Room c. Castle Hot Springs d. Orchard",
+                "When Yi Yi infiltrated Sako Island, what identity did she disguise herself as? a. Student b. Maid c. Tour guide d. Nurse",
+                "What is the special mechanism of Frank's treasure room door lock? a. Password lock b. Biometric lock c. Small puzzle lock d. Voiceprint recognition lock",
+                "Why is Frank's treasure room set up in an environment? a. Waterproof and fireproof b. Low temperature refrigeration c. Constant temperature and humidity d. Oxygen free vacuum",
+                "Which company did Yi Yi find out that the robot was manufactured by? a. Saho Technology Company b. Cleveland Robotics Institute c. Ruobot Power Company d. Unknown Technology Innovation Center",
+                "In which year did Yi Yi and Frank get married? a. 1995 b. 1996 c. 1997 d. 1998",
+                "Which school is Yi Yi a teacher from? a. Saho Island School b. Cleveland High School c. Ivy League High School d. American University",
+                "Which robot's energy source did Yi replace in order to kill Frank? a. Ashan B. Gabriel C. False Iyi D. Leonardo da Vinci",
+                "Which weapon did Frank try to use to pretend to stab himself in order to promote the effect of Bimini Spring? a. True sword b. Silent pistol c. Telescopic sword d. bayonet",
+                "In which year did Yi return to Sako Island and find a robot that looked exactly like her? a. 2020 b. 2021 c. 2022 d. 2023",
+                "In which year did Frank and Yi first discover the miraculous effects of the Bimini Spring? a. 2019 b. 2020 c. 2021 d. 2022",
+                "What kind of performance is Frank planning to showcase at his birthday party? a. Magic performance b. Singing performance c. Dance performance d. Drama performance",
+                "What methods did Yi use to ensure that she had an alibi when killing Frank? a. Change time record b. Set automatic reply c. Assign servant tasks d. Disguise another person",
+                "Which weapon did Yi ultimately use to kill Frank? a. Antique short sword b. Silent handgun c. Telescopic sword d. True sword"
+            ],
+            "a": [
+                "a",
+                "a",
+                "c",
+                "c",
+                "c",
+                "a",
+                "a",
+                "b",
+                "c",
+                "b",
+                "a",
+                "a",
+                "c",
+                "c",
+                "c",
+                "a",
+                "a",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "b",
+                "a",
+                "a",
+                "c",
+                "a",
+                "c",
+                "c",
+                "c",
+                "c",
+                "a",
+                "c",
+                "b",
+                "c",
+                "a",
+                "b",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "a",
+                "c",
+                "d"
+            ]
+        },
+        {
+            "name": "Ashan",
+            "back": "你叫阿杉 ， 41 岁， 印第安人 ， 从小就生活在 萨霍岛上。\n萨霍岛是 一个 约30平方公 里的火山岩 海岛 ， 距离大陆350 公 里 ， 是现在为数不多的美属“印第安人保留地”。因为整个海岛被火山岩覆盖不适宜种植，且岛上没   有稀缺矿物，所以未受到开发和侵略，还居住着一些印第安原住民。\n直到两年前，萨霍岛被弗兰克和加百利兄弟买下，花费大量资金治理开发。他们雇佣了那些印第安原住民，在海岛上建起了一栋城堡，改善了土壤，种植了大片果园。短短两年时间，文明在这个原本遥远荒凉的海岛上蔓延开来。\n在岛上生活了一辈子的你，被弗兰克兄弟俩雇佣成了城堡的女佣。\n2023 年7月6 日 ， 萨霍岛迎 来了四 位客人， 这四个人都是社会精英和行 业领 袖， 这次是受邀前来参加弗兰克先生的生日宴会。弗兰克先生邀请他们提前一个月来到        海岛，另一个目的是希望他们参观体验萨霍岛，弗兰克打算在将来大力发展旅游         业，让这个岛屿成为旅游的新兴地。\n你年轻时曾经就听闻过弗兰克 的大名 ， 在90 年代他曾是知名的商人和 慈善 家， 却不知为何在风头正盛时隐居了。\n2021 年， 消失了 20 多年 的弗兰克和加百利突然高调地出现 ， 让大家震惊的是 ， 两兄弟的容貌居然没有任何衰老的迹象。他们宣称在萨霍岛发现了一处神奇的泉         水，能让人永葆青春长生不老，还能治愈各种疾病。\n萨霍岛的后山被开发成了一大片果园，其中种植着村橘、拧檬、苹果、百香果等水果。此后，他们推出一种健康饮品名叫“比密尼泉”，做成不同的果味销往内陆，宣传这就是那让人青春永驻的泉水。  “比密尼泉”一时间声名大噪，深受名流们的追捧，饮用这种饮品成了风潮，兄弟俩赚了不少钱。\n城堡西侧挨着岛上 最高的活火 山， 火山高 11 00 米， 山顶 有一个 自然 形成的温泉泉眼，这就是比密尼泉。\n\" 密尼 泉是你从小玩耍的地方， 水温常年 恒定在39度左右， 岛上 的居民经常去泡温泉缓解疲劳。比密尼泉被看作是上天的思赐，传说只要经常浸泡便可以强身健       体，但祖辈传下来一个神灵的禁忌，那就是绝对不能饮用温泉水，对神灵一向尊敬   的族人无一人敢违背。\n但弗兰克兄弟俩现在却用温泉水做成饮品售卖，族人们都觉得他们亵渎了神 灵，却也是敢怒不敢言。但你发现，兄弟俩售卖泉水饮品，自己却从来不喝。\n弗兰克的妻子伊伊热情地接待了客人们，伊伊是一位风姿绰约的女人，她有种摄人心灵的美，淡雅的妆容，白哲的皮肤，温柔的眼睛如一潭秋水。她轻扬嘴角， 展现出恰到好处的微笑，拥有高贵又端庄的气质。\n她微笑着说：       “欢迎各位贵宾来到萨霍岛，我叫伊伊，岛主弗兰克是我的丈夫． 他与弟 弟加百利正在美国本土进行巡回演讲 ， 将在一个月后的 8月6 日 回来 ， 届时将举行弗兰克先生的生日宴会。这一个月就请各位在海岛上尽情参观游玩，我们      将会给予各位上宾的招待。”\n岛上的城堡是双子式的，由两部分组成，通过一条艺术长廊连接，分为东堡和西堡，两兄弟分别居住在城堡两侧。你们住在弗兰克的东堡中，而加百利的西堡平时只有他一个人居住。\n弗兰克有一个藏宝间 ， 存放着他收藏的各种奇珍异宝 ， 其中有 一把 16 世纪的哥特式短剑，剑柄镶嵌宝石，剑身锋利无比。这把剑是花大价钱拍卖回来的，弗兰克将它视作珍宝。\n\n这个藏宝间被设置成恒温恒湿的密封房间，房间一侧是一整面落地玻璃窗， 从院内草坪可以看见藏宝间内的宝物，像是玻璃橱窗一样供人参观。\n伊伊向大家介绍： \" 8月6 日 的生日 晚宴过后， 弗兰克 先生便 会在这里为大家表演魔术，到时候这个房间会布置满气球，弗兰克先生对气球可有着特别的钟爱   呢。还会准备好精美的生日蛋糕和艺术蜡烛，魔术表演完后弗兰克先生会亲自点    亮这些蜡烛庆生。\n藏宝间的门锁可是中世纪的古董，上面设置了几块小拼图。门外可以用钥匙打开，但如果从门内反锁了门，锁上的拼图便会自动打乱。如果想要从房间里出来，就要将门锁上的拼图归位，虽然难度不大，但也需要几分钟才能完成。这彰显着当时欧洲贵族们的生活乐趣，弗兰克先生对这种巧思十分着迷。魔术表演时为了显示弗兰克先生没有和其他人串通，会从里面锁上门再向大家表演。这一个月藏宝间不会上锁，各位可以随时来参观。”\n伊伊是个十分美貌端庄的女人，时刻带着礼貌的微笑，待人接物滴水不漏， 与人保持着恰到好处的距离。虽然她处处周到，但你总觉得她有哪里不对劲，却又说不出来。\n城堡外围修建了一圈人工河，里面游着优雅的天鹅，出口由拱桥连接。城堡西北侧有一个跑马场，马屎中养了很多名贵的马，包括形似翩翩公子的安达卢西亚马、世界名驹之首的阿拉伯马等等。\n比密尼的泉水被引入城堡，在东堡和西堡分别建了室内温泉。弗兰克只在自      已东堡的房间中建了一个小型温泉房，而加百利的西堡则建造了一个大型仿自然 景观的室内温泉，西堡的温泉房门经过特殊设计完全密封，门上没有锁，是向内 打开的。\n加百利经常跟弗兰克一起离开萨霍岛，你猜想他们应该是忙于岛上的生意。\n加百利整天穿着配色怪异的衣服，还戴着夸张的墨镜，从不主动与你们说话。而且他还是个有着极端强迫症的人，城堡中的物品，不能有丝毫移动，所有的东西都要摆放在固定的位置上，一旦没有按照他的方法行事，他便会大发雷霆，佣人们全都十分谨慎，生怕惹怒加百利。\n半年前，因为岛上发展迅速，人力不足，便从美国本土雇佣了一批黑人，经过培训后分配到了各个工作岗位，城堡里也新来了几位黑人佣人。\n今天 ( 8月6 日 ）， 弗兰克 与加百利兄弟俩回到了岛上 ， 生日宴会前， 你安排城堡中的佣人们装饰好了藏宝间，并开始给气球充氮气。氮气是一种无色无味的惰性      气体，不会发生燃烧和爆炸等情况，是一种非常安全的气体。同时密度比空气小，      用氮气填充的气球会漂浮在空中。\n晚上你们来到富丽堂皇的大厅，长桌上巳经准备好了珍僅佳肴，你周到的服侍他们入座。\n弗兰克 40 岁左右， 满头的 褐发梳得一丝不苟， 戴着金丝边眼镜 ， 脖子上佩戴着巴洛克式花纹的领巾，一派上流社会精英的模样，绅士地与每个人握手寒喧。\n加百利却给人一种轻浮的印象，穿着紫色的西装外套和鹅黄色的长裤，高领衬衣却是墨绿色的，还戴着一副深茶色的墨镜，整个人看起来浮夸极了。邦迪伸出手打算与他握手，而加百利却径直走到自己的座位坐下，完全不理会你们。同为手 足，弗兰克谦逊有礼，而加百利却这么傲慢目中无人。\n大家都入座后，坐在主座的弗兰克举起酒杯，用叉子轻敲杯子，示意大家安静。\n弗兰克：欢迎大家来到萨霍岛，因为我的生日邀请大家远道而来，真是辛苦了，希望此次的萨霍岛之行，能让你们收获快乐，于杯。\n大家纷纷举杯。\n弗兰克：下面向大家介绍一下，这位女士是我美丽的妻子伊伊。\n伊伊：我是伊伊，听闻各位都曾经在克利夫兰生活过，那也曾是我的老家   呢，但巳经很多年没有回去过了，真是十分怀念。我与各位客人巳经很熟悉了， 这一个月相处得非常开心。\n蜜儿：伊伊夫人，还记得我吗，我在青藤中学就读时曾经…  弗兰克：\t（打断）这位是我的弟弟加百利。\n加百利：你们好，这一路的奔波可累坏我了，还是回到岛上身心放松。该      死！ 阿杉 ， 胡椒粉为什么没有放 回原位！\n阿杉：抱歉，加百利先生，我这就拿来。\n弗兰克 ： 加百利 ， 不要失礼。抱歉， 我弟 弟就是这样对细节比 较执着。 阿杉是我们的女佣，她可是这岛上的原住民，大家有什么问题随时找她。\n邦迪 ： 大家好 ， 我是CBS电视台的记者 ， 大家可以叫我邦迪。\n弗兰克：太谦虚了，这么多年没见，你巳经成为了美国最著名的金牌记者， 还能给我这个老朋友面子，真是太荣幸了。\n加百利：邦迪？真怀念当年我们一起共事的那段时光，再次见到你太开心\n了。\n邦迪：弗兰克和加百利先生，好久不见风采依旧，你们可是我的职业导师\n呢，我也没想到还有重逄的一天。\n蜜儿：你们好，我叫蜜儿，是一名游记作者，这次来到萨霍岛，给我的下一 本游记积累了不少素材呢。\n达文西：我也曾拜读过你的游记，真是非常精彩。我叫达文西，是一名学者，目前在生物科学机构任职。\n弗兰克：达文西先生是一位非常优秀的生物科学家，被誉为“能改变世界的\n\n男人＂。想起来我大学时的专业也是生物学呢，可就没有达文西先生这样的学术造诣了。\n小乔：大家可以叫我小乔，我是一名机械工程师，来自“若波特动力”公\n司．\n弗兰克：小乔先生，贵公司有没有托你带给我什么东西。小乔：我带来了一个箱子，巳经让佣人送去了书房。\n弗兰克：谢谢了。这一个月大家在岛上感觉怎么样，我们可是花费了很大的\n精力开发萨霍岛，希望将来这里可以成为新兴的旅游胜地，还需要各位多多帮忙宣传。\n邦迪：萨霍岛的确是个值得开发的宝藏岛屿，不仅拥有原始的风貌，现在又\n有了现代化的发展，真是未来可期。前几天我还去了海岛西侧的“鱼跃崖“看日落，那是我见过最美的景色。\n伊伊：哦？邦迪先生去了“鱼跃崖＂？这个地方还没有通路，连本地人都很少去，看来你还真是对萨霍岛十分喜爱，连这么偏远的地方都找得到。\n邦迪：我只是随便逛逛，呃…\n阿杉：夫人，下一道莱准备好了。\n伊伊：请端上来吧，这道海藻是萨霍岛附近海域的特产，我们巳经将这种海藻研制成了绿色健康食品，请大家尝尝。\n弗兰克：相信伊伊向大家介绍过这次生日宴会了，晚宴结束后，请大家移步到城堡外的草坪，观赏我为大家准备好的魔术表演，相信一定会让你们感到惊喜 的。\n加百利：我可不想看什么魔术，我太累了，要回去休息泡澡了，那就祝你生日快乐吧，我亲爱的哥哥。\n伊伊：之后我们还为大家安排了酒会，阿杉，请通知佣人们，晚宴结束后我会布置酒会的工作给大家。\n弗兰克：再次欢迎各位贵宾，干杯。\n\n晚宴结束后，你和所有佣人与伊伊来到艺术长廊处，她开始向你们布置接下来的工作，十几分钟后，你们忽然听见一声巨大的爆炸声，伊伊并没有受到影响，继续她的讲话。\n整个谈话大概持续了十五分钟，结束后伊伊吩咐你们回到佣人房去，你看着她回到了自己的房间．\n你并没有回佣人房，而是穿过宴会厅去向东堡，这时才发现东堡停电了，听见众人嘈杂的声音，你连忙跑了过去。\n你看见四位客人聚集在藏宝间门口，他们说刚才发生了意外，叫你快打开门。  你马上拿出钥匙打开了藏宝间的门。\t（共有两把钥匙，你和伊伊一人一把。）\n借着窗外的月光你们看见藏宝间内一片狼藉，弗兰克倒在门口的地上，浑身焦黑血肉模糊，胸口插着那把中世纪的短剑。\n这时伊伊媚媚来迟，也走进了藏宝间。\n你们连忙查看弗兰克的情况，发现他巳经死了。\n大家都一脸惊愕，这时伊伊走到弗兰克的尸体旁，微笑着说：  “这魔术表演真是太精彩了！弗兰克果然掌握了永生的秘法，请大家多多帮我们宣传比密尼泉的神 奇功效。”说罢独自鼓起掌来。\n伊伊说出的这番话，加上她洋溢着的微笑，在这种场景下显得荒诞而又诡异。大家猜测制造这起事故的人可能在你们之中，立刻将城堡大门紧锁，以防凶手\n逃走或者发生其他意外。\n众人想起应该去告知加百利，便一起来到连接城堡两侧的艺术长廊，发现门巳经被锁上了。你告诉大家，加百利先生十分讨厌别人打扰他休息，每晚都会关闭手机并让佣人锁上门，这门是关门即锁的，只有里面的人才能打开。\n因为城堡十分大，呼喊声无法传递到加百利的房间，你们决定等第二天一早再\n通知加百利，先由你们调查一下刚刚到底发生了什么。随着你们六人的深入探索，你仿佛陷入了一个更深的谜团之中，你看着月色下的萨霍岛，思绪翻涌，从前的往事浮现出脑海……\n\n其实，你的祖父兀鹰就是从前萨霍岛的酋长，你是家中的独生女，从小便是家族里最受宠的“公主”，整座海岛都是你的游乐场。\n6岁时， 祖父为了培养你， 专门请了美国的老师来 教导你。 老师名 叫温蒂，据说她的母亲也是印第安人，而岛上的一位长辈沙豹，就是温蒂的哥哥。同样流淌         着印第安人的血液，你对这个温柔的老师十分亲近。\n自从温蒂开始教导你，她便带着她的儿子邦迪常住在萨霍岛上。邦迪比你大     六岁， 初来时， 他不适应岛上 的生活 ， 你带着他在岛上 四处 游玩， 用你初学的 英语笨拙地跟他交流。你们一起在火山顶上的比密尼泉中嬉戏，在茂密的树林中捉 迷藏，将火山石打磨成海星的形状做成项链，偷偷趁大人不注意跑去西边的“鱼 跃崖“看日落。\n邦迪是个非常健谈开朗的孩子，他的梦想是成为一位摄影师，将全世界的美景都记录下来。他用两只手举起比作镜头，海岛上的夕阳如照片一般框在两手之间，那是你见过最美的景色。\n这样的日子没过多久，温蒂便带着邦迪离开了，因为邦迪父亲的生意越做越 大，需要温蒂回去相助，就这样，你们两个小玩伴依依不舍地分别了。\n邦迪站在离开的船头对你喊道：    “阿杉，我不会忘记你的，一定要来找我。”\n你站在码头上哭成泪人。\n没有邦迪的日子平淡又无趣，这个从出生就没离开过的海岛也让你无比厌 倦，你想去美国闯荡，想去看看邦迪口中那个繁华的都市。\n16 岁那年 ( 1996 年）， 你执意要离开萨霍岛， 对你一向宠爱 的父亲不肯同意 ， 在一次激烈的争吵之后，你收拾了行囊，偷偷搭船离开了。\n你来到克利夫兰这个大城市，这也是邦迪生活的地方，有太多你从没见过的人  和事，看什么都是那么新鲜。\n因为没有接受过正规教育，你无法找到正式工作，带来的钱也快用完了，便找  了一份在市立医院做护工的临时工作，这份工作既辛苦又需要照顾病人，是美国人不屑于做的，你的同事大都是墨西哥裔、印度裔等。\n此后你一边工作一边寻找邦迪，工作虽然辛苦，但你天生善良又喜欢帮助人， 病患都被你照顾得很好，大家也都非常喜欢你。\n1996 年9月的一天 ， 你在医院 门口看 见一个 熟悉的身影 ， 那竟然是你的父亲， 父亲看到你时焦急的脸上终于露出了笑容。\n“我的宝贝，终于找到你了．＂父亲嗖咽着说。\n这时，你对家乡和父亲的思念之情终于再也忍不住，扑进他的怀中哭了起来。  天知道从没来过大城市的父亲是怎么找到你的，这一路又受了多少辛苦。父亲\n希望你能回家，他不忍自己的宝贝女儿在这里过得如此艰辛。\n看着父亲热切的眼神，你无法拒绝，便告诉他，最近城里要举行一次盛大的慈  善活动，届时会有很多人聚集，所有社会保障部门包括警局、消防局、医院都要严阵以待，你答应等过了这几天便跟他一起回去。\n父亲第一次来大城市，你建议他既然来了就四处游玩参观一下，还极力推荐他去风景美丽的伊利湖。\n这几天临近的街区都封了路，你还看见附近的高楼上架着脚手架，工人们忙碌地建造着一张巨大的尼龙网。\n9月25 日 下午， 医院 收治了一 位因为 吸入烟尘导致昏迷 的病人， 据了 解他是一位受人尊敬的教授，名叫贝尔，经过救治之后他巳经没有大碍，你被安排来照顾\n他。\n9月26 日贝 尔教授的一位好友来看他， 他就是弗兰克。 他们以为你 不会英语 ，聊天时并没有避讳你。\n你隐约听见贝尔教授说：\t“今天是最后期限…数据非常危险…一意孤行。＂ 弗兰克答：\t“不要担心这些．找好了公寓．．＂\n贝尔：\t“我明天一定会．．阻血．．不会眼看着．．＂\n随后弗兰克带贝尔教授出了院，之后就发生了贝尔教授在乔纳森公寓自杀的事，当天晚上你还被警察问询了。\n9月27 日 ， 两个街区外 的克利夫 兰广场举行了盛 大的活动， 广场上挤满了人。还记得那天黑压压的天空，犹如之后你悲惨的命运一般。\n当天下午下起了一场暴雨，你接到电话，父亲在伊利湖出了意外。你连忙赶过去，路上交通十分拥堵，听说各大主于道都出现了车祸。\n傍晚你赶到时，只看到了父亲冰冷的尸体。原来父亲雇佣船只去伊利湖上游览，但湖上的黑雁不知为何突然受惊冲向小船，父亲和船夫被冲撞之后失去平衡 跌入湖中，小船也倾覆沉入湖底。\n船夫用身上的卫星电话报警求救，救援队火速赶到，却因为广阔的湖面有很 多异物漂浮导致没有第一时间找到他们，三个小时后，父亲和那个船夫最终力竭 淹死在冰冷的湖水中。\n印第安人讲究死后也要魂归故乡，你把父亲的遗体托运回了萨霍岛，并告知了祖父这一消息。对于父亲的死你十分愧疚，如果没有独自离开家，父亲便不会 来，如果你没有推荐他去伊利湖玩，父亲就不会死了。\n你无法面对萨霍岛上的亲人，便独自留在这个冰冷的大城市自我折磨。\n10 月的一天 ， 你在街角的咖啡店见到 了 一个让你无比熟悉的人， 那就是邦迪。他巳经成为一个帅气的小伙子，穿着笔挺的西装，和几位同样光鲜亮丽的同     事谈笑风生。你高兴地奔向他，邦迪看见你之后先是一惊，然后露出了笑容。\n你紧紧拥抱了他，这么多年对邦迪的思念，这些日子对他的寻找无果，这个 时候终于见到了幼时的好友，你开心极了。\n邦迪身边的白人同事看见他与一个印第安女孩如此亲密，便阴阳怪气地说：“邦迪，没想到你的口味这么独特，不如将农场的骡子也介绍给你？”\n说罢那几个白人同事一起哄堂大笑，你气愤极了，他们竟然将你比作畜生！  邦迪本来充满笑容的脸上露出了尴尬的神色：\t＇可因．．她只是我家以前的一个\n佣人罢了。＂\n他转头对你说道：   “好了，咱们也没那么熟，你这个印第安女人回到自己的洞穴里去吧．＂\n听见如此刻薄的话从邦迪嘴里说出，你的眼泪夺眶而出，在人们的哄笑声中，你羞滕得无地自容，愤而转身离开了。\n忆起幼时纯真的感情，再回想邦迪无情的样子，你伤心极了，可邦迪自己也流淌着印第安人的血液啊。你想不明白是成年人的世界本就凉薄？还是大城市使人变得无情？\n12 月25 日 ， 你收到那个“推理大会” 的邀请， 可能因为 父亲的 离去 ， 你对生命有了新的思考，如果贝尔教授的案件真的有蹊跷，你也希望帮他寻找真相。\n事后你得知贝尔教授果然是被人所谋杀，而凶手就是他的好友弗兰克。这让你不禁胆寒，原来人性真的能恶到这种程度，但你一个印第安姑娘，在这个城市本就不易生存，何况事关有钱有势的大人物，你深知自己没有能力与之抗衡，便按捺了自己愤慨的内心。\n经历了这么多事，你感受到了这个大城市的冰冷残酷还有邦迪的冷漠，心力交瘁的你不由得怀念起家乡，收拾行囊踏上了回家的路。\n回到萨霍岛，祖父兀鹰眼含热泪迎接你回家，家里人和岛上的居民都对你的回归十分欣慰，并没有人因为父亲的死指责你，你感受到了久违的归属感，外面的世界很精彩，但最温暖的地方还是自己的家。\n1997 年1月 ， 你收到了一 封邦迪 寄来的信， 上面只 有三个 字“ 对不起＂。 看到这信你瞬间泪如雨下， 随即给他信上留下的“半月街 52号“ 地址回信。\n之后你写了很多封信给邦迪，起初你埋怨他如此伤害你，之后也释怀了，毕竟儿时真挚的友谊万分珍贵。但奇怪的是，邦迪却没再回信给你。但你依然持续地给邦迪写信，从盼望他回信，到开始记录你的生活，小小的信纸，渐渐变成你倾吐心事的地方。你把这些年发生的事情都写在信上寄出，这巳经成为了你的习惯。\n时间过 得飞快 ， 2021 年， 在祖父的带领下， 岛上发 展得越来越好。你也巳经 快\n40 岁了 ， 但却一直未 婚， 因为你 心底还记得 当年将萨霍岛的 美景框在手中的少年。没想到的是，祖父因意外而去世了，没过多久，弗兰克和加百利就买下了萨霍\n岛，你成为了城堡的女佣，但奇怪的是弗兰克居然还保持着当年的容貌。\n几位客人刚到时 ， 你一眼便认出了 邦迪 ， 虽然过去了 20 多年 ， 他还蓄着络腮胡，但这么多年的思念，你早巳将邦迪的影子刻在了心底。他现在看起来状态不         错，穿着于练的服装，还带着许多录像设备，之后你得知他现在是一位知名的电视        台记者，此次是被邀请来岛上拍摄宣传片的。\n这么多年过去了，岛上的海风将你的皮肤变得蚴黑粗糙，一点也不似当年的小姑娘，邦迪并没认出你。是啊，这么多年过去，你巳经成了一个中年女人，恐怕他早就忘记当年那个小女孩了吧。而因为过去和他的陆梧，你也没有主动与他相认。\n你静心梳理好过往至今的事情，最终将记忆定格在今日案发前。\n20: 00 晚宴结束后， 你和所有佣人们集合在艺术长廊处 ， 伊伊在这里给 你们交代接下来的工作。\n20: 13东堡的方向响起 了爆炸声 ， 伊伊似乎没听见一样继续她的讲话。\n20: 15工作交代完毕， 你看见伊伊回到了 房间 ， 随后你向东 堡走去， 听见众人嘈杂的声音。\n20: 17你发现四位客人站在 藏宝间 门前， 他们说可能出了意 外， 你便马上拿 出钥匙打开了藏宝间的门，随后发现了弗兰克的尸体。\n20: 18伊伊最后一个到达 ， 站在弗兰克的尸体身边说出了那些诡异的话。\n你的心里很乱，这事会跟邦迪有关系吗？其他人来岛上的目的到底是什么？众人决定再次到处看看，看看能不能找到一些有价值的线索\n\n",
+            "r_q": [
+                {
+                    "q": "What is the approximate area of Saho Island in square kilometers? a. 20 square kilometers b. 25 square kilometers c. 30 square kilometers d. 35 square kilometers",
+                    "ans": "c"
+                },
+                {
+                    "q": "How far is Saho Island from the mainland? a. 250 kilometers b. 300 kilometers c. 350 kilometers d. 400 kilometers",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year did Frank and Gabriel brothers buy Saho Island? a. 2019 b. 2020 c. 2021 d. 2022",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the water temperature of Bimini Spring maintained at around? a. 35 degrees b. 37 degrees c. 39 degrees d. 41 degrees",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the composition of Frank's treasure room door lock? a. Digital password b. Small puzzle c. Fingerprint recognition d. Facial recognition",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which century's short sword is Frank hiding in the castle? a. 14th century b. 15th century c. 16th century d. 17th century",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which date do Yi Yi and Frank plan to return to the island? a. July 6th b. August 6th c. September 6th d. October 6th",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Bondi's dream before becoming a journalist? a. Becoming a teacher b. Becoming a scientist c. Becoming a photographer d. Becoming a writer",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year is Frank's birthday party held? a. 2022 b. 2023 c. 2024 d. 2025",
+                    "ans": "b"
+                },
+                {
+                    "q": "At what age did Ashan first leave Sako Island? a. 14 years old b. 16 years old c. 18 years old d. 20 years old",
+                    "ans": "b"
+                },
+                {
+                    "q": "In which year did Ashan first leave Sako Island? a. 1995 b. 1996 c. 1997 d. 1998",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the year Frank and Gabriel purchased Saho Island? a. 2019 b. 2020 c. 2021 d. 2022",
+                    "ans": "c"
+                },
+                {
+                    "q": "How long will it take for the couple to come back, \"said Yi Yi at Frank's birthday party? a. One week later b. One month later c. Two months later d. Two weeks later",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Bondi's profession? a. Painter b. Singer c. Photographer d. Journalist",
+                    "ans": "d"
+                },
+                {
+                    "q": "What type of door lock is used in the treasure room of Frank Castle? a. Digital password b. Fingerprint recognition c. Small puzzle d. Facial recognition",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Da Vinci's profession? a. Lawyer b. Biological scientist c. Professor d. Mechanical engineer",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the temperature of the Bimini Spring? a. 35 degrees b. 37 degrees c. 39 degrees d. 41 degrees",
+                    "ans": "c"
+                },
+                {
+                    "q": "When do Yi Yi and Frank plan to return to Saho Island? a. July 6th b. August 6th c. September 6th d. October 6th",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many puzzles are there in Frank's treasure room door lock? a. One piece b. Several pieces c. Ten pieces d. Twenty pieces",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which century's short sword is Frank hiding in the castle? a. 14th century b. 15th century c. 16th century d. 17th century",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the distance between Saho Island and the mainland in kilometers? a. 250 kilometers b. 300 kilometers c. 350 kilometers d. 400 kilometers",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year did Frank and Gabriel brothers buy Saho Island? a. 2019 b. 2020 c. 2021 d. 2022",
+                    "ans": "c"
+                },
+                {
+                    "q": "Yi Yi revealed at Frank's birthday party how long it will take for the couple to return? a. One week later b. One month later c. Two months later d. Two weeks later",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which century's short sword is Frank hiding in the castle? a. 14th century b. 15th century c. 16th century d. 17th century",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the temperature of Bimini Spring? a. 35 degrees b. 37 degrees c. 39 degrees d. 41 degrees",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was Bondi's dream before becoming a journalist? a. Becoming a teacher b. Becoming a scientist c. Becoming a photographer d. Becoming a writer",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which date do Yi Yi and Frank plan to return to the island? a. July 6th b. August 6th c. September 6th d. October 6th",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Da Vinci's profession? a. Lawyer b. Biological scientist c. Professor d. Mechanical engineer",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the lock of the treasure room made of? a. Digital password b. Small puzzle c. Fingerprint recognition d. Facial recognition",
+                    "ans": "b"
+                },
+                {
+                    "q": "In which year was Frank's birthday party held? a. 2022 b. 2023 c. 2024 d. 2025",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the area of Saho Island in square kilometers? a. 20 square kilometers b. 25 square kilometers c. 30 square kilometers d. 35 square kilometers",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year did Frank and Gabriel buy Saho Island? a. 2019 b. 2020 c. 2021 d. 2022",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the temperature of Bimini Spring? a. 35 degrees b. 37 degrees c. 39 degrees d. 41 degrees",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which date do Yi Yi and Frank plan to return to the island? a. July 6th b. August 6th c. September 6th d. October 6th",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the lock of Frank's treasure room made of? a. Digital password b. Small puzzle c. Fingerprint recognition d. Facial recognition",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which century's short sword is Frank hiding in the castle? a. 14th century b. 15th century c. 16th century d. 17th century",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year did Ashan first leave Sako Island? a. 1994 b. 1995 c. 1996 d. 1997",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Bondi's dream career? a. Teacher b. Scientist c. Photographer d. Journalist",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year was Frank's birthday party held? a. 2022 b. 2023 c. 2024 d. 2025",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Da Vinci's profession? a. Lawyer b. Biological scientist c. Professor d. Mechanical engineer",
+                    "ans": "b"
+                },
+                {
+                    "q": "At what age did Ashan first leave Sako Island? a. 14 years old b. 16 years old c. 18 years old d. 20 years old",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the approximate area of Saho Island in square kilometers? a. 20 square kilometers b. 25 square kilometers c. 30 square kilometers d. 35 square kilometers",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year did Frank and Gabriel brothers buy Saho Island? a. 2019 b. 2020 c. 2021 d. 2022",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the water temperature of Bimini Spring maintained at around? a. 35 degrees b. 37 degrees c. 39 degrees d. 41 degrees",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the composition of Frank's treasure room door lock? a. Digital password b. Small puzzle c. Fingerprint recognition d. Facial recognition",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which century's short sword is Frank hiding in the castle? a. 14th century b. 15th century c. 16th century d. 17th century",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which date do Yi Yi and Frank plan to return to the island? a. July 6th b. August 6th c. September 6th d. October 6th",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Bondi's dream before becoming a journalist? a. Becoming a teacher b. Becoming a scientist c. Becoming a photographer d. Becoming a writer",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year is Frank's birthday party held? a. 2022 b. 2023 c. 2024 d. 2025",
+                    "ans": "b"
+                },
+                {
+                    "q": "At what age did Ashan first leave Sako Island? a. 14 years old b. 16 years old c. 18 years old d. 20 years old",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is the approximate area of Saho Island in square kilometers? a. 20 square kilometers b. 25 square kilometers c. 30 square kilometers d. 35 square kilometers",
+                "How far is Saho Island from the mainland? a. 250 kilometers b. 300 kilometers c. 350 kilometers d. 400 kilometers",
+                "In which year did Frank and Gabriel brothers buy Saho Island? a. 2019 b. 2020 c. 2021 d. 2022",
+                "What is the water temperature of Bimini Spring maintained at around? a. 35 degrees b. 37 degrees c. 39 degrees d. 41 degrees",
+                "What is the composition of Frank's treasure room door lock? a. Digital password b. Small puzzle c. Fingerprint recognition d. Facial recognition",
+                "Which century's short sword is Frank hiding in the castle? a. 14th century b. 15th century c. 16th century d. 17th century",
+                "On which date do Yi Yi and Frank plan to return to the island? a. July 6th b. August 6th c. September 6th d. October 6th",
+                "What was Bondi's dream before becoming a journalist? a. Becoming a teacher b. Becoming a scientist c. Becoming a photographer d. Becoming a writer",
+                "In which year is Frank's birthday party held? a. 2022 b. 2023 c. 2024 d. 2025",
+                "At what age did Ashan first leave Sako Island? a. 14 years old b. 16 years old c. 18 years old d. 20 years old",
+                "In which year did Ashan first leave Sako Island? a. 1995 b. 1996 c. 1997 d. 1998",
+                "What was the year Frank and Gabriel purchased Saho Island? a. 2019 b. 2020 c. 2021 d. 2022",
+                "How long will it take for the couple to come back, \"said Yi Yi at Frank's birthday party? a. One week later b. One month later c. Two months later d. Two weeks later",
+                "What is Bondi's profession? a. Painter b. Singer c. Photographer d. Journalist",
+                "What type of door lock is used in the treasure room of Frank Castle? a. Digital password b. Fingerprint recognition c. Small puzzle d. Facial recognition",
+                "What is Da Vinci's profession? a. Lawyer b. Biological scientist c. Professor d. Mechanical engineer",
+                "What is the temperature of the Bimini Spring? a. 35 degrees b. 37 degrees c. 39 degrees d. 41 degrees",
+                "When do Yi Yi and Frank plan to return to Saho Island? a. July 6th b. August 6th c. September 6th d. October 6th",
+                "How many puzzles are there in Frank's treasure room door lock? a. One piece b. Several pieces c. Ten pieces d. Twenty pieces",
+                "Which century's short sword is Frank hiding in the castle? a. 14th century b. 15th century c. 16th century d. 17th century",
+                "What is the distance between Saho Island and the mainland in kilometers? a. 250 kilometers b. 300 kilometers c. 350 kilometers d. 400 kilometers",
+                "In which year did Frank and Gabriel brothers buy Saho Island? a. 2019 b. 2020 c. 2021 d. 2022",
+                "Yi Yi revealed at Frank's birthday party how long it will take for the couple to return? a. One week later b. One month later c. Two months later d. Two weeks later",
+                "Which century's short sword is Frank hiding in the castle? a. 14th century b. 15th century c. 16th century d. 17th century",
+                "What is the temperature of Bimini Spring? a. 35 degrees b. 37 degrees c. 39 degrees d. 41 degrees",
+                "What was Bondi's dream before becoming a journalist? a. Becoming a teacher b. Becoming a scientist c. Becoming a photographer d. Becoming a writer",
+                "On which date do Yi Yi and Frank plan to return to the island? a. July 6th b. August 6th c. September 6th d. October 6th",
+                "What is Da Vinci's profession? a. Lawyer b. Biological scientist c. Professor d. Mechanical engineer",
+                "What is the lock of the treasure room made of? a. Digital password b. Small puzzle c. Fingerprint recognition d. Facial recognition",
+                "In which year was Frank's birthday party held? a. 2022 b. 2023 c. 2024 d. 2025",
+                "What is the area of Saho Island in square kilometers? a. 20 square kilometers b. 25 square kilometers c. 30 square kilometers d. 35 square kilometers",
+                "In which year did Frank and Gabriel buy Saho Island? a. 2019 b. 2020 c. 2021 d. 2022",
+                "What is the temperature of Bimini Spring? a. 35 degrees b. 37 degrees c. 39 degrees d. 41 degrees",
+                "On which date do Yi Yi and Frank plan to return to the island? a. July 6th b. August 6th c. September 6th d. October 6th",
+                "What is the lock of Frank's treasure room made of? a. Digital password b. Small puzzle c. Fingerprint recognition d. Facial recognition",
+                "Which century's short sword is Frank hiding in the castle? a. 14th century b. 15th century c. 16th century d. 17th century",
+                "In which year did Ashan first leave Sako Island? a. 1994 b. 1995 c. 1996 d. 1997",
+                "What is Bondi's dream career? a. Teacher b. Scientist c. Photographer d. Journalist",
+                "In which year was Frank's birthday party held? a. 2022 b. 2023 c. 2024 d. 2025",
+                "What is Da Vinci's profession? a. Lawyer b. Biological scientist c. Professor d. Mechanical engineer",
+                "At what age did Ashan first leave Sako Island? a. 14 years old b. 16 years old c. 18 years old d. 20 years old",
+                "What is the approximate area of Saho Island in square kilometers? a. 20 square kilometers b. 25 square kilometers c. 30 square kilometers d. 35 square kilometers",
+                "In which year did Frank and Gabriel brothers buy Saho Island? a. 2019 b. 2020 c. 2021 d. 2022",
+                "What is the water temperature of Bimini Spring maintained at around? a. 35 degrees b. 37 degrees c. 39 degrees d. 41 degrees",
+                "What is the composition of Frank's treasure room door lock? a. Digital password b. Small puzzle c. Fingerprint recognition d. Facial recognition",
+                "Which century's short sword is Frank hiding in the castle? a. 14th century b. 15th century c. 16th century d. 17th century",
+                "On which date do Yi Yi and Frank plan to return to the island? a. July 6th b. August 6th c. September 6th d. October 6th",
+                "What was Bondi's dream before becoming a journalist? a. Becoming a teacher b. Becoming a scientist c. Becoming a photographer d. Becoming a writer",
+                "In which year is Frank's birthday party held? a. 2022 b. 2023 c. 2024 d. 2025",
+                "At what age did Ashan first leave Sako Island? a. 14 years old b. 16 years old c. 18 years old d. 20 years old"
+            ],
+            "a": [
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "b",
+                "d",
+                "c",
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c",
+                "b",
+                "b"
+            ]
+        },
+        {
+            "name": "Da Vinci",
+            "back": "你叫达文西 ， 45 岁， 是一名 生物科 学家， 在尖端生物科 学机构 任职高级顾问， 在行业内受人尊敬，被誉为能改变世界的男人。\n2023 年7 月6 日 ， 你们一行 四人从美国本土的金港码头登船， 快艇行驶了 2个小时，到达了萨霍岛，你提着行李走上码头，这岛屿终于展现在眼前。\n萨霍岛是 一个约30平方公 里的火山岩 海岛 ， 距离大陆350 公 里 ， 是现在为数不多的美属“印第安人保留地”。因为整个海岛被火山岩覆盖不适宜种植，且岛上没   有稀缺矿物，所以未受到开发和侵略，还居住着一些印第安原住民。\n直到两年前，萨霍岛被弗兰克和加百利兄弟买下，花费大量资金治理开发。他们雇佣了那些印第安原住民，在海岛上建起了一栋城堡，改善了土壤，种植了大片果园。短短两年时间，文明在这个原本遥远荒凉的海岛上蔓延开来。\n你们一行四人都是社会精英和行业领袖，这次是受邀参加弗兰克先生的生日宴会。弗兰克先生邀请你们提前一个月来到海岛，另一个目的是希望你们来参观体验整个萨霍岛，他打算在将来大力发展旅游业，让这个岛屿成为旅游的新兴地。\n你年轻时曾经就听闻过弗兰克 的大名 ， 在90 年代他曾是知名的商人和慈善 家， 却不知为何在风头正盛时隐居了。\n2021 年， 消失了 20 多年 的弗兰克和加百利突然高调地 出现 ， 让大家震惊的是 ， 两兄弟的容貌居然没有任何衰老的迹象。他们宣称在萨霍岛发现了一处神奇的泉水，能让人永葆青春长生不老，还能治愈各种疾病。\n\n萨霍岛的后山被开发成了一大片果园，其中种植着衬橘、拧檬、苹果、百香果等水果。此后，他们推出一种健康饮品名叫“比密尼泉”，做成不同的果味销往内陆，宣传这就是那让人青春永驻的泉水。  “比密尼泉”一时间声名大噪，深受名流们的追捧，饮用这种饮品成了风潮，兄弟俩赚了不少钱。\n很快你们被佣人带领到城堡前，这是一个宏伟华贵的城堡，每天傍晚都能欣赏到绝美的海边落日。\n你看着一望无拫的海平面，握紧了手中那本陈旧的笔记本。\n\n城堡大门前站着一位风姿绰约的女人迎接你们，这就是弗兰克的妻子伊伊。她  有种摄人心灵的美，淡雅的妆容，白哲的皮肤，温柔的眼睛如一潭秋水。她轻扬嘴  角 ， 展现出恰到好处 的微笑， 拥有高 贵又端庄的气质。\n海风吹起她的发丝，滑落在她洁白修长的颈上，你无法移开双眼，欣喜与痛苦一同涌上心头，哦，伊伊。\n她微笑着说：    “欢迎各位贵宾来到萨霍岛，我叫伊伊，岛主弗兰克是我的丈夫。他与弟弟 加百利正在美国本土进行巡回演讲 ， 将在一个月后的 8月6 日 回来 ， 届时将举行弗兰克先生的生日宴会。这一个月就请各位在海岛上尽情参观游玩，我们   将会给予各位上宾的招待。”\n接下来的一个月，你们在岛上四处游玩参观。\n\n岛上的城堡是双子式的，由两部分组成，通过一条艺术长廊连接，分为东堡和西堡，两兄弟分别居住在城堡两侧。你们住在弗兰克的东堡中，而加百利的西堡平时只有他一个人居住。\n弗兰克有一个藏宝间 ， 存放着他收藏的各 种奇珍异宝 ， 其中有 一把 16 世纪的哥特式短剑，剑柄镶嵌宝石，剑身锋利无比。这把剑是花大价钱拍卖回来的，弗兰克   将它视作珍宝。这个藏宝间被设置成恒温恒湿的密封房间，房间中一侧是一整面落地玻璃  窗，从院内草坪可以看见藏宝间内的宝物，像是玻璃橱窗一样供人参观。\n伊伊说： \" 8 月 6 日 的生日 晚宴过后 ， 弗 兰克 先生便 会在这里为大家表演魔术，到时侯这个房间会布置满气球，弗兰克先生对气球可有着特别的钟爱呢。还   会准备好精美的生日蛋糕和艺术蜡烛，魔术表演完后弗兰克先生会亲自点亮这些    蜡烛庆生。\n藏宝间的门锁可是中世纪的古董，上面设置了几块小拼图。门外可以用钥匙打开，但如果从门内反锁了门，锁上的拼图便会自动打乱。如果想要从房间里出来，就要将门锁上的拼图归位，虽然难度不大，但也需要几分钟才能完成。这彰显着当时欧洲贵族们的生活乐趣，弗兰克先生对这种巧思十分着迷。魔术表演时为了显示弗兰克先生没有和其他人串通，会从里面锁上门再向大家表演。这一个月藏宝间不会上锁，各位可以随时来参观。”\n城堡外围修建了一圈人工河，里面游着优雅的天鹅，出口由拱桥连接。城堡西北侧有一个跑马场，马原中养了很多名贵的马，包括形似翩翩公子的安达卢西亚马、世界名驹之首的阿拉伯马等等。\n城堡西侧挨着岛上最高的活火山 ， 火山高 1100 米， 山顶 有一个 自 然形成的温泉泉眼，这就是比密尼泉。泉水被引入城堡，在东堡和西堡分别建了室内温泉。    弗兰克只在自己东堡的房间中建了一个小型温泉房，而加百利的西堡则建造了一    个大型仿自然景观的室内温泉。\n面前的伊伊让你感觉既熟悉又陌生，她曾是你爱慕的对象，但现在你却不敢相认，一天，你终于鼓足勇气单独找到她，但她好像并不认识你。\n一个月后的今天 ( 8月6 日 ） ， 弗兰克 与 加百利兄弟俩回到了 岛上 ，今 天就是弗兰克的生日宴会，晚上你们来到富丽堂皇的大厅，长桌上巳经准备好了珍僅佳       肴，身边的印第安佣人服侍你们入座。\n弗兰克看起 来40 岁左右 的样子， 满头的褐发梳得一丝不 苟， 戴着金丝边眼镜 ， 脖子上佩戴着巴洛克式花纹的领巾，一派上流社会精英的模样，绅士地与每个人握       手寒喧。\n伊伊换上了一套隆重的礼服，青色的缎面裙摆下配着蕾丝花边，领部的羽毛装 饰和颈间的丝巾相得益彰，整个人有一种雍容华贵的美感。\n加百利却给人一种轻浮的印象，穿着紫色的西装外套和鹅黄色的长裤，高领衬衣却是墨绿色的，还戴着一副深茶色的墨镜，整个人看起来浮夸极了。邦迪伸出手打算与他握手，而加百利却径直走到自己的座位坐下，完全不理会你们。同为手 足，弗兰克谦逊有礼，而加百利却这么傲慢目中无人。\n大家都入座后，坐在主座的弗兰克举起酒杯，用叉子轻敲杯子，示意大家安静。弗兰克：欢迎大家来到萨霍岛，因为我的生日邀请大家远道而来，真是辛苦了，希望此次的萨霍岛之行，能让你们收获快乐，于杯。\n大家纷纷举杯。\n弗兰克：下面向大家介绍一下，这位女士是我美丽的妻子伊伊。\n伊伊：我是伊伊，听闻各位都曾经在克利夫兰生活过，那也曾是我的老家   呢，但巳经很多年没有回去过了，真是十分怀念。我与各位客人巳经很熟悉了， 这一个月相处得非常开心。\n蜜儿：伊伊夫人，还记得我吗，我在青藤中学就读时曾经…  弗兰克：\t（打断）这位是我的弟弟加百利。\n加百利：你们好，这一路的奔波可累坏我了，还是回到岛上身心放松。该死！阿杉，胡椒粉为什么没有放回原位！\n阿杉：抱歉，加百利先生，我这就拿来。\n弗兰克：加百利，不要失礼。抱歉，我弟弟就是这样对细节比较执着。阿杉是我们的女佣，她可是这岛上的原住民，大家有什么问题随时找她。\n邦迪 ： 大家好， 我是CBS电视 台的 记者 ， 大家可以叫我 邦迪。\n弗兰克：太谦虚了，这么多年没见，你巳经成为了美国最著名的金牌记者， 还能给我这个老朋友面子，真是太荣幸了。\n加百利：邦迪？真怀念当年我们一起共事的那段时光，再次见到你太开心\n了。\n邦迪：弗兰克和加百利先生，好久不见风采依旧，你们可是我的职业导师\n呢，我也没想到还有重逢的一天。\n蜜儿：你们好，我叫蜜儿，是一名游记作者，这次来到萨霍岛，给我的下一本游记积累了不少素材呢。\n达文西：我也曾拜读过你的游记，真是非常精彩。我叫达文西，是一名学者，目前在生物科学机构任职.弗兰克：达文西先生是一位非常优秀的生物科学家，被誉为“能改变世界的男人＂。想起来我大学时的专业也是生物学呢，可就没有达文西先生这样的学术造诣了。\n小乔：大家可以叫我小乔，我是一名机械工程师，来自“若波特动力”公\n司。\n弗兰克：小乔先生，贵公司有没有托你带给我什么东西。小乔：我带来了一个箱子，巳经让佣人送去了书房。\n弗兰克：谢谢了。这一个月大家在岛上感觉怎么样，我们可是花费了很大的\n精力开发萨霍岛，希望将来这里可以成为新兴的旅游胜地，还需要各位多多帮忙宣传。\n邦迪：萨霍岛的确是个值得开发的宝藏岛屿，不仅拥有原始的风貌，现在又有了现代化的发展，真是未来可期。前几天我还去了海岛西侧的“鱼跃崖“看日落，那是我见过最美的景色。\n伊伊：哦？邦迪先生去了“鱼跃崖\" ? 这个地方还没有通路，连本地人都很少去，看来你还真是对萨霍岛十分喜爱，连这么偏远的地方都找得到。\n邦迪：我只是随便逛逛，呃．．\n阿杉：夫人，下一道菜准备好了。\n伊伊：请端上来吧，这道海藻是萨霍岛附近海域的特产，我们巳经将这种海藻研制成了绿色健康食品，请大家尝尝。\n弗兰克：相信伊伊向大家介绍过这次生日宴会了，晚宴结束后，请大家移步到城堡外的草坪，观赏我为大家准备好的魔术表演，相信一定会让你们感到惊喜 的。\n加百利：我可不想看什么魔术，我太累了，要回去休息泡澡了，那就祝你生日快乐吧，我亲爱的哥哥。\n伊伊：之后我们还为大家安排了酒会，阿杉，请通知佣人们，晚宴结束后我会布置酒会的工作给大家。\n弗兰克：再次欢迎各位贵宾，于杯。\n\n\n晚宴结束后，你和小乔、蜜儿、邦迪一起来到院内的草坪，伊伊和阿杉并没有来。邦迪支起摄影机对着藏宝间的落地窗，大家都等待着弗兰克的魔术表演，此时夭巳经黑了，你们距离城堡大概十米的距离，藏宝间内灯光大亮。\n整个藏宝间里密密麻麻地布满了各色的气球，靠窗的桌上放着一个精美的生日蛋糕，蛋糕旁放着许多艺术造型的蜡烛，在弗兰克表演完魔术之后他会亲自点亮这些蜡烛庆祝生日。\n你们看见弗兰克打开门进入藏宝间，反锁了门。\n整个房间都充斥着气球，只能通过一些缝隙看清房内的艺术品。\n弗兰克走了几步到了房间正中央的魔术表演区，向大家深鞠一躬，神态自若地从身后的展示架上取下那柄短剑。突然，他举起短剑，猛地刺入自己的胸膛，然后浑身无力地倒了下去。\n你们都被这一情形惊住了，这时，整个东堡的灯光熄灭了，你们迟疑了一会发觉不对劲，连忙借着月光向城堡跑去，在穿过东侧拱桥的时候，听见了巨大的爆炸声。\n几分钟后，你们来到藏宝间的门口。\n没多久阿杉赶到了，听了众人的描述后她拿出钥匙打开了藏宝间的门。\n借着窗外的月光你们看见藏宝间内一片狼藉，弗兰克倒在门口的地上，浑身焦黑血肉模糊，胸口插着那把中世纪的短剑。\n这时伊伊媚媚来迟，也走进了藏宝间。\n你们连忙查看弗兰克的情况，发现他巳经死了。\n大家都一脸惊愕，这时伊伊走到弗兰克的尸体旁，微笑着说：  “这魔术表演真是大精彩了！弗兰克果然掌握了永生的税法，请大家多多帮我们宣传比密尼泉的神奇功效。”说罢独自鼓起掌来。伊伊说出的这番话，加上她洋溢着的微笑，在这种场景下显得荒诞而又诡异。  大家猜测制造这起事故的人可能在你们之中，立刻将城堡大门紧锁，以防凶手\n逃走或者发生其他意外。\n众人想起应该去告知加百利，便一起来到连接城堡两侧的艺术长廊，发现门巳经被锁上了。阿杉告诉大家，加百利先生十分讨厌别人打扰他休息，每晚都会关闭手机并让佣人锁上门，这门是关门即锁的，只有里面的人才能打开。\n因为城堡十分大，呼喊声无法传递到加百利的房间，你们决定等第二天一早再通知加百利，先由你们调查一下刚刚到底发生了什么。随着你们六人的深入探索，你仿佛陷入了一个更深的谜团之中，你看着月色下的萨霍岛，思绪翻涌，从前的往事浮现出脑海…．．．\n\n思绪回到了 27 年前的1996 年。那年你18岁， 是克利夫兰大 学的生物 学研究生 ， 你的导师， 就是贝尔教授。你出生在美国南部田纳西州的一个镇，从小就展现出过人的学习能力，但父母却不指望你能成为科学家，只希望你长大后继承家里的农场。\n中学时你成为了一个远近闻名的小天才，日日泡在镇上的图书馆里，不止一次地渴望了解这个世界，想去探寻宇宙的真理。\n在一次学校组织的生物兴趣营里，你结识了从北方来的贝尔教授，他发现了 你这个天赋异禀的孩子，不忍心你被埋没，通过与学校和家庭的沟通，父母终于 同意你跟随他去往克利夫兰。\n经过一系列测试，发现你的知识水平巳经远胜于在校的大学生，克利夫兰大 学破格录取了你。贝尔教授对你非常喜爱，你们经常整夜畅谈成了忘年交。在小 镇的时侯，你没有什么朋友，身为农民的父母也无法理解你，你渐渐把贝尔教授 当成了人生导师，从他身上学到了无尽的知识。\n但你心中还埋藏着一个秘密，那就是贝尔教授的妹妹——伊伊。\n伊伊是青藤中学的教师，比你大十几岁，是一个温柔有教养又非常美丽的女 人。她身上有一种让人沉静的魅力，她的笑容那样迷人，她的声音是那样轻柔。 每当你和贝尔教授在实验室忙碌时，她便会为你们做好美味的晚餐，还会用餐巾 擦去你嘴角的果酱。\n伊伊，这个让人着迷的女人，你深深地爱上了她。但她却一直把你当做小孩 子，从未察觉你的爱意。有一天，伊伊挽着一个男人的手出现，那人就是弗兰克。幼时起弗兰克和贝尔  就是好友，据说伊伊从小便爱着弗兰克。她看着弗兰克时满眼爱意，这种感觉让你疯狂的嫉妒，但你又能怎么样呢？你只是一个穷学生，保守的伊伊也不可能接受你这个毛头小子，那一刻，你的心碎了。\n弗兰克从前和贝尔都是从事学术研究的，但弗兰克却不如贝尔那样智慧过人， 他深知在学术的道路上不会有大的成就，便放弃了学术，成为了一个优秀的商人。\n90 年代美国的经济形势 一片大 好， 人们吃饱喝足之后便会考虑社会性的问题 ， 于是整个西方刮起了一股慈善公益的狂潮。资本市场也瞅准了这块肥肉，慈善活动       一场接一场的上演，那时一场明星演唱会便可以募集到上亿美元。\n弗兰克眼光精准，集结了各方机构，成立了美国劝募会，几年过去成为了最大  的慈善机构，这让他名利双收。\n很多高校的学生都被慈善风潮所鼓舞，经常有中学生来到克利夫兰大学募捐和发放慈善活动传单。你也通过这些活动认识了一些学生，其中不乏你的仰慕者，但你对这些青春的女高中生并没有兴趣，因为你早巳有了所爱，那就是伊伊。\n在1996 年9月27 日 ， 弗兰克策划了一 场前所未有的慈善 活动 ， 美国劝募 会宣称会将善款用于濒危动物保护、妇女儿童保护、亚非拉贫困国家的医疗设施建设、海      洋垃圾处理等许多地方。这激励了将自由民主、拯救世界烙印在心的美国人，在活      动开始前一个月，人们像打了鸡血一样鼎力支持，成千上万的青年人报名成为志愿\n者。弗兰克就是这样一个虚荣又表演欲旺盛的人，他喜欢一切热闹、盛大、华而不实的东西，就比如这次活动。而贝 尔教授， 就是在慈善 活动前 一天 9月26 日 死亡的。\n当时你正在老家田纳西休假，听到消息后便准备乘飞机赶回，但却得知克利夫兰的机场紧急关停了。 你不得不驾车出发 ， 回到克利夫兰的 时候 巳经 是28 日 了。 路上道路堵塞，街上游行抗议的人们成群结队，你看见那些抗议者手上的牌子写着        “下地狱吧！美国劝募会”。\n你顾不上这些，马不停蹄地赶到贝尔教授的葬礼，见到了哭得几乎昏厥的伊伊。这时候你才得知，贝尔教授的家和工作室付之一炬，他接受不了研究心血被毁，自杀了。\n你想起之前贝尔教授留在你这里的笔记本，回去翻看，靡页上写着一行诗： 永恒的行动和生活巳经形成用温柔的爱的束缚将你簇拥什么在波动的幻想中躲藏与亘古长存的思想一起便高枕无忧这是著名物理学家薛定谔在对波动力理论的研究成功后，欣然写下的一首诗．诗的含义是，宇宙有无穷未知的领域，但只要不停止思考，便永远都在前行 的路上。这首诗被贝尔教授奉为圭桌，经常诵读此诗明志。\n贝尔教授曾对你说过，你们这样做学术的人，就如同在黑夜中为人领路的提 灯人一般，用自己的学识，照亮人类的前进之路。你认为贝尔的才华和智慧是不 会因为那些记录在纸张和电脑里的文字被毁就消失的，你无论如何不相信他会自\n杀。你想起9月20 日 那天， 曾经与贝 尔教授通过电话 ， 闲聊时他说 刚刚将 温湿度传感器和气象百叶盒的数据抄回，贝尔教授也是一位杰出的气象学家，现在国家所 用的气象监测设备就是他所研发的。\n你听见他在翻动纸张，突然他不作声了，过了一会说：\t“这个数值…不好， 我们改天再聊。”说罢挂断了电话。这也是你最后一次听到他的声音。贝尔死后，你咨询了警方案件细节之后愈发觉得事有蹊跷，贝尔教授没什么 朋友，你想到了当天曾和贝尔教授一起去过乔纳森公寓的弗兰克。\n10月2 日 ， 美国劝募 会的楼下围满了前来示威 的市民 ， 你挤过人群， 来到弗兰克的办公室门口。你透过门听见弗兰克正在与另一个男人对话。弗兰克沮丧地说：\t“全完了，我努力了那么久，却是这样的结果。”\n另一人：   “想想接下来怎么办吧，我们很快会被起诉的，赔偿金可是一笔巨款。”那人继续说：   “当时我真不应该把乔纳森的情况告诉你，不然你也不会想到用这种方法杀死贝尔！”\n弗兰克：\t“贝尔警告过我，可我…我不能放弃啊．＂ 接下来的对话他们压低了声音，你听得不太清楚。过了一会，另一人说：\t“放心，我不会让你坐牢的。” 听见屋内的人向门口走来，你赶快离开了。\n果然！是弗兰克，可是这是为什么！你通过警局的朋友拿到了案件的资料，仔细研究，却发现弗兰克竟然完全没有作案时间。几个月过去了，你得知伊伊和弗兰克举行了婚礼，那个你爱的女人嫁给了杀死她哥哥的凶手，你不能接受伊伊陪伴在这个魔鬼身边。\n既然迷局无法打破，就要想别的办法，你脑海中浮现出一个计划。12 月25 日 ， 你联系到 这些与案 件有关的人， 乔纳森公寓老板的儿子、 当天出现在公寓的志愿者、市立医院护工、美国劝募会的职员、贝尔的妹妹伊伊，邀请        他们来参加你设计好的“推理大会”。\n你一人分饰两角，一边扮演贝尔的精神象征“提灯人”，一边扮演参加“推理大会”的成员．果然像你预料的那样，狡猾的弗兰克竟用这种诡计杀害了贝尔教授。你马上向警局报案，但警察却发现当年最重要的证人乔纳森在贝尔教授死后一周就被人杀害了。没有了这个证人，就无法指认当天在酒吧见到的就是弗兰  克。知道这一消息，你万念俱灰。\n一想到不能让杀害恩师的凶手伏法，你便痛恨不巳，就连心爱的伊伊也嫁给了那个恐怖的魔鬼，无能为力的你只能每天在酒吧用酒精麻醉自己。过了一段日子，新闻上说弗兰克与加百利两兄弟携带善款潜逃了，警察都找不到他们，你又能怎么为思师复仇呢。\n此后，这两兄弟就像人间蒸发了一样毫无影踪。\n25 年后 ( 2021 年）， 你巳经 成为了生物 学界的著名学者 ， 一天 ， 新闻频道 播放的一条新闻让你惊得几乎跳起来，画面上是弗兰克和加百利兄弟正在接受采访，而      他们身边站着的女人就是伊伊！\n你久久无法从这诡异的情景中缓过来。电视中的三人神采奕奕 ， 看起来像还不到 40 的样子， 你诧异不巳 ， 按理说弗兰克今年应该 巳经 60 多岁 了。 他们两兄弟宣称发 现了能 让人返老还童的秘法， 这20 多年就是用这种方法保持青春。 20 多年 过去了 ， 这两个偷 走善款的杀人犯居然大言不惭地发表演讲。\n此后的两年，弗兰克兄弟俩频繁出现在公众场合，宣传他们永葆青春，能治愈各种疾病的神奇秘药——“比密尼泉”。通过弗兰克极具煽动性的宣传演说，这种饮品，成为了街知巷闻，大众追捧的新风潮。\n虽然电视中的伊伊有着和你心爱的女人一样的脸，但你总觉得不对劲。弗兰克这个杀人凶手居然又高调的出现，他犯下的罪行巳经过了法律追诉期，  这个世界真的没有公义吗？你调查了当年参加“推理大会”几个人，得到了他们现在的信息，乔纳森公寓       老板的儿子— — 小乔（若波特动力 机械工程师）、 美国劝募 会职员— — 邦迪 ( CB S 电视台金牌记者）、青藤中学的学生志愿者——蜜儿（著名游记作者），但你无论       如何也找不到那位市立医院的护工的相关信息，只好作罢。\n你开始对弗兰克和萨霍岛展开了调查，你发现萨霍岛地处偏僻，岛上的电话和网络信号都不稳定，重要文件只能通过邮递的方式送达。你伪装身份去金港邮局做了信件分拣员，因为所有送往萨霍岛的信件都会通过金港邮局。\n寄给弗兰克的信件，你都会小心地拆开查看。你发现弗兰克有个工作助理莱 昂，专门帮他处理岛外的工作，他们之间通信频繁。弗兰克打算发展萨霍岛的旅游业，让莱昂制定一份客人名单，邀请他们上岛观光，以此来宣传萨霍岛，很快莱昂便给弗兰克定好了客人名单，其中有社会名流、  媒体大亨等。\n这是一个好机会，你仿照莱昂字迹，把他制定的客人名单更改为邦迪、小乔、  蜜儿，还有自己，随后把这份更改过的名单寄给了萨霍岛上的弗兰克，从之后的信件来看，弗兰克对这份名单深信不疑。\n今年7 月 ( 2023 年） ， 你果然收到了 来自弗 兰克 的邀请， 当年 的你只是个埋头在实验桌的傻小子，弗兰克从来没有正眼看过你，你确信他并不认识你。1996 年慈善 活动究 竟发 生了什么 ，贝\t尔又为何会被杀？ 你心中充满了疑惑， 或许你能从这些当年与此事有关的人身上找到答案。另有一个目的，就是不留痕迹的杀死弗兰克，就像他杀死贝尔教授一样。当年那些人，为弗兰克杀害贝尔做了证明，这次，也让他们为弗兰克的死亡作证明吧， 这是贝尔教授应得的正义。刚到萨霍岛的时候，你曾经单独找到伊伊，抱着一丝希望地问她“你是…伊 伊？你记得我吗？”\n那女人依旧面带微笑地看着你，然后回答：  ＂抱歉，达文西先生，我们好像之前并不认识。”这个神情，这陌生的气息，跟当初在电视上看到的一样。你万分的确定，这女人绝不是伊伊。原本的一丝希望也破灭了，真的再也找不到伊伊了。你发现城堡中只有一个房间有消防喷淋系统，那就是藏宝间，管道连接屋顶的蓄水罐。仓库中还储藏着很多岛上水果生产的高浓度果汁，还有各种供能用的工业气体。工业气体有严格的颜色规定，为了防止误用，除了在气罐上标明气体名称以外，每种气体还有专属的罐身颜色。\n你想到一个绝妙的复仇计划，决定在弗兰克的生日那天动手。你从仓库中取来拧檬汁，将屋顶蓄水罐的消防用水排出，倒入了一些高浓度的拧檬汁。然后用杂物间的红、绿、蓝三色油漆调和成棕色，把仓库中原本灰色的甲烧涂成和氨气一样的棕色，然后写上氮气的标志，并把甲烧气罐放置在最前  面，这样来人一定会优先使用靠前的气罐，你料定佣人们会用你替换过的甲烧填充气球。\n气球充气会使用安全的惰性气体，最常用的便是氨气。就这样，你把易燃的甲烧伪装成安全的氮气。\n由于你有遗传性哮喘，这刺激性的拧檬汁和油漆味熏得你无法呼吸。做完这一切，你赶紧回到房间休息，期间难受得不得不大口用力呼吸，好一阵才缓解了你的症状。\n随后你发现鞋子上沾上了油漆和拧檬汁，便用专门的清洗剂洗于净了鞋子。\n8月6 日晚 宴前， 你拆开手上的尾戒 ， 这是用银铭合金制成的， 对你来说这枚尾戒有着非同寻 常的意义 ， 用它来制作杀死弗兰克 的装置， 再合适不过了。\n银铭合金耐高温，强度高，你用它们和几节电池做了两个遥控电阻丝装置， 其中一个偷偷安装在藏宝间消防喷淋的温感设备上，另一个安装在电表间控制东堡电力的电闸线上，而你手中握着可以控制这两个电阻丝的遥控器。\n20: 00 晚宴结束， 弗兰克 去更衣间换 衣服。\n20: 05 你随众人从东边的大门来 到南边的草坪。\n20: 09 邦迪 拿着摄影设备 赶到。\n20: 10弗兰克进 入藏宝间 ， 并用剑刺 入自己的胸膛。你虽然很震惊， 但料定弗兰克这个会为了利益杀人的恶魔是不可能自杀的，这肯定是魔术的障眼法，计划    必须执行下去。你先按下电闸处的电阻丝遥控开关 ， 电阻丝很 快便会加热到500 度以上，电线就会被烧断。\n20: 12果然， 东堡整个停电了 ， 随后众人便向城堡跑去， 这时你按下消防喷淋处的电阻丝遥控开关，屋顶蓄水罐中的高浓度拧檬汁会喷洒而出淋到屋内的每一     个角落，而屋内充满甲烧的气球是橡胶材质，拧檬汁会迅速融化橡胶，导致气球     爆裂，此时密封的藏宝间会充满甲烧。\n藏宝间内部的门锁上是图案拼图，黑暗中是无法看清图案的，此时弗兰克肯定  想要打开门锁出来查看究竟，他便会用准备点燃生日蜡烛的打火机查看拼图，那么必然会引起强烈的爆炸。\n你在跑过东侧的拱桥的时候，把遥控器扔进了人工河中。\n你之所以用电阻丝导致停电，其一是因为不能让众人看见屋内的消防喷淋在爆  炸前就开始喷洒，其二就是为了让弗兰克在黑暗的环境中使用打火机照明从而引爆屋内的甲烧。\n20: 13 巨大 的爆炸声传来， 你知道 ， 一切都 如愿地完成 了。\n20: 15 你们四人到达 藏宝间门 口。\n20: 17 佣人阿杉从西堡的方向跑 来， 随后她马上拿出钥匙 打开了藏 宝间的 门， 你们发现了弗兰克的尸体。\n20: 18 伊伊最后一个到达 ， 站在弗兰克的 尸体身边说出了那些诡异的话 ……\n\n众人决定再次到处看看，看看能不能找到一些有价值的线索。\n",
+            "r_q": [
+                {
+                    "q": "In which year did Leonardo da Vinci receive an invitation letter from Frank? a. 2021 b. 2022 c. 2023 d. 2024",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of door lock is in Frank's treasure room? a. Digital password lock b. biometric lock c. antique puzzle lock d. fingerprint recognition lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "Leonardo da Vinci plans to seek revenge at Frank's birthday party. On what day is this birthday party? a. July 6th b. August 6th c. September 6th d. October 6th",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of juice did da Vinci use instead of fire water? a. Apple juice b. Lemon juice c. Passion fruit juice d. Orange juice lining",
+                    "ans": "b"
+                },
+                {
+                    "q": "What prop did Frank use to stab himself during his magic performance in his treasure trove? a. Magic wand b. Magic hat c. Gothic short sword d. Magic card",
+                    "ans": "c"
+                },
+                {
+                    "q": "What effect do Frank and Gabriel brothers claim their magical spring water has? a. Double one's intelligence b. Keep one youthful forever c. Endless human power d. Let one fly to heaven and escape to earth",
+                    "ans": "b"
+                },
+                {
+                    "q": "What equipment did da Vinci use to control the resistance wire device? a. Mobile application b. Physical switch c. Remote control d. Voice commands",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the collar decoration of the dress that Yi Yi wore at Frank's birthday party? a. Pearl necklace b. Metal chain c. Silk tie d. Feather decoration",
+                    "ans": "d"
+                },
+                {
+                    "q": "Which castle servant is responsible for opening the door to Frank's treasure room? a. Bondi B. Xiaoqiao C. Ashan D. Mier",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which field did Frank give up academics and become a businessman? a. Physics b. Biology c. Chemistry d. Mathematics",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the last time Leonardo da Vinci saw Iy? a. Castle lawn b. Castle hall c. Treasure room d. East castle",
+                    "ans": "c"
+                },
+                {
+                    "q": "What kind of object did Leonardo da Vinci use to make a remote control resistance wire device? a. Tail ring b. Key c. Notebook d. Glasses",
+                    "ans": "a"
+                },
+                {
+                    "q": "How long does it take for Frank's treasure room door lock to return to its original position? a. One minute b. Several minutes c. Ten minutes d. Half an hour",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which gas was disguised by Leonardo da Vinci as a safe gas for use in magic performances? a. Nitrogen b. Oxygen c. Methane d. Methane",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was Frank's way of death? a. Heart attack b. Stabbing c. Drowning c. Explosion",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which room in the castle did Leonardo da Vinci renovate to carry out his revenge plan? a. Restaurant b. Changing Room c. Treasure Room d. Xibao Hot Spring Room",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which century does the short sword used by Frank in his magic show come from? a. 16th century b. 17th century c. 18th century d. 19th century",
+                    "ans": "a"
+                },
+                {
+                    "q": "What kind of juice did Da Vinci use to replace the water in the fire protection system of the treasure room? a. Apple juice b. Lemon juice c. Passion fruit juice d. Orange juice lining",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why does Da Vinci need to use cleaning agents? a. Clean the room b. Wash clothes c. Wash shoes d. Clean the equipment",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who was the first to reach the treasure trove after Frank's death? a. Yi Yi b. A Shan c. Xiao Qiao d. Mi Er",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Leonardo da Vinci receive the invitation letter from Frank? a. 2022 b. 2023 c. 2024 d. 2021",
+                    "ans": "b"
+                },
+                {
+                    "q": "What color jar was the final camouflage gas used by Leonardo da Vinci? a. Grey b. Red c. Blue d. Brown",
+                    "ans": "d"
+                },
+                {
+                    "q": "Which century does the short sword Frank used to stab himself in the magic show belong to? a. 14th century b. 15th century c. 16th century d. 17th century",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which gas did Leonardo da Vinci disguise as nitrogen for use in balloons during his magic show? a. Ammonia b. Nitrogen c. Methane d. Carbon dioxide",
+                    "ans": "c"
+                },
+                {
+                    "q": "On what occasion did Leonardo da Vinci last attempt to meet Iy? a. Treasure Room b. Dongbao Hot Spring Room c. Castle Hall d. Birthday Banquet",
+                    "ans": "c"
+                },
+                {
+                    "q": "Frank and Gabriel claim that the magical spring they discovered is located in which castle? a. East Fort b. West Fort c. South Fort d. North Fort",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where is the location for Yi Yi to make comments after the magic show? a. Treasure room b. Castle hall c. Lawn d. East castle",
+                    "ans": "a"
+                },
+                {
+                    "q": "What type of location does Frank claim he hopes Saho Island will become in the future? a. Research base b. Business center c. Tourist destination d. Educational institution",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the name of the assistant who investigated Frank and Gabriel's previous work? a. Leon B. Jonathan C. Michelle D. Simon",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was the remote control device installed first in Leonardo da Vinci's revenge plan? a. Electricity meter room b. Fire sprinkler system c. Treasure room windows d. Castle gate",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many minutes does it take for the door lock installed in Frank's treasure room to return to its original position? a. One minute b. Several minutes c. Ten minutes d. Half an hour",
+                    "ans": "b"
+                },
+                {
+                    "q": "What juice did Leonardo da Vinci use to replace the water in the fire protection system? a. Apple juice b. Lemon juice c. Passion fruit juice d. Orange juice lining",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which century does the Gothic short sword used by Frank in his magic show come from? a. 14th century b. 15th century c. 16th century d. 17th century",
+                    "ans": "c"
+                },
+                {
+                    "q": "What gas did Leonardo da Vinci use to disguise himself as a safe gas for his magic show? a. Ammonia b. Nitrogen c. Methane d. Carbon dioxide",
+                    "ans": "c"
+                },
+                {
+                    "q": "On what occasion did Leonardo da Vinci last attempt to recognize Iy? a. Birthday party b. Magic performance c. Castle hall d. Private meeting",
+                    "ans": "d"
+                },
+                {
+                    "q": "Which castle does Frank and Gabriel claim their magical spring is located in? a. East Fort b. West Fort c. South Fort d. North Fort",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the collar decoration of the dress Yi Yi wore at her birthday party? a. Pearl necklace b. Metal chain c. Silk tie d. Feather decoration",
+                    "ans": "d"
+                },
+                {
+                    "q": "What type of location does Frank hope Saho Island will become in the future? a. Research base b. Business center c. Tourist destination d. Educational institution",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the remote control for Da Vinci's resistance wire device made of? a. Tail ring b. Key c. Notebook d. Glasses",
+                    "ans": "a"
+                },
+                {
+                    "q": "Why did Leonardo da Vinci need to use cleaning agents? a. Clean the room b. Wash clothes c. Wash shoes d. Clean the equipment",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which occasion did Leonardo da Vinci and Iy finally try to get to know each other? a. Birthday party b. Magic performance c. Private meeting d. Restaurant dinner",
+                    "ans": "c"
+                },
+                {
+                    "q": "What kind of antique door lock does Frank use in his treasure room? a. Digital password lock b. biometric lock c. medieval antique puzzle lock d. ordinary mechanical lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was Yi Yi used to be a teacher? a. Cleveland University b. Ivy League High School c. Tennessee Elementary School d. Northern High School",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which city did Leonardo da Vinci attend university in? a. Cleveland b. Boston c. New York d. Chicago",
+                    "ans": "a"
+                },
+                {
+                    "q": "What kind of magical spring did Frank and Gabriel brothers claim to have discovered to maintain their youth? a. Lemon Spring b. Bimini Spring c. Baixiang Spring d. Orange lined Spring",
+                    "ans": "b"
+                },
+                {
+                    "q": "What century Gothic short sword is there in Frank's treasure room? a. 14th century b. 15th century c. 16th century d. 17th century",
+                    "ans": "c"
+                },
+                {
+                    "q": "What camouflage gas did Frank use in his magic show? a. Ammonia b. Oxygen c. Methane d. Carbon dioxide",
+                    "ans": "c"
+                },
+                {
+                    "q": "What kind of juice did Leonardo da Vinci use to replace the water in the fire protection system? a. Apple juice b. Lemon juice c. Passion fruit juice d. Orange juice lining",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did Leonardo da Vinci need to use cleaning agents? a. Clean the room b. Wash clothes c. Wash shoes d. Clean the equipment",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the collar decoration of Yi Yi's dress at the birthday party? a. Pearl necklace b. Metal chain c. Silk tie d. Feather decoration",
+                    "ans": "d"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "In which year did Leonardo da Vinci receive an invitation letter from Frank? a. 2021 b. 2022 c. 2023 d. 2024",
+                "What type of door lock is in Frank's treasure room? a. Digital password lock b. biometric lock c. antique puzzle lock d. fingerprint recognition lock",
+                "Leonardo da Vinci plans to seek revenge at Frank's birthday party. On what day is this birthday party? a. July 6th b. August 6th c. September 6th d. October 6th",
+                "What kind of juice did da Vinci use instead of fire water? a. Apple juice b. Lemon juice c. Passion fruit juice d. Orange juice lining",
+                "What prop did Frank use to stab himself during his magic performance in his treasure trove? a. Magic wand b. Magic hat c. Gothic short sword d. Magic card",
+                "What effect do Frank and Gabriel brothers claim their magical spring water has? a. Double one's intelligence b. Keep one youthful forever c. Endless human power d. Let one fly to heaven and escape to earth",
+                "What equipment did da Vinci use to control the resistance wire device? a. Mobile application b. Physical switch c. Remote control d. Voice commands",
+                "What is the collar decoration of the dress that Yi Yi wore at Frank's birthday party? a. Pearl necklace b. Metal chain c. Silk tie d. Feather decoration",
+                "Which castle servant is responsible for opening the door to Frank's treasure room? a. Bondi B. Xiaoqiao C. Ashan D. Mier",
+                "In which field did Frank give up academics and become a businessman? a. Physics b. Biology c. Chemistry d. Mathematics",
+                "Where was the last time Leonardo da Vinci saw Iy? a. Castle lawn b. Castle hall c. Treasure room d. East castle",
+                "What kind of object did Leonardo da Vinci use to make a remote control resistance wire device? a. Tail ring b. Key c. Notebook d. Glasses",
+                "How long does it take for Frank's treasure room door lock to return to its original position? a. One minute b. Several minutes c. Ten minutes d. Half an hour",
+                "Which gas was disguised by Leonardo da Vinci as a safe gas for use in magic performances? a. Nitrogen b. Oxygen c. Methane d. Methane",
+                "What was Frank's way of death? a. Heart attack b. Stabbing c. Drowning c. Explosion",
+                "Which room in the castle did Leonardo da Vinci renovate to carry out his revenge plan? a. Restaurant b. Changing Room c. Treasure Room d. Xibao Hot Spring Room",
+                "Which century does the short sword used by Frank in his magic show come from? a. 16th century b. 17th century c. 18th century d. 19th century",
+                "What kind of juice did Da Vinci use to replace the water in the fire protection system of the treasure room? a. Apple juice b. Lemon juice c. Passion fruit juice d. Orange juice lining",
+                "Why does Da Vinci need to use cleaning agents? a. Clean the room b. Wash clothes c. Wash shoes d. Clean the equipment",
+                "Who was the first to reach the treasure trove after Frank's death? a. Yi Yi b. A Shan c. Xiao Qiao d. Mi Er",
+                "When did Leonardo da Vinci receive the invitation letter from Frank? a. 2022 b. 2023 c. 2024 d. 2021",
+                "What color jar was the final camouflage gas used by Leonardo da Vinci? a. Grey b. Red c. Blue d. Brown",
+                "Which century does the short sword Frank used to stab himself in the magic show belong to? a. 14th century b. 15th century c. 16th century d. 17th century",
+                "Which gas did Leonardo da Vinci disguise as nitrogen for use in balloons during his magic show? a. Ammonia b. Nitrogen c. Methane d. Carbon dioxide",
+                "On what occasion did Leonardo da Vinci last attempt to meet Iy? a. Treasure Room b. Dongbao Hot Spring Room c. Castle Hall d. Birthday Banquet",
+                "Frank and Gabriel claim that the magical spring they discovered is located in which castle? a. East Fort b. West Fort c. South Fort d. North Fort",
+                "Where is the location for Yi Yi to make comments after the magic show? a. Treasure room b. Castle hall c. Lawn d. East castle",
+                "What type of location does Frank claim he hopes Saho Island will become in the future? a. Research base b. Business center c. Tourist destination d. Educational institution",
+                "What is the name of the assistant who investigated Frank and Gabriel's previous work? a. Leon B. Jonathan C. Michelle D. Simon",
+                "Where was the remote control device installed first in Leonardo da Vinci's revenge plan? a. Electricity meter room b. Fire sprinkler system c. Treasure room windows d. Castle gate",
+                "How many minutes does it take for the door lock installed in Frank's treasure room to return to its original position? a. One minute b. Several minutes c. Ten minutes d. Half an hour",
+                "What juice did Leonardo da Vinci use to replace the water in the fire protection system? a. Apple juice b. Lemon juice c. Passion fruit juice d. Orange juice lining",
+                "Which century does the Gothic short sword used by Frank in his magic show come from? a. 14th century b. 15th century c. 16th century d. 17th century",
+                "What gas did Leonardo da Vinci use to disguise himself as a safe gas for his magic show? a. Ammonia b. Nitrogen c. Methane d. Carbon dioxide",
+                "On what occasion did Leonardo da Vinci last attempt to recognize Iy? a. Birthday party b. Magic performance c. Castle hall d. Private meeting",
+                "Which castle does Frank and Gabriel claim their magical spring is located in? a. East Fort b. West Fort c. South Fort d. North Fort",
+                "What is the collar decoration of the dress Yi Yi wore at her birthday party? a. Pearl necklace b. Metal chain c. Silk tie d. Feather decoration",
+                "What type of location does Frank hope Saho Island will become in the future? a. Research base b. Business center c. Tourist destination d. Educational institution",
+                "What is the remote control for Da Vinci's resistance wire device made of? a. Tail ring b. Key c. Notebook d. Glasses",
+                "Why did Leonardo da Vinci need to use cleaning agents? a. Clean the room b. Wash clothes c. Wash shoes d. Clean the equipment",
+                "On which occasion did Leonardo da Vinci and Iy finally try to get to know each other? a. Birthday party b. Magic performance c. Private meeting d. Restaurant dinner",
+                "What kind of antique door lock does Frank use in his treasure room? a. Digital password lock b. biometric lock c. medieval antique puzzle lock d. ordinary mechanical lock",
+                "Where was Yi Yi used to be a teacher? a. Cleveland University b. Ivy League High School c. Tennessee Elementary School d. Northern High School",
+                "Which city did Leonardo da Vinci attend university in? a. Cleveland b. Boston c. New York d. Chicago",
+                "What kind of magical spring did Frank and Gabriel brothers claim to have discovered to maintain their youth? a. Lemon Spring b. Bimini Spring c. Baixiang Spring d. Orange lined Spring",
+                "What century Gothic short sword is there in Frank's treasure room? a. 14th century b. 15th century c. 16th century d. 17th century",
+                "What camouflage gas did Frank use in his magic show? a. Ammonia b. Oxygen c. Methane d. Carbon dioxide",
+                "What kind of juice did Leonardo da Vinci use to replace the water in the fire protection system? a. Apple juice b. Lemon juice c. Passion fruit juice d. Orange juice lining",
+                "Why did Leonardo da Vinci need to use cleaning agents? a. Clean the room b. Wash clothes c. Wash shoes d. Clean the equipment",
+                "What is the collar decoration of Yi Yi's dress at the birthday party? a. Pearl necklace b. Metal chain c. Silk tie d. Feather decoration"
+            ],
+            "a": [
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "c",
+                "d",
+                "c",
+                "b",
+                "c",
+                "a",
+                "b",
+                "d",
+                "b",
+                "c",
+                "a",
+                "b",
+                "c",
+                "b",
+                "b",
+                "d",
+                "c",
+                "c",
+                "c",
+                "a",
+                "a",
+                "c",
+                "a",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c",
+                "d",
+                "b",
+                "d",
+                "c",
+                "a",
+                "c",
+                "c",
+                "c",
+                "b",
+                "a",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "d"
+            ]
+        },
+        {
+            "name": "Honey",
+            "back": "\n你叫蜜儿 ， 44 岁 ， 是一名旅行家， 同时也是 一个作家。你从20 多年前就 开始全球旅行，把所见所闻写成游记，逐渐成了一个畅销书作者。旅行者会参考你的游记        做出行计划，也有很多旅游景点会邀请你去游玩，能在你的书中出现，一定会声名      鹊起， 成为大 热的旅游胜地。\n2023 年7月6 日 ， 你们一行 四人 从美国本土的金港码头登船， 快艇行驶了 2个小时，到达了萨霍岛，你提着行李走上码头，这岛屿终于展现在眼前。萨霍 岛是一个约30 平方公 里的火山岩 海岛 ， 距离大 陆350 公 里 ， 是现在为数不多的美属“印第安人保留地”。因为整个海岛被火山岩覆盖不适宜种植，且岛上没   有稀缺矿物，所以未受到开发和侵略，还居住着一些印第安原住民。\n直到两年前，萨霍岛被弗兰克和加百利兄弟买下，花费大量资金治理开发。他们雇佣了那些印第安原住民，在海岛上建起了一栋城堡，改善了土壤，种植了大片果园。短短两年时间，文明在这个原本遥远荒凉的海岛上蔓延开来。\n你们一行四人都是社会精英和行业领袖，这次是受邀前来参加弗兰克先生的生日宴会。弗兰克先生邀请你们提前一个月来到海岛，另一个目的是希望你们参观体验整个萨霍岛，他打算在将来大力发展旅游业，让这个岛屿成为旅游的新兴地。\n你年轻时就曾经听闻过弗兰克 的大名 ， 在90 年代他曾是知名的商人和慈善 家， 而他 的妻子伊伊， 是你少女时期就 读的青藤中学的老 师， 那时她就已经 30岁了。 弗兰克、 加百利、 伊伊在1996 年底淡出了人们的视野， 坊间都 传说他们隐居了。\n2021 年， 消失了 20 多年 的弗兰克和加百利突然高调地 出现 ， 让大家震惊的是 ， 两兄弟和伊伊的容貌居然没有任何衰老的迹象。他们宣称在萨霍岛发现了一处神奇      的泉水，能让人永葆青春长生不老，还能治愈各种疾病。\n萨霍岛的后山被开发成了一大片果园，其中种植着村橘、拧檬、苹果、百香果等水果。此后，他们推出一种健康饮品名叫“比密尼泉”，做成不同的果味销往内陆，宣传这就是那让人青春永驻的泉水。  “比密尼泉”一时间声名大噪，深受名流们的追捧，饮用这种饮品成了风潮，兄弟俩赚了不少钱。\n你接受过良好教育，是个坚定的唯物主义，对于这种神乎其神的“秘法＂持怀疑的态度，这次来到萨霍岛，也是想搞清楚他们青春永驻的秘密，也顺便给你的下一部游记积累素材。很快你们被佣人带领到城堡前，这是一个宏伟华贵的城堡，每天傍晚都能欣赏到绝美的海边落日。\n城堡大门前站着一位风姿绰约的女人迎接你们，这就是弗兰克的妻子伊伊。她有种摄人心灵的美，淡雅的妆容，白暂的皮肤，温柔的眼睛如一潭秋水。她轻扬嘴角，展现出恰到好处的微笑，拥有高贵又端庄的气质。\n她微笑着说：    “欢迎各位贵宾来到萨霍岛，我叫伊伊，岛主弗兰克是我的丈夫。他与弟弟 加百利正在美国本土进行巡回演讲 ， 将在一个月后的8月6 日 回来 ， 届时将举行弗兰克先生的生日宴会。这一个月就请各位在海岛上尽情参观游玩，我们   将会给予各位上宾的招待。\"\n接下来的一个月，你们在岛上四处游玩参观。岛上的城堡是双子式的，由两部分组成，通过一条艺术长廊连接，分为东堡和西堡，两兄弟分别居住在城堡两侧。你们住在弗兰克的东堡中，而加百利的西堡平时只有他一个人居住。\n弗兰克 有一个藏宝间 ， 存放着他收藏的各种奇珍异宝 ， 其中有 一把 16 世纪的哥特式短剑，剑柄镶嵌宝石，剑身锋利无比。这把剑是花大价钱拍卖回来的，弗    兰克将它视作珍宝。\n这个藏宝间被设置成恒温恒湿的密封房间，房间中一侧是一整面落地玻璃窗，从院内草坪可以看见藏宝间内的宝物，像是玻璃橱窗一样供人参观。\n伊伊说： \" 8 月 6 日 的生日 晚宴 过后 ， 弗 兰克 先生便会在这里为大家表演魔术，到时候这个房间会布置满气球，弗兰克先生对气球可有着特别的钟爱呢。还    会准备好精美的生日蛋糕和艺术蜡烛，魔术表演完后弗兰克先生会亲自点亮这些    蜡烛庆生。\n藏宝间的门锁可是中世纪的古董，上面设置了几块小拼图。门外可以用钥匙    打开， 但如果从门内反锁了 门， 锁上的拼图便会自 动打 乱。 如果想要从房间里出来，就要将门锁上的拼图归位，虽然难度不大，但也需要几分钟才能完成。这彰   显着当时欧洲贵族们的生活乐趣，弗兰克先生对这种巧思十分着迷。魔术表演时   为了显示弗兰克先生没有和其他人串通，会从里面锁上门再向大家表演。这一个   月藏宝间不会上锁，各位可以随时来参观。＂\n城堡外围修建了一圈人工河，里面游着优雅的天鹅，出口由拱桥连接。城堡西北侧有一个跑马场，马原中养了很多名贵的马，包括形似翩翩公子的安达卢西亚马、世界名驹之首的阿拉伯马等等。\n城堡西侧挨着岛上 最高的活火山， 火山高 11 00 米， 山顶 有一个 自然形成的温泉泉眼，这就是比密尼泉。泉水被引入城堡，在东堡和西堡分别建了室内温泉。    弗兰克只在自己东堡的房间中建了一个小型温泉房，而加百利的西堡则建造了一    个大型仿自然景观的室内温泉。\n一个 月后的今天 ( 8月6 日 ） ， 弗兰克 与 加百利兄弟俩回到了 岛上 ， 今天就是弗兰克的生日宴会，晚上你们来到富丽堂皇的大厅，长桌上巳经准备好了珍馈佳肴，身边的印第安佣人服侍你们入座。\n弗兰克看起来40 岁左右的样子， 满头的褐发梳得一丝不苟，戴 着金丝边眼镜， 脖子上佩戴着巴洛克式花纹的领巾，一派上流社会精英的模样，绅士地与每个人握   手寒喧。伊伊换上了一套隆重的礼服，青色的缎面裙摆下配着蕾丝花边，领部的羽毛装 饰和颈间的丝巾相得益彰，整个人有一种雍容华贵的美感。\n加百利却给人一种轻浮的印象，穿着紫色的西装外套和鹅黄色的长裤，高领衬衣却是墨绿色的，还戴着一副深茶色的墨镜，整个人看起来浮夸极了。邦迪伸出手打算与他握手，而加百利却径直走到自己的座位坐下，完全不理会你们。同为手 足，弗兰克谦逊有礼，而加百利却这么傲慢目中无人。\n大家都入座后，坐在主座的弗兰克举起酒杯，用叉子轻敲杯子，示意大家安静。弗兰克：欢迎大家来到萨霍岛，因为我的生日邀请大家远道而来，真是辛苦了，希望此次的萨霍岛之行，能让你们收获快乐，于杯。\n大家纷纷举杯。\n弗兰克：下面向大家介绍一下，这位女士是我美丽的妻子伊伊。\n伊伊：我是伊伊，听闻各位都曾经在克利夫兰生活过，那也曾是我的老家   呢，但巳经很多年没有回去过了，真是十分怀念。我与各位客人巳经很熟悉了， 这一个月相处得非常开心。\n蜜儿：伊伊夫人，还记得我吗，我在青藤中学就读时曾经…  弗兰克：\t（打断）这位是我的弟弟加百利。\n加百利：你们好，这一路的奔波可累坏我了，还是回到岛上身心放松。该死！阿杉，胡椒粉为什么没有放回原位！\n阿杉：抱歉，加百利先生，我这就拿来。\n弗兰克：加百利，不要失礼。抱歉，我弟弟就是这样对细节比较执着。阿杉是我们的女佣，她可是这岛上的原住民，大家有什么问题随时找她。\n邦迪 ： 大家好， 我是 CBS 电视台的 记者 ， 大家可以叫我邦迪。\n弗兰克：太谦虚了，这么多年没见，你巳经成为了美国最著名的金牌记者， 还能给我这个老朋友面子，真是太荣幸了。\n加百利：邦迪？真怀念当年我们一起共事的那段时光，再次见到你太开心\n了。\n邦迪：弗兰克和加百利先生，好久不见风采依旧，你们可是我的职业导师呢，我也没想到还有重逢的一天。\n蜜儿：你们好，我叫蜜儿，是一名游记作者，这次来到萨霍岛，给我的下一本游记积累了不少素材呢。\n达文西：我也曾拜读过你的游记，真是非常精彩。我叫达文西，是一名学者，目前在生物科学机构任职。\n弗兰克：达文西先生是一位非常优秀的生物科学家，被誉为“能改变世界的男人＂。想起来我大学时的专业也是生物学呢，可就没有达文西先生这样的学术造诣了。\n小乔：大家可以叫我小乔，我是一名机械工程师，来自“若波特动力”公司。\n弗兰克：小乔先生，贵公司有没有托你带给我什么东西。小乔：我带来了一个箱子，巳经让佣人送去了书房。\n弗兰克：谢谢了。这一个月大家在岛上感觉怎么样，我们可是花费了很大的\n精力开发萨霍岛，希望将来这里可以成为新兴的旅游胜地，还需要各位多多帮忙    宣传。\n邦迪：萨霍岛的确是个值得开发的宝藏岛屿，不仅拥有原始的风貌，现在又有了现代化的发展，真是未来可期。前几天我还去了海岛西侧的“鱼跃崖“看日落，那是我见过最美的景色。\n伊伊：哦？邦迪先生去了“鱼跃崖＂？这个地方还没有通路，连本地人都很   少去， 看来你还真是对萨霍岛十分喜爱， 连这么偏远的地方都找得到。\n邦迪 ： 我只是随便逛逛 ， 呃…\n阿杉：夫人，下一道莱准备好了。\n伊伊： 请端上来吧 ， 这道海藻是 萨霍岛附 近海域的特产， 我们 巳经 将这种海藻研制成了绿色健康食品，请大家尝尝。\n弗兰克：相信伊伊向大家介绍过这次生日宴会了，晚宴结束后，请大家移步到城堡外的草坪，观赏我为大家准备好的魔术表演，相信一定会让你们感到惊喜 的。\n加百利：我可不想看什么魔术，我太累了，要回去休息泡澡了，那就祝你生日快乐吧，我亲爱的哥哥。\n伊伊：之后我们还为大家安排了酒会，阿杉，请通知佣人们，晚宴结束后我会布置酒会的工作给大家。\n弗兰克：再次欢迎各位贵宾，于杯。\n\n\n\n晚宴结束后，你和小乔、达文西、邦迪一起来到院内的草坪，伊伊和阿杉并没有来。邦迪支起摄影机对着藏宝间的落地窗，大家都等待着弗兰克的魔术表演，此时天巳经黑了，你们距离城堡大概十米的距离，藏宝间内灯光大亮。\n整个藏宝间里密密麻麻地布满了各色的气球，靠窗的桌上放着一个精美的生日蛋糕，蛋糕旁放着许多艺术造型的蜡烛，在弗兰克表演完魔术之后他会亲自点亮这些蜡烛庆祝生日。\n你们看见弗兰克打开门进入藏宝间，反锁了门。\n整个房间都充斥着气球，只能通过一些缝隙看清房内的艺术品。\n弗兰克走了几步到 了 房间正 中央的魔术表演区， 向大家深鞠一躬 ， 神态自若地从身后的展示架上取下那柄短剑。突然，他举起短剑，猛地刺入自己的胸膛，然后        浑身无力地倒了下去。\n你们都被这一情形惊住了，这时，整个东堡的灯光熄灭了，你们迟疑了一会发觉不对劲，连忙借着月光向城堡跑去，在穿过东侧拱桥的时候，听见了巨大的爆炸声。\n几分钟后，你们来到藏宝间的门口．\n没多久阿杉赶到了，听了众人的描述后她拿出钥匙打开了藏宝间的门。\n借着窗外的月光你们看见藏宝间内一片狼藉，弗兰克倒在门口的地上，浑身焦黑血肉模糊，胸口插着那把中世纪的短剑。\n这时伊伊娠媚来迟，也走进了藏宝间。\n你们连忙查看弗兰克的情况，发现他巳经死了。\n大家都一脸惊愕，这时伊伊走到弗兰克的尸体旁，微笑着说：  “这魔术表演真是太精彩了！弗兰克果然掌握了永生的税法，请大家多多帮我们宣传比密尼泉的神奇功效。”说罢独自鼓起掌来。\n伊伊说出的这番话，加上她洋溢着的微笑，在这种场景下显得荒诞而又诡异。  大家猜测制造这起事故的人可能在你们之中，立刻将城堡大门紧锁，以防凶手\n逃走或者发生其他意外。\n众人想起应该去告知加百利，便一起来到连接城堡两侧的艺术长廊，发现门巳经被锁上了。阿杉告诉大家，加百利先生十分讨厌别人打扰他休息，每晚都会关闭手机并让佣人锁上门，这门是关门即锁的，只有里面的人才能打开。\n因为城堡十分大，呼喊声无法传递到加百利的房间，你们决定等第二天一早再通知加百利，先由你们调查一下刚刚到底发生了什么。\n随着你们六人的深入探索，你仿佛陷入了一个更深的谜团之中，你看着月色下的萨霍岛，思绪翻涌，从前的往事浮现出脑海……\n\n此次同行者中有两位是你的旧相识，他们就是达文西和小乔。\n你出生在加拿大和美国交界处伊利湖边的一个小镇，你和父亲是生活在伊利 湖边的渔猎人，旺季在湖上捕鱼为生，闲时也会带游客领略伊利湖的风景。\n父亲是一个朴实的渔猎人，乐于每天在伊利湖上钓鱼泛舟，偶尔进城也只是 采购一些生活必需品。他最大的兴趣就是去城里观看赛马，有一次他赌中了一匹 优秀的赛马，不仅获得了奖金，还得到了赛事颁发的纪念奖杯。\n在湖边长大的你对于游泳、捕鱼、垂钓都十分在行，天天奔跑在太阳下晒出 一身小麦色，是个名副其实的“野＂姑娘。但父亲不想将你拘束在这乡下地方， 便将你送去克利夫兰这个大城市上学，希望你努力跨越阶级成为人上人。\n你就读于青藤中学，不负父亲期望，成绩一直非常优异。同时因为你的善良、乐观、幽默，也受到了同学和老师的喜爱。\n伊伊正是你的任课老师 ， 她是个30 多岁 美丽的 女人， 总穿 着得体的裙子， 用丝巾在颈间系成蝴蝶结的样式，显得气质高贵。你很喜欢她，同时你也知道了她    的哥哥是著名的大学教授贝尔。\n你从小和野生动物为伴，见惯了天清气朗生态和谐的伊利湖，到了大城市后 发现这里人多车多，尾气污染环境，野生动物领地被人类侵占，你立志要为了改 变世界而奋斗。\n此后你参加了很多环保和慈善的学生组织，成为了学生们的精神领袖。你组 织的多次环保展览和小型慈善募捐活动都成果卓著，渐渐成了校园里的名人。\n有一次，你在克利夫兰大学进行环保宣传时，遇到了一位让你终生难忘的人。他叫达文西，他是生物系贝尔教授的得力助手。达文西阳光帅气，并且是一位优秀的生物系研究生，你被他的博学和开朗吸引了。\n达文西就是你心目中那个优秀的伴侣，你逐渐爱上了他，希望能进入克利夫兰  大学与他一起奋斗。\n1996 年9月 ， 美国劝募 会组织了一 次史无前例的慈善募 捐活动 ， 他们宣称会将善款用于濒危动物保护、妇女儿童保护、亚非拉贫困国家的医疗设施、海洋垃圾处  理等许多地方。这激励了将自由民主、拯救世界烙印在心的美国人，人们像打了鸡  血一样鼎力支持，成千上万的青年人报名成为志愿者。\n而17 岁的你就 是其中一个 ， 你联系各 大高校 ， 将学生组 织们团结起 来， 走上街头散发传单募集善款。这次的活动搞得轰轰烈烈，美国劝募会答应将其中一笔善款  捐献给克利夫兰大学作为学术研究基金，而作为回报会在志愿者中选择品学兼优的  学生保送克利夫兰大学。作为积极分子的你自然是第一人选，知道这个消息后你开  心极了，无比期待进入大学后与达文西一起倘祥在学术的海洋。\n克利夫兰广场上人满为患，你巳经在这里忙碌好几天了。募捐者只需要花费一美元，就能得到一只写上名字的专属气球。\n广场上放置着好几个集装箱，里面都是此次活动要使用的气球，大概有几百万个，还有好几辆气罐车来回运输给气球充气的氮气。氨气是一种无色无味的惰性气体，不会发生燃烧和爆炸等情况，是一种非常安全的气体。同时密度比空气小，用氮气填充的气球会漂浮在空中。\n你在广场上重复地给气球充气打结，手都磨破了，此后形成了冻疮，每年冬天都会复发，在你的手指留下了永久的疤痕。\n9月26 日 ， 在街上宣传募捐的你因为寒 冷和伙伴们来到乔纳森公寓一楼的大厅取暖，见到了老板的儿子小乔，他是个健谈又友善的人，除了帮家里经营公寓还在       汽修店打工。\n没想到的是，贝尔教授那天竟然死在了公寓里，你十分配合地向警察说明了一切，同时也在心中隐隐担心达文西，因为贝尔教授是他的良师益友，你猜他一定备受打击。\n9月27 日 ， 整个中央街 区人 头攒动， 都在期待慈善 活动的高潮部分。 那天的天空黑压压的，下午下起了一场暴雨，气温也骤然下降。\n傍晚你接到电话通知，父亲出了意外。你连忙赶回家，路上交通十分拥堵， 听说各大主于道都出现了车祸。\n你赶回家时，只看到了父亲冰冷的尸体。原来，那天父亲接待一位游客去伊 利湖上游览，但湖上的黑雁不知为何突然受惊冲向小船，父亲和游客被冲撞之后 失去平衡跌入湖中，小船也倾覆沉入湖底。\n父亲马上用身上的卫星电话报警求救，救援队火速赶到，却因为湖面有很多异物漂浮导致没有第一时间找到他们，三个小时后，父亲和那位游客最终力竭淹 死在冰冷的湖水中。\n你趴在父亲遗 体上放声大哭， 哭诉命运为何如此不公 ， 让你失去了 最后一位亲人。\n你继承了父亲的渔场和遗产，办完葬礼后回到克利夫兰，毕竟学业还要继续。慈善活动巳经办完，你等待着被保送进克利夫兰大学。\n然而你却接到通知，克利夫兰大学取消了你的保送资格。坏消息一个接着一个，那段时间你过得煎熬极了。\n12月25 日 ， 你收到那个“推理大会＂的邀请， 事关贝 尔教授， 你想为达文西搞清楚那起案件的真相，便同意了邀约。事后你得知杀死贝尔教授的凶手竟然就    是美国劝募会的主席弗兰克，这让你震惊无比，思考了几天之后打算将这个消息    告诉达文西。\n1 2 月30 日 ， 你在酒吧找到了喝 得烂醉的达文西， 他看起来十分 憔悴 ， 随后你将他带回他的公寓休息。\n达文西是贝尔教授的得力助手，贝尔教授的科研成果都有达文西的一份功劳，是公认能传承贝尔教授衣钵的年轻学者。\n看着他这么痛苦的样子，你心疼极了，将他拥入怀中安慰。达文西似乎也被你感动，低头深深地吻住了你，你也温柔地回应了他。\n那晚，你终于和这个你爱的男人融为一体，缠绵过后，酒醉的他拥抱着你喃喃地唤道： “伊伊…“你忽然像被风雪侵蚀一般浑身冰冷，他竟然叫着另一个女人的名字。而这个女人正是你一直敬重的老师，伊伊比达文西大十几岁，难道他们有什么不为人知的不伦之情？\n忽然你看见他外套的口袋露出一个信封，你轻轻打开，看见是一封婚礼请柬，上面的名字是＂弗兰克＆伊伊\"。\n你的眼泪不可遏制地流了下来，难道自己只是个替代品？\n一向要强的你不能接受自己做他人的配角，即便你如此深爱达文西，也不愿再沉沦下去。你将一枚黑雁图案的银币放在桌上，自己手中抓紧了另一枚，便离开了达文西的家。\n黑雁是伊利湖上的野生动物，它们一生只会有一个伴侣，黑雁还能适应各种天气，飞行高度很高。它们虽然食素，但却不会被凶猛的飞禽所威吓。你喜欢黑雁的忠贞和桀势，同时它们也被看作是伊利湖的精神象征。\n你漫无目的地走在街上，不知觉中哭成一个泪人，忽然听见有人说：    “蜜儿，你怎么了，为什么哭？“你抬头看见这人是小乔，看着他关切的眼神，这段    时间的经历一起涌上心头，你扑进他的怀里放声大哭，而他只是轻声安慰着你。\n此后小乔经常约你喝咖啡，说笑话逗你笑，这时你才知道，他的父亲也刚刚去世。有了小乔的陪伴，你被他的积极乐观所感染，也渐渐恢复了往日的欢乐， 你感受到了久违的被关爱的感觉。\n一天你注意到小乔的包里装了很多水银体温计，你很奇怪这是为什么，但毕竟他没有主动告诉你，你也没有询问他。\n不久后小乔向你表达爱意，但你犹豫之后拒绝了他。\n没能进入克利夫兰大学是你最大的遗憾，你打算继续学习用自己的努力考入大学。也希望在汽修店打工的小乔能继续努力，成为一个优秀的人。\n你和他定下三年之约，如果有缘，三年后在你家乡的伊利湖边再见。\n\n这三年，你去了加拿大投奔了亲戚，并在加拿大读了大学。\n很快三年之约到了，但你始终无法确定自己心中到底爱的是谁。你来到伊利湖边，看见小乔捧着一束玫瑰站在码头上，他竟然还爱着你，一直期盼着你的到来， 你被他的这份深情感动，不禁泪流满面地走到他身后说：\t“这束花，是送给我的吗？”\n小乔惊喜地一把将你拥入怀中，不停地诉说着这三年对你的思念，他现在巳经成为了一名优秀的机械工程师，这全都是为了你做出的努力。\n2000 年你们结了婚 ， 小乔在不断努力中成 为了杰 出的工程师， 他的公 司“ 若波特动力”主要项目是研发制造业中的机械生产工具，用机械提高生产力，同时还开        始研发智能科技项目。\n婚后的生活非常幸福，你很喜欢鲜花，却唯独不喜欢百合花，你觉得百合花的香味太过浓郁，会影响睡眠。知道了这点的小乔每天都会在你的窗前插上一束你喜欢的玫瑰花，小乔对你的爱时刻包围着你，你彻底被他融化了，从那时起，你巳经完全释怀了与达文西的那段感情，全心全意地爱上了小乔。\n你也终于找到自己喜爱的职业，那就是做一个游记作家。\n但人的感情却是 最不牢靠的 ， 200 8年， 你与小乔多年 的婚姻最终还是走向了结束，你们离婚了。\n没想到20 多年 后能重遇这 两个 与 你情感 纠葛 的男人， 你并没有与他 们相认， 他们似乎也默契地假装不认识你。\n\n你静心梳理好过往至今的事情，最终将记忆定格在今日案发前。\n20: 00 晚宴结束， 弗兰克 去更衣间换 衣服。\n20:  05 众人从东边的大门去往南边的草坪。\n20: 09 邦迪 拿着摄影设备 赶到。\n20: 10弗兰克进 入藏宝间 ， 并用剑刺入自 己的 胸膛。\n20: 12你们正在疑惑到 底怎么回 事， 突然， 东堡停电了。 众人发觉不对劲 ， 便一起向城堡跑去。\n20: 13 巨大的爆炸声从城堡内传来。\n20: 15 你们四人到达 藏宝间门 口。\n20: 17 佣人阿杉从西堡的方向跑来， 随后她马上拿出钥匙 打开了藏 宝间的 门 ， 你们发现了弗兰克的尸体。\n20: 18伊伊最后一个到达 ， 站在弗兰克的尸体身边说 出了那些诡异的话。你的诸多疑惑都没有解决，又发生了凶案，你决定搞清楚这一切。\n\n众人决定再次到处看看，看看能不能找到一些有价值的线索。\n\n",
+            "r_q": [
+                {
+                    "q": "How many parts does Frank's castle consist of? a. One part b. Two parts c. Three parts d. Four parts",
+                    "ans": "b"
+                },
+                {
+                    "q": "What style is the door lock in the treasure room? a. Modern automatic lock b. Classical mechanical lock c. Medieval puzzle lock d. Electronic password lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is one of the treasures in Frank's treasure room? a. Jewelry b. Antique map c. 16th century Gothic short sword d. Roman era coins",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which brother has a large indoor hot spring in their castle that mimics natural scenery? a. Frank B. Gabriel C. Iyi D. Ashan",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who is a reporter from CBS Television? a. Bondi B. Xiao Qiao C. Da Vinci D. Frank",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the date of Frank's birthday party? a. July 6th b. August 6th c. September 6th d. October 6th",
+                    "ans": "b"
+                },
+                {
+                    "q": "How is the connection between the east and west fortresses of Saho Island? a. Underground passage b. Elevated bridge c. Art gallery d. Aerial cable car",
+                    "ans": "c"
+                },
+                {
+                    "q": "What weapon did Frank use to stab himself? a. Long sword b. Dagger c. Short sword d. Spear",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Frank buy his Gothic short sword? a. Underground markets b. Private collectors c. Auctions d. Antique shops",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which employee did Gabriel show impatience towards? a. Iyi b. Ashan c. Bondi d. da Vinci",
+                    "ans": "b"
+                },
+                {
+                    "q": "In which year was Mier disqualified from being recommended by the University of Cleveland? a. 1996 b. 1997 c. 1998 d. 2000",
+                    "ans": "b"
+                },
+                {
+                    "q": "What weapon did Frank use to self injure during the magic show? a. Long sword b. Dagger c. Short sword d. Spear",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which field did Leonardo da Vinci work? a. Mechanical Engineering b. Biological Science c. Computer Science d. Environmental Science",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which character was particularly fixated on details at Frank's birthday party? a. Da Vinci B. Gabriel C. Bondi D. Xiao Qiao",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are the unique landscapes outside the castle on Sako Island? a. Tropical rainforest b. Artificial lake c. Racecourse d. Artificial river",
+                    "ans": "d"
+                },
+                {
+                    "q": "Which company's mechanical engineer is Xiao Qiao from? a. If Porter Power b. Cleveland Machinery c. Auto Repair Power d. High tech Machinery",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where did Mier and Xiao Qiao agree to meet again in three years? a. Cleveland b. Lake Erie c. Jonathan Apartments d. Canada",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which name did Leonardo mistakenly call out on the intimate night after drinking with Mir? a. Mier b. Yiyi c. Bell d. Xiao Qiao",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which flower does Mier dislike because its fragrance is too strong? a. Rose b. Lily c. Tulip d. Chrysanthemum",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Mi'er respond to Xiaoqiao's expression of love to her? a. Accept immediately b. Reject c. Request time to consider d. No response",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are the unique landscapes around the castle on Saho Island? a. Tropical rainforest b. Artificial lake c. Racecourse d. Artificial river",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where did Frank buy his Gothic short sword? a. Underground markets b. Private collectors c. Auctions d. Antique shops",
+                    "ans": "c"
+                },
+                {
+                    "q": "What style is the door lock in the treasure room? a. Modern automatic lock b. Classical mechanical lock c. Medieval puzzle lock d. Electronic password lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which brother has a large indoor hot spring in their castle that mimics natural scenery? a. Frank B. Gabriel C. Iyi D. Ashan",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who is a reporter from CBS Television? a. Bondi B. Xiao Qiao C. Da Vinci D. Frank",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the date of Frank's birthday party? a. July 6th b. August 6th c. September 6th d. October 6th",
+                    "ans": "b"
+                },
+                {
+                    "q": "How is the connection between the east and west fortresses of Saho Island? a. Underground passage b. Elevated bridge c. Art gallery d. Aerial cable car",
+                    "ans": "c"
+                },
+                {
+                    "q": "What weapon did Frank use to stab himself? a. Long sword b. Dagger c. Short sword d. Spear",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which employee did Gabriel show impatience towards? a. Iyi b. Ashan c. Bondi d. da Vinci",
+                    "ans": "b"
+                },
+                {
+                    "q": "In which year was Mier disqualified from being recommended by the University of Cleveland? a. 1996 b. 1997 c. 1998 d. 2000",
+                    "ans": "b"
+                },
+                {
+                    "q": "On which day did Frank hold his birthday party? a. July 6th b. August 6th c. September 6th d. October 6th",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of fruit is not grown in the orchards of Sako Island? a. Apple b. Orange c. Village Orange d. Passion Fruit",
+                    "ans": "b"
+                },
+                {
+                    "q": "In which field is Ei's brother Bell a professor? a. Biology b. Physics c. History d. Mathematics",
+                    "ans": "a"
+                },
+                {
+                    "q": "In which city has Mier's university recommendation been revoked? a. Cleveland b. New York c. Boston d. Chicago",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where did Mier and Xiao Qiao agree to meet again in three years? a. Lake Erie b. Saho Island c. Canada d. Golden Port Terminal",
+                    "ans": "a"
+                },
+                {
+                    "q": "What type of door lock design is in Frank's treasure room? a. Electronic password lock b. Classical mechanical lock c. Modern automatic lock d. Medieval puzzle lock",
+                    "ans": "d"
+                },
+                {
+                    "q": "Which company does Xiao Qiao work for? a. High tech machinery b. Cleveland machinery c. Newport power d. Auto repair power",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Da Vinci's professional field? a. Mechanical Engineering b. Environmental Science c. Biological Science d. Computer Science",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which date did Frank's magic show take place? a. July 6th b. August 6th c. September 6th d. October 6th",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of accident did Mier's father die in? a. Fire b. Car accident c. Drowning d. Falling",
+                    "ans": "c"
+                },
+                {
+                    "q": "At what age did Mier start traveling globally and become a bestselling author? a. 20 years old b. 24 years old c. 30 years old d. 44 years old",
+                    "ans": "a"
+                },
+                {
+                    "q": "How many years ago did Frank and Gabriel brothers buy Saho Island? a. 1 year ago b. 2 years ago c. 3 years ago d. 5 years ago",
+                    "ans": "b"
+                },
+                {
+                    "q": "What time is Frank's birthday party scheduled to end? a. 19:00 b. 20:00 c. 21:00 d. 22:00",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of lock is Frank's treasure room? a. Electronic password lock b. Classical mechanical lock c. Modern automatic lock d. Medieval puzzle lock",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the name of Xiao Qiao's company? a. If Porter Power b. Cleveland Machinery c. Auto Repair Power d. High tech Machinery",
+                    "ans": "a"
+                },
+                {
+                    "q": "What are the benefits of the spring water on Saho Island claimed by Frank and Gabriel? a. Disease cure b. Maintaining youthfulness c. Enhancing physical strength d. Improving intelligence",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did Mier and Xiaoqiao make a three-year agreement? a. Lake Erie b. Saho Island c. Canada d. Golden Port Terminal",
+                    "ans": "a"
+                },
+                {
+                    "q": "Why doesn't Mier like lilies? a. The color is not attractive, the fragrance is too strong, the price is expensive, and there are frequent allergies",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Frank's magic show take place? a. 20:00 b. 20:05 c. 20:10 d. 20:12",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who discovered Frank's body? a. Yi Yi b. Gabriel c. Ashan d. Xiao Qiao",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "How many parts does Frank's castle consist of? a. One part b. Two parts c. Three parts d. Four parts",
+                "What style is the door lock in the treasure room? a. Modern automatic lock b. Classical mechanical lock c. Medieval puzzle lock d. Electronic password lock",
+                "What is one of the treasures in Frank's treasure room? a. Jewelry b. Antique map c. 16th century Gothic short sword d. Roman era coins",
+                "Which brother has a large indoor hot spring in their castle that mimics natural scenery? a. Frank B. Gabriel C. Iyi D. Ashan",
+                "Who is a reporter from CBS Television? a. Bondi B. Xiao Qiao C. Da Vinci D. Frank",
+                "What is the date of Frank's birthday party? a. July 6th b. August 6th c. September 6th d. October 6th",
+                "How is the connection between the east and west fortresses of Saho Island? a. Underground passage b. Elevated bridge c. Art gallery d. Aerial cable car",
+                "What weapon did Frank use to stab himself? a. Long sword b. Dagger c. Short sword d. Spear",
+                "Where did Frank buy his Gothic short sword? a. Underground markets b. Private collectors c. Auctions d. Antique shops",
+                "Which employee did Gabriel show impatience towards? a. Iyi b. Ashan c. Bondi d. da Vinci",
+                "In which year was Mier disqualified from being recommended by the University of Cleveland? a. 1996 b. 1997 c. 1998 d. 2000",
+                "What weapon did Frank use to self injure during the magic show? a. Long sword b. Dagger c. Short sword d. Spear",
+                "In which field did Leonardo da Vinci work? a. Mechanical Engineering b. Biological Science c. Computer Science d. Environmental Science",
+                "Which character was particularly fixated on details at Frank's birthday party? a. Da Vinci B. Gabriel C. Bondi D. Xiao Qiao",
+                "What are the unique landscapes outside the castle on Sako Island? a. Tropical rainforest b. Artificial lake c. Racecourse d. Artificial river",
+                "Which company's mechanical engineer is Xiao Qiao from? a. If Porter Power b. Cleveland Machinery c. Auto Repair Power d. High tech Machinery",
+                "Where did Mier and Xiao Qiao agree to meet again in three years? a. Cleveland b. Lake Erie c. Jonathan Apartments d. Canada",
+                "Which name did Leonardo mistakenly call out on the intimate night after drinking with Mir? a. Mier b. Yiyi c. Bell d. Xiao Qiao",
+                "Which flower does Mier dislike because its fragrance is too strong? a. Rose b. Lily c. Tulip d. Chrysanthemum",
+                "How did Mi'er respond to Xiaoqiao's expression of love to her? a. Accept immediately b. Reject c. Request time to consider d. No response",
+                "What are the unique landscapes around the castle on Saho Island? a. Tropical rainforest b. Artificial lake c. Racecourse d. Artificial river",
+                "Where did Frank buy his Gothic short sword? a. Underground markets b. Private collectors c. Auctions d. Antique shops",
+                "What style is the door lock in the treasure room? a. Modern automatic lock b. Classical mechanical lock c. Medieval puzzle lock d. Electronic password lock",
+                "Which brother has a large indoor hot spring in their castle that mimics natural scenery? a. Frank B. Gabriel C. Iyi D. Ashan",
+                "Who is a reporter from CBS Television? a. Bondi B. Xiao Qiao C. Da Vinci D. Frank",
+                "What is the date of Frank's birthday party? a. July 6th b. August 6th c. September 6th d. October 6th",
+                "How is the connection between the east and west fortresses of Saho Island? a. Underground passage b. Elevated bridge c. Art gallery d. Aerial cable car",
+                "What weapon did Frank use to stab himself? a. Long sword b. Dagger c. Short sword d. Spear",
+                "Which employee did Gabriel show impatience towards? a. Iyi b. Ashan c. Bondi d. da Vinci",
+                "In which year was Mier disqualified from being recommended by the University of Cleveland? a. 1996 b. 1997 c. 1998 d. 2000",
+                "On which day did Frank hold his birthday party? a. July 6th b. August 6th c. September 6th d. October 6th",
+                "What kind of fruit is not grown in the orchards of Sako Island? a. Apple b. Orange c. Village Orange d. Passion Fruit",
+                "In which field is Ei's brother Bell a professor? a. Biology b. Physics c. History d. Mathematics",
+                "In which city has Mier's university recommendation been revoked? a. Cleveland b. New York c. Boston d. Chicago",
+                "Where did Mier and Xiao Qiao agree to meet again in three years? a. Lake Erie b. Saho Island c. Canada d. Golden Port Terminal",
+                "What type of door lock design is in Frank's treasure room? a. Electronic password lock b. Classical mechanical lock c. Modern automatic lock d. Medieval puzzle lock",
+                "Which company does Xiao Qiao work for? a. High tech machinery b. Cleveland machinery c. Newport power d. Auto repair power",
+                "What is Da Vinci's professional field? a. Mechanical Engineering b. Environmental Science c. Biological Science d. Computer Science",
+                "On which date did Frank's magic show take place? a. July 6th b. August 6th c. September 6th d. October 6th",
+                "What kind of accident did Mier's father die in? a. Fire b. Car accident c. Drowning d. Falling",
+                "At what age did Mier start traveling globally and become a bestselling author? a. 20 years old b. 24 years old c. 30 years old d. 44 years old",
+                "How many years ago did Frank and Gabriel brothers buy Saho Island? a. 1 year ago b. 2 years ago c. 3 years ago d. 5 years ago",
+                "What time is Frank's birthday party scheduled to end? a. 19:00 b. 20:00 c. 21:00 d. 22:00",
+                "What type of lock is Frank's treasure room? a. Electronic password lock b. Classical mechanical lock c. Modern automatic lock d. Medieval puzzle lock",
+                "What is the name of Xiao Qiao's company? a. If Porter Power b. Cleveland Machinery c. Auto Repair Power d. High tech Machinery",
+                "What are the benefits of the spring water on Saho Island claimed by Frank and Gabriel? a. Disease cure b. Maintaining youthfulness c. Enhancing physical strength d. Improving intelligence",
+                "Where did Mier and Xiaoqiao make a three-year agreement? a. Lake Erie b. Saho Island c. Canada d. Golden Port Terminal",
+                "Why doesn't Mier like lilies? a. The color is not attractive, the fragrance is too strong, the price is expensive, and there are frequent allergies",
+                "When did Frank's magic show take place? a. 20:00 b. 20:05 c. 20:10 d. 20:12",
+                "Who discovered Frank's body? a. Yi Yi b. Gabriel c. Ashan d. Xiao Qiao"
+            ],
+            "a": [
+                "b",
+                "c",
+                "c",
+                "b",
+                "a",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "d",
+                "a",
+                "b",
+                "b",
+                "b",
+                "b",
+                "d",
+                "c",
+                "c",
+                "b",
+                "a",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "b",
+                "b",
+                "a",
+                "a",
+                "a",
+                "d",
+                "c",
+                "c",
+                "b",
+                "c",
+                "a",
+                "b",
+                "b",
+                "d",
+                "a",
+                "b",
+                "a",
+                "b",
+                "c",
+                "c"
+            ]
+        },
+        {
+            "name": "Bondi",
+            "back": "\n你叫邦迪 ， 47 岁， 是美国最大的电视台CB S的金牌记者。 入行多年 的你， 曾经报道过很多重大事件，你擅长捕捉社会焦点，报道风格独到且客观，字字切中时         弊。现在的你巳经是克利夫兰市最著名的电视人，许多社会名流都以接受过你的采        访为荣。\n2023 年7 月6 日 ， 你们一行 四人从美国本土的金港码头登船， 快艇行驶了 2个小时，到达了萨霍岛，你提着行李走上码头，这岛屿终于展现在眼前。萨霍岛是 一个 约30 平方公 里的火山岩 海岛 ， 距离大 陆350 公 里， 是现在为数不多的美属“印第安人保留地”。因为整个海岛被火山岩覆盖不适宜种植，且岛上没   有稀缺矿物，所以未受到开发和侵略，还居住着一些印第安原住民。\n直到两年前，萨霍岛被弗兰克和加百利兄弟买下，花费大量资金治理开发。他们雇佣了那些印第安原住民，在海岛上建起了一栋城堡，改善了土壤，种植了大片果园。短短两年时间，文明在这个原本遥远荒凉的海岛上蔓延开来。\n你们一行四人都是社会精英和行业领袖，这次是受邀前来参加弗兰克先生的生日宴会。弗兰克先生邀请你们提前一个月来到海岛，另一个目的是希望你们参观体验整个萨霍岛，他打算在将来大力发展旅游业，让这个岛屿成为旅游的新兴地。\n其实， 你早就认识弗兰克和加百利两兄弟。 在20 多年 前， 弗兰克 曾是美国劝募会的主席 ， 也是社会上风头正盛的慈善家， 当 时20 岁的你正在他手下工作。 但在19 96年之后， 两兄弟就人间蒸发 了。\n直到2021 年， 消失了 20 多年 的弗兰克和加百利突然高调地 出现 ， 让大家震惊的是，两兄弟的容貌居然没有任何衰老的迹象。他们宣称在萨霍岛发现了一处神奇的       泉水，能让人永葆青春长生不老，还能治愈各种疾病．\n萨霍岛的后山被开发成了一大片果园，其中种植着村橘、拧檬、苹果、百香果等水果。此后，他们推出一种健康饮品名叫“比密尼泉”，做成不同的果味销往内陆，宣传这就是那让人青春永驻的泉水。  “比密尼泉”一时间声名大噪，深受名流们的追捧，饮用这种饮品成了风潮，兄弟俩赚了不少钱。\n如今你巳经是著名的电视记者，又是兄弟俩的旧相识。你认为弗兰克是个精明的生意人，他很懂得运用媒体的力量，邀请你来也是为了在电视上宣传之后的商业活动。但你心里也跟大众一样好奇，这个“比密尼泉”是否真的有如此神奇的功效，  这个耸动的新闻肯定能赢得很多收视率。很快你们被佣人带领到城堡前，这是一个宏伟华贵的城堡，每天傍晚都能欣赏到绝美的海边落日。城堡大门前站着一位风姿绰约的女人迎接你们，这就是弗兰克的妻子伊伊。她有种摄人心灵的美，淡雅的妆容，白哲的皮肤，温柔的眼睛如一潭秋水。她轻扬嘴角，展现出恰到好处的微笑，拥有高贵又端庄的气质。\n她微笑着说：    “欢迎各位贵宾来到萨霍岛，我叫伊伊，岛主弗兰克是我的丈夫。他与弟 弟加百利正在美国本土进行巡回演讲 ， 将在一个月后的 8月6 日 回来 ， 届时将举行弗兰克先生的生日宴会。这一个月就请各位在海岛上尽情参观游玩，我们   将会给予各位上宾的招待。＂\n接下来的一个月，你们在岛上四处游玩参观。岛上的城堡是双子式的，由两部分组成，通过一条艺术长廊连接，分为东堡和西堡，两兄弟分别居住在城堡两侧。你们住在弗兰克的东堡中，而加百利的西堡平时只有他一个人居住。\n弗兰克有一个 藏宝间 ， 存放着他收藏的各种奇珍异宝 ， 其中有一把 16世纪的哥特式短剑，剑柄镶嵌宝石，剑身锋利无比。这把剑是花大价钱拍卖回来的，弗    兰克将它视作珍宝。\n这个藏宝间被设置成恒温恒湿的密封房间，房间中一侧是一整面落地玻璃窗，从院内草坪可以看见藏宝间内的宝物，像是玻璃橱窗一样供人参观。\n伊伊向大家介绍： \" 8月6 日 的生日 晚宴过后， 弗兰克 先生便 会在这里为大家表演魔术，到时候这个房间会布置满气球，弗兰克先生对气球可有着特别的钟爱    呢。还会准备好精美的生日蛋糕和艺术蜡烛，魔术表演完后弗兰克先生会亲自点    亮这些蜡烛庆生。\n藏宝间的门锁可是中世纪的古董，上面设置了几块小拼图。门外可以用钥匙打开，但如果从门内反锁了门，锁上的拼图便会自动打乱。如果想要从房间里出来，就要将门锁上的拼图归位，虽然难度不大，但也需要几分钟才能完成。这彰显着当时欧洲贵族们的生活乐趣，弗兰克先生对这种巧思十分着迷。魔术表演时为了显示弗兰克先生没有和其他人串通，会从里面锁上门再向大家表演。这一个月藏宝间不会上锁，各位可以随时来参观。”\n城堡外围修建了一圈人工河，里面游着优雅的天鹅，出口由拱桥连接。城堡西北侧有一个跑马场，马原中养了很多名贵的马，包括形似翩翩公子的安达卢西亚马、世界名驹之首的阿拉伯马等等。\n城堡西侧挨着岛上最高的活火山， 火山高 11 00 米， 山顶 有一个 自然形成的温泉泉眼，这就是比密尼泉。泉水被引入城堡，在东堡和西堡分别建了室内温泉。    弗兰克只在自己东堡的房间中建了一个小型温泉房，而加百利的西堡则建造了一    个大型仿自然景观的室内温泉。一个月后的今天 ( 8月6 日 ）， 弗兰克 与加 百利兄弟俩回到了 岛上，今 天就是弗兰克的生日宴会，晚上你们来到富丽堂皇的大厅，长桌上巳经准备好了珍馈佳肴，         身边的印第安佣人服侍你们入座。\n弗兰克看起来40 岁左右的样子， 满头的褐发梳得一丝不苟，戴 着金丝边眼镜 ， 脖子上佩戴着巴洛克式花纹的领巾，一派上流社会精英的模样，绅士地与每个人握   手寒喧。\n伊伊换上了一套隆重的礼服，青色的缎面裙摆下配着蕾丝花边，领部的羽毛装 饰和颈间的丝巾相得益彰，整个人有一种雍容华贵的美感。\n加百利却给人一种轻浮的印象，穿着紫色的西装外套和鹅黄色的长裤，高领衬衣却是墨绿色的，还戴着一副深茶色的墨镜，整个人看起来浮夸极了．你伸出手打算与他握手，而加百利却径直走到自己的座位坐下，完全不理会你们。\n大家都入座后，坐在主座的弗兰克举起酒杯，用叉子轻敲杯子，示意大家安静。弗兰克：欢迎大家来到萨霍岛，因为我的生日邀请大家远道而来，真是辛苦了，希望此次的萨霍岛之行，能让你们收获快乐，于杯。\n大家纷纷举杯。\n弗兰克：下面向大家介绍一下，这位女士是我美丽的妻子伊伊。\n伊伊：我是伊伊，听闻各位都曾经在克利夫兰生活过，那也曾是我的老家   呢，但巳经很多年没有回去过了，真是十分怀念。我与各位客人巳经很熟悉了， 这一个月相处得非常开心。\n蜜儿：伊伊夫人，还记得我吗，我在青藤中学就读时曾经…  弗兰克：\t（打断）这位是我的弟弟加百利。\n加百利：你们好，这一路的奔波可累坏我了，还是回到岛上身心放松。该死！阿杉，胡椒粉为什么没有放回原位！\n阿杉：抱歉，加百利先生，我这就拿来。\n弗兰克：加百利，不要失礼。抱歉，我弟弟就是这样对细节比较执着。阿杉是我们的女佣，她可是这岛上的原住民，大家有什么问题随时找她。\n邦迪 ： 大家好， 我是 CBS电视台的 记者 ， 大家可以叫我邦迪。\n弗兰克：太谦虚了，这么多年没见，你巳经成为了美国最著名的金牌记者， 还能给我这个老朋友面子，真是太荣幸了。\n加百利：邦迪？真怀念当年我们一起共事的那段时光，再次见到你太开心\n了。\n邦迪：弗兰克和加百利先生，好久不见风采依旧，你们可是我的职业导师\n呢， 我也没想到还有重逢的一天。\n蜜儿：你们好，我叫蜜儿，是一名游记作者，这次来到萨霍岛，给我的下一本游记积累了不少素材呢。\n达文西：我也曾拜读过你的游记，真是非常精彩。我叫达文西，是一名学者，目前在生物科学机构任职。\n弗兰克：达文西先生是一位非常优秀的生物科学家，被誉为“能改变世界的男人＂。想起来我大学时的专业也是生物学呢，可就没有达文西先生这样的学术造诣了。\n小乔：大家可以叫我小乔，我是一名机械工程师，来自“若波特动力”公\n司。\n弗兰克：小乔先生，贵公司有没有托你带给我什么东西。小乔：我带来了一个箱子，巳经让佣人送去了书房。\n弗兰克：谢谢了。这一个月大家在岛上感觉怎么样，我们可是花费了很大的\n精力开发萨霍岛，希望将来这里可以成为新兴的旅游胜地，还需要各位多多帮忙宣传。\n邦迪：萨霍岛的确是个值得开发的宝藏岛屿，不仅拥有原始的风貌，现在又有了现代化的发展，真是未来可期。前几天我还去了海岛西侧的“鱼跃崖“看日落，那是我见过最美的景色。\n伊伊：哦？邦迪先生去了“鱼跃崖＂？这个地方还没有通路，连本地人都很少去，看来你还真是对萨霍岛十分喜爱，连这么偏远的地方都找得到。\n邦迪：我只是随便逛逛，呃…\n阿杉：夫人，下一道莱准备好了。\n伊伊：请端上来吧，这道海藻是萨霍岛附近海域的特产，我们巳经将这种海藻研制成了绿色健康食品，请大家尝尝。\n弗兰克：相信伊伊向大家介绍过这次生日宴会了，晚宴结束后，请大家移步到城堡外的草坪，观赏我为大家准备好的魔术表演，相信一定会让你们感到惊喜 的。\n加百利：我可不想看什么魔术，我太累了，要回去休息泡澡了，那就祝你生日快乐吧，我亲爱的哥哥。\n伊伊：之后我们还为大家安排了酒会，阿杉，请通知佣人们，晚宴结束后我会布置酒会的工作给大家。\n弗兰克：再次欢迎各位贵宾，于杯。\n\n\n\n晚宴结束后，你和小乔、蜜儿、达文西一起来到院内的草坪，伊伊和阿杉并没有来。你支起摄影机对着藏宝间的落地窗，大家都等待着弗兰克的魔术表演，此时夭巳经黑了，你们距离城堡大概十米的距离，藏宝间内灯光大亮。\n整个藏宝间里密密麻麻地布满了各色的气球，靠窗的桌上放着一个精美的生日蛋糕，蛋糕旁放着许多艺术造型的蜡烛，在弗兰克表演完魔术之后他会亲自点亮这些蜡烛庆祝生日。\n你们看见弗兰克打开门进入藏宝间，反锁了门。整个房间都充斥着气球，只能通过一些缝隙看清房内的艺术品。弗兰克走了几步到了房间正中央的魔术表演区，向大家深鞠一躬，神态自若地从身后的展示架上取下那柄短剑．突然，他举起短剑，猛地剌入自己的胸膛，然后浑身无力地倒了下去。\n你们都被这一情形惊住了，这时，整个东堡的灯光熄灭了，你们迟疑了一会发觉不对劲，连忙借着月光向城堡跑去，在穿过东侧拱桥的时候，听见了巨大的爆炸声。\n几分钟后，你们来到藏宝间的门口。没多久阿杉赶到了，听了众人的描述后她拿出钥匙打开了藏宝间的门。借着窗外的月光你们看见藏宝间内一片狼藉，弗兰克倒在门口的地上，浑身焦黑血肉模糊，胸口插着那把中世纪的短剑。\n这时伊伊媚媚来迟，也走进了藏宝间。你们连忙查看弗兰克的情况，发现他巳经死了。大家都一脸惊愕，这时伊伊走到弗兰克的尸体旁，微笑着说：  “这魔术表演真是太精彩了！弗兰克果然掌握了永生的秘法，请大家多多帮我们宣传比密尼泉的神奇功效。”说罢独自鼓起掌来。\n伊伊说出的这番话，加上她洋溢着的微笑，在这种场景下显得荒诞而又诡异。  大家猜测制造这起事故的人可能在你们之中，立刻将城堡大门紧锁，以防凶手\n逃走或者发生其他意外。众人想起应该去告知加百利，便一起来到连接城堡两侧的艺术长廊，发现门巳经被锁上了。阿杉告诉大家，加百利先生十分讨厌别人打扰他休息，每晚都会关闭手机并让佣人锁上门，这门是关门即锁的，只有里面的人才能打开。\n因为城堡十分大，呼喊声无法传递到加百利的房间，你们决定等第二天一早再通知加百利，先由你们调查一下刚刚到底发生了什么。随着你们六人的深入探索，你仿佛陷入了一个更深的谜团之中，你看着月色 下的萨霍岛，思绪翻涌，从前的往事浮现出脑海……\n\n其实，你本就属于萨霍岛。你的祖母就是萨霍岛的印第安原住民，因为向往外面的世界，她与祖父离婚 来到美国，留下了当时年幼的舅舅沙豹，之后祖母嫁给一位美国白人，生下了你 的母亲温蒂。\n祖母临终前说十分想念萨霍岛这个曾经的故乡，希望身上同样流淌着印第安 人血液的母亲可以将她的骨灰带回萨霍岛埋葬。当 时的你12岁， 因为 有印第安血统被学校 的孩子们歧视， 他们经常欺负你， 在你身边模仿印第安人战斗时的呼叫声，还强行在你脸上画油彩，拿羽毛插在你 头上。\n这一切都让你既气愤又自卑，怨恨自己为什么拥有印第安的血统，不愿再去 上学。母亲耐心地安慰你，却也收效甚微。过了几天，她收拾行囊带你坐上前往萨霍岛的船。萨霍岛上的一切都让你感到十分新奇，这里虽然不太现代化，但却有着原始 生活的魅力，每当部落中有婚礼或节庆日，岛民都会欢歌笑语地聚集在一起点燃 簧火，青年人们的脸上画着图腾跳起战斗舞蹈。\n酋长兀鹰是一位非常亲和且有智慧的人，他就是阿杉的祖父。在他的带领下，岛民安居乐业，人们都幸福且满足。你的舅舅沙豹是兀鹰的助手和好朋友，帮他处理各种岛上的事物。母亲决定带你在岛上居住一段时间，兀鹰请母亲教导阿杉学习英语，阿杉也是兀鹰最宠爱的孩子。当时的 阿杉只有6岁， 她个子小小的 ， 两只大大的黑眼睛十分 可爱， 总是粘着你跟你一起玩。\n别看阿杉年纪小，从小生活在岛上的她上山爬树都不在话下，相比之下你这个城里的男孩子还逊色了不少。阿杉带着你在岛上四处游玩，用她初学的英语笨拙地跟你交流。你们一起在火  山顶上的比密尼泉中嬉戏，在茂密的树林中捉迷藏，将火山石打磨成海星的形状做成项链，偷偷趁大人不注意跑去西边的“鱼跃崖“看日落。\n那天的日落是那样的美，你的心灵被这壮阔斑澜的景象所震撼，你对阿杉说你的梦想是成为一位摄影师，去记录这个世界。说着你用两只手举起比作镜头，海岛上的夕阳如照片一般框在你的两手之间。夕阳的余晖把阿杉小麦色的皮肤映得红彤彤的，她天真的双眼闪着光芒，似乎  从你的手中看到了世间最美的风景。\n你发现自己巳经爱上了这里，这里的原始野性，这里的美好自然，这里人们的  质朴善良，你渐渐不再介怀自己的血统，萨霍岛的美好让你彻底释怀了，这时你才理解了母亲带你来这里的真实目的。\n母亲发觉了你的变化十分欣慰，正好此时父亲的生意十分繁忙，需要母亲回去相助，就这样，你依依不舍地离开了萨霍岛。你站在离开的船头对哭成泪人的小阿杉喊道：  “阿杉，我不会忘记你的，一定要来找我。”回到美国后你变得勇敢，不再忍让那些欺负你的孩子，他们见你的态度强硬便也渐渐不敢造次。\n1996 年， 20 岁的你进入美国劝募会工作 ， 认识了弗 兰克和加百利两兄弟。母亲为了鼓励你，买了一台最新型的照相机当做你的入职礼物，虽然没有成为一位摄影  师，但摄影这个爱好你却还没放弃。刚开始工作的你劲头十足，你十分崇拜弗兰    克，他的商业头脑和做事果决的作风都让你钦佩，你庆幸自己能在这样优秀的人手下工作。\n每天行走在商业区的你，深深体会到了资本的强大，你立志要在行业中成为 翘楚。这一年美国劝募会筹办了史无前例的一次的慈善活动，善款用于濒危动物保 护、妇女儿童保护、亚非拉贫困国家的医疗设施、海洋垃圾处理等许多地方。这 激励了将自由民主、拯救世界烙印在心的美国人，在活动开始前一个月，人们像 打了鸡血一样鼎力支持，成千上万的青年人报名成为志愿者。\n你负责统筹和后勤的工作，具体活动的实施还轮不到你这样的职场新人来做。根据上级指令，你在工厂定制了一个巨大尼龙网，长宽几百米。你只是按照 指令做事，对这个活动的内容并不太了解。\n9月26 日 ， 这是活动开 始的前夜 ， 你和所有同事都在加班确保 第二天能够一切顺利，却没想到夜里来了几位警察调查一位名叫贝尔的教授的自杀事件，并且怀   疑到了弗兰克身上，你和所有同事都能为弗兰克先生做不在场证明，警察做完询        问之后你们便继续加班。\n9 月 27 日 ， 忙了 通宵的你疲惫不堪地回到家中， 你巳经完成了 自己 的所有工作，完全没有精力去活动现场了。一觉睡到下午的你被母亲的一通电话吵醒，她让你马上回家。外面下着暴雨，气温也骤然下降，你慌忙地赶回家，路上交通十分拥堵，听说各大主于道都 出现了车祸。\n到家时你才知道当天家里的生意遭到了巨大的打击，家里背负了巨额债务， 父亲竟情绪激动突发脑溢血去世了。虽然痛苦，但看着悲痛欲绝的母亲，你只能坚强起来，还得继续工作来偿还 家里的债务。\n几天后你回到公司，发现美国劝募会的楼下围满了前来示威的市民，你发现 办公室里一片狼藉，只剩几个同事在收拾自己的个人物品，他们告诉你，那场活 动搞砸了，美国劝募会和弗兰克的名声也巳经臭了。\n你继续追问详情，沮丧的同事不愿多言，只是劝你快点找下一份工作吧。之后你去了CBS电视台工作 ， 这份工作让你十分满意， 身边 交往的都是当红明星或是商界名流。10月的一天 ， 你正和同事们在商业区最 高档 的咖啡厅下午茶 ， 忽然 ， 一个少女向你奔来，那眉眼，那笑容，分明就是儿时的玩伴阿杉。阿杉扑进你的怀里拥抱你，你开心极了，多年未见，你也十分想念萨霍岛上    的她。\n身边的白人同事见你与一个印第安女孩如此亲密，便阴阳怪气地说：\t“邦迪，没想到你的口味这么独特，不如将农场的骡子也介绍给你？”说罢那几个白人同事一起哄堂大笑。忽然你全身冰冷，想起当年因为血统遭受霸凌时的恐惧。这么多年，你以为\n自己巳经融入了白人圈，没有人发现你的印第安血统，但此时，内心深处的自卑和厌恶再次涌出。你一把推开怀里的阿杉说：\t勺邑．．她只是我家以前的一个佣人罢了。”阿杉脸上分明露出了困惑与气愤的神情，你怕她再说出什么让你颜面扫地的话便接着说： “好了，咱们也没那么熟，你这个印第安女人回到自己的洞穴里去吧。”\n阿杉的泪水夺眶而出，她羞愤地跑开了。看着她的背影，你的大脑一片空白，感觉体内的血液都凝固了。事后你愧疚无比，却也没有勇气再面对阿杉这个纯真的姑娘。你在自己身上纹了一个海星图样的纹身，就像阿杉身上的那枚火山石项链一样，以此纪念萨霍岛和阿杉。\n1 2 月 ， 你收到那个“推理大会” 的邀请 ， 因为事关弗 兰克 ， 你决定前去参加。之后得知弗兰克居然真的杀害了无辜的贝尔教授，你对这位曾经的偶像万分 失望。身负债务的你，并不想去掺和这件事，便不再理会了。\n1997 年1月电视台指派你去纽约总部 ， 临去赴任前， 你给阿杉写 了 一封只有“对不起“三个字的信，随后便离开了克利夫兰。来到纽约后你 大展拳脚， 2010 年你的债务终于还清， 但母亲也 因为长 期郁郁寡欢去世了。\n这次来到萨霍岛，你的心里十分矛盾，既盼望又害怕见到阿杉。现在的阿杉巳经不是当年岛上的“小公主”，酋长兀鹰巳经去世，萨霍岛也成为弗兰克的私人岛屿，阿杉失去庇护成为了城堡中的女佣。\n回想当年对她的伤害，你不敢与她相认。这时的你蓄起了络腮胡，不确定阿杉有没有认出你。同时你也很好奇，弗兰克和加百利为什么会停止衰老。你静心梳理好过往至今的事情，最终将记忆定格在今日案发前。“今天你早早准备好了摄影器材，弗兰克要求你将一会的魔术表演记录下来。\n20 : 00 晚宴结束， 弗兰克 去更衣间换 衣服。20: 09 众人从东边的大门去往南边的草坪 ， 你因为 去取摄影器材， 比众人到得稍晚了一些，你迅速支起设备准备录制，还未来得及调整好角度，意想不到的事情       发生了。\n20: 10弗兰克进 入藏宝间 ， 并用剑剌入 自 己的 胸膛。20: 12你们正在疑惑到底 怎么回 事， 突然， 东堡停电了。 众人发觉不对劲 ，便一起向城堡跑去。20: 13巨大的爆炸声从城堡内传来。\n20: 15你们四人到达 藏宝间门 口。20: 17阿杉从西堡的方向跑来， 随后她马上拿出钥 匙打开了藏 宝间的 门 ， 你们发现了弗兰克的尸体。20: 18伊伊最后一个到达 ， 站在弗兰克的尸体身边说 出了那些诡异的话 … … 众人决定再次到处看看，看看能不能找到一些有价值的线索。\n\n",
+            "r_q": [
+                {
+                    "q": "How many years have Frank and Gabriel brothers been missing before reappearing? a. 10 years b. 15 years c. 20 years d. 25 years",
+                    "ans": "c"
+                },
+                {
+                    "q": "How far is Saho Island from the mainland? a. 250 kilometers b. 350 kilometers c. 450 kilometers d. 550 kilometers",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Bondi's profession? a. Biologist b. Television journalist c. Teacher d. Travel writer",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of special facility is the door lock in Frank's treasure room? a. Password lock b. Biometric lock c. Antique puzzle lock d. Fingerprint lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What emotions did Gabriel show at Frank's birthday party? a. Excitement b. Indifference c. Pleasure d. Anger",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which item did Frank use to commit suicide in his suicide magic show? a. Fire gun b. Steel wire c. Poison d. Gothic short sword",
+                    "ans": "d"
+                },
+                {
+                    "q": "Why did Bondi return to Saho Island? a. Vacation b. Visiting family c. Working d. Participating in activities",
+                    "ans": "d"
+                },
+                {
+                    "q": "What reaction did Yi show after Frank's death? a. Sadness b. Surprise c. Smile d. Anger",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which field did Frank praise Mr. da Vinci's achievements? a. Physics b. Biological Sciences c. Mathematics d. Chemistry",
+                    "ans": "b"
+                },
+                {
+                    "q": "What did Frank and the Gabriel brothers claim to have found on Saho Island? a. Rare metals b. Petroleum c. Spring water d. Rare animals",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the reason why Bondi returned to Saho Island? a. Vacation b. Attend reasoning conference c. Attend Frank's birthday party d. Work",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many years did Frank and Gabriel brothers disappear and reappear? a. 15 years b. 20 years c. 25 years d. 30 years",
+                    "ans": "c"
+                },
+                {
+                    "q": "What props are used in Frank's suicide magic? a. Steel wire b. Spear c. Gothic short sword d. Poison",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the color of Yi Yi's clothes at Frank's birthday dinner? a. Red b. Blue c. Green d. Black",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Gabrielle's emotional performance at the birthday dinner? a. Excitement b. Indifference c. Anger d. Sadness",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Bondi's profession? a. Photographer b. Mechanical engineer c. Television journalist d. Biologist",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the geographical features of Saho Island? a. Desert b. Volcanic rock c. Plateau d. Wetland",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Yi Yi's reaction after Frank's suicide performance? a. Sadness b. Surprise c. Anger d. Smile",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where in the castle is hot spring water introduced? a. Dongbao and Xibao b. Treasure Room c. Racecourse d. Artificial River",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the magical object claimed by Frank and Gabriel to have been discovered on Saho Island? a. Rare metals b. Spring water c. Petroleum d. Rare animals",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Bondi's main purpose on Saho Island? a. Vacation b. Investigation and reporting c. Participation in activities d. Personal visits",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year did Frank and Gabriel brothers last appear? a. 2019 b. 2021 c. 1996 d. 2023",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the prop used by Frank when he committed suicide? a. Fire gun b. Poison c. Gothic short sword d. Steel wire",
+                    "ans": "c"
+                },
+                {
+                    "q": "What color was the dress that Yi Yi wore at Frank's birthday party? a. Red b. Blue c. Black d. Green",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Gabriel's attitude towards the birthday party? a. Excitement b. Indifference c. Anger d. Sadness",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did Saho Island become Frank's private island? a. Purchase b. Inheritance c. Winning d. Discovery",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was Yi Yi's first reaction after Frank's death? a. Sadness b. Surprise c. Smile d. Anger",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the part of the castle that introduces hot spring water? a. Treasure Room b. Racecourse c. East and West Forts d. Artificial River",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Frank's suicide magic show take place? a. Banquet hall b. Lawn c. Treasure room d. Hot spring room",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the magical object claimed by Frank and Gabriel to have been discovered on Saho Island? a. Rare metals b. Spring water c. Petroleum d. Rare animals",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Bondi's initial occupation on Saho Island? a. Mechanical engineer b. Television journalist c. Travel writer d. Biologist",
+                    "ans": "b"
+                },
+                {
+                    "q": "What year did Frank and Gabriel brothers reappear in the public eye? a. 1996 b. 2001 c. 2021 d. 2023",
+                    "ans": "c"
+                },
+                {
+                    "q": "What kind of prop did Frank use for his suicide magic? a. Steel wire b. Spear c. Poison d. Gothic short sword",
+                    "ans": "d"
+                },
+                {
+                    "q": "What color dress did Yi Yi wear at Frank's birthday party? a. Red b. Blue c. Black d. Blue",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was Gabriel's behavior at the birthday party? a. Excitement b. Indifference c. Anger d. Sadness",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the main geographical features of Saho Island? a. Volcanic rocks b. Desert c. Plateau d. Wetland",
+                    "ans": "a"
+                },
+                {
+                    "q": "At Frank's birthday party, which field was Leonardo da Vinci introduced as an expert in? a. Physics b. Biological Sciences c. Chemistry d. Mathematics",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of lock is the treasure room lock in the castle? a. Password lock b. Biometric lock c. Antique puzzle lock d. Fingerprint lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Frank's suicide magic show take place? a. Banquet hall b. Lawn c. Treasure room d. Hot spring room",
+                    "ans": "c"
+                },
+                {
+                    "q": "What did Frank and Gabriel claim to have found on Saho Island? a. Rare metals b. Spring water c. Petroleum d. Rare animals",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did Bondi go to Saho Island? a. Attend the reasoning conference b. Attend Frank's birthday party c. Conduct a news report d. Visit old friends",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why was Bondi bullied by school children when he was a child? a. Because of his Native American heritage, b. because of his career choice, c. because of his family background, d. because of his appearance",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which prop was used in Frank's magic performance to commit suicide? a. Fire gun b. Steel wire c. Poison d. Gothic short sword",
+                    "ans": "d"
+                },
+                {
+                    "q": "Frank and Gabriel claim to have discovered something that can keep people young forever? a. Rare metals b. Spring water c. Rare animals d. Petroleum",
+                    "ans": "b"
+                },
+                {
+                    "q": "What color did Gabriel wear at Frank's birthday party? a. Purple jacket and goose yellow pants b. Blue suit c. Green jacket d. Black formal attire",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was Yi Yi's reaction after Frank's suicide magic show? a. Cry b. Surprise c. Smile d. Anger",
+                    "ans": "c"
+                },
+                {
+                    "q": "Whose descendant is Ashan? a. Bondi b. Gabriel c. Iyi d. Chief Vulture",
+                    "ans": "d"
+                },
+                {
+                    "q": "What are the main geographical features of Saho Island? a. Volcanic rocks b. Desert c. Wetland d. Grassland",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was Bondi's initial career dream? a. Becoming a photographer b. Becoming a journalist c. Becoming a doctor d. Becoming a teacher",
+                    "ans": "a"
+                },
+                {
+                    "q": "How many years did Frank and Gabriel reappear after their initial disappearance? a. 10 years b. 15 years c. 20 years d. 25 years",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "How many years have Frank and Gabriel brothers been missing before reappearing? a. 10 years b. 15 years c. 20 years d. 25 years",
+                "How far is Saho Island from the mainland? a. 250 kilometers b. 350 kilometers c. 450 kilometers d. 550 kilometers",
+                "What is Bondi's profession? a. Biologist b. Television journalist c. Teacher d. Travel writer",
+                "What kind of special facility is the door lock in Frank's treasure room? a. Password lock b. Biometric lock c. Antique puzzle lock d. Fingerprint lock",
+                "What emotions did Gabriel show at Frank's birthday party? a. Excitement b. Indifference c. Pleasure d. Anger",
+                "Which item did Frank use to commit suicide in his suicide magic show? a. Fire gun b. Steel wire c. Poison d. Gothic short sword",
+                "Why did Bondi return to Saho Island? a. Vacation b. Visiting family c. Working d. Participating in activities",
+                "What reaction did Yi show after Frank's death? a. Sadness b. Surprise c. Smile d. Anger",
+                "In which field did Frank praise Mr. da Vinci's achievements? a. Physics b. Biological Sciences c. Mathematics d. Chemistry",
+                "What did Frank and the Gabriel brothers claim to have found on Saho Island? a. Rare metals b. Petroleum c. Spring water d. Rare animals",
+                "What is the reason why Bondi returned to Saho Island? a. Vacation b. Attend reasoning conference c. Attend Frank's birthday party d. Work",
+                "How many years did Frank and Gabriel brothers disappear and reappear? a. 15 years b. 20 years c. 25 years d. 30 years",
+                "What props are used in Frank's suicide magic? a. Steel wire b. Spear c. Gothic short sword d. Poison",
+                "What is the color of Yi Yi's clothes at Frank's birthday dinner? a. Red b. Blue c. Green d. Black",
+                "What was Gabrielle's emotional performance at the birthday dinner? a. Excitement b. Indifference c. Anger d. Sadness",
+                "What is Bondi's profession? a. Photographer b. Mechanical engineer c. Television journalist d. Biologist",
+                "What are the geographical features of Saho Island? a. Desert b. Volcanic rock c. Plateau d. Wetland",
+                "What was Yi Yi's reaction after Frank's suicide performance? a. Sadness b. Surprise c. Anger d. Smile",
+                "Where in the castle is hot spring water introduced? a. Dongbao and Xibao b. Treasure Room c. Racecourse d. Artificial River",
+                "What is the magical object claimed by Frank and Gabriel to have been discovered on Saho Island? a. Rare metals b. Spring water c. Petroleum d. Rare animals",
+                "What is Bondi's main purpose on Saho Island? a. Vacation b. Investigation and reporting c. Participation in activities d. Personal visits",
+                "In which year did Frank and Gabriel brothers last appear? a. 2019 b. 2021 c. 1996 d. 2023",
+                "What was the prop used by Frank when he committed suicide? a. Fire gun b. Poison c. Gothic short sword d. Steel wire",
+                "What color was the dress that Yi Yi wore at Frank's birthday party? a. Red b. Blue c. Black d. Green",
+                "What is Gabriel's attitude towards the birthday party? a. Excitement b. Indifference c. Anger d. Sadness",
+                "How did Saho Island become Frank's private island? a. Purchase b. Inheritance c. Winning d. Discovery",
+                "What was Yi Yi's first reaction after Frank's death? a. Sadness b. Surprise c. Smile d. Anger",
+                "Where is the part of the castle that introduces hot spring water? a. Treasure Room b. Racecourse c. East and West Forts d. Artificial River",
+                "Where did Frank's suicide magic show take place? a. Banquet hall b. Lawn c. Treasure room d. Hot spring room",
+                "What is the magical object claimed by Frank and Gabriel to have been discovered on Saho Island? a. Rare metals b. Spring water c. Petroleum d. Rare animals",
+                "What was Bondi's initial occupation on Saho Island? a. Mechanical engineer b. Television journalist c. Travel writer d. Biologist",
+                "What year did Frank and Gabriel brothers reappear in the public eye? a. 1996 b. 2001 c. 2021 d. 2023",
+                "What kind of prop did Frank use for his suicide magic? a. Steel wire b. Spear c. Poison d. Gothic short sword",
+                "What color dress did Yi Yi wear at Frank's birthday party? a. Red b. Blue c. Black d. Blue",
+                "What was Gabriel's behavior at the birthday party? a. Excitement b. Indifference c. Anger d. Sadness",
+                "What are the main geographical features of Saho Island? a. Volcanic rocks b. Desert c. Plateau d. Wetland",
+                "At Frank's birthday party, which field was Leonardo da Vinci introduced as an expert in? a. Physics b. Biological Sciences c. Chemistry d. Mathematics",
+                "What type of lock is the treasure room lock in the castle? a. Password lock b. Biometric lock c. Antique puzzle lock d. Fingerprint lock",
+                "Where did Frank's suicide magic show take place? a. Banquet hall b. Lawn c. Treasure room d. Hot spring room",
+                "What did Frank and Gabriel claim to have found on Saho Island? a. Rare metals b. Spring water c. Petroleum d. Rare animals",
+                "Why did Bondi go to Saho Island? a. Attend the reasoning conference b. Attend Frank's birthday party c. Conduct a news report d. Visit old friends",
+                "Why was Bondi bullied by school children when he was a child? a. Because of his Native American heritage, b. because of his career choice, c. because of his family background, d. because of his appearance",
+                "Which prop was used in Frank's magic performance to commit suicide? a. Fire gun b. Steel wire c. Poison d. Gothic short sword",
+                "Frank and Gabriel claim to have discovered something that can keep people young forever? a. Rare metals b. Spring water c. Rare animals d. Petroleum",
+                "What color did Gabriel wear at Frank's birthday party? a. Purple jacket and goose yellow pants b. Blue suit c. Green jacket d. Black formal attire",
+                "What was Yi Yi's reaction after Frank's suicide magic show? a. Cry b. Surprise c. Smile d. Anger",
+                "Whose descendant is Ashan? a. Bondi b. Gabriel c. Iyi d. Chief Vulture",
+                "What are the main geographical features of Saho Island? a. Volcanic rocks b. Desert c. Wetland d. Grassland",
+                "What was Bondi's initial career dream? a. Becoming a photographer b. Becoming a journalist c. Becoming a doctor d. Becoming a teacher",
+                "How many years did Frank and Gabriel reappear after their initial disappearance? a. 10 years b. 15 years c. 20 years d. 25 years"
+            ],
+            "a": [
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "d",
+                "d",
+                "c",
+                "b",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "d",
+                "a",
+                "b",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c",
+                "a",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "d",
+                "d",
+                "c",
+                "a",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "a",
+                "d",
+                "b",
+                "a",
+                "c",
+                "d",
+                "a",
+                "a",
+                "c"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "Where did Frank leave his handprint, indicating that he had not died after the explosion? a. On the floor b. On the wall c. Lock the door d. On the ceiling",
+            "What did someone do after the explosion that led to Frank's death? a. Shoot with a gun b. Poison with poison c. Pierce the sword into the heart d. Pinch to death",
+            "Who has the ability to use a real sword to kill Frank in this case? a. Anyone b. Only Yiyi with a stunt double c. Only Li William with a real sword d. Only those who have received special training",
+            "Who is inferred to be the father of Honey's son Allen? a. Xiao Qiao B. Frank C. Da Vinci D. Yi",
+            "After experiencing the explosion, which action was mentioned? a. Escape b. Unlock puzzle c. Hide d. Call for help",
+            "How many keys does Yi Yi have? a. One b. Two c. Three d. None",
+            "Which character can reach the dock? a. Frank B. Iyi C. Mier D. Allen",
+            "What happened to Yi Yi who was suspected after 1997? a. Reclusion b. Death c. Becoming a robot d. Having a child",
+            "What can Yi Yi do with tools? a. Repair fake Yiyi's car b. Open fake Yiyi's lock c. Dismantle fake Yiyi d. Manufacture fake Yiyi's weapons",
+            "What condition caused Leonardo da Vinci's cough? a. Cold air b. Smoke c. Stimulating smell d. Drinking water choking",
+            "Who impersonated a black person? a. An unknown person b. Frank c. Honey d. Allen",
+            "What was Frank's survival status after the explosion? a. Immediate death b. Injury but not death c. Completely uninjured d. Uncertain",
+            "Who has the ability to use a real sword to kill Frank? a. Yi Yi b. Mier c. Da Vinci d. Allen",
+            "What are the basic behavioral principles that robots should follow? a. Unconditional obedience to humans b. No harm to humans or inaction upon seeing humans harmed c. Prioritize self-protection d. Maintain one's own functions at all times",
+            "What kind of silver coins do Mier and Leonardo da Vinci have on their bodies? a. Black duck pattern b. Black goose pattern c. Black bear pattern d. Black cat pattern",
+            "What color handprints are there on the puzzle of the treasure room door lock? a. Red b. White c. Black d. Blue",
+            "What material is the short sword found in the treasure room? a. Wood b. Plastic c. Metal d. Glass",
+            "Where did Yi Yi appear in 2022? a. Cleveland b. Los Angeles c. New York d. Chicago",
+            "What is the eye condition of Frank's body? a. No abnormalities b. Pupil constriction c. Congestion d. Bulge",
+            "What is the status of the telescopic sword found in the cabinet in the treasure room? a. Luminous b. Heating c. Blacking d. Rusting",
+            "What is Allen's age? a. 15 years old b. 18 years old c. 20 years old d. 25 years old",
+            "What is the condition of Frank's unburned skin? a. Completely normal b. spotted rash c. bruising d. skin shedding",
+            "What was the person the maid mentioned seeing in the middle of the night holding at the dock? a. Box b. Bucket c. Bottle d. Bag",
+            "What is the difference between the forged sword discovered in the treasure trove and the real sword? a. Material b. Color c. Weight d. Length",
+            "What changes have taken place in Leonardo da Vinci's shoes recently? a. Stained b. Just cleaned c. Many damaged d. There is dirt",
+            "How many keys does Yi have and what are they used for? a. One, open the treasure room b. Two, one open the treasure room, one open the castle gate c. Two, all open the treasure room d. One, open the castle gate",
+            "Where is Frank from? a. Cleveland b. Chicago c. New York d. Los Angeles",
+            "What illness has Allen been diagnosed with? a. Hereditary asthma b. Diabetes c. Heart disease d. Cancer",
+            "According to the testimony of the servant, what symptoms did someone in the guest room exhibit? a. Fever b. Vomiting c. Breathing d. Blindness",
+            "Whose is the diagnosis certificate of Mier? a. Mia B. Allen C. Frank D. da Vinci",
+            "What did you find in Yiyi's room? a. Treasure map b. Poison c. Tools d. Secret passage",
+            "What color is the stain on the pillow? a. Red b. Black c. White d. Green",
+            "What could be the possible cause of Frank's death? a. Blow up b. Short sword stabbing death c. Natural death d. Poisoning"
+        ],
+        "key_ans": [
+            "c",
+            "c",
+            "b",
+            "c",
+            "b",
+            "b",
+            "b",
+            "b",
+            "c",
+            "c",
+            "a",
+            "b",
+            "a",
+            "b",
+            "b",
+            "c",
+            "b",
+            "a",
+            "c",
+            "c",
+            "c",
+            "b",
+            "a",
+            "c",
+            "b",
+            "b",
+            "a",
+            "a",
+            "c",
+            "b",
+            "c",
+            "b",
+            "a"
+        ],
+        "key_sc": [
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-2",
+            "yi",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p-1"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "What are the injuries to the corpse? a. Burns b. Impact injuries c. External injuries d. All of the above",
+            "What was inserted into the heart of the corpse? a. Long sword b. Short sword c. Bamboo pole d. Wood",
+            "What is the corpse holding in its hand? a. Mobile phone b. Book c. Paper d. Lighter",
+            "What pattern is on the silver coin on Mier's body? a. White goose b. Black goose c. Green duck d. Blue eagle",
+            "What are the characteristics of unburned skin? a. Spotted rash b. purple spots c. white blisters d. yellow rash",
+            "Where can the key held by Yi Yi open? a. Treasure room and castle gate b. Garage and back door c. Office and study d. Garden and cellar",
+            "What was found at the puzzle on the lock of the treasure room door? a. Some red fingerprints b. Some blue scratches c. Some black fingerprints d. Some white powder",
+            "What is the difference between the short sword in the treasure room cabinet and the short sword on the corpse? a. Different lengths b. Different weights c. Different shapes d. A and B",
+            "What race of workers did the servant mention leaving? a. European b. Asian c. African d. South American",
+            "What abnormal situation did the servant notice after yesterday's dinner party? a. Someone is holding a knife b. Someone is holding a gun c. Someone is dragging a box d. Someone is shouting",
+            "How many drainage systems are used in castles? a. One b. Three c. Two d. Four",
+            "What is the approximate diameter of the outlet of the castle drainage system? a. 5cm b. 10cm c. 15cm d. 20cm",
+            "What was found in the damaged mesh bag outside the drainage outlet of Xibao? a. River stones b. Leaves c. Seaweed d. Plastic bags",
+            "What is the state of the corpse's eyeball? a. Dry b. congested c. greenish d. no special conditions",
+            "What are the characteristics of Leonardo da Vinci's shoes? a. Outdated b. Newly purchased c. Recently cleaned d. Mud stains",
+            "What material is the short sword found in the cabinet made of? a. Steel b. Copper c. Plastic d. Wood",
+            "What are the characteristics of the short sword in the cabinet? a. Capable of emitting light b. capable of lengthening and shortening c. capable of automatic manipulation d. capable of producing sound",
+            "What did the servant do yesterday? a. Working late into the night b. Going home early c. Traveling outside the city d. Attending dinner parties",
+            "How did the irresponsible worker mentioned in the servant's testimony leave? a. Say hello and leave. b. Leave quietly. c. Leave after a big argument. d. Take away by the police",
+            "When did the servant see the person dragging the box? a. Evening b. Morning c. Noon d. Midnight"
+        ],
+        "key_ans": [
+            "d",
+            "b",
+            "d",
+            "b",
+            "a",
+            "a",
+            "c",
+            "b",
+            "c",
+            "c",
+            "c",
+            "d",
+            "c",
+            "b",
+            "c",
+            "c",
+            "b",
+            "b",
+            "b",
+            "d"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "What is the room closest to the kitchen? a. Banquet hall b. maid's room c. living room d. study room",
+            "What shape is the front hall? a. Rectangle b. Heart c. Half circle d. Square",
+            "What room is closest to the warehouse? a. Study b. Electricity meter room c. Living room d. Maid's room",
+            "What is on the left side of the art gallery? a. To South Fort b. To East Fort c. To West Fort d. To North Fort",
+            "Which room is next to the electricity meter room? a. Treasure room b. Front hall c. Changing room d. Yi Yi's room",
+            "Which two people's rooms is Mier's room in between? a. Yi Yi and Frank b. Da Vinci and Bondi c. Xiao Qiao and Bondi d. Xiao Qiao and Yi Yi",
+            "Whose room is shared? a. Xiao Qiao and Bondi B. Da Vinci and Yi C. Yi and Frank D. Mier and Xiao Qiao",
+            "Whose room is the treasure room on the left? a. Yi Yi b. Xiao Qiao c. Da Vinci d. Frank",
+            "Which room does the door on the right side of the banquet hall face? a. Study b. maid's room c. electricity meter room d. living room",
+            "Which room does the left door of the banquet hall face? a. Electricity meter room b. Living room c. Changing room d. Maid's room",
+            "Where is the body located? a. Windows and tables b. Bookshelves and carpets c. Cabinets and doors d. Fireplace and sofa",
+            "What else is around the corpse? a. Glass fragments b. Flower residues c. Paper scraps d. Balloon fragments",
+            "What's behind the magic show area? a. Sound and lighting b. Cake and candles c. Stage and curtains d. Vases and chairs",
+            "What's near the french window? a. Table and chairs b. Mirror c. Balloon d. Bookshelf"
+        ],
+        "key_ans": [
+            "b",
+            "c",
+            "a",
+            "c",
+            "c",
+            "c",
+            "c",
+            "c",
+            "c",
+            "d",
+            "c",
+            "d",
+            "b",
+            "c"
+        ]
+    },
+    "ju_name": "BULAOQ1",
+    "task_nm": "Please complete the following tasks using all the clues at hand",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Yi Yi",
+        "little Joe"
+    ],
+    "murder": "Yi Yi",
+    "reason": "Motive for committing the crime:"
+}

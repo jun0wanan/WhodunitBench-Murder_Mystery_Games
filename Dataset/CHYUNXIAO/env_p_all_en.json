@@ -1,0 +1,417 @@
+{
+    "key_clues_pool": {
+        "p": [
+            "The evidence found at the crime scene shows that Zhen has injuries on her face, as well as fine strangulation and scratch marks on her neck.",
+            "The evidence found in the room of the seagull flight attendant had a very fine scratch on her hand.",
+            "The evidence found at the crime scene also shows strangulation marks on the back and sides of the chair behind the deceased's body.",
+            "Evidence found in the room of the seagull flight attendant - March 2014- Voice of a man -00:00:12 Captain Jia and the student's plane were flying on their own track as planned when suddenly a plane rushed out from somewhere. When the two planes collided, everyone present was silenced and no one was allowed to say anything about it! Mobile phone recording in March 2014.",
+            "Evidence found in the deceased's room - Text message on the phone - Zhen: Respected Mafia boss, what do you think of the gun I gave you this time? Is it better than Uncle Li's? Mafia boss: Not bad, it seems that you are also a good choice for cooperation!",
+            "The evidence found in the room of the seagull flight attendant showed coffee stains on the soles of seagull shoes.",
+            "Evidence found in the room of the seagull flight attendant - WeChat chat records: The object is a student (I will marry you when you return from G city~2013.9.22 scammer!)! On September 23, 2013, I missed you. On November 5, 2013, the weather was so cold that I wanted to drink the soup you cooked. On February 14, 2014, I will help you find out the truth! March 2014).",
+            "There was a spilled coffee and messy footprints on the evidence found at the crime scene.",
+            "Chat records between MG executives and Zhen - Today, someone sent evidence related to the plane accident. Fortunately, it was a recording of someone getting drunk. I replied to him with a testimony under the influence of alcohol, which has no legal effect. Please be careful not to be caught by others. Thank you for your leadership in March 2014. The tea and water fees have been submitted. March 2014",
+            "There is a course document about the \"2013 MG Aviation Elite Training Program\", which states that the captain and trainee Zhen pilot the 233 training aircraft, while the captain Jia and trainee pilot the 666 training aircraft.",
+            "The evidence found in the room of the seagull flight attendant was the drunken voice of the co pilot, 'Do you still remember what happened in G city? You are qualified to pilot the plane?'? ’The captain was very angry and said, 'You still have the audacity to say that I let you fly the plane instead of crashing into it!'",
+            "The evidence found in the haunted flight attendant's room shocked the daily tragedy of M City! An accident occurred during the elite training program, resulting in the deaths of Captain Jia and He Xueyuan!",
+            "It takes at least 30 minutes from the rooftop to the scene of the deceased",
+            "It takes at least 40 minutes from the duty-free shop to the scene of the deceased",
+            "The report of the deceased shows that he died around 14:10"
+        ],
+        "1-step": [
+            "Zhen did not submit the evidence of the accident back then because he had high-level cover, and he does not need to take responsibility.",
+            "Zhen was the person who drove the No. 233 training aircraft back then, not the co pilot",
+            "The seagull flight attendant has used something similar to a fishing line before",
+            "The evidence found in the room of the seagull flight attendant saw that she was going to help someone she loved find the truth.",
+            "Bai Kongshao and He Shijian testified to each other that there was evidence of each other's absence at the time of death.",
+            "The captain was also absent at the time of the deceased's death.",
+            "Ghost passengers are not as certain as seagull flight attendants that they used a killing tool fishing line."
+        ],
+        "2-step": [
+            "Zhen was the direct person who caused the deaths of Captain Jia and He Xueyuan."
+        ],
+        "3-step": [
+            "The revenge target of the flight attendant is Zhen, because she wants to help her lover seek revenge."
+        ],
+        "鬼乘务": [
+            "14: 20. The ghost crew saw the captain sleeping in the public lounge at the airport. The big dad of the ghost crew is sleeping!"
+        ],
+        "白空少": [
+            "14: 25. Bai Kongshao met He Shijian near the duty-free shop, who had just come down from the rooftop."
+        ],
+        "何见习": [
+            "14: 20. He Shijian saw Bai Kongshao texting on the rooftop near the duty-free shop"
+        ],
+        "大机长": [
+            "At around 2:30 pm, the flight attendant Ou came in and we greeted each other. I warmly invited her to watch the show with me"
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            12,
+            19
+        ],
+        "鬼乘务": [
+            13,
+            18
+        ],
+        "白空少": [
+            14,
+            17
+        ],
+        "何见习": [
+            15,
+            17
+        ],
+        "大机长": [
+            16
+        ]
+    },
+    "public_clue": "It takes at least 30 minutes from the rooftop to the scene of the deceased",
+    "key_clues_questions": [
+        {
+            "q": "The evidence found at the crime scene points to injuries on Zhen's face and neck. What do these injuries include? a. Strangulation and scratch marks b. knife and gunshot wounds c. burns and frostbite d. acid and alkaline burns",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What does the evidence found in the room of the flight attendant show? a. Blunt impact b. Deep burns c. Multiple abrasions d. Very fine scratches",
+            "ans": "d",
+            "source": "p-1"
+        },
+        {
+            "q": "What special traces were found on the chairs at the crime scene? a. Paint marks b. Scratches c. Scratches d. Blood stains",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What did the phone recording of the flight attendant reveal? a. Details of family gatherings b. Sealing orders for plane accidents c. Content for learning and communication d. Sharing of travel experiences",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "How long does it take to get from the rooftop to the scene of the deceased? a. At least 30 minutes b. At least 20 minutes c. At least 40 minutes d. At least 50 minutes",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "How long does it take to get from the duty-free shop to the scene of the deceased? a. At least 30 minutes b. At least 40 minutes c. At least 20 minutes d. At least 50 minutes",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "When was the time of death of the deceased? a. Around 11:10am b. Around 3:10pm c. Around 2:10pm d. Around 10:10am",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Why didn't Zhen take responsibility for the plane accident? a. Evidence has been destroyed. b. He has an alibi. c. He has high-level cover. d. The accident has been identified as force majeure",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "What role did Zhen play in the plane accident? a. Passenger b. Co pilot c. Driver 233 Training Machine d. Ground Command",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "What kind of items have seagull flight attendants used for operations? a. Rope b. Fishing line c. Cable d. Belt",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the purpose of a seagull flight attendant? a. Collecting evidence b. Finding the truth c. Protecting oneself d. Hiding personal movements",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "What role did Zhen play in the event of the deaths of Captain Jia and He Xueyuan? a. Spectator b. Investigator c. Rescue personnel d. Direct person causing the accident",
+            "ans": "d",
+            "source": "p-3"
+        },
+        {
+            "q": "What did the ghost crew discover at 14:20? a. Zhen is meeting with close friends at the airport. B. The captain is sleeping in the common lounge. C. Captain Jia is reviewing documents. D. He Xueyuan is waiting for boarding",
+            "ans": "b",
+            "source": "g-3"
+        },
+        {
+            "q": "Where did Bai Kongshao meet He Shijian at 14:25, and what was He Shijian doing at that time? a. At the airport lobby, He Shijian is looking for luggage. b. Near the duty-free shop, He Shijian has just come down from the rooftop. c. At the boarding gate, He Shijian is conducting security checks. d. At the restaurant, He Shijian is dining",
+            "ans": "b",
+            "source": "b-3"
+        },
+        {
+            "q": "Where did He Shijian see Bai Kongshao at 14:20, and what was Bai Kongshao doing at that time? a. On the rooftop near the duty-free shop, Bai Kongshao is texting. b. At the boarding gate, Bai Kongshao is making a phone call. c. In the common lounge, Bai Kongshao is sleeping. d. In the airport lobby, Bai Kongshao is waiting for someone",
+            "ans": "a",
+            "source": "h-3"
+        },
+        {
+            "q": "What event happened around 2:30 pm? a. Flight attendant Ou entered the venue, greeted He Shijian, and was invited to watch the program. B. Ghost flight attendant met the captain and had a brief conversation. C. White flight attendant was shopping at the duty-free shop. D. Zhen was meeting with MG executives for secret negotiations",
+            "ans": "a",
+            "source": "d-3"
+        },
+        {
+            "q": "How did Bai Kongshao and He Shijian provide each other with alibis? a. Through mutual testimony b. Through video evidence c. Through third-party testimony d. Through physical evidence",
+            "ans": "a",
+            "source": "p-3"
+        },
+        {
+            "q": "What was the situation of the captain at the time of the deceased's death? a. In the airport lobby b. in the common lounge c. absent d. in the duty-free shop",
+            "ans": "c",
+            "source": "p-3"
+        },
+        {
+            "q": "Who can be more certain that a killing tool fishing line was used? a. Ghost passenger b. gull flight attendant c. white air shortage d. He apprentice",
+            "ans": "b",
+            "source": "p-3"
+        }
+    ],
+    "role": [
+        {
+            "name": "He Shijian",
+            "back": "I am He Shijian, on the same flight as the deceased, serving as a trainee co pilot for the crew. I am a tall, handsome, and cheerful handsome young man. The reason why I joined MG Airlines is to seek the truth!",
+            "r_q": [
+                {
+                    "q": "Why does the protagonist feel flustered after arriving at the airport duty-free shop? a. Because she accidentally heard someone mention that co pilot Zhen was involved in an accident three years ago. b. She accidentally lost her wallet. c. She discovered that there was a problem with the duty-free goods she bought. d. She saw co pilot Zhen privately meeting with a suspicious person",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Why does the protagonist feel flustered after arriving at the airport duty-free shop? a. Because she accidentally heard someone mention that co pilot Zhen was involved in an accident three years ago. b. She accidentally lost her wallet. c. She discovered that there was a problem with the duty-free goods she bought. d. She saw co pilot Zhen privately meeting with a suspicious person"
+            ],
+            "a": [
+                "a"
+            ]
+        },
+        {
+            "name": "Chief Captain",
+            "back": "I am the captain, the most outstanding star captain of MG Airlines.",
+            "r_q": [
+                {
+                    "q": "Why did the captain start paying sealing fees to co pilot Zhen? a. In order to protect his career prospects as a pilot, b. because co pilot Zhen threatened to publicly disclose his mistakes, c. to maintain the company's reputation, d. co pilot Zhen has a handle on the captain",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Why did the captain start paying sealing fees to co pilot Zhen? a. In order to protect his career prospects as a pilot, b. because co pilot Zhen threatened to publicly disclose his mistakes, c. to maintain the company's reputation, d. co pilot Zhen has a handle on the captain"
+            ],
+            "a": [
+                "b"
+            ]
+        },
+        {
+            "name": "Seagull flight attendant",
+            "back": "Four years ago, in 2012, at the age of 20, I interned at MG Airlines and became a ground crew member. Here, I met my lifelong love - a student. We quickly fell in love, but the company has clear regulations prohibiting employees from dating each other, so we did not publicly disclose our relationship.",
+            "r_q": [
+                {
+                    "q": "Why did the protagonist decide to become a flight attendant? a. To travel the world b. To meet new people c. To uncover the truth behind her loved one's airplane accident d. To improve her language skills",
+                    "ans": "c"
+                }
+            ],
+            "self": "Hello everyone, I am a seagull flight attendant",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "Why did the protagonist decide to become a flight attendant? a. To travel the world b. To meet new people c. To uncover the truth behind her loved one's airplane accident d. To improve her language skills"
+            ],
+            "a": [
+                "c"
+            ]
+        },
+        {
+            "name": "Bai Kong Shao",
+            "back": "My father is an aircraft mechanic named Bai Jiujian, working at MG Airlines. When I was a child, due to work reasons, he often brought back some airplane models and drawings and told me about the structure of airplanes. A boy of that age, who wouldn't want to fly a plane and stand shoulder to shoulder with the sun! So, from a young age, I aspired to become a pilot. Dad said that airplanes are delicate things, and whether it's maintenance or piloting, they need to be meticulous. He encouraged me to cultivate a focused and serious attitude. I particularly admire him because he himself is such a person who has never made any mistakes in his many years of work.",
+            "r_q": [
+                {
+                    "q": "Why did the protagonist change their name and apply to join MG Airlines in 2014? a. To avoid being rejected due to his father's history, b. because he wants to change his personal image, c. to conceal his true identity, d. because he doesn't like his original name",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Why did the protagonist change their name and apply to join MG Airlines in 2014? a. To avoid being rejected due to his father's history, b. because he wants to change his personal image, c. to conceal his true identity, d. because he doesn't like his original name"
+            ],
+            "a": [
+                "a"
+            ]
+        },
+        {
+            "name": "Ghost Crew",
+            "back": "I was born into an intellectual family, and my upbringing was very strict. My mother passed away a few years ago, and my father was Captain Jia of MG Airlines.",
+            "r_q": [
+                {
+                    "q": "What unexpected event happened to the narrator on February 13th, leading to a consultation with a lawyer? a. The narrator was promoted to a senior position at MG Airlines b. The narrator won a significant prize at a company event c. The narrator experienced a traumatic incident involving a colleague d. The narrator was involved in a minor accident at the airport",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What unexpected event happened to the narrator on February 13th, leading to a consultation with a lawyer? a. The narrator was promoted to a senior position at MG Airlines b. The narrator won a significant prize at a company event c. The narrator experienced a traumatic incident involving a colleague d. The narrator was involved in a minor accident at the airport"
+            ],
+            "a": [
+                "c"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "The evidence found at the crime scene points to injuries on Zhen's face and neck. What do these injuries include? a. Strangulation and scratch marks b. knife and gunshot wounds c. burns and frostbite d. acid and alkaline burns",
+            "What does the evidence found in the room of the flight attendant show? a. Blunt impact b. Deep burns c. Multiple abrasions d. Very fine scratches",
+            "What special traces were found on the chairs at the crime scene? a. Paint marks b. Scratches c. Scratches d. Blood stains",
+            "What did the phone recording of the flight attendant reveal? a. Details of family gatherings b. Sealing orders for plane accidents c. Content for learning and communication d. Sharing of travel experiences",
+            "How long does it take to get from the rooftop to the scene of the deceased? a. At least 30 minutes b. At least 20 minutes c. At least 40 minutes d. At least 50 minutes",
+            "How long does it take to get from the duty-free shop to the scene of the deceased? a. At least 30 minutes b. At least 40 minutes c. At least 20 minutes d. At least 50 minutes",
+            "When was the time of death of the deceased? a. Around 11:10am b. Around 3:10pm c. Around 2:10pm d. Around 10:10am",
+            "Why didn't Zhen take responsibility for the plane accident? a. Evidence has been destroyed. b. He has an alibi. c. He has high-level cover. d. The accident has been identified as force majeure",
+            "What role did Zhen play in the plane accident? a. Passenger b. Co pilot c. Driver 233 Training Machine d. Ground Command",
+            "What kind of items have seagull flight attendants used for operations? a. Rope b. Fishing line c. Cable d. Belt",
+            "What is the purpose of a seagull flight attendant? a. Collecting evidence b. Finding the truth c. Protecting oneself d. Hiding personal movements",
+            "What role did Zhen play in the event of the deaths of Captain Jia and He Xueyuan? a. Spectator b. Investigator c. Rescue personnel d. Direct person causing the accident",
+            "What did the ghost crew discover at 14:20? a. Zhen is meeting with close friends at the airport. B. The captain is sleeping in the common lounge. C. Captain Jia is reviewing documents. D. He Xueyuan is waiting for boarding",
+            "Where did Bai Kongshao meet He Shijian at 14:25, and what was He Shijian doing at that time? a. At the airport lobby, He Shijian is looking for luggage. b. Near the duty-free shop, He Shijian has just come down from the rooftop. c. At the boarding gate, He Shijian is conducting security checks. d. At the restaurant, He Shijian is dining",
+            "Where did He Shijian see Bai Kongshao at 14:20, and what was Bai Kongshao doing at that time? a. On the rooftop near the duty-free shop, Bai Kongshao is texting. b. At the boarding gate, Bai Kongshao is making a phone call. c. In the common lounge, Bai Kongshao is sleeping. d. In the airport lobby, Bai Kongshao is waiting for someone",
+            "What event happened around 2:30 pm? a. Flight attendant Ou entered the venue, greeted He Shijian, and was invited to watch the program. B. Ghost flight attendant met the captain and had a brief conversation. C. White flight attendant was shopping at the duty-free shop. D. Zhen was meeting with MG executives for secret negotiations",
+            "How did Bai Kongshao and He Shijian provide each other with alibis? a. Through mutual testimony b. Through video evidence c. Through third-party testimony d. Through physical evidence",
+            "What was the situation of the captain at the time of the deceased's death? a. In the airport lobby b. in the common lounge c. absent d. in the duty-free shop",
+            "Who can be more certain that a killing tool fishing line was used? a. Ghost passenger b. gull flight attendant c. white air shortage d. He apprentice"
+        ],
+        "key_ans": [
+            "a",
+            "d",
+            "c",
+            "b",
+            "a",
+            "b",
+            "c",
+            "c",
+            "c",
+            "b",
+            "b",
+            "d",
+            "b",
+            "b",
+            "a",
+            "a",
+            "a",
+            "c",
+            "b"
+        ],
+        "key_sc": [
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-3",
+            "g-3",
+            "b-3",
+            "h-3",
+            "d-3",
+            "p-3",
+            "p-3",
+            "p-3"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "How is the door of B2-1 locked? a. Can only be opened from the outside with a key b. Can only be manually locked from the inside c. Can be locked inside and outside with a key d. Cannot be locked",
+            "Why is the carpet inside the entrance of room B2-1 damp? a. Watering the room b. Water from the bathroom c. Cleaning work d. Rainwater leakage",
+            "What does the discovery of an empty gas cylinder in room B2-2 imply? a. Gas leakage b. Excessive use of gas c. Gas theft d. A fire has occurred in the room",
+            "What is the status of the wiring for the bathroom hair dryer? a. Intact b. Slightly worn c. Exposed wires with damage d. Completely broken",
+            "What are the items with ether found in the garbage bin on this floor? a. Bottles b. Jars c. Gloves d. Handkerchiefs",
+            "What else is stored next to the ether stored in the warehouse? a. Kaifeng gas cylinder b. Unopened gas cylinder c. Empty water bucket d. Chemical fertilizer",
+            "How is the handle of the room door designed? a. Fixed b. Rotating c. Coaxial movement with downward pressure d. Automatic induction",
+            "What is the purpose of the power socket on the corridor wall? a. Regular electricity usage b. Emergency use c. Decorative effect d. For cleaning purposes only",
+            "Why are there water stains on the floor tiles in the bathroom? a. Cleaning is not yet dry. b. The bathtub is leaking. c. The shower water splashes out. d. The pipeline is leaking",
+            "What is the status of the towels in the bathroom of room B2-2? a. Dry and neatly arranged. b. If it gets wet, throw it on the ground. c. If it gets wet, hang it up. d. If it gets dry, throw it on the ground",
+            "What caused most of the items in room B2-2 to be damaged? a. Flood b. Earthquake c. Fire d. Theft",
+            "What could be the possible reason why the bathroom in room B2-2 was not affected by the fire? a. Water prevented the spread of the fire. b. The bathroom door is tightly closed. c. There are no flammable substances. d. The automatic sprinkler system is activated",
+            "Why did the hair dryer fall to the ground? a. Placed by human intervention b. Dropped due to wire breakage c. Deformed bracket due to high temperature d. Unstable due to wire damage",
+            "What are the possible uses of unopened gas cylinders in the warehouse? a. Heating b. Cooking c. Power generation d. Waste",
+            "What is the decorative material for the door handles of the rooms in this building? a. Metal b. Plastic c. High grade leather d. Wood",
+            "What type of lock is inside the door? a. Automatic electronic lock b. Manual knob reverse lock c. Password lock d. Fingerprint lock",
+            "Is the deceased's phone waterproof? a. Yes, but limited to a water level of 30 centimeters. b. Yes, waterproof without restrictions. c. Not d. Yes, but limited to a water level of 50 centimeters",
+            "What is the item blocking the drain in the room? a. Plastic bag b. Wooden block c. High fiber sponge ball d. Stone",
+            "Where was the body found? a. On the bed b. In the water c. At the desk d. In the bathroom",
+            "What was found in the pocket of the corpse's clothes? a. Mobile phone and wallet b. Key to rooms B2-1 and B2-2 c. Map and guide d. Notebook and pen",
+            "What equipment can be operated in the control room? a. Elevator and safety door b. Ventilator and fire sprinkler c. Lighting and sound system d. Heating and air conditioning system",
+            "Is there any obvious external injury to the body? a. There are multiple external injuries. b. There is one external injury. c. There is no obvious external injury. d. Uncertain",
+            "Can the metal bookshelf in the room be easily moved? a. Can be easily moved b. Cannot be easily moved c. Already moved d. Not mentioned",
+            "What is the height of accumulated water in room B3-1? a. Reaching the ventilation opening b. No standing water c. Even the tallest person cannot reach the ventilation opening d. The standing water only covers the ground",
+            "What is the water spray volume setting for the room? a. Minimum b. Medium c. Maximum d. Closed",
+            "How is water treated after the drain is blocked? a. Continuing to accumulate water b. Discharging through other drainage outlets c. Drying the water d. Automatic water absorption"
+        ],
+        "key_ans": [
+            "c",
+            "b",
+            "d",
+            "c",
+            "d",
+            "b",
+            "c",
+            "b",
+            "c",
+            "c",
+            "c",
+            "a",
+            "d",
+            "b",
+            "c",
+            "b",
+            "a",
+            "c",
+            "b",
+            "b",
+            "b",
+            "c",
+            "b",
+            "c",
+            "c",
+            "c"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "Who is the room closest to the bathroom in the negative floor plan? a. Kurosawa b. Shadowsee c. Kirishima d. Kamiya",
+            "What type of wall is the middle wall in the negative floor plan? a. Soundproofing wall b. Decorative wall c. Load bearing wall d. Firewall",
+            "Who lives next to Kurosawa in the negative floor plan? a. Y ō mi and Kirishima b. Kirishima and Kamiya c. Kamiya and Kosano d. Kosano and Y ō mi",
+            "Who lives next to Shengu in the negative floor plan? a. Kurosawa and Kirishima b. Hidemi and Ono c. Kurosawa and Ono d. Kirishima and Hidemi",
+            "Who lives next to Ono in the negative floor plan? a. Kurosawa and Kirishima b. Kirishima and Kamiya c. Kamiya and Shadowsee d. Kurosawa and Shadowsee",
+            "How many rooms are occupied in the negative floor plan? a. 3 b. 4 c. 5 d. 6",
+            "In the negative floor plan, what places do I need to pass through to enter the medical room? a. B. Meeting room and lounge b. Distribution room and meeting room c. Storage room and meeting room d. Lounge and distribution room",
+            "Which room in the negative second floor plan has a bathroom? a. B2-1 b. B2-2 c. B2-3 d. B2-4",
+            "How many rooms starting with B are there in the negative second floor plan? a. 1 b. 2 c. 3 d. 4",
+            "What rooms are on both sides of B2-2 in the negative second floor plan? a. B2-1 and B2-3 b. B2-3 and central control room c. B2-1 and central control room d. Central control room and B2-4"
+        ],
+        "key_ans": [
+            "b",
+            "c",
+            "b",
+            "c",
+            "c",
+            "c",
+            "b",
+            "b",
+            "b",
+            "c"
+        ]
+    },
+    "ju_name": "p2",
+    "task_nm": "The deceased is co pilot Zhen",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Seagull flight attendant",
+        "Ghost Crew",
+        "Bai Kong Shao",
+        "Chief Captain"
+    ],
+    "murder": "Seagull flight attendant",
+    "reason": "Motive for committing the crime:"
+}

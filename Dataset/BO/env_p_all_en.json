@@ -1,0 +1,314 @@
+{
+    "key_clues_pool": {
+        "p": [
+            "Evidence found in the space of the deceased - Resurrection Technique Rumor: If only the soul of the undead remains alive, attaching the soul to the living body will slowly erode the body, making the body and soul more and more similar in essence.",
+            "Evidence found in Wei Bao'an Space: Information: Zhen: I'm back, where are you? If you don't tell me the exact location of the main tomb, I will seal you back and sleep for another thousand years at 18:30 on February 17th.",
+            "The evidence found in Wei Bao'an's space shows a strange tattoo on the back waist.",
+            "The evidence found in the deceased's space is the Resurrection Secret Technique - the first page describes the method of reviving Boruto.",
+            "The evidence found in Wei Bao'an's space is a book called \"The Man on Horseback\", which records the story of General Borshu and Genghis Khan. Borshu was a founding hero who assisted Genghis Khan.",
+            "Evidence Diary Found in Wei Bao'an Space - Grave Robber, Bloodshed!",
+            "Evidence found in the deceased's space: There is an ashtray at the entrance of Shi Kang Space where the security guard fainted.",
+            "There is a lot of evidence found in Wei Bao'an's space, including books by Genghis Khan.",
+            "There are a few scratches on the door lock of the evidence space found in the deceased's space. When the door was kicked open by the detective, it was still locked."
+        ],
+        "2-step": [
+            "Wei Bao'an is related to the founding general of Genghis Khan, Borshu.",
+            "The deceased has been threatening Wei Bao'an to obtain information about the main tomb.",
+            "At that time, the deceased's room was in a closed state, with only Wei Bao'an and the deceased present."
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            12
+        ]
+    },
+    "public_clue": "Case report",
+    "key_clues_questions": [
+        {
+            "q": "What is the rumor about the resurrection secret found in the deceased's space? a. The soul can freely shuttle. b. The soul attaches to a living person. c. The soul can act independently. d. The soul is resurrected through rituals",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What message did Wei Bao'an receive? a. Greetings from friends b. Calls from family c. Threatening information d. Work instructions",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What are the characteristics of Wei Bao'an? a. Strange tattoos b. Scars c. Tattoos d. Special markings",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What is written on the first page of the Resurrection Secret Technique? a. The conditions for resurrection b. The method of reviving Borussia c. How to find the soul d. The cost of resurrection",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What story is recorded in the book 'The Man on Horseback'? a. The story of Genghis Khan's conquests b. The relationship between General Borussia and Genghis Khan c. The story of ancient knights d. The history of the horseback nation",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What did the diary found in Wei Bao'an's space mention? a. Travel experiences b. The fate of grave robbers c. Daily mood d. Work records",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the special discovery at the entrance of the deceased's space? a. Ashtray b. footprints c. bloodstains d. fingerprints",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What type of books are abundant in Wei Bao'an's space? a. Related to Genghis Khan b. Ancient History c. Science Fiction d. Grave Robbery Techniques",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the situation with the door of the deceased's space locked? a. The lock is damaged. B. The door is open. C. There are scratches on the door lock. D. The lock has rusted",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Which historical figure is Wei Baoan associated with? a. Genghis Khan b. Borussia c. Qin Shihuang d. Li Bai",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "The deceased has been threatening Wei Bao'an and demanding what? a. Money b. Information about the main tomb c. Escape route d. Hidden treasures",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What was the condition of the deceased's room at that time? a. Open door b. Fully enclosed c. Window open d. Door partially open",
+            "ans": "b",
+            "source": "p-1"
+        }
+    ],
+    "role": [
+        {
+            "name": "What antique",
+            "back": "My surname is Zhen, and my name is Zhen He. Our Zhen family is a family of archaeologists, and my father is an expert in archaeology. Our family has always believed that all unearthed cultural relics should be handed over to the country.",
+            "r_q": [
+                {
+                    "q": "Why did the protagonist decide to go to the museum on February 17, 2017? a. Go find Zhen's set of words. b. Steal back an antique. c. Hold an exhibition. d. Meet friends",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Why did the protagonist decide to go to the museum on February 17, 2017? a. Go find Zhen's set of words. b. Steal back an antique. c. Hold an exhibition. d. Meet friends"
+            ],
+            "a": [
+                "a"
+            ]
+        },
+        {
+            "name": "Director Sa",
+            "back": "I am Sa Sishi, a tour guide at the \"Amazing My Museum\" museum and a history encyclopedia.",
+            "r_q": [
+                {
+                    "q": "What motivated Sa Gan Shi to visit 'Li Hai Liao Wo De Guan' museum in October 2016? a. To apply for a job as a curator b. To see the armor of General Boerzhu, his ancestor c. To attend an international conference on Mongolian history d. To donate some personal historical artifacts",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What motivated Sa Gan Shi to visit 'Li Hai Liao Wo De Guan' museum in October 2016? a. To apply for a job as a curator b. To see the armor of General Boerzhu, his ancestor c. To attend an international conference on Mongolian history d. To donate some personal historical artifacts"
+            ],
+            "a": [
+                "b"
+            ]
+        },
+        {
+            "name": "Mystery of gulls",
+            "back": "Background introduction of the character: I am Ou Mysterious, 25 years old, and I have come to my amazing hall to seek revenge!",
+            "r_q": [
+                {
+                    "q": "Why did the mysterious gull decide to go to school in another city? a. Because she wants to pursue better educational opportunities. b. Her father insists that she study. c. She wants to escape the family's mission. d. In order to learn more about feng shui and tombs",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Why did the mysterious gull decide to go to school in another city? a. Because she wants to pursue better educational opportunities. b. Her father insists that she study. c. She wants to escape the family's mission. d. In order to learn more about feng shui and tombs"
+            ],
+            "a": [
+                "a"
+            ]
+        },
+        {
+            "name": "Bai Xiaoye",
+            "back": "I am a genuine Beijing native, and everyone calls me 'Bai Xiaoye'. My father has been doing business abroad for many years, while my mother and I are in China. Since I was young, my parents have taught me not to lose my heroic and aristocratic qualities. Because we are descendants of the legendary Genghis Khan!",
+            "r_q": [
+                {
+                    "q": "When was the last time Bai Xiaoye tried to contact his mother over the phone? a. October 10th b. October 13th c. October 15th d. October 16th",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "When was the last time Bai Xiaoye tried to contact his mother over the phone? a. October 10th b. October 13th c. October 15th d. October 16th"
+            ],
+            "a": [
+                "b"
+            ]
+        },
+        {
+            "name": "Wei Bao'an",
+            "back": "I am a museum security guard named 'Impressive My Museum' in Changsha. In addition to me, there is Director Zhen and a tour guide named Director Sa who joined on January 10, 2017. As for how I started [today's visit registration -10:00 Bai Xiaoye; 15:00 He Antique, Gull Mystery; 15:10 Bai Xiaoye] [Wei Bao'an has the keys to everyone's rooms, hanging in the security room four months ago (2016/10/15). A strange man woke me up, and I slowly opened my eyes, feeling sore all over my body,",
+            "r_q": [
+                {
+                    "q": "On the day of the incident, how did the perpetrator create the illusion of Uncle San's suicide? a. Stab Uncle San in the chest with a dagger b. place the dagger in Uncle San's right hand c. make Uncle San swallow a large amount of medicine d. hang Uncle San in the room",
+                    "ans": "b"
+                }
+            ],
+            "self": "Hello everyone, I am Wei Bao'an",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "On the day of the incident, how did the perpetrator create the illusion of Uncle San's suicide? a. Stab Uncle San in the chest with a dagger b. place the dagger in Uncle San's right hand c. make Uncle San swallow a large amount of medicine d. hang Uncle San in the room"
+            ],
+            "a": [
+                "b"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "What is the rumor about the resurrection secret found in the deceased's space? a. The soul can freely shuttle. b. The soul attaches to a living person. c. The soul can act independently. d. The soul is resurrected through rituals",
+            "What message did Wei Bao'an receive? a. Greetings from friends b. Calls from family c. Threatening information d. Work instructions",
+            "What are the characteristics of Wei Bao'an? a. Strange tattoos b. Scars c. Tattoos d. Special markings",
+            "What is written on the first page of the Resurrection Secret Technique? a. The conditions for resurrection b. The method of reviving Borussia c. How to find the soul d. The cost of resurrection",
+            "What story is recorded in the book 'The Man on Horseback'? a. The story of Genghis Khan's conquests b. The relationship between General Borussia and Genghis Khan c. The story of ancient knights d. The history of the horseback nation",
+            "What did the diary found in Wei Bao'an's space mention? a. Travel experiences b. The fate of grave robbers c. Daily mood d. Work records",
+            "What is the special discovery at the entrance of the deceased's space? a. Ashtray b. footprints c. bloodstains d. fingerprints",
+            "What type of books are abundant in Wei Bao'an's space? a. Related to Genghis Khan b. Ancient History c. Science Fiction d. Grave Robbery Techniques",
+            "What is the situation with the door of the deceased's space locked? a. The lock is damaged. B. The door is open. C. There are scratches on the door lock. D. The lock has rusted",
+            "Which historical figure is Wei Baoan associated with? a. Genghis Khan b. Borussia c. Qin Shihuang d. Li Bai",
+            "The deceased has been threatening Wei Bao'an and demanding what? a. Money b. Information about the main tomb c. Escape route d. Hidden treasures",
+            "What was the condition of the deceased's room at that time? a. Open door b. Fully enclosed c. Window open d. Door partially open"
+        ],
+        "key_ans": [
+            "b",
+            "c",
+            "a",
+            "b",
+            "b",
+            "b",
+            "a",
+            "a",
+            "c",
+            "b",
+            "b",
+            "b"
+        ],
+        "key_sc": [
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "How is the door of B2-1 locked? a. Can only be opened from the outside with a key b. Can only be manually locked from the inside c. Can be locked inside and outside with a key d. Cannot be locked",
+            "Why is the carpet inside the entrance of room B2-1 damp? a. Watering the room b. Water from the bathroom c. Cleaning work d. Rainwater leakage",
+            "What does the discovery of an empty gas cylinder in room B2-2 imply? a. Gas leakage b. Excessive use of gas c. Gas theft d. A fire has occurred in the room",
+            "What is the status of the wiring for the bathroom hair dryer? a. Intact b. Slightly worn c. Exposed wires with damage d. Completely broken",
+            "What are the items with ether found in the garbage bin on this floor? a. Bottles b. Jars c. Gloves d. Handkerchiefs",
+            "What else is stored next to the ether stored in the warehouse? a. Kaifeng gas cylinder b. Unopened gas cylinder c. Empty water bucket d. Chemical fertilizer",
+            "How is the handle of the room door designed? a. Fixed b. Rotating c. Coaxial movement with downward pressure d. Automatic induction",
+            "What is the purpose of the power socket on the corridor wall? a. Regular electricity usage b. Emergency use c. Decorative effect d. For cleaning purposes only",
+            "Why are there water stains on the floor tiles in the bathroom? a. Cleaning is not yet dry. b. The bathtub is leaking. c. The shower water splashes out. d. The pipeline is leaking",
+            "What is the status of the towels in the bathroom of room B2-2? a. Dry and neatly arranged. b. If it gets wet, throw it on the ground. c. If it gets wet, hang it up. d. If it gets dry, throw it on the ground",
+            "What caused most of the items in room B2-2 to be damaged? a. Flood b. Earthquake c. Fire d. Theft",
+            "What could be the possible reason why the bathroom in room B2-2 was not affected by the fire? a. Water prevented the spread of the fire. b. The bathroom door is tightly closed. c. There are no flammable substances. d. The automatic sprinkler system is activated",
+            "Why did the hair dryer fall to the ground? a. Placed by human intervention b. Dropped due to wire breakage c. Deformed bracket due to high temperature d. Unstable due to wire damage",
+            "What are the possible uses of unopened gas cylinders in the warehouse? a. Heating b. Cooking c. Power generation d. Waste",
+            "What is the decorative material for the door handles of the rooms in this building? a. Metal b. Plastic c. High grade leather d. Wood",
+            "What type of lock is inside the door? a. Automatic electronic lock b. Manual knob reverse lock c. Password lock d. Fingerprint lock",
+            "Is the deceased's phone waterproof? a. Yes, but limited to a water level of 30 centimeters. b. Yes, waterproof without restrictions. c. Not d. Yes, but limited to a water level of 50 centimeters",
+            "What is the item blocking the drain in the room? a. Plastic bag b. Wooden block c. High fiber sponge ball d. Stone",
+            "Where was the body found? a. On the bed b. In the water c. At the desk d. In the bathroom",
+            "What was found in the pocket of the corpse's clothes? a. Mobile phone and wallet b. Key to rooms B2-1 and B2-2 c. Map and guide d. Notebook and pen",
+            "What equipment can be operated in the control room? a. Elevator and safety door b. Ventilator and fire sprinkler c. Lighting and sound system d. Heating and air conditioning system",
+            "Is there any obvious external injury to the body? a. There are multiple external injuries. b. There is one external injury. c. There is no obvious external injury. d. Uncertain",
+            "Can the metal bookshelf in the room be easily moved? a. Can be easily moved b. Cannot be easily moved c. Already moved d. Not mentioned",
+            "What is the height of accumulated water in room B3-1? a. Reaching the ventilation opening b. No standing water c. Even the tallest person cannot reach the ventilation opening d. The standing water only covers the ground",
+            "What is the water spray volume setting for the room? a. Minimum b. Medium c. Maximum d. Closed",
+            "How is water treated after the drain is blocked? a. Continuing to accumulate water b. Discharging through other drainage outlets c. Drying the water d. Automatic water absorption"
+        ],
+        "key_ans": [
+            "c",
+            "b",
+            "d",
+            "c",
+            "d",
+            "b",
+            "c",
+            "b",
+            "c",
+            "c",
+            "c",
+            "a",
+            "d",
+            "b",
+            "c",
+            "b",
+            "a",
+            "c",
+            "b",
+            "b",
+            "b",
+            "c",
+            "b",
+            "c",
+            "c",
+            "c"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "Who is the room closest to the bathroom in the negative floor plan? a. Kurosawa b. Shadowsee c. Kirishima d. Kamiya",
+            "What type of wall is the middle wall in the negative floor plan? a. Soundproofing wall b. Decorative wall c. Load bearing wall d. Firewall",
+            "Who lives next to Kurosawa in the negative floor plan? a. Y ō mi and Kirishima b. Kirishima and Kamiya c. Kamiya and Kosano d. Kosano and Y ō mi",
+            "Who lives next to Shengu in the negative floor plan? a. Kurosawa and Kirishima b. Hidemi and Ono c. Kurosawa and Ono d. Kirishima and Hidemi",
+            "Who lives next to Ono in the negative floor plan? a. Kurosawa and Kirishima b. Kirishima and Kamiya c. Kamiya and Shadowsee d. Kurosawa and Shadowsee",
+            "How many rooms are occupied in the negative floor plan? a. 3 b. 4 c. 5 d. 6",
+            "In the negative floor plan, what places do I need to pass through to enter the medical room? a. B. Meeting room and lounge b. Distribution room and meeting room c. Storage room and meeting room d. Lounge and distribution room",
+            "Which room in the negative second floor plan has a bathroom? a. B2-1 b. B2-2 c. B2-3 d. B2-4",
+            "How many rooms starting with B are there in the negative second floor plan? a. 1 b. 2 c. 3 d. 4",
+            "What rooms are on both sides of B2-2 in the negative second floor plan? a. B2-1 and B2-3 b. B2-3 and central control room c. B2-1 and central control room d. Central control room and B2-4"
+        ],
+        "key_ans": [
+            "b",
+            "c",
+            "b",
+            "c",
+            "c",
+            "c",
+            "b",
+            "b",
+            "b",
+            "c"
+        ]
+    },
+    "ju_name": "bo",
+    "task_nm": "The deceased is Director Zhen",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Wei Bao'an"
+    ],
+    "murder": "Wei Bao'an",
+    "reason": "Motive for committing the crime:"
+}

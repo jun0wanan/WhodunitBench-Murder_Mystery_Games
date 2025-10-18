@@ -1,0 +1,2058 @@
+{
+    "key_clues_pool": {
+        "1-step": [
+            "There can be no Tibetans in the backyard before locking the door",
+            "The murderer knew that Sarah had a cartilage dance, which diverted everyone's attention and made them suspect that Sarah could hide in the suitcase and become the biggest suspect",
+            "It is precisely because vines can only withstand the climbing of people under 70KG that the killer cannot take away the glass used to make the secret room.",
+            "The murderer stuck a black cloth behind the glass he brought, turning it into a black mirror",
+            "Excluding the technique of changing rooms, it implies that there is no light source in the hallway, so when Joey sees the mirror on the table in the room, he will not see himself in the dark hallway.",
+            "There is no place for Tibetans in the room"
+        ],
+        "2-step": [
+            "The murderer erected a glass mirror in the middle of the table, so in Joey's view, the utensils on the other side of the window were reversed, and the candlelight was even darker",
+            "The glass residue suggests that the perpetrator had used glass, and the reason for breaking the glass in the deceased's room was also to hide the glass they brought.",
+            "The position of the knife and fork on the side of the dining table near the window is reversed, and the candlelight on that side is even darker, because the killer erected a glass mirror in the middle of the dining table",
+            "The purpose of a suitcase is to transport glass in.",
+            "The reason why the killer did not take the glass away is that the secret room has already been formed at this time, and the only exit is to leave the backyard through vines. However, because the weight of vines is 70KG, the killer is 68KG, and the weight of glass is much greater than 2KG, so the killer cannot take the glass away."
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            65
+        ]
+    },
+    "public_clue": "\n",
+    "key_clues_questions": [
+        {
+            "q": "According to the description in the article, how did the killer make the glass look like a black mirror? a. Paste colored paper behind the glass b. Paste black cloth behind the glass c. Spray black paint on the glass d. Use glass that is already black",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the load-bearing limit of the vines mentioned in the article? a. 50KG b. 60KG c. 70KG d. 80KG",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Why did Sarah become the biggest suspect? a. She knows how to dance cartilage. B. She has a suitcase. C. She knows how to lock the backyard door. D. She has made mistakes in the past",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Why can't Joey see his reflection in the mirror? a. The mirror is unidirectional. B. The mirror is too dirty. C. There is no light source in the hallway. D. Joey is transparent",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Why did Joey see the cutlery on the other side of the window reversed? a. Table instability b. Visual effects produced by mirrors c. Incorrect placement by servers d. Intentional misleading",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "What was the reason why the murderer broke the glass in the deceased's room? a. Plan to steal b. Find an escape route c. Hide the glass carried d. Change the situation on site",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the main function of a suitcase? a. Store personal items b. Transport glass c. Hide dangerous goods d. Store stolen items",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the reason why the murderer did not take the glass away? a. The glass is too heavy. b. The value of the glass is not significant. c. Lack of appropriate transportation methods. d. Worried about leaving criminal traces",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "Which side of the candlelight appears darker due to the reflection effect of the mirror? a. Side near the window b. Side near the door c. Middle d. Side near the wall",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "Why didn't the murderer take the glass he brought with him? a. The glass is too heavy. b. The vines do not bear enough weight. c. I forgot to take it away. d. The glass is damaged",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "How did the murderer transport the glass in? a. Through luggage b. Hidden in clothing c. Handheld directly d. Using a tool cart",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "How did the murderer leave the secret room? a. Through the window b. using the door c. climbing over vines d. digging a tunnel",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "玻璃形成的镜子的主要目的是什么？a. 照亮房间 b. 创建视觉错觉 c. 增加房间美观 d. 隐藏凶手",
+            "ans": "b",
+            "source": "p-2"
+        }
+    ],
+    "role": [
+        {
+            "name": "Rolf",
+            "back": "You're awake.",
+            "r_q": [
+                {
+                    "q": "Where was the body of the deceased found? a. Bedroom b. Living room c. Dining room d. Bathroom",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the occupation of the deceased Hercule? a. Teacher b. Lawyer c. Entrepreneur d. Doctor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who found Hercule's body? a. Servants Joey and Miss Sarah B. Faris and Thomas C. Taylor and Rolfe D. Webster and Joey",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the weapon of Hercule's death? a. Gun b. Knife c. Glass piece d. Poison",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the condition of the restaurant windows? a. Locked b. No windows c. Broken d. Open",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did the glass shards on the chest of the deceased come from? a. Mirror b. Glass c. Window d. Frame",
+                    "ans": "c"
+                },
+                {
+                    "q": "What did Hercule take before he died? a. Antidepressants b. Sleeping pills c. Analgesics d. Antibiotics",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which item was not used at the crime scene? a. Tableware b. Luggage c. Roast chicken d. Candles",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the condition of the backyard gate at the time of the incident? a. B. Open b. No door c. Closed d. Damaged",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which of the following fingerprints can open the villa door? a. Faris B. Thomas C. Miss Sarah D. Taylor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the height of the deceased Hercule? a. 177CM b. 182CM c. 173CM d. 185CM",
+                    "ans": "a"
+                },
+                {
+                    "q": "In which room was the body of the deceased found? a. Bedroom b. Living room c. Dining room d. Bathroom",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many plates of roasted chicken were found at the crime scene? a. One plate b. Two plates c. Three plates d. Four plates",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of fragments of objects were found on the deceased's body? a. Mirror b. Glass c. Window d. Frame",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the condition of the window behind the deceased's body at the time of the incident? a. Locked b. No windows c. Broken d. Open",
+                    "ans": "c"
+                },
+                {
+                    "q": "What kind of medication did the deceased take? a. Antidepressants b. Sleeping pills c. Analgesics d. Antibiotics",
+                    "ans": "b"
+                },
+                {
+                    "q": "Was the tableware used at the crime scene? a. Yes B. No",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who can open the villa door with fingerprints? a. Faris B. Thomas C. Miss Sarah D. Taylor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the age of the deceased Hercule? a. 32 years old b. 42 years old c. 52 years old d. 62 years old",
+                    "ans": "b"
+                },
+                {
+                    "q": "How was the backyard gate behind the deceased locked? a. Key lock b. Password lock c. Fingerprint lock d. No lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which room was the deceased found at the crime scene? a. Bedroom b. Living room c. Dining room d. Bathroom",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the height of the deceased? a. 173CM b. 177CM c. 182CM d. 185CM",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many plates of roasted chicken were not eaten at the crime scene? a. One plate b. Two plates c. Three plates d. Four plates",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the occupation of the deceased Hercule? a. Teacher b. Lawyer c. Entrepreneur d. Doctor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did the glass shards on the chest of the deceased come from? a. Mirror b. Glass c. Window d. Frame",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the locking method of the backyard gate at the time of the incident? a. Key lock b. Password lock c. Fingerprint lock d. No lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the age of the deceased Hercule? a. 32 years old b. 42 years old c. 52 years old d. 62 years old",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the condition of the window behind the body of the deceased Hercule at the time of the incident? a. Locked b. No windows c. Broken d. Open",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the condition of the candles on the dining table? a. Brand new b. Burning c. Extinguished d. Burning out completely",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who is not included in the personnel who can open the villa door through fingerprints? a. Faris B. Thomas C. Miss Sarah D. Miss Joey",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the crime scene located? a. Urban area b. Suburban area c. Rural area d. Seaside",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the height of the deceased Hercule? a. 173CM b. 177CM c. 182CM d. 185CM",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who were the two individuals who discovered the body of the deceased? a. Faris and Thomas B. Taylor and Joey C. Miss Joey and Miss Sarah D. Webster and Joey",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the condition of the windows at the crime scene? a. Locked b. No windows c. Broken d. Open",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the origin of the glass shards on the deceased's body? a. Mirror b. Glass c. Window d. Frame",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of lock is the backyard door at the crime scene? a. Key lock b. Password lock c. Fingerprint lock d. No lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many plates of roasted chicken were not eaten at the crime scene? a. One plate b. Two plates c. Three plates d. Four plates",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of medication did the deceased take? a. Antidepressants b. Sleeping pills c. Analgesics d. Antibiotics",
+                    "ans": "b"
+                },
+                {
+                    "q": "How are the candles on the dining table? a. Brand new b. Burning c. Extinguished d. Burning out completely",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who can open the villa door with their fingerprints? a. Faris and Thomas B. Thomas and Joey C. Miss Sarah and Joey D. Taylor and Rolfe",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which room was the victim's body found during the incident? a. Bedroom b. Living room c. Dining room d. Bathroom",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the occupation of the deceased Hercule? a. Teacher b. Lawyer c. Entrepreneur d. Doctor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who were the two individuals who discovered the body of the deceased? a. Faris and Thomas B. Taylor and Joey C. Miss Joey and Miss Sarah D. Webster and Joey",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the condition of the windows at the crime scene? a. Locked b. No windows c. Broken d. Open",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did the glass shards on the chest of the deceased come from? a. Mirror b. Glass c. Window d. Frame",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many plates of uneaten roasted chicken were there at the crime scene? a. One plate b. Two plates c. Three plates d. Four plates",
+                    "ans": "b"
+                },
+                {
+                    "q": "What medication did the deceased Hercule take before the incident? a. Antidepressants b. Sleeping pills c. Analgesics d. Antibiotics",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of lock is used for the backyard gate at the crime scene? a. Key lock b. Password lock c. Fingerprint lock d. No lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the status of the candles on the dining table? a. Brand new b. Burning c. Extinguished d. Burning out completely",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who can open the villa door with their fingerprints? a. Faris and Thomas B. Thomas and Joey C. Miss Sarah and Joey D. Taylor and Rolfe",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Where was the body of the deceased found? a. Bedroom b. Living room c. Dining room d. Bathroom",
+                "What was the occupation of the deceased Hercule? a. Teacher b. Lawyer c. Entrepreneur d. Doctor",
+                "Who found Hercule's body? a. Servants Joey and Miss Sarah B. Faris and Thomas C. Taylor and Rolfe D. Webster and Joey",
+                "What was the weapon of Hercule's death? a. Gun b. Knife c. Glass piece d. Poison",
+                "What is the condition of the restaurant windows? a. Locked b. No windows c. Broken d. Open",
+                "Where did the glass shards on the chest of the deceased come from? a. Mirror b. Glass c. Window d. Frame",
+                "What did Hercule take before he died? a. Antidepressants b. Sleeping pills c. Analgesics d. Antibiotics",
+                "Which item was not used at the crime scene? a. Tableware b. Luggage c. Roast chicken d. Candles",
+                "What was the condition of the backyard gate at the time of the incident? a. B. Open b. No door c. Closed d. Damaged",
+                "Which of the following fingerprints can open the villa door? a. Faris B. Thomas C. Miss Sarah D. Taylor",
+                "What is the height of the deceased Hercule? a. 177CM b. 182CM c. 173CM d. 185CM",
+                "In which room was the body of the deceased found? a. Bedroom b. Living room c. Dining room d. Bathroom",
+                "How many plates of roasted chicken were found at the crime scene? a. One plate b. Two plates c. Three plates d. Four plates",
+                "What kind of fragments of objects were found on the deceased's body? a. Mirror b. Glass c. Window d. Frame",
+                "What was the condition of the window behind the deceased's body at the time of the incident? a. Locked b. No windows c. Broken d. Open",
+                "What kind of medication did the deceased take? a. Antidepressants b. Sleeping pills c. Analgesics d. Antibiotics",
+                "Was the tableware used at the crime scene? a. Yes B. No",
+                "Who can open the villa door with fingerprints? a. Faris B. Thomas C. Miss Sarah D. Taylor",
+                "What is the age of the deceased Hercule? a. 32 years old b. 42 years old c. 52 years old d. 62 years old",
+                "How was the backyard gate behind the deceased locked? a. Key lock b. Password lock c. Fingerprint lock d. No lock",
+                "In which room was the deceased found at the crime scene? a. Bedroom b. Living room c. Dining room d. Bathroom",
+                "What is the height of the deceased? a. 173CM b. 177CM c. 182CM d. 185CM",
+                "How many plates of roasted chicken were not eaten at the crime scene? a. One plate b. Two plates c. Three plates d. Four plates",
+                "What was the occupation of the deceased Hercule? a. Teacher b. Lawyer c. Entrepreneur d. Doctor",
+                "Where did the glass shards on the chest of the deceased come from? a. Mirror b. Glass c. Window d. Frame",
+                "What was the locking method of the backyard gate at the time of the incident? a. Key lock b. Password lock c. Fingerprint lock d. No lock",
+                "What is the age of the deceased Hercule? a. 32 years old b. 42 years old c. 52 years old d. 62 years old",
+                "What was the condition of the window behind the body of the deceased Hercule at the time of the incident? a. Locked b. No windows c. Broken d. Open",
+                "What is the condition of the candles on the dining table? a. Brand new b. Burning c. Extinguished d. Burning out completely",
+                "Who is not included in the personnel who can open the villa door through fingerprints? a. Faris B. Thomas C. Miss Sarah D. Miss Joey",
+                "Where is the crime scene located? a. Urban area b. Suburban area c. Rural area d. Seaside",
+                "What is the height of the deceased Hercule? a. 173CM b. 177CM c. 182CM d. 185CM",
+                "Who were the two individuals who discovered the body of the deceased? a. Faris and Thomas B. Taylor and Joey C. Miss Joey and Miss Sarah D. Webster and Joey",
+                "What is the condition of the windows at the crime scene? a. Locked b. No windows c. Broken d. Open",
+                "What is the origin of the glass shards on the deceased's body? a. Mirror b. Glass c. Window d. Frame",
+                "What type of lock is the backyard door at the crime scene? a. Key lock b. Password lock c. Fingerprint lock d. No lock",
+                "How many plates of roasted chicken were not eaten at the crime scene? a. One plate b. Two plates c. Three plates d. Four plates",
+                "What kind of medication did the deceased take? a. Antidepressants b. Sleeping pills c. Analgesics d. Antibiotics",
+                "How are the candles on the dining table? a. Brand new b. Burning c. Extinguished d. Burning out completely",
+                "Who can open the villa door with their fingerprints? a. Faris and Thomas B. Thomas and Joey C. Miss Sarah and Joey D. Taylor and Rolfe",
+                "In which room was the victim's body found during the incident? a. Bedroom b. Living room c. Dining room d. Bathroom",
+                "What was the occupation of the deceased Hercule? a. Teacher b. Lawyer c. Entrepreneur d. Doctor",
+                "Who were the two individuals who discovered the body of the deceased? a. Faris and Thomas B. Taylor and Joey C. Miss Joey and Miss Sarah D. Webster and Joey",
+                "What is the condition of the windows at the crime scene? a. Locked b. No windows c. Broken d. Open",
+                "Where did the glass shards on the chest of the deceased come from? a. Mirror b. Glass c. Window d. Frame",
+                "How many plates of uneaten roasted chicken were there at the crime scene? a. One plate b. Two plates c. Three plates d. Four plates",
+                "What medication did the deceased Hercule take before the incident? a. Antidepressants b. Sleeping pills c. Analgesics d. Antibiotics",
+                "What type of lock is used for the backyard gate at the crime scene? a. Key lock b. Password lock c. Fingerprint lock d. No lock",
+                "What is the status of the candles on the dining table? a. Brand new b. Burning c. Extinguished d. Burning out completely",
+                "Who can open the villa door with their fingerprints? a. Faris and Thomas B. Thomas and Joey C. Miss Sarah and Joey D. Taylor and Rolfe"
+            ],
+            "a": [
+                "c",
+                "c",
+                "a",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "c",
+                "a",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "d",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "d",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "d",
+                "c"
+            ]
+        },
+        {
+            "name": "Faris",
+            "back": "You're awake",
+            "r_q": [
+                {
+                    "q": "On which date did the case occur? a. April 19th b. April 20th c. April 21st d. April 22nd",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the deceased found? a. Bedroom b. Balcony c. Garden d. Dining Room",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Taylor and Thomas B. Faris and Webster C. Sara and Joey D. Sara and Thomas",
+                    "ans": "c"
+                },
+                {
+                    "q": "What were the locks on the doors of the deceased's bedroom and dining room? a. Fingerprint lock b. Password lock c. Key lock d. Digital lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What object pierced the chest of the deceased? a. Wooden stick b. Glass sheet c. Steel needle d. Ceramic fragments",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which room key is in the deceased's bedroom? a. Living room b. Bathroom c. Dining room d. Garage",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the condition of the windows at the crime scene? a. Locked b. neat and undamaged c. broken by someone d. stuck with plastic",
+                    "ans": "c"
+                },
+                {
+                    "q": "Besides the deceased, which two people's fingerprints can open the backyard door? a. Taylor and Sarah b. Faris and Joey c. Sara and Joey d. Security and the deceased",
+                    "ans": "d"
+                },
+                {
+                    "q": "What type of lock was on the backyard door after the incident? a. Password lock b. Fingerprint lock c. Key lock d. Digital lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many plates of food are placed on the dining table in the restaurant? a. One plate b. Two plates c. Three plates d. Four plates",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Taylor B. Faris C. Sarah and Joey D. Thomas",
+                    "ans": "c"
+                },
+                {
+                    "q": "What were the locks on the doors of the deceased's bedroom and dining room? a. Fingerprint lock b. Password lock c. Key lock d. Digital lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many plates of food were placed on the dining table at the crime scene? a. One plate b. Two plates c. Three plates d. Four plates",
+                    "ans": "b"
+                },
+                {
+                    "q": "What items were found on the deceased's body? a. Bank card b. Room key c. Mobile phone d. Wallet",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of lock is the backyard door? a. Password lock b. Fingerprint lock c. Key lock d. Digital lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who can open the backyard gate with their fingerprint at the time of the crime? a. Security and deceased b. Faris and Thomas c. Sarah and Joey d. Taylor and Webster",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the condition of the windows at the crime scene? a. Locked b. neat and undamaged c. broken by someone d. stuck with plastic",
+                    "ans": "c"
+                },
+                {
+                    "q": "What other items were found at the crime scene besides the food on the dining table? a. Wine glass b. Mobile phone c. Luggage d. Notebook",
+                    "ans": "c"
+                },
+                {
+                    "q": "What did the deceased take before their death? a. Sedatives b. Sleeping pills c. Antidepressants d. Painkillers",
+                    "ans": "b"
+                },
+                {
+                    "q": "What item fatally injured the deceased? a. Wooden stick b. Glass sheet c. Steel needle d. Ceramic fragments",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why was the backyard door locked during the incident? a. Password lock b. Key lock c. Fingerprint lock d. Digital lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What object fatally stabbed the deceased? a. Wooden stick b. Glass sheet c. Steel needle d. Ceramic fragments",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the location of the deceased in the restaurant? a. Beside the dining table b. At the end of the dining table c. By the window d. At the door",
+                    "ans": "b"
+                },
+                {
+                    "q": "What keys were found on the deceased? a. Bedroom and dining room b. Bedroom and garage c. Bathroom and bedroom d. Garage and dining room",
+                    "ans": "a"
+                },
+                {
+                    "q": "What other items were found at the crime scene besides the food on the dining table? a. Luggage b. Mobile phone c. Notebook d. Wine glass",
+                    "ans": "a"
+                },
+                {
+                    "q": "What type of sleeping pills was used by the deceased at the time of the incident? a. Sedatives b. Sleeping pills c. Antidepressants d. Painkillers",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the condition of the windows at the crime scene? a. Locked b. neat and undamaged c. broken by someone d. stuck with plastic",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Taylor and Joey B. Faris and Thomas C. Sara and Joey D. Sara and Thomas",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the crime scene located? a. Apartment in the city center b. Single family mansion in the suburbs c. Office building in the commercial district d. Vacation home by the seaside",
+                    "ans": "b"
+                },
+                {
+                    "q": "Whose fingerprint can open the villa door? a. Taylor and the deceased b. Faris and Joey c. Sara, Joey and the deceased d. Taylor and Webster",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the crime scene? a. Apartment in the city center b. Single family mansion in the suburbs c. Office building in the commercial district d. Vacation home by the seaside",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the identity of the deceased? a. Politicians b. Entrepreneurs c. Teachers d. Doctors",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Faris and Taylor B. Sara and Joey C. Thomas and Rolfe D. Taylor and Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of medication was found at the crime scene? a. Sedatives b. Sleeping pills c. Antidepressants d. Painkillers",
+                    "ans": "b"
+                },
+                {
+                    "q": "In which room was the deceased's body found? a. Bedroom b. Bathroom c. Dining room d. Living room",
+                    "ans": "c"
+                },
+                {
+                    "q": "What object pierced the chest of the deceased? a. Wooden stick b. Glass sheet c. Steel needle d. Ceramic fragments",
+                    "ans": "b"
+                },
+                {
+                    "q": "How are the windows in the restaurant? a. Locked b. neat and undamaged c. broken by someone d. stuck with plastic",
+                    "ans": "c"
+                },
+                {
+                    "q": "What item was found at the crime scene? a. Luggage b. Mobile phone c. Notebook d. Wine glass",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who's fingerprints can open the backyard gate? a. Taylor and Joey B. Faris and Thomas C. Sarah and Webster D. Dead and Security",
+                    "ans": "d"
+                },
+                {
+                    "q": "How are the doors of the deceased's bedroom and dining room locked? a. Fingerprint lock b. Password lock c. Key lock d. Digital lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What day was the crime committed? a. April 19th b. April 20th c. April 21st d. April 22nd",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which room was the body of the deceased found? a. Bedroom b. Bathroom c. Dining room d. Living room",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Taylor B. Faris C. Sarah and Joey D. Thomas",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the condition of the windows at the crime scene? a. Locked b. neat and undamaged c. broken by someone d. stuck with plastic",
+                    "ans": "c"
+                },
+                {
+                    "q": "What object pierced the chest of the deceased? a. Wooden stick b. Glass sheet c. Steel needle d. Ceramic fragments",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many plates of food were placed on the dining table at the crime scene? a. One plate b. Two plates c. Three plates d. Four plates",
+                    "ans": "b"
+                },
+                {
+                    "q": "What other items were found at the crime scene besides the food on the dining table? a. Luggage b. Mobile phone c. Notebook d. Wine glass",
+                    "ans": "a"
+                },
+                {
+                    "q": "What type of lock is the backyard door? a. Password lock b. Fingerprint lock c. Key lock d. Digital lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "What were the locks on the doors of the deceased's bedroom and dining room? a. Fingerprint lock b. Password lock c. Key lock d. Digital lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What medication did the deceased take before death? a. Sedatives b. Sleeping pills c. Antidepressants d. Painkillers",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "On which date did the case occur? a. April 19th b. April 20th c. April 21st d. April 22nd",
+                "Where was the deceased found? a. Bedroom b. Balcony c. Garden d. Dining Room",
+                "Who discovered the body of the deceased? a. Taylor and Thomas B. Faris and Webster C. Sara and Joey D. Sara and Thomas",
+                "What were the locks on the doors of the deceased's bedroom and dining room? a. Fingerprint lock b. Password lock c. Key lock d. Digital lock",
+                "What object pierced the chest of the deceased? a. Wooden stick b. Glass sheet c. Steel needle d. Ceramic fragments",
+                "Which room key is in the deceased's bedroom? a. Living room b. Bathroom c. Dining room d. Garage",
+                "What is the condition of the windows at the crime scene? a. Locked b. neat and undamaged c. broken by someone d. stuck with plastic",
+                "Besides the deceased, which two people's fingerprints can open the backyard door? a. Taylor and Sarah b. Faris and Joey c. Sara and Joey d. Security and the deceased",
+                "What type of lock was on the backyard door after the incident? a. Password lock b. Fingerprint lock c. Key lock d. Digital lock",
+                "How many plates of food are placed on the dining table in the restaurant? a. One plate b. Two plates c. Three plates d. Four plates",
+                "Who discovered the body of the deceased? a. Taylor B. Faris C. Sarah and Joey D. Thomas",
+                "What were the locks on the doors of the deceased's bedroom and dining room? a. Fingerprint lock b. Password lock c. Key lock d. Digital lock",
+                "How many plates of food were placed on the dining table at the crime scene? a. One plate b. Two plates c. Three plates d. Four plates",
+                "What items were found on the deceased's body? a. Bank card b. Room key c. Mobile phone d. Wallet",
+                "What type of lock is the backyard door? a. Password lock b. Fingerprint lock c. Key lock d. Digital lock",
+                "Who can open the backyard gate with their fingerprint at the time of the crime? a. Security and deceased b. Faris and Thomas c. Sarah and Joey d. Taylor and Webster",
+                "What is the condition of the windows at the crime scene? a. Locked b. neat and undamaged c. broken by someone d. stuck with plastic",
+                "What other items were found at the crime scene besides the food on the dining table? a. Wine glass b. Mobile phone c. Luggage d. Notebook",
+                "What did the deceased take before their death? a. Sedatives b. Sleeping pills c. Antidepressants d. Painkillers",
+                "What item fatally injured the deceased? a. Wooden stick b. Glass sheet c. Steel needle d. Ceramic fragments",
+                "Why was the backyard door locked during the incident? a. Password lock b. Key lock c. Fingerprint lock d. Digital lock",
+                "What object fatally stabbed the deceased? a. Wooden stick b. Glass sheet c. Steel needle d. Ceramic fragments",
+                "What is the location of the deceased in the restaurant? a. Beside the dining table b. At the end of the dining table c. By the window d. At the door",
+                "What keys were found on the deceased? a. Bedroom and dining room b. Bedroom and garage c. Bathroom and bedroom d. Garage and dining room",
+                "What other items were found at the crime scene besides the food on the dining table? a. Luggage b. Mobile phone c. Notebook d. Wine glass",
+                "What type of sleeping pills was used by the deceased at the time of the incident? a. Sedatives b. Sleeping pills c. Antidepressants d. Painkillers",
+                "What is the condition of the windows at the crime scene? a. Locked b. neat and undamaged c. broken by someone d. stuck with plastic",
+                "Who discovered the body of the deceased? a. Taylor and Joey B. Faris and Thomas C. Sara and Joey D. Sara and Thomas",
+                "Where is the crime scene located? a. Apartment in the city center b. Single family mansion in the suburbs c. Office building in the commercial district d. Vacation home by the seaside",
+                "Whose fingerprint can open the villa door? a. Taylor and the deceased b. Faris and Joey c. Sara, Joey and the deceased d. Taylor and Webster",
+                "Where is the crime scene? a. Apartment in the city center b. Single family mansion in the suburbs c. Office building in the commercial district d. Vacation home by the seaside",
+                "What is the identity of the deceased? a. Politicians b. Entrepreneurs c. Teachers d. Doctors",
+                "Who discovered the body of the deceased? a. Faris and Taylor B. Sara and Joey C. Thomas and Rolfe D. Taylor and Webster",
+                "What kind of medication was found at the crime scene? a. Sedatives b. Sleeping pills c. Antidepressants d. Painkillers",
+                "In which room was the deceased's body found? a. Bedroom b. Bathroom c. Dining room d. Living room",
+                "What object pierced the chest of the deceased? a. Wooden stick b. Glass sheet c. Steel needle d. Ceramic fragments",
+                "How are the windows in the restaurant? a. Locked b. neat and undamaged c. broken by someone d. stuck with plastic",
+                "What item was found at the crime scene? a. Luggage b. Mobile phone c. Notebook d. Wine glass",
+                "Who's fingerprints can open the backyard gate? a. Taylor and Joey B. Faris and Thomas C. Sarah and Webster D. Dead and Security",
+                "How are the doors of the deceased's bedroom and dining room locked? a. Fingerprint lock b. Password lock c. Key lock d. Digital lock",
+                "What day was the crime committed? a. April 19th b. April 20th c. April 21st d. April 22nd",
+                "In which room was the body of the deceased found? a. Bedroom b. Bathroom c. Dining room d. Living room",
+                "Who discovered the body of the deceased? a. Taylor B. Faris C. Sarah and Joey D. Thomas",
+                "What is the condition of the windows at the crime scene? a. Locked b. neat and undamaged c. broken by someone d. stuck with plastic",
+                "What object pierced the chest of the deceased? a. Wooden stick b. Glass sheet c. Steel needle d. Ceramic fragments",
+                "How many plates of food were placed on the dining table at the crime scene? a. One plate b. Two plates c. Three plates d. Four plates",
+                "What other items were found at the crime scene besides the food on the dining table? a. Luggage b. Mobile phone c. Notebook d. Wine glass",
+                "What type of lock is the backyard door? a. Password lock b. Fingerprint lock c. Key lock d. Digital lock",
+                "What were the locks on the doors of the deceased's bedroom and dining room? a. Fingerprint lock b. Password lock c. Key lock d. Digital lock",
+                "What medication did the deceased take before death? a. Sedatives b. Sleeping pills c. Antidepressants d. Painkillers"
+            ],
+            "a": [
+                "c",
+                "d",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "d",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "b",
+                "a",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "a",
+                "a",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "b",
+                "c",
+                "b",
+                "c",
+                "a",
+                "d",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "a",
+                "b",
+                "c",
+                "b"
+            ]
+        },
+        {
+            "name": "Joey",
+            "back": "You wake up",
+            "r_q": [
+                {
+                    "q": "On which evening did Joey last see Mr. Hercule? a. The night before the crime b. The night before the crime c. Two days ago d. One week ago",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the date on which Joey discovered Mr. Hercule's body? a. April 19th b. April 20th c. April 21st d. April 22nd",
+                    "ans": "c"
+                },
+                {
+                    "q": "What door did Joey and Miss Sarah use to open Mr. Hercule's room while inspecting it? a. Master key b. Backup key c. Door breaking tool d. Electronic password",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did Joey lock it with the spare key? a. Mr. Hercule's room b. Mr. Hercule's private dining room c. Mr. Hercule's study d. Mr. Hercule's garage",
+                    "ans": "b"
+                },
+                {
+                    "q": "When Joey checked Mr. Hercule's room for the last time, did anyone in the room respond? a. Someone responded. b. No response. c. Abnormal noise. d. Laughter",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was Mr. Hercule's body found? a. Bedroom b. Living room c. Dining room d. Garden",
+                    "ans": "c"
+                },
+                {
+                    "q": "Joey remembers where he last saw Mr. Thomas last night? a. Mr. Hercule's room b. Living room c. Dining room d. Mr. Hercule's office",
+                    "ans": "b"
+                },
+                {
+                    "q": "How long does Joey have to rest in his room at night? a. 8:00 b. 8:10 c. 8:30 d. 9:00",
+                    "ans": "b"
+                },
+                {
+                    "q": "What role did Miss Sarah play on the morning of the incident? a. Witness b. Discoverer c. Investigator d. Reporter",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the cause of Mr. Hercule's death? a. Suffocation b. stabbing c. poisoning d. falling",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which was the first room that Joey opened with the spare key? a. Bedroom b. Private dining room c. Living room d. Study room",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the food found in Mr. Hercule's private restaurant? a. Grilled chicken b. Grilled fish c. Steak d. Burger",
+                    "ans": "a"
+                },
+                {
+                    "q": "In which room did Joey find Mr. Hercule's body? a. Bedroom b. Living room c. Dining room d. Garden",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who discovered Mr. Hercule's body with Joey? a. Mr. Thomas B. Miss Sarah C. Mr. Faris D. Mr. Rolf",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the reaction inside when Joey knocked on Mr. Hercule's bedroom door? a. Someone is speaking. b. There is no response at all. c. There is abnormal noise. d. There is laughter",
+                    "ans": "b"
+                },
+                {
+                    "q": "When was the last time Joey saw Mr. Hercule? a. 8:00 b. 8:10 c. 8:30 d. 9:00",
+                    "ans": "b"
+                },
+                {
+                    "q": "What did Joey do to ensure that no one else could enter Mr. Hercule's private restaurant? a. Lock with spare key b. Turn off power c. Set alarm d. Set traps",
+                    "ans": "a"
+                },
+                {
+                    "q": "When Joey checked Mr. Hercule's room for the last time, how did she notice the condition on the bed? a. Very messy b. There are bloodstains c. There are damages d. Very neat",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where was Mr. Thomas last seen by Joey on the night before the crime? a. Bedroom b. Living room c. Dining room d. Office",
+                    "ans": "b"
+                },
+                {
+                    "q": "Joey mentioned who Mr. Hercule's new love is? a. Miss Taylor, Miss Sarah, Mr. Faris, and Mr. Rolf",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the last place Joey saw Mr. Hercule before discovering his body? a. Bedroom b. Living room c. Dining room d. Mr. Hercule's study",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the condition around Mr. Hercule's body when he was found? a. There are knife wounds b. There are gunshot wounds c. There are bloodstains d. Completely clean",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Joey and Miss Sarah find Mr. Hercule's body? a. Bedroom b. Living room c. Private dining room d. Garden",
+                    "ans": "c"
+                },
+                {
+                    "q": "What room door was Joey originally using the spare key to open? a. Mr. Hercule's bedroom b. Mr. Hercule's private dining room c. Mr. Hercule's study d. Mr. Hercule's garage",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was the last time Mr. Hercule was seen by Joey? a. His bedroom b. His private dining room c. His study d. Living room",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the last place where Joey tried to communicate with Mr. Hercule but did not receive a response? a. Bedroom b. Living room c. Dining room d. Mr. Hercule's study",
+                    "ans": "a"
+                },
+                {
+                    "q": "In which room did Joey find burning candles and roasted chicken? a. Bedroom b. Living room c. Private dining room d. Mr. Hercule's study",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death when Mr. Hercule's body was found? a. Suffocation b. stabbing c. poisoning d. falling",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was Mr. Hercule's body found in the private restaurant? a. Next to the dining table b. Inside the kitchen c. Entrance to the dining room d. Corner of the dining room",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where was the last place Joey locked with the spare key? a. Mr. Hercule's bedroom b. Mr. Hercule's private dining room c. Mr. Hercule's study d. Mr. Hercule's garage",
+                    "ans": "b"
+                },
+                {
+                    "q": "What time did Joey discover Mr. Hercule's body? a. 8:00 b. 8:10 c. 8:35 d. 9:00",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the last time Mr. Hercule was seen by Joey with Mr. Thomas? a. Bedroom b. Living room c. Dining room d. Mr. Hercule's study",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did Joey find Mr. Hercule the last time he wanted to say goodnight? a. Bedroom b. Living room c. Private dining room d. Mr. Hercule's study",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Joey initially obtain the spare key he used while searching for Mr. Hercule? a. Her room b. Mr. Hercule's study c. Mr. Hercule's office d. Kitchen",
+                    "ans": "a"
+                },
+                {
+                    "q": "Joey and Miss Sarah initially suspected that Mr. Hercule was locked in which room? a. Bedroom b. Living room c. Dining room d. Mr. Hercule's study",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was Mr. Hercule's body found? a. Bedroom b. Living room c. Private dining room d. Mr. Hercule's study",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was Joey's wake-up time on the morning when Mr. Hercule's body was discovered? a. 8:00 b. 8:10 c. 8:30 d. 8:35",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who stabbed Mr. Hercule to death with a glass in the heart? a. Mr. Thomas B. Mr. Faris C. Joey D. Unknown",
+                    "ans": "d"
+                },
+                {
+                    "q": "When was the last time Joey tried to communicate with Mr. Hercule but did not receive a response? a. 8pm b. 8:10pm c. 9pm d. 10pm",
+                    "ans": "d"
+                },
+                {
+                    "q": "Which room did Joey lock last with the spare key? a. Bedroom b. Private dining room c. Mr. Hercule's study d. Mr. Hercule's garage",
+                    "ans": "b"
+                },
+                {
+                    "q": "When was the last time Joey saw Mr. Hercule? a. 8:00 b. 8:10 c. 8:30 d. 9:00",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Joey discover Mr. Hercule's body? a. 8:00 b. 8:10 c. 8:35 d. 9:00",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was Mr. Hercule's body found? a. Bedroom b. Living room c. Private dining room d. Mr. Hercule's study",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the situation around Mr. Hercule's body when Joey and Miss Sarah discovered it? a. Completely clean b. There are knife wounds c. There are gunshot wounds d. There are bloodstains",
+                    "ans": "d"
+                },
+                {
+                    "q": "Joey initially used the spare key to open which room door? a. Bedroom b. Private dining room c. Living room d. Mr. Hercule's study",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was the last time Joey attempted to communicate with Mr. Hercule before discovering his body? a. Bedroom b. Living room c. Private dining room d. Mr. Hercule's study",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where were Mr. Hercule and Mr. Thomas the last time Joey saw them together? a. Bedroom b. Living room c. Private dining room d. Mr. Hercule's study",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who was present with Joey when he discovered Mr. Hercule's body? a. Mr. Thomas B. Miss Sarah C. Mr. Faris D. Mr. Rolf",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the specific location of Mr. Hercule's death found in the private restaurant? a. Next to the dining table b. Inside the kitchen c. Entrance to the dining room d. Corner of the dining room",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the morning when Joey found the body and woke up? a. 8:00 b. 8:10 c. 8:30 d. 8:35",
+                    "ans": "d"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "On which evening did Joey last see Mr. Hercule? a. The night before the crime b. The night before the crime c. Two days ago d. One week ago",
+                "What is the date on which Joey discovered Mr. Hercule's body? a. April 19th b. April 20th c. April 21st d. April 22nd",
+                "What door did Joey and Miss Sarah use to open Mr. Hercule's room while inspecting it? a. Master key b. Backup key c. Door breaking tool d. Electronic password",
+                "Where did Joey lock it with the spare key? a. Mr. Hercule's room b. Mr. Hercule's private dining room c. Mr. Hercule's study d. Mr. Hercule's garage",
+                "When Joey checked Mr. Hercule's room for the last time, did anyone in the room respond? a. Someone responded. b. No response. c. Abnormal noise. d. Laughter",
+                "Where was Mr. Hercule's body found? a. Bedroom b. Living room c. Dining room d. Garden",
+                "Joey remembers where he last saw Mr. Thomas last night? a. Mr. Hercule's room b. Living room c. Dining room d. Mr. Hercule's office",
+                "How long does Joey have to rest in his room at night? a. 8:00 b. 8:10 c. 8:30 d. 9:00",
+                "What role did Miss Sarah play on the morning of the incident? a. Witness b. Discoverer c. Investigator d. Reporter",
+                "What was the cause of Mr. Hercule's death? a. Suffocation b. stabbing c. poisoning d. falling",
+                "Which was the first room that Joey opened with the spare key? a. Bedroom b. Private dining room c. Living room d. Study room",
+                "What was the food found in Mr. Hercule's private restaurant? a. Grilled chicken b. Grilled fish c. Steak d. Burger",
+                "In which room did Joey find Mr. Hercule's body? a. Bedroom b. Living room c. Dining room d. Garden",
+                "Who discovered Mr. Hercule's body with Joey? a. Mr. Thomas B. Miss Sarah C. Mr. Faris D. Mr. Rolf",
+                "What was the reaction inside when Joey knocked on Mr. Hercule's bedroom door? a. Someone is speaking. b. There is no response at all. c. There is abnormal noise. d. There is laughter",
+                "When was the last time Joey saw Mr. Hercule? a. 8:00 b. 8:10 c. 8:30 d. 9:00",
+                "What did Joey do to ensure that no one else could enter Mr. Hercule's private restaurant? a. Lock with spare key b. Turn off power c. Set alarm d. Set traps",
+                "When Joey checked Mr. Hercule's room for the last time, how did she notice the condition on the bed? a. Very messy b. There are bloodstains c. There are damages d. Very neat",
+                "Where was Mr. Thomas last seen by Joey on the night before the crime? a. Bedroom b. Living room c. Dining room d. Office",
+                "Joey mentioned who Mr. Hercule's new love is? a. Miss Taylor, Miss Sarah, Mr. Faris, and Mr. Rolf",
+                "Where was the last place Joey saw Mr. Hercule before discovering his body? a. Bedroom b. Living room c. Dining room d. Mr. Hercule's study",
+                "What was the condition around Mr. Hercule's body when he was found? a. There are knife wounds b. There are gunshot wounds c. There are bloodstains d. Completely clean",
+                "Where did Joey and Miss Sarah find Mr. Hercule's body? a. Bedroom b. Living room c. Private dining room d. Garden",
+                "What room door was Joey originally using the spare key to open? a. Mr. Hercule's bedroom b. Mr. Hercule's private dining room c. Mr. Hercule's study d. Mr. Hercule's garage",
+                "Where was the last time Mr. Hercule was seen by Joey? a. His bedroom b. His private dining room c. His study d. Living room",
+                "Where was the last place where Joey tried to communicate with Mr. Hercule but did not receive a response? a. Bedroom b. Living room c. Dining room d. Mr. Hercule's study",
+                "In which room did Joey find burning candles and roasted chicken? a. Bedroom b. Living room c. Private dining room d. Mr. Hercule's study",
+                "What was the cause of death when Mr. Hercule's body was found? a. Suffocation b. stabbing c. poisoning d. falling",
+                "Where was Mr. Hercule's body found in the private restaurant? a. Next to the dining table b. Inside the kitchen c. Entrance to the dining room d. Corner of the dining room",
+                "Where was the last place Joey locked with the spare key? a. Mr. Hercule's bedroom b. Mr. Hercule's private dining room c. Mr. Hercule's study d. Mr. Hercule's garage",
+                "What time did Joey discover Mr. Hercule's body? a. 8:00 b. 8:10 c. 8:35 d. 9:00",
+                "Where was the last time Mr. Hercule was seen by Joey with Mr. Thomas? a. Bedroom b. Living room c. Dining room d. Mr. Hercule's study",
+                "Where did Joey find Mr. Hercule the last time he wanted to say goodnight? a. Bedroom b. Living room c. Private dining room d. Mr. Hercule's study",
+                "Where did Joey initially obtain the spare key he used while searching for Mr. Hercule? a. Her room b. Mr. Hercule's study c. Mr. Hercule's office d. Kitchen",
+                "Joey and Miss Sarah initially suspected that Mr. Hercule was locked in which room? a. Bedroom b. Living room c. Dining room d. Mr. Hercule's study",
+                "Where was Mr. Hercule's body found? a. Bedroom b. Living room c. Private dining room d. Mr. Hercule's study",
+                "What was Joey's wake-up time on the morning when Mr. Hercule's body was discovered? a. 8:00 b. 8:10 c. 8:30 d. 8:35",
+                "Who stabbed Mr. Hercule to death with a glass in the heart? a. Mr. Thomas B. Mr. Faris C. Joey D. Unknown",
+                "When was the last time Joey tried to communicate with Mr. Hercule but did not receive a response? a. 8pm b. 8:10pm c. 9pm d. 10pm",
+                "Which room did Joey lock last with the spare key? a. Bedroom b. Private dining room c. Mr. Hercule's study d. Mr. Hercule's garage",
+                "When was the last time Joey saw Mr. Hercule? a. 8:00 b. 8:10 c. 8:30 d. 9:00",
+                "When did Joey discover Mr. Hercule's body? a. 8:00 b. 8:10 c. 8:35 d. 9:00",
+                "Where was Mr. Hercule's body found? a. Bedroom b. Living room c. Private dining room d. Mr. Hercule's study",
+                "What was the situation around Mr. Hercule's body when Joey and Miss Sarah discovered it? a. Completely clean b. There are knife wounds c. There are gunshot wounds d. There are bloodstains",
+                "Joey initially used the spare key to open which room door? a. Bedroom b. Private dining room c. Living room d. Mr. Hercule's study",
+                "Where was the last time Joey attempted to communicate with Mr. Hercule before discovering his body? a. Bedroom b. Living room c. Private dining room d. Mr. Hercule's study",
+                "Where were Mr. Hercule and Mr. Thomas the last time Joey saw them together? a. Bedroom b. Living room c. Private dining room d. Mr. Hercule's study",
+                "Who was present with Joey when he discovered Mr. Hercule's body? a. Mr. Thomas B. Miss Sarah C. Mr. Faris D. Mr. Rolf",
+                "Where was the specific location of Mr. Hercule's death found in the private restaurant? a. Next to the dining table b. Inside the kitchen c. Entrance to the dining room d. Corner of the dining room",
+                "What was the morning when Joey found the body and woke up? a. 8:00 b. 8:10 c. 8:30 d. 8:35"
+            ],
+            "a": [
+                "a",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "b",
+                "a",
+                "a",
+                "c",
+                "b",
+                "b",
+                "b",
+                "a",
+                "d",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c",
+                "a",
+                "b",
+                "a",
+                "c",
+                "b",
+                "d",
+                "b",
+                "c",
+                "b",
+                "c",
+                "a",
+                "a",
+                "c",
+                "d",
+                "d",
+                "d",
+                "b",
+                "b",
+                "c",
+                "c",
+                "d",
+                "a",
+                "c",
+                "b",
+                "b",
+                "d",
+                "d"
+            ]
+        },
+        {
+            "name": "Sara",
+            "back": "You wake up",
+            "r_q": [
+                {
+                    "q": "Where did Sarah find Hercule's body? a. Hercule's bedroom b. Sara's room c. Private dining room d. Garden",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did Sarah enter Hercule's room? a. My own key b. Breaking through the window c. Using a spare key d. The door is not locked",
+                    "ans": "c"
+                },
+                {
+                    "q": "According to Sarah's testimony, when did she get home last night? a. 10:30 b. 11:00 c. 11:30 d. 12:30",
+                    "ans": "d"
+                },
+                {
+                    "q": "When did Thomas leave Mr. Hercule's house? a. 9:00pm b. 9:55pm c. 12:00pm d. 1am",
+                    "ans": "c"
+                },
+                {
+                    "q": "According to the scene description, which case corresponds to the death scene of Hercule? a. Blood stained messages b. A secret room without dead corners c. The perpetrator who disappeared in an instant d. The final candlelight dinner",
+                    "ans": "d"
+                },
+                {
+                    "q": "What kind of object was found inserted into Hercule's chest at the scene of his death? a. Knife b. Scissors c. Glass shards d. Iron nails",
+                    "ans": "c"
+                },
+                {
+                    "q": "What method is used to unlock Mr. Hercule's backyard door? a. Digital password b. Key c. Fingerprint lock d. Voice recognition",
+                    "ans": "c"
+                },
+                {
+                    "q": "Has Joey ever been beaten or scolded by Hercule? a. Yes b. No c. Uncertain d. Not mentioned",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which room does Thomas rest in at the Hercule house? a. Master bedroom b. Guest room c. Basement d. Hercule's office",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the condition of Hercule's bedroom and dining room doors? a. B. Open b. No door c. Locked d. Damaged",
+                    "ans": "c"
+                },
+                {
+                    "q": "When Hercule's body was found, what kind of object was inserted into his chest? a. Glass shards b. Scissors c. Knives d. Iron nails",
+                    "ans": "a"
+                },
+                {
+                    "q": "What time does Sarah arrive home at night? a. 10:30 b. 11:00 c. 11:30 d. 12:30",
+                    "ans": "d"
+                },
+                {
+                    "q": "When did Thomas leave the Hercule house? a. 9:00pm b. 9:55pm c. 12:00pm d. 1am",
+                    "ans": "c"
+                },
+                {
+                    "q": "Has Joey ever been beaten or scolded by Hercule? a. Yes b. No c. Uncertain d. Not mentioned",
+                    "ans": "a"
+                },
+                {
+                    "q": "How did Hercule's private restaurant door open? a. Digital password b. Key c. Fingerprint lock d. Voice recognition",
+                    "ans": "b"
+                },
+                {
+                    "q": "What dinner did Hercule prepare for Sarah in the end? a. Candlelight dinner b. Home cooked c. Romantic Western cuisine d. Fast food",
+                    "ans": "a"
+                },
+                {
+                    "q": "What rooms did Joey help Sarah open? a. Hercule's bedroom and dining room b. Hercule's office and basement c. Dining room and basement d. Hercule's bedroom and office",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was the scene of Hercule's death found? a. Bedroom b. Office c. Private dining room d. Living room",
+                    "ans": "c"
+                },
+                {
+                    "q": "What kind of food is included in Hercule and Sarah's candlelight dinner? a. Grilled fish b. Roasted chicken c. Steak d. Seafood",
+                    "ans": "b"
+                },
+                {
+                    "q": "How was the backyard gate of Hercule locked? a. Digital password b. Key c. Fingerprint lock d. Voice recognition",
+                    "ans": "c"
+                },
+                {
+                    "q": "What kind of uneaten food was placed in Hercule's candlelight dinner? a. Grilled chicken b. Steak c. Seafood d. Grilled fish",
+                    "ans": "a"
+                },
+                {
+                    "q": "According to Sarah's testimony, why was her flight back from abroad delayed? a. Technical issues b. Weather conditions c. Airport malfunctions d. Safety checks",
+                    "ans": "b"
+                },
+                {
+                    "q": "How was the backyard gate of Hercule locked? a. Password lock b. Key lock c. Fingerprint lock d. Facial recognition",
+                    "ans": "c"
+                },
+                {
+                    "q": "Sara mentioned, how was Joey treated by Hercule? a. Being beaten or scolded b. Being praised c. Being ignored d. Being fired",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the specific time Sarah got home last night? a. 10:30 b. 11:00 c. 11:30 d. 12:30",
+                    "ans": "d"
+                },
+                {
+                    "q": "According to Thomas' testimony, at what time did he hear the sound of a suitcase being dragged? a. 9pm b. 9:55pm c. 10pm d. 12pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who is Sara from Hercule? a. Friend b. Girlfriend c. Colleague d. Neighbor",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the uneaten dinner prepared by Hercule for Sarah? a. Grilled chicken b. Steak c. Seafood d. Grilled fish",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the reason why Sarah got home last night? a. Because of Hercule's date, b. returning from overseas performance, c. end of work conference, d. return from vacation",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Joey enter Hercule's bedroom? a. Break through the window b. Use a key c. Unlock the door d. Pry the lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was Hercule's body found? a. Bedroom b. Office c. Private dining room d. Living room",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the condition of the windows at the scene of Hercule's death? a. Intact b. Closed c. Broken d. Covered",
+                    "ans": "c"
+                },
+                {
+                    "q": "According to Thomas' description, when was the last time he left the Hercule family? a. 9:00pm b. 9:55pm c. 12:00pm d. 1am",
+                    "ans": "c"
+                },
+                {
+                    "q": "At what time did Thomas hear the sound of dragging a suitcase? a. 9pm b. 9:55pm c. 10pm d. 12pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the locking method for Mr. Hercule's backyard door? a. Digital password b. Key c. Fingerprint lock d. Voice recognition",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why couldn't Sara return to Hercule's side in time to enjoy dinner? a. Encountering traffic congestion b. Flight delay c. Work delay d. Forgetting time",
+                    "ans": "b"
+                },
+                {
+                    "q": "What time did Sarah return from abroad? a. 10:30 b. 11:30 c. 12:30 d. 1:00",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was Hercule's body found? a. Bedroom b. Dining room c. Living room d. Garden",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the result of Joey being beaten and scolded by Hercule? a. Nose injury b. Arm injury c. Broken glasses d. Leg injury",
+                    "ans": "c"
+                },
+                {
+                    "q": "What main dishes are included in the dinner prepared by Hercule? a. Steak b. seafood c. roasted chicken d. grilled fish",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which room does Sarah sleep in? a. Her own room b. Hercule's bedroom c. Guest room d. Basement",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which room door did Joey help Sarah open? a. Hercule's bedroom b. Private dining room c. Basement d. Guest room",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was inserted into Hercule's chest when he was killed? a. Knife b. Glass shards c. Iron nails d. Scissors",
+                    "ans": "b"
+                },
+                {
+                    "q": "When Thomas heard the last sound, he checked the time on his phone? a. Phone ringtone b. Door ringtone c. Luggage dragging sound d. Broken window sound",
+                    "ans": "c"
+                },
+                {
+                    "q": "How was the door of Hercule's private restaurant opened? a. Break the window to enter b. Use the key c. Pry the lock d. The door is already open",
+                    "ans": "b"
+                },
+                {
+                    "q": "When was the approximate time of Hercule's murder? a. Before midnight b. At midnight c. After midnight d. Early morning",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Where did Sarah find Hercule's body? a. Hercule's bedroom b. Sara's room c. Private dining room d. Garden",
+                "How did Sarah enter Hercule's room? a. My own key b. Breaking through the window c. Using a spare key d. The door is not locked",
+                "According to Sarah's testimony, when did she get home last night? a. 10:30 b. 11:00 c. 11:30 d. 12:30",
+                "When did Thomas leave Mr. Hercule's house? a. 9:00pm b. 9:55pm c. 12:00pm d. 1am",
+                "According to the scene description, which case corresponds to the death scene of Hercule? a. Blood stained messages b. A secret room without dead corners c. The perpetrator who disappeared in an instant d. The final candlelight dinner",
+                "What kind of object was found inserted into Hercule's chest at the scene of his death? a. Knife b. Scissors c. Glass shards d. Iron nails",
+                "What method is used to unlock Mr. Hercule's backyard door? a. Digital password b. Key c. Fingerprint lock d. Voice recognition",
+                "Has Joey ever been beaten or scolded by Hercule? a. Yes b. No c. Uncertain d. Not mentioned",
+                "Which room does Thomas rest in at the Hercule house? a. Master bedroom b. Guest room c. Basement d. Hercule's office",
+                "What is the condition of Hercule's bedroom and dining room doors? a. B. Open b. No door c. Locked d. Damaged",
+                "When Hercule's body was found, what kind of object was inserted into his chest? a. Glass shards b. Scissors c. Knives d. Iron nails",
+                "What time does Sarah arrive home at night? a. 10:30 b. 11:00 c. 11:30 d. 12:30",
+                "When did Thomas leave the Hercule house? a. 9:00pm b. 9:55pm c. 12:00pm d. 1am",
+                "Has Joey ever been beaten or scolded by Hercule? a. Yes b. No c. Uncertain d. Not mentioned",
+                "How did Hercule's private restaurant door open? a. Digital password b. Key c. Fingerprint lock d. Voice recognition",
+                "What dinner did Hercule prepare for Sarah in the end? a. Candlelight dinner b. Home cooked c. Romantic Western cuisine d. Fast food",
+                "What rooms did Joey help Sarah open? a. Hercule's bedroom and dining room b. Hercule's office and basement c. Dining room and basement d. Hercule's bedroom and office",
+                "Where was the scene of Hercule's death found? a. Bedroom b. Office c. Private dining room d. Living room",
+                "What kind of food is included in Hercule and Sarah's candlelight dinner? a. Grilled fish b. Roasted chicken c. Steak d. Seafood",
+                "How was the backyard gate of Hercule locked? a. Digital password b. Key c. Fingerprint lock d. Voice recognition",
+                "What kind of uneaten food was placed in Hercule's candlelight dinner? a. Grilled chicken b. Steak c. Seafood d. Grilled fish",
+                "According to Sarah's testimony, why was her flight back from abroad delayed? a. Technical issues b. Weather conditions c. Airport malfunctions d. Safety checks",
+                "How was the backyard gate of Hercule locked? a. Password lock b. Key lock c. Fingerprint lock d. Facial recognition",
+                "Sara mentioned, how was Joey treated by Hercule? a. Being beaten or scolded b. Being praised c. Being ignored d. Being fired",
+                "What was the specific time Sarah got home last night? a. 10:30 b. 11:00 c. 11:30 d. 12:30",
+                "According to Thomas' testimony, at what time did he hear the sound of a suitcase being dragged? a. 9pm b. 9:55pm c. 10pm d. 12pm",
+                "Who is Sara from Hercule? a. Friend b. Girlfriend c. Colleague d. Neighbor",
+                "What was the uneaten dinner prepared by Hercule for Sarah? a. Grilled chicken b. Steak c. Seafood d. Grilled fish",
+                "What was the reason why Sarah got home last night? a. Because of Hercule's date, b. returning from overseas performance, c. end of work conference, d. return from vacation",
+                "How did Joey enter Hercule's bedroom? a. Break through the window b. Use a key c. Unlock the door d. Pry the lock",
+                "Where was Hercule's body found? a. Bedroom b. Office c. Private dining room d. Living room",
+                "What is the condition of the windows at the scene of Hercule's death? a. Intact b. Closed c. Broken d. Covered",
+                "According to Thomas' description, when was the last time he left the Hercule family? a. 9:00pm b. 9:55pm c. 12:00pm d. 1am",
+                "At what time did Thomas hear the sound of dragging a suitcase? a. 9pm b. 9:55pm c. 10pm d. 12pm",
+                "What is the locking method for Mr. Hercule's backyard door? a. Digital password b. Key c. Fingerprint lock d. Voice recognition",
+                "Why couldn't Sara return to Hercule's side in time to enjoy dinner? a. Encountering traffic congestion b. Flight delay c. Work delay d. Forgetting time",
+                "What time did Sarah return from abroad? a. 10:30 b. 11:30 c. 12:30 d. 1:00",
+                "Where was Hercule's body found? a. Bedroom b. Dining room c. Living room d. Garden",
+                "What was the result of Joey being beaten and scolded by Hercule? a. Nose injury b. Arm injury c. Broken glasses d. Leg injury",
+                "What main dishes are included in the dinner prepared by Hercule? a. Steak b. seafood c. roasted chicken d. grilled fish",
+                "Which room does Sarah sleep in? a. Her own room b. Hercule's bedroom c. Guest room d. Basement",
+                "Which room door did Joey help Sarah open? a. Hercule's bedroom b. Private dining room c. Basement d. Guest room",
+                "What was inserted into Hercule's chest when he was killed? a. Knife b. Glass shards c. Iron nails d. Scissors",
+                "When Thomas heard the last sound, he checked the time on his phone? a. Phone ringtone b. Door ringtone c. Luggage dragging sound d. Broken window sound",
+                "How was the door of Hercule's private restaurant opened? a. Break the window to enter b. Use the key c. Pry the lock d. The door is already open",
+                "When was the approximate time of Hercule's murder? a. Before midnight b. At midnight c. After midnight d. Early morning"
+            ],
+            "a": [
+                "c",
+                "c",
+                "d",
+                "c",
+                "d",
+                "c",
+                "c",
+                "a",
+                "b",
+                "c",
+                "a",
+                "d",
+                "c",
+                "a",
+                "b",
+                "a",
+                "a",
+                "c",
+                "b",
+                "c",
+                "a",
+                "b",
+                "c",
+                "a",
+                "d",
+                "b",
+                "b",
+                "a",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c",
+                "c",
+                "a",
+                "b",
+                "b",
+                "c",
+                "b",
+                "a"
+            ]
+        },
+        {
+            "name": "Thomas",
+            "back": "You wake up",
+            "r_q": [
+                {
+                    "q": "At what time did Thomas hear the sound of a suitcase being dragged? a. 8pm b. 9pm c. 9:55pm d. 12pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is Mr. Hercule's assistant? a. Taylor B. Joey C. Thomas D. Sara",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is Mr. Hercule planning to have a candlelight dinner with? a. Taylor B. Joey C. Sarah D. Thomas",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Thomas hear the sound of dragging a suitcase? a. Room b. Restaurant c. Bedroom d. Corridor",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the condition of Mr. Hercule's bedroom and dining room? a. B. Open. Someone is in c. Locked. d. Damaged",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Thomas leave Mr. Hercule's house? a. 9:00pm b. 9:55pm c. 10:20pm d. 12:00pm",
+                    "ans": "d"
+                },
+                {
+                    "q": "What method is used to unlock Mr. Hercule's backyard door? a. Password lock b. Fingerprint lock c. Traditional key d. Remote unlocking",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the reason why Miss Joey had a conflict with Mr. Hercule before? a. Salary issues b. Work efficiency c. Being beaten or scolded d. Work scheduling",
+                    "ans": "c"
+                },
+                {
+                    "q": "As far as Thomas knows, which suspect's alibi looks very strong? a. Taylor B. Joey C. Thomas D. Sara",
+                    "ans": "d"
+                },
+                {
+                    "q": "When did Thomas learn of Mr. Hercule's murder? a. Last night at dinner, b. when leaving the villa c. the next morning d. was informed by the police",
+                    "ans": "c"
+                },
+                {
+                    "q": "How long does Mr. Hercule and Thomas spend discussing work? a. 6:30pm b. 7:30pm c. 8pm d. 9pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Miss Joey say hello? a. 8:00pm b. 8:30pm c. 9:00pm d. 9:30pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Mr. Hercule ask Thomas to rest? a. Room b. Bedroom c. Dining room d. Corridor",
+                    "ans": "a"
+                },
+                {
+                    "q": "Why did Thomas leave Mr. Hercule's house? a. Personal matters b. Work c. Meetings d. Shopping",
+                    "ans": "a"
+                },
+                {
+                    "q": "Before what time is there a security patrol at Mr. Hercule's backyard gate? a. 9:55pm b. 10pm c. 10:20pm d. 11pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "How is the backyard door unlocked? a. Password lock b. Fingerprint lock c. Traditional key d. Remote unlocking",
+                    "ans": "b"
+                },
+                {
+                    "q": "What did Miss Joey get beaten and scolded by Mr. Hercule before? a. Salary issue b. Work efficiency c. Work scheduling d. Glasses issue",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where was Mr. Hercule's bedroom key found? a. In the drawers of the restaurant, in the drawers of the bedroom, in the cabinets of the hallway, and on the table in the guest room",
+                    "ans": "b"
+                },
+                {
+                    "q": "What device was Thomas using when he heard the sound of dragging a suitcase? a. Computer b. TV c. Mobile phone d. Tablet",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was Mr. Hercule's restaurant key found? a. In the drawer of the bedroom b. In the drawer of the dining room c. In the cabinet of the hallway d. On the table in the guest room",
+                    "ans": "a"
+                },
+                {
+                    "q": "When does Thomas talk about work at Mr. Hercule's house? a. 6pm b. 7:30pm c. 8pm d. 9pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What time does Miss Joey greet Mr. Thomas and Mr. Hercule? a. 7:30 pm b. 8:00 pm c. 9:00 pm d. 10:00 pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Thomas hear the sound of dragging a suitcase and use it? a. 9:55pm b. 10pm c. 10:20pm d. 11pm",
+                    "ans": "a"
+                },
+                {
+                    "q": "Why did Thomas leave Mr. Hercule's house? a. Work b. Personal c. Meetings d. Shopping",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Thomas learn of Mr. Hercule's murder? a. Last night at dinner, b. when leaving the villa c. the next morning d. was informed by the police",
+                    "ans": "c"
+                },
+                {
+                    "q": "How was Mr. Hercule's backyard door locked? a. Password lock b. Fingerprint lock c. Traditional key d. Remote unlocking",
+                    "ans": "b"
+                },
+                {
+                    "q": "How were Miss Joey's glasses damaged? a. Work scheduling b. Glasses issues c. Being beaten or scolded d. Salary issues",
+                    "ans": "c"
+                },
+                {
+                    "q": "What device was Thomas using when he heard the sound of a suitcase being dragged? a. Computer b. TV c. Mobile phone d. Tablet",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Miss Sarah's alibi? a. Business trip b. Meeting c. Flight delay d. Family issues",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the key to Mr. Hercule's bedroom? a. In the drawer of the bedroom b. In the drawer of the dining room c. On the table in the guest room d. In the cupboard in the hallway",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Thomas hear the sound of dragging a suitcase? a. 9:00pm b. 9:55pm c. 10:00pm d. 10:20pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Thomas learn of Mr. Hercule's murder? a. Last night at dinner, b. when leaving the villa c. the next morning d. was informed by the police",
+                    "ans": "c"
+                },
+                {
+                    "q": "How long does Mr. Thomas and Mr. Hercule spend discussing work? a. 7pm b. 7:30pm c. 8pm d. 9pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "How was Mr. Hercule's backyard door locked? a. Password lock b. Fingerprint lock c. Traditional key d. Remote unlocking",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was Mr. Hercule's restaurant key found? a. In the drawer of the bedroom b. In the drawer of the dining room c. In the cabinet of the hallway d. On the table in the guest room",
+                    "ans": "a"
+                },
+                {
+                    "q": "What type of dinner is Mr. Hercule and Miss Sarah planning to have together? a. Buffet dinner b. candlelight dinner c. home cooked dinner d. fast food",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the reason why Miss Joey was beaten and scolded by Mr. Hercule? a. Salary issue b. Work efficiency c. Glasses issue d. Work scheduling",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the reason why Thomas left Mr. Hercule's house at night? a. Personal matters b. Work c. Meetings d. Shopping",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was Mr. Hercule's bedroom key found? a. In the drawers of the restaurant, in the drawers of the bedroom, in the cabinets of the hallway, and on the table in the guest room",
+                    "ans": "b"
+                },
+                {
+                    "q": "What device was Thomas using when he heard the sound of a suitcase being dragged? a. Computer b. TV c. Mobile phone d. Tablet",
+                    "ans": "c"
+                },
+                {
+                    "q": "When is the time for Thomas to discuss work with Mr. Hercule? a. 6:30pm b. 7:30pm c. 8pm d. 9pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What device was Thomas using when he heard the sound of dragging a suitcase? a. Computer b. TV c. Mobile phone d. Tablet",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the condition of Mr. Hercule's bedroom and dining room? a. B. someone is in the open b. c. locked d. damaged",
+                    "ans": "c"
+                },
+                {
+                    "q": "How was Mr. Hercule's backyard door locked? a. Password lock b. Fingerprint lock c. Traditional key d. Remote unlocking",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the type of dinner planned by Mr. Hercule and Miss Sarah? a. Buffet dinner b. candlelight dinner c. home cooked dinner d. fast food",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the reason why Miss Joey was beaten and scolded by Mr. Hercule? a. Salary issue b. Work efficiency c. Glasses issue d. Work scheduling",
+                    "ans": "c"
+                },
+                {
+                    "q": "How long did Thomas leave Mr. Hercule's house? a. 9:00pm b. 9:55pm c. 10:20pm d. 12:00pm",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where was Mr. Hercule's restaurant key found? a. In the drawer of the bedroom b. In the drawer of the dining room c. In the cabinet of the hallway d. On the table in the guest room",
+                    "ans": "a"
+                },
+                {
+                    "q": "How did Thomas learn about Mr. Hercule's murder? a. Last night at dinner, b. when leaving the villa c. the next morning d. was informed by the police",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the reason for Miss Sarah's alibi? a. Business trip b. Meeting c. Flight delay d. Family issues",
+                    "ans": "c"
+                }
+            ],
+            "self": "My name is Thomas, and I am 22 years old this year",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "At what time did Thomas hear the sound of a suitcase being dragged? a. 8pm b. 9pm c. 9:55pm d. 12pm",
+                "Who is Mr. Hercule's assistant? a. Taylor B. Joey C. Thomas D. Sara",
+                "Who is Mr. Hercule planning to have a candlelight dinner with? a. Taylor B. Joey C. Sarah D. Thomas",
+                "Where did Thomas hear the sound of dragging a suitcase? a. Room b. Restaurant c. Bedroom d. Corridor",
+                "What is the condition of Mr. Hercule's bedroom and dining room? a. B. Open. Someone is in c. Locked. d. Damaged",
+                "When did Thomas leave Mr. Hercule's house? a. 9:00pm b. 9:55pm c. 10:20pm d. 12:00pm",
+                "What method is used to unlock Mr. Hercule's backyard door? a. Password lock b. Fingerprint lock c. Traditional key d. Remote unlocking",
+                "What was the reason why Miss Joey had a conflict with Mr. Hercule before? a. Salary issues b. Work efficiency c. Being beaten or scolded d. Work scheduling",
+                "As far as Thomas knows, which suspect's alibi looks very strong? a. Taylor B. Joey C. Thomas D. Sara",
+                "When did Thomas learn of Mr. Hercule's murder? a. Last night at dinner, b. when leaving the villa c. the next morning d. was informed by the police",
+                "How long does Mr. Hercule and Thomas spend discussing work? a. 6:30pm b. 7:30pm c. 8pm d. 9pm",
+                "When did Miss Joey say hello? a. 8:00pm b. 8:30pm c. 9:00pm d. 9:30pm",
+                "Where did Mr. Hercule ask Thomas to rest? a. Room b. Bedroom c. Dining room d. Corridor",
+                "Why did Thomas leave Mr. Hercule's house? a. Personal matters b. Work c. Meetings d. Shopping",
+                "Before what time is there a security patrol at Mr. Hercule's backyard gate? a. 9:55pm b. 10pm c. 10:20pm d. 11pm",
+                "How is the backyard door unlocked? a. Password lock b. Fingerprint lock c. Traditional key d. Remote unlocking",
+                "What did Miss Joey get beaten and scolded by Mr. Hercule before? a. Salary issue b. Work efficiency c. Work scheduling d. Glasses issue",
+                "Where was Mr. Hercule's bedroom key found? a. In the drawers of the restaurant, in the drawers of the bedroom, in the cabinets of the hallway, and on the table in the guest room",
+                "What device was Thomas using when he heard the sound of dragging a suitcase? a. Computer b. TV c. Mobile phone d. Tablet",
+                "Where was Mr. Hercule's restaurant key found? a. In the drawer of the bedroom b. In the drawer of the dining room c. In the cabinet of the hallway d. On the table in the guest room",
+                "When does Thomas talk about work at Mr. Hercule's house? a. 6pm b. 7:30pm c. 8pm d. 9pm",
+                "What time does Miss Joey greet Mr. Thomas and Mr. Hercule? a. 7:30 pm b. 8:00 pm c. 9:00 pm d. 10:00 pm",
+                "When did Thomas hear the sound of dragging a suitcase and use it? a. 9:55pm b. 10pm c. 10:20pm d. 11pm",
+                "Why did Thomas leave Mr. Hercule's house? a. Work b. Personal c. Meetings d. Shopping",
+                "When did Thomas learn of Mr. Hercule's murder? a. Last night at dinner, b. when leaving the villa c. the next morning d. was informed by the police",
+                "How was Mr. Hercule's backyard door locked? a. Password lock b. Fingerprint lock c. Traditional key d. Remote unlocking",
+                "How were Miss Joey's glasses damaged? a. Work scheduling b. Glasses issues c. Being beaten or scolded d. Salary issues",
+                "What device was Thomas using when he heard the sound of a suitcase being dragged? a. Computer b. TV c. Mobile phone d. Tablet",
+                "What is Miss Sarah's alibi? a. Business trip b. Meeting c. Flight delay d. Family issues",
+                "Where is the key to Mr. Hercule's bedroom? a. In the drawer of the bedroom b. In the drawer of the dining room c. On the table in the guest room d. In the cupboard in the hallway",
+                "When did Thomas hear the sound of dragging a suitcase? a. 9:00pm b. 9:55pm c. 10:00pm d. 10:20pm",
+                "When did Thomas learn of Mr. Hercule's murder? a. Last night at dinner, b. when leaving the villa c. the next morning d. was informed by the police",
+                "How long does Mr. Thomas and Mr. Hercule spend discussing work? a. 7pm b. 7:30pm c. 8pm d. 9pm",
+                "How was Mr. Hercule's backyard door locked? a. Password lock b. Fingerprint lock c. Traditional key d. Remote unlocking",
+                "Where was Mr. Hercule's restaurant key found? a. In the drawer of the bedroom b. In the drawer of the dining room c. In the cabinet of the hallway d. On the table in the guest room",
+                "What type of dinner is Mr. Hercule and Miss Sarah planning to have together? a. Buffet dinner b. candlelight dinner c. home cooked dinner d. fast food",
+                "What was the reason why Miss Joey was beaten and scolded by Mr. Hercule? a. Salary issue b. Work efficiency c. Glasses issue d. Work scheduling",
+                "What is the reason why Thomas left Mr. Hercule's house at night? a. Personal matters b. Work c. Meetings d. Shopping",
+                "Where was Mr. Hercule's bedroom key found? a. In the drawers of the restaurant, in the drawers of the bedroom, in the cabinets of the hallway, and on the table in the guest room",
+                "What device was Thomas using when he heard the sound of a suitcase being dragged? a. Computer b. TV c. Mobile phone d. Tablet",
+                "When is the time for Thomas to discuss work with Mr. Hercule? a. 6:30pm b. 7:30pm c. 8pm d. 9pm",
+                "What device was Thomas using when he heard the sound of dragging a suitcase? a. Computer b. TV c. Mobile phone d. Tablet",
+                "What is the condition of Mr. Hercule's bedroom and dining room? a. B. someone is in the open b. c. locked d. damaged",
+                "How was Mr. Hercule's backyard door locked? a. Password lock b. Fingerprint lock c. Traditional key d. Remote unlocking",
+                "What is the type of dinner planned by Mr. Hercule and Miss Sarah? a. Buffet dinner b. candlelight dinner c. home cooked dinner d. fast food",
+                "What was the reason why Miss Joey was beaten and scolded by Mr. Hercule? a. Salary issue b. Work efficiency c. Glasses issue d. Work scheduling",
+                "How long did Thomas leave Mr. Hercule's house? a. 9:00pm b. 9:55pm c. 10:20pm d. 12:00pm",
+                "Where was Mr. Hercule's restaurant key found? a. In the drawer of the bedroom b. In the drawer of the dining room c. In the cabinet of the hallway d. On the table in the guest room",
+                "How did Thomas learn about Mr. Hercule's murder? a. Last night at dinner, b. when leaving the villa c. the next morning d. was informed by the police",
+                "What is the reason for Miss Sarah's alibi? a. Business trip b. Meeting c. Flight delay d. Family issues"
+            ],
+            "a": [
+                "c",
+                "c",
+                "c",
+                "a",
+                "c",
+                "d",
+                "b",
+                "c",
+                "d",
+                "c",
+                "b",
+                "c",
+                "a",
+                "a",
+                "c",
+                "b",
+                "d",
+                "b",
+                "c",
+                "a",
+                "b",
+                "c",
+                "a",
+                "b",
+                "c",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "a",
+                "b",
+                "c",
+                "a",
+                "b",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "d",
+                "a",
+                "c",
+                "c"
+            ]
+        },
+        {
+            "name": "Webster",
+            "back": "You're awake.",
+            "r_q": [
+                {
+                    "q": "What was the profession of the deceased? a. Teacher b. Entrepreneur c. Doctor d. Lawyer",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the location of the case? a. Suburban detached mansion b. City center apartment c. Seaside villa d. Mountain cottage",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Servant and girlfriend b. Security guard and servant c. Girlfriend and neighbor d. Security guard and girlfriend",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the condition of the deceased when they were discovered? a. Hanging neck suicide b. Inserting glass into chest c. Drowning in bathroom d. Stabbing on bed",
+                    "ans": "b"
+                },
+                {
+                    "q": "What items were present at the crime scene? a. Two plates of roasted chicken b. One knife c. One gun d. One book",
+                    "ans": "a"
+                },
+                {
+                    "q": "How are the windows in the restaurant? a. Intact b. Broken c. Blocked d. Equipped with anti-theft net",
+                    "ans": "b"
+                },
+                {
+                    "q": "How is the backyard door opened? a. Ordinary key b. Password lock c. Fingerprint lock d. Remote control",
+                    "ans": "c"
+                },
+                {
+                    "q": "Before what time did the security guard not see anyone in the backyard? a. 10:00 B. 10:20 C. 11:00 D. 11:30",
+                    "ans": "b"
+                },
+                {
+                    "q": "What keys were in the deceased's bedroom? a. Car key b. Safe key c. Restaurant key d. Rear door key",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who are the fingerprints that can open the villa door? a. Only deceased b. deceased and security c. deceased, security and servant d. deceased, Miss Sarah, Miss Joey",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the age of the deceased? a. 40 years old b. 42 years old c. 44 years old d. 46 years old",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who were the girlfriend and servant who discovered the body of the deceased? a. Miss Sarah and Miss Joey B. Miss Sarah and Mr. Thomas C. Ms. Taylor and Miss Joey D. Ms. Taylor and Mr. Rolf",
+                    "ans": "a"
+                },
+                {
+                    "q": "What object stabbed the body part of the deceased? a. Blade b. Glass sheet c. Needle d. Scissors",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the uneaten food on the dining table? a. Grilled beef b. Roasted chicken c. Grilled fish d. Grilled lamb",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did the security guard not see anyone in the backyard before? a. 10:00 B. 10:20 C. 11:00 D. 11:30",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the unlocking method for the backyard gate? a. Ordinary key b. Password lock c. Fingerprint lock d. Remote control",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who can open the villa door with their fingerprints? a. Only deceased b. deceased and security c. deceased, security and servant d. deceased, Miss Sarah, Miss Joey",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Teacher b. Entrepreneur c. Doctor d. Lawyer",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the condition of the restaurant window? a. Intact b. Broken c. Blocked d. Equipped with anti-theft net",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of house was the location where the case occurred? a. Suburban detached mansion b. City center apartment c. Seaside villa d. Mountain cottage",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the full name of the deceased? a. Hercules B. Hercules C. Hercules D. Hercules",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the specific location where the deceased was found? a. Living room b. Bedroom c. Bathroom d. Dining room",
+                    "ans": "d"
+                },
+                {
+                    "q": "What object was stabbed in the chest of the deceased? a. Blade b. Glass sheet c. Needle d. Scissors",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of food was not consumed at the crime scene? a. Grilled beef b. Roasted chicken c. Grilled fish d. Grilled lamb",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did the security guard not see anyone in the backyard before? a. 10:00 B. 10:20 C. 11:00 D. 11:30",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the unlocking method for the backyard gate? a. Ordinary key b. Password lock c. Fingerprint lock d. Remote control",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who can open the villa door with their fingerprints? a. Only deceased b. deceased and security c. deceased, security and servant d. deceased, Miss Sarah, Miss Joey",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the type of crime scene? a. Suburban detached mansion b. City center apartment c. Seaside villa d. Mountain cottage",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the condition of the restaurant windows? a. Intact b. Broken c. Blocked d. Equipped with anti-theft net",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the key to the deceased's bedroom found? a. In the pockets of clothes b. in the dining room c. in the bathroom d. in the living room",
+                    "ans": "a"
+                },
+                {
+                    "q": "What day was the crime committed? a. April 19th b. April 20th c. April 21st d. April 22nd",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the height of the deceased? a. 173CM b. 175CM c. 177CM d. 179CM",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Teacher b. Entrepreneur c. Doctor d. Lawyer",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the location where the deceased was found? a. Living room b. Bedroom c. Bathroom d. Dining room",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Ms. Taylor and Mr. Rolf b. Miss Sarah and Miss Joey c. Ms. Taylor and Miss Joey d. Miss Sarah and Mr. Thomas",
+                    "ans": "b"
+                },
+                {
+                    "q": "What object was stabbed in the chest of the deceased? a. Blade b. Glass sheet c. Needle d. Scissors",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the uneaten food on the dining table? a. Grilled beef b. Roasted chicken c. Grilled fish d. Grilled lamb",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the condition of the doors to the deceased's bedroom and dining room when they were discovered? a. They are all open b. They are all locked c. The bedroom is open, the dining room is locked d. The bedroom is locked, the dining room is open",
+                    "ans": "b"
+                },
+                {
+                    "q": "Is it easy to walk to the pond under the restaurant window? a. Yes B. No",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the unlocking method for the backyard gate? a. Ordinary key b. Password lock c. Fingerprint lock d. Remote control",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the time of the incident? a. April 19th b. April 20th c. April 21st d. April 22nd",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the age of the deceased? a. 40 years old b. 42 years old c. 44 years old d. 46 years old",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Teacher b. Entrepreneur c. Doctor d. Lawyer",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the height of the deceased? a. 173CM b. 175CM c. 177CM d. 179CM",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the body of the deceased found? a. Living room b. Bedroom c. Bathroom d. Dining room",
+                    "ans": "d"
+                },
+                {
+                    "q": "What caused the fatal injury to the deceased's chest? a. Blade b. Glass sheet c. Needle d. Scissors",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of uneaten food is on the dining table? a. Grilled beef b. Roasted chicken c. Grilled fish d. Grilled lamb",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did the security guard last see that the backyard was empty? a. 10:00 B. 10:20 C. 11:00 D. 11:30",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which keys of the deceased were found in their clothing pockets? a. Car key b. Safe key c. Dining room key d. Bedroom key",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the unlocking method for the backyard gate? a. Ordinary key b. Password lock c. Fingerprint lock d. Remote control",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What was the profession of the deceased? a. Teacher b. Entrepreneur c. Doctor d. Lawyer",
+                "Where is the location of the case? a. Suburban detached mansion b. City center apartment c. Seaside villa d. Mountain cottage",
+                "Who discovered the body of the deceased? a. Servant and girlfriend b. Security guard and servant c. Girlfriend and neighbor d. Security guard and girlfriend",
+                "What was the condition of the deceased when they were discovered? a. Hanging neck suicide b. Inserting glass into chest c. Drowning in bathroom d. Stabbing on bed",
+                "What items were present at the crime scene? a. Two plates of roasted chicken b. One knife c. One gun d. One book",
+                "How are the windows in the restaurant? a. Intact b. Broken c. Blocked d. Equipped with anti-theft net",
+                "How is the backyard door opened? a. Ordinary key b. Password lock c. Fingerprint lock d. Remote control",
+                "Before what time did the security guard not see anyone in the backyard? a. 10:00 B. 10:20 C. 11:00 D. 11:30",
+                "What keys were in the deceased's bedroom? a. Car key b. Safe key c. Restaurant key d. Rear door key",
+                "Who are the fingerprints that can open the villa door? a. Only deceased b. deceased and security c. deceased, security and servant d. deceased, Miss Sarah, Miss Joey",
+                "What is the age of the deceased? a. 40 years old b. 42 years old c. 44 years old d. 46 years old",
+                "Who were the girlfriend and servant who discovered the body of the deceased? a. Miss Sarah and Miss Joey B. Miss Sarah and Mr. Thomas C. Ms. Taylor and Miss Joey D. Ms. Taylor and Mr. Rolf",
+                "What object stabbed the body part of the deceased? a. Blade b. Glass sheet c. Needle d. Scissors",
+                "What is the uneaten food on the dining table? a. Grilled beef b. Roasted chicken c. Grilled fish d. Grilled lamb",
+                "When did the security guard not see anyone in the backyard before? a. 10:00 B. 10:20 C. 11:00 D. 11:30",
+                "What is the unlocking method for the backyard gate? a. Ordinary key b. Password lock c. Fingerprint lock d. Remote control",
+                "Who can open the villa door with their fingerprints? a. Only deceased b. deceased and security c. deceased, security and servant d. deceased, Miss Sarah, Miss Joey",
+                "What was the profession of the deceased? a. Teacher b. Entrepreneur c. Doctor d. Lawyer",
+                "What is the condition of the restaurant window? a. Intact b. Broken c. Blocked d. Equipped with anti-theft net",
+                "What type of house was the location where the case occurred? a. Suburban detached mansion b. City center apartment c. Seaside villa d. Mountain cottage",
+                "What is the full name of the deceased? a. Hercules B. Hercules C. Hercules D. Hercules",
+                "Where was the specific location where the deceased was found? a. Living room b. Bedroom c. Bathroom d. Dining room",
+                "What object was stabbed in the chest of the deceased? a. Blade b. Glass sheet c. Needle d. Scissors",
+                "What kind of food was not consumed at the crime scene? a. Grilled beef b. Roasted chicken c. Grilled fish d. Grilled lamb",
+                "When did the security guard not see anyone in the backyard before? a. 10:00 B. 10:20 C. 11:00 D. 11:30",
+                "What is the unlocking method for the backyard gate? a. Ordinary key b. Password lock c. Fingerprint lock d. Remote control",
+                "Who can open the villa door with their fingerprints? a. Only deceased b. deceased and security c. deceased, security and servant d. deceased, Miss Sarah, Miss Joey",
+                "What is the type of crime scene? a. Suburban detached mansion b. City center apartment c. Seaside villa d. Mountain cottage",
+                "What is the condition of the restaurant windows? a. Intact b. Broken c. Blocked d. Equipped with anti-theft net",
+                "Where was the key to the deceased's bedroom found? a. In the pockets of clothes b. in the dining room c. in the bathroom d. in the living room",
+                "What day was the crime committed? a. April 19th b. April 20th c. April 21st d. April 22nd",
+                "What is the height of the deceased? a. 173CM b. 175CM c. 177CM d. 179CM",
+                "What was the profession of the deceased? a. Teacher b. Entrepreneur c. Doctor d. Lawyer",
+                "Where was the location where the deceased was found? a. Living room b. Bedroom c. Bathroom d. Dining room",
+                "Who discovered the body of the deceased? a. Ms. Taylor and Mr. Rolf b. Miss Sarah and Miss Joey c. Ms. Taylor and Miss Joey d. Miss Sarah and Mr. Thomas",
+                "What object was stabbed in the chest of the deceased? a. Blade b. Glass sheet c. Needle d. Scissors",
+                "What is the uneaten food on the dining table? a. Grilled beef b. Roasted chicken c. Grilled fish d. Grilled lamb",
+                "What was the condition of the doors to the deceased's bedroom and dining room when they were discovered? a. They are all open b. They are all locked c. The bedroom is open, the dining room is locked d. The bedroom is locked, the dining room is open",
+                "Is it easy to walk to the pond under the restaurant window? a. Yes B. No",
+                "What is the unlocking method for the backyard gate? a. Ordinary key b. Password lock c. Fingerprint lock d. Remote control",
+                "What was the time of the incident? a. April 19th b. April 20th c. April 21st d. April 22nd",
+                "What is the age of the deceased? a. 40 years old b. 42 years old c. 44 years old d. 46 years old",
+                "What was the profession of the deceased? a. Teacher b. Entrepreneur c. Doctor d. Lawyer",
+                "What is the height of the deceased? a. 173CM b. 175CM c. 177CM d. 179CM",
+                "Where was the body of the deceased found? a. Living room b. Bedroom c. Bathroom d. Dining room",
+                "What caused the fatal injury to the deceased's chest? a. Blade b. Glass sheet c. Needle d. Scissors",
+                "What kind of uneaten food is on the dining table? a. Grilled beef b. Roasted chicken c. Grilled fish d. Grilled lamb",
+                "When did the security guard last see that the backyard was empty? a. 10:00 B. 10:20 C. 11:00 D. 11:30",
+                "Which keys of the deceased were found in their clothing pockets? a. Car key b. Safe key c. Dining room key d. Bedroom key",
+                "What is the unlocking method for the backyard gate? a. Ordinary key b. Password lock c. Fingerprint lock d. Remote control"
+            ],
+            "a": [
+                "b",
+                "a",
+                "a",
+                "b",
+                "a",
+                "b",
+                "c",
+                "b",
+                "c",
+                "d",
+                "b",
+                "a",
+                "b",
+                "b",
+                "b",
+                "c",
+                "d",
+                "b",
+                "b",
+                "a",
+                "b",
+                "d",
+                "b",
+                "b",
+                "b",
+                "c",
+                "d",
+                "a",
+                "b",
+                "a",
+                "c",
+                "c",
+                "b",
+                "d",
+                "b",
+                "b",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "d",
+                "b",
+                "b",
+                "b",
+                "d",
+                "c"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "According to the description in the article, how did the killer make the glass look like a black mirror? a. Paste colored paper behind the glass b. Paste black cloth behind the glass c. Spray black paint on the glass d. Use glass that is already black",
+            "What is the load-bearing limit of the vines mentioned in the article? a. 50KG b. 60KG c. 70KG d. 80KG",
+            "Why did Sarah become the biggest suspect? a. She knows how to dance cartilage. B. She has a suitcase. C. She knows how to lock the backyard door. D. She has made mistakes in the past",
+            "Why can't Joey see his reflection in the mirror? a. The mirror is unidirectional. B. The mirror is too dirty. C. There is no light source in the hallway. D. Joey is transparent",
+            "Why did Joey see the cutlery on the other side of the window reversed? a. Table instability b. Visual effects produced by mirrors c. Incorrect placement by servers d. Intentional misleading",
+            "What was the reason why the murderer broke the glass in the deceased's room? a. Plan to steal b. Find an escape route c. Hide the glass carried d. Change the situation on site",
+            "What is the main function of a suitcase? a. Store personal items b. Transport glass c. Hide dangerous goods d. Store stolen items",
+            "What is the reason why the murderer did not take the glass away? a. The glass is too heavy. b. The value of the glass is not significant. c. Lack of appropriate transportation methods. d. Worried about leaving criminal traces",
+            "Which side of the candlelight appears darker due to the reflection effect of the mirror? a. Side near the window b. Side near the door c. Middle d. Side near the wall",
+            "Why didn't the murderer take the glass he brought with him? a. The glass is too heavy. b. The vines do not bear enough weight. c. I forgot to take it away. d. The glass is damaged",
+            "How did the murderer transport the glass in? a. Through luggage b. Hidden in clothing c. Handheld directly d. Using a tool cart",
+            "How did the murderer leave the secret room? a. Through the window b. using the door c. climbing over vines d. digging a tunnel",
+            "What is the main purpose of a mirror made of glass? a. Illuminate the room b. Create visual illusions c. Increase room aesthetics d. Hide the culprit"
+        ],
+        "key_ans": [
+            "b",
+            "c",
+            "a",
+            "c",
+            "b",
+            "c",
+            "b",
+            "a",
+            "a",
+            "b",
+            "a",
+            "c",
+            "b"
+        ],
+        "key_sc": [
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "Where was the location where the deceased was found? a. Bedroom b. Dining room c. Kitchen d. Living room",
+            "What was the weapon on the victim's chest? a. Blade b. Glass sheet c. Nail d. Arrow",
+            "What are the characteristics of a suitcase? a. Can float on the water surface b. Cannot float on the water surface c. Can hide the human body d. Comes with a lock",
+            "How is the room door locked? a. Password lock b. Fingerprint lock c. Can only be locked with a key d. Automatic lock",
+            "Where is the key to the deceased's bedroom? a. B. In the hands of the deceased b. In the pocket of the deceased's shirt c. On the dining table d. In the suitcase",
+            "What is the food on the dining table? a. Grilled chicken b. Fish fillet c. Vegetable salad d. Burger",
+            "What is the state of the candle? a. New b. Half burned c. Completely burned d. Not ignited",
+            "What type of lock is the backyard door? a. Traditional key lock b. Password lock c. Fingerprint lock d. No lock",
+            "At what time does the patrol security confirm that no one is hiding in the backyard at night? a. 9pm b. 10pm c. 10:20pm d. 11pm",
+            "What is Sarah's award about? a. Cartilage dance b. Modern dance c. Ballet d. Street dance",
+            "What is the maximum weight that the vines outside the window can support for people to climb? a. 50KG b. 60KG c. 70KG d. 80KG",
+            "What do the traces on the glass shards indicate? a. Water stains b. Oil stains c. Adhesive d. Blood stains",
+            "Why was Joey beaten by Mr. Hercule? a. Because he made a mistake b. because he broke into a private area c. because he turned on the light when it shouldn't have been. d. because he was rude to Mr. Hercule",
+            "Joey confirmed that he didn't do anything last night? a. I didn't enter the wrong room. B. I didn't turn off the hallway lights. C. I didn't see Mr. Hercule. D. I wasn't on site",
+            "What abnormal situation did Joey notice while inspecting the restaurant? a. The curtains are drawn. B. There are figures on both sides of the door. C. The candlelight is dim. D. There are no curtains, it's very dark",
+            "What strange phenomenon did Joey observe in the restaurant? a. Improper placement of tableware b. Abnormal dim candlelight c. Windows opened d. Doors locked",
+            "Why didn't Joey initially notice the abnormality of the tableware? a. He's not wearing glasses. B. The restaurant is too dark. C. He's distracted. D. He's busy with other things",
+            "What type of residue was found in the pond? a. Wood b. Plastic c. Glass d. Metal"
+        ],
+        "key_ans": [
+            "b",
+            "b",
+            "b",
+            "c",
+            "b",
+            "a",
+            "c",
+            "c",
+            "c",
+            "a",
+            "c",
+            "c",
+            "c",
+            "a",
+            "d",
+            "a",
+            "a",
+            "c"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "How long is the bottom of the left room at the scene of death? a. 3.5m b. 4.0m c. 4.5m d. 5.0m",
+            "What's on the right at the scene of death? a. Garden b. Pond c. Garage d. Lawn",
+            "What shape does the pond on the right take at the scene of death? a. Round b. Square c. Half circle d. Elliptical",
+            "What is position 4 at the scene of death? a. Room door b. TV c. Bookshelf d. Sofa",
+            "What is position 5 at the scene of death? a. European style chair b. Traditional table c. Modern sofa d. Classical desk",
+            "What is position 6 at the scene of death? a. Round dining table b. Square coffee table c. Rectangular dining table d. Oval dining table",
+            "What is position 8 in the courtyard of the death scene? a. The entrance of the garden b. The back door of the yard c. Storage shed d. Flower rack",
+            "What is position 3 at the scene of death? a. It's a bed b. It's a suitcase c. It's a computer d. It's a light"
+        ],
+        "key_ans": [
+            "b",
+            "b",
+            "c",
+            "a",
+            "a",
+            "c",
+            "b",
+            "b"
+        ]
+    },
+    "ju_name": "DI7MI5",
+    "task_nm": "Please complete the following tasks using all the clues at hand",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Thomas"
+    ],
+    "murder": "Thomas",
+    "reason": "Motive for committing the crime:"
+}

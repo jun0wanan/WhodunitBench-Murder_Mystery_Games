@@ -1,0 +1,894 @@
+{
+    "key_clues_pool": {
+        "p": [
+            "The abdominal knife wound of the deceased - based on the size and depth of the wound, combined with the accelerated bleeding effect of cyanide in the blood, the time for death caused by excessive blood loss is 15-20 minutes.",
+            "The time of death of the deceased - A smartwatch was found on Lin Lan's body to monitor her health status. The record shows that the deceased's heart stopped beating at 11:08.",
+            "The response to the visit by the head of the security department is: surveillance video? No problem, I can give it to you all. If there are any abnormal situations, our security department has encountered two theft incidents in the past two days, with traces of tampering, but nothing has been lost",
+            "Administrative office clerk Lao Jiang's response to the visit was: At 10:30 that day, I heard a \"monument\" sound upstairs, like a broken glass.",
+            "10: Shi Qiang, wearing 30 police uniforms, went upstairs",
+            "9: 35. Xiao Shan, wearing blue sports cedar, went upstairs;",
+            "9: Xie Min, wearing 50 gray tops, went upstairs",
+            "9: Li Jianguo, dressed in 52 electrician work clothes, went upstairs",
+            "10: 15 Xie Min and Li Jianguo went downstairs;",
+            "10: 50 administrative office clerk Xiao Chen went upstairs;",
+            "10: 55 wearing a beige shirt, Zhou Xiaomeng went upstairs;",
+            "11: 04 Zhou Xiaomeng ran downstairs",
+            "11: Zhao Li, who was wearing a black hoodie and a mouthpiece, went downstairs,",
+            "The response to the visit by the high-altitude cleaner of the \"Spider Man\" on the exterior wall is: Yes, yes, that day. I remember very clearly that I was hanging on the exterior wall of the opposite building, using a cloth to manipulate the glass of the opposite building. The two buildings were very close. I noticed that there was no window in the office here, and one person seemed to have been pushed down by another person. In a blink of an eye, I vaguely saw a knife on the stomach of the person who had fallen, indicating that they had been stabbed. I instinctively glanced at the clock hanging in the office, which was 12:05.",
+            "Blood analysis of the deceased - the household blood contains oxides.",
+            "If oxidants act in the body (such as ingestion or intravenous injection), they can immediately lead to death; If it is a non internal action (exposure, infiltration, inhalation, etc.), it will only accelerate wound bleeding.",
+            "The corpse surface of the deceased - no new pinholes were found.",
+            "No traces of oxidized fluid flow were detected on the surface of the deceased's esophagus."
+        ],
+        "2-step": [
+            "The time range for the perpetrator's attack is between 10:48-10:53. It can be calculated based on the time of Lin Lan's death at 11:08 and the lethal time of 15-20 minutes due to excessive blood loss from the knife wound.",
+            "The deceased Lin Lan did not drink the first glass of water that had been spiked with cyanide",
+            "The surveillance video was artificially adjusted back by 5 minutes. The correct time range should be the current time -5 minutes."
+        ],
+        "史强": [
+            "10: 25. Shi Qiang knocked over the water cup."
+        ],
+        "肖山": [
+            "9: 30. Xiao Shan goes upstairs;",
+            "Xiao Shan saw Zhou Xiaomeng kill the deceased",
+            "Xiao Shan deliberately slowed down the surveillance"
+        ],
+        "谢敏": [
+            "9: 45, Xie Min, go upstairs",
+            "10: 10. Xie Min and Li Jianguo go downstairs"
+        ],
+        "李建国": [
+            "9: 47. Li Jianguo, go upstairs",
+            "10: 10. Xie Min and Li Jianguo go downstairs"
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            35
+        ],
+        "史强": [
+            36,
+            37,
+            38
+        ],
+        "肖山": [
+            36,
+            37,
+            39,
+            40,
+            41
+        ],
+        "谢敏": [
+            36,
+            37,
+            42,
+            43
+        ],
+        "李建国": [
+            36,
+            37,
+            44,
+            45
+        ]
+    },
+    "public_clue": "\n",
+    "key_clues_questions": [
+        {
+            "q": "What is the possible time frame for the death of the deceased due to excessive blood loss? a. 8-12 minutes b. 15-20 minutes c. 10-15 minutes d. 20-25 minutes",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Is the surveillance video available for investigation purposes? a. No, b. Approval is required, c. Partial approval is allowed, d. Both are acceptable",
+            "ans": "d",
+            "source": "p-1"
+        },
+        {
+            "q": "What other abnormal situations has the security department encountered recently? a. Peeping b. Fighting c. Theft d. Intentional destruction",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "When did Lao Jiang hear the sound of glass shattering? a. 10:25 b. 10:30 c. 10:35 d. 10:40",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What did Shi Qiang wear upstairs? a. Police uniform b. sweatshirt c. gray top d. beige top",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "When did Xie Min and Li Jianguo go downstairs? a. 10:10 b. 10:15 c. 10:20 d. 10:25",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What color top is Zhou Xiaomeng wearing? a. Grey b. beige c. black d. blue",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What are the characteristics of Zhao Li when he goes downstairs? a. Wearing a black hoodie and mask, b. wearing a blue sports shirt, c. wearing a gray top, d. wearing electrician work clothes",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Did the high-altitude cleaner notice any abnormal time in the office? a. 12:00 b. 12:05 c. 11:55 d. 11:50",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "If the oxide acts non in vivo, how will it affect the deceased? a. Immediate cause of death b. Accelerated wound bleeding c. No impact d. Causes serious illness",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What substances are present in the blood of the deceased? a. Alcohol b. Oxide c. Carbohydrate d. Protein",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Have new pinholes been found on the deceased's body surface? a. Yes B. No",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Did any traces of oxidized fluid flow be detected in the esophagus of the deceased? a. Yes B. No",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What color is Xiao Shan wearing upstairs? a. Blue b. Grey c. Black d. beige",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What was the time when the deceased's heart stopped beating? a. 10:58 b. 11:08 c. 11:18 d. 11:28",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "In the case of theft, were any items lost? a. Yes B. No",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "When did Xiao Chen go upstairs? a. 10:45 b. 10:50 c. 10:55 d. 11:00",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What was the cause of the deceased's death? a. Heart disease b. Excessive blood loss c. Oxidative poisoning d. Asphyxia",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Which of the following statements is correct regarding the abnormal situation encountered by the security department? a. Only one theft, b. No theft, c. Two thefts, d. Three thefts",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Which of the following statements is correct about the impact of oxides? a. Immediate death is caused by internal effects, while non internal effects accelerate wound bleeding. b. Both internal and non internal effects immediately lead to death. c. Neither internal nor non internal effects have an impact. d. Internal effects have no impact, while non internal effects immediately lead to death",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Based on the case, what is the time frame for the perpetrator to commit the crime? a. 10:45-10:50 b. 10:48-10:53 c. 10:55-11:00 d. 11:00-11:05",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "What was the time of Lin Lan's death? a. 10:58 b. 11:08 c. 11:18 d. 11:28",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "What was the main reason for Lin Lan's death caused by the murderer? a. Cardiac arrest b. Cyanide poisoning c. Excessive blood loss d. Suffocation",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "Did the deceased Lin Lan drink the first glass of water that contained cyanide? a. Yes B. No",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "Considering the time of the perpetrator's attack and the time of Lin Lan's death, how long did it take for Lin Lan to die after the perpetrator's attack? a. 10-15 minutes b. 15-20 minutes c. 20-25 minutes d. 25-30 minutes",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "How to adjust the time displayed in the surveillance video compared to the actual time to obtain the correct time? a. 5 minutes forward adjustment b. 5 minutes backward adjustment c. 10 minutes forward adjustment d. 10 minutes backward adjustment",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "If the time of the perpetrator's attack is displayed on the surveillance screen as 10:48-10:53, what is the actual time of the attack? a. 10:43-10:48 b. 10:53-10:58 c. 10:38-10:43 d. 10:58-11:03",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "According to the case record, what was the time when Shi Qiang knocked over the water cup? a. 10:20 b. 10:25 c. 10:30 d. 10:35",
+            "ans": "b",
+            "source": "s-2"
+        },
+        {
+            "q": "What is the time for Xiao Shan to go upstairs? a. 9:25 b. 9:30 c. 9:35 d. 9:40",
+            "ans": "b",
+            "source": "x-1"
+        },
+        {
+            "q": "What event did Xiao Shan witness? a. Xiao Chen killed the deceased b. Zhou Xiaomeng was killed c. Shi Qiang killed the deceased d. Zhou Xiaomeng killed the deceased",
+            "ans": "d",
+            "source": "x-1"
+        },
+        {
+            "q": "What operations did Xiao Shan perform on the surveillance video? a. Intentionally deleted monitoring b. Intentionally increased monitoring c. Intentionally decreased monitoring d. Failure to operate monitoring",
+            "ans": "c",
+            "source": "x-1"
+        },
+        {
+            "q": "When did Xie Min go upstairs? a. 9:40 b. 9:45 c. 9:50 d. 9:55",
+            "ans": "b",
+            "source": "x-1"
+        },
+        {
+            "q": "When did Xie Min and Li Jianguo go downstairs together? a. 10:05 b. 10:10 c. 10:15 d. 10:20",
+            "ans": "b",
+            "source": "x-1"
+        },
+        {
+            "q": "When did Li Jianguo go upstairs? a. 9:45 b. 9:47 c. 9:50 d. 9:55",
+            "ans": "b",
+            "source": "l-1"
+        },
+        {
+            "q": "When did Xie Min and Li Jianguo go downstairs together? a. 10:05 b. 10:10 c. 10:15 d. 10:20",
+            "ans": "b",
+            "source": "l-1"
+        }
+    ],
+    "role": [
+        {
+            "name": "Chen Chunli",
+            "back": "The sound of \"ding ding ding\" began to ring around, like a bell swaying in the wind or the sound of dishes hitting. You tried to open your eyes, but only saw some dim light passing through the mist in front of you, with dust floating in the thick mist.",
+            "r_q": [
+                {
+                    "q": "Which city's mayor is the protagonist in the story? a. S city b. N city c. M city d. L city",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the two sides of the corridor where the protagonist escaped in the dream? a. Wooden doors and fences b. Iron doors and brick walls c. Glass doors and wooden fences d. Thorn bushes and stone walls",
+                    "ans": "a"
+                },
+                {
+                    "q": "What happened to the sunflowers mentioned in the story? a. Start to bloom b. Gradually wither c. Keep bright d. Dispersed by the wind",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the relationship between Shi Qiang and the protagonist mentioned in the story? a. Classmate b. Neighbor c. Hair raising d. Colleague",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is the protagonist trying to grab onto in the dream? a. A tall figure b. A medium-sized figure c. A short figure d. A blurry figure",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did the protagonist wake up with a headache and find themselves? a. Room b. Office c. School d. An old room",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the name of the mayor's secretary? a. Li Jianguo b. Zhou Xiaomeng c. Zhao Li d. Lin Lan",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where does the story mention the date of December 3rd? a. Son's message b. Scene of the female police officer imprisoning the mayor c. Dream leading to the corridor d. Schedule for an appointment interview",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of object did the mayor see inserted into Lin Lan's abdomen after discovering her? a. A ruler b. A key c. A fruit knife d. A shovel",
+                    "ans": "c"
+                },
+                {
+                    "q": "In the mayor's general impression, how many girls live in room 303? a. 1 b. 2 c. 3 d. Not explicitly mentioned",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Which city's mayor is the protagonist in the story? a. S city b. N city c. M city d. L city",
+                "What are the two sides of the corridor where the protagonist escaped in the dream? a. Wooden doors and fences b. Iron doors and brick walls c. Glass doors and wooden fences d. Thorn bushes and stone walls",
+                "What happened to the sunflowers mentioned in the story? a. Start to bloom b. Gradually wither c. Keep bright d. Dispersed by the wind",
+                "What is the relationship between Shi Qiang and the protagonist mentioned in the story? a. Classmate b. Neighbor c. Hair raising d. Colleague",
+                "Who is the protagonist trying to grab onto in the dream? a. A tall figure b. A medium-sized figure c. A short figure d. A blurry figure",
+                "Where did the protagonist wake up with a headache and find themselves? a. Room b. Office c. School d. An old room",
+                "What is the name of the mayor's secretary? a. Li Jianguo b. Zhou Xiaomeng c. Zhao Li d. Lin Lan",
+                "Where does the story mention the date of December 3rd? a. Son's message b. Scene of the female police officer imprisoning the mayor c. Dream leading to the corridor d. Schedule for an appointment interview",
+                "What kind of object did the mayor see inserted into Lin Lan's abdomen after discovering her? a. A ruler b. A key c. A fruit knife d. A shovel",
+                "In the mayor's general impression, how many girls live in room 303? a. 1 b. 2 c. 3 d. Not explicitly mentioned"
+            ],
+            "a": [
+                "c",
+                "a",
+                "b",
+                "c",
+                "c",
+                "d",
+                "d",
+                "b",
+                "c",
+                "b"
+            ]
+        },
+        {
+            "name": "Li Jianguo",
+            "back": "The sound of \"ding ding ding ding\" began to ring around, like a diamond swaying in the wind, or the sound of a bowl being sensitively hit. You tried to open your eyes, but only saw some dim light passing through the speed fog in front of you, with thick dust floating in the mist.",
+            "r_q": [
+                {
+                    "q": "Which neighbor is the teacher? a. Zhou Xiaomeng b. Xie Min c. Shi Qiang d. Xiao Shan",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who tried to poison Lin Lan's cup of water? a. Zhou Xiaomeng b. Xie Min c. Shi Qiang d. Xiao Shan",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who is wearing a hat and constantly covering their face? a. Zhou Xiaomeng b. Xie Min c. Zhao Li d. Chen Chunli",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who received a phone call in their store that did not display the number? a. Zhou Xiaomeng b. Shi Qiang c. Chen Chunli d. Protagonist",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who is the community police officer? a. Zhou Xiaomeng b. Xie Min c. Shi Qiang d. Xiao Shan",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is responsible for repairing the ceiling lights in the mayor's office? a. Zhou Xiaomeng b. Xie Min c. Zhao Li d. Protagonist",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who lives in 306? a. Xiao Shan b. Shi Qiang c. Xie Min d. Zhou Xiaomeng",
+                    "ans": "a"
+                },
+                {
+                    "q": "Whose profession is mayor? a. Shi Qiang b. Chen Chunli c. Zhao Li d. Xiao Shan",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which neighbor works at the bar? a. Zhou Xiaomeng b. Xie Min c. Shi Qiang d. Xiao Shan",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who suggested conducting an exclusive interview for the protagonist? a. Zhou Xiaomeng b. Xie Min c. Zhao Li d. Xiao Shan",
+                    "ans": "d"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Which neighbor is the teacher? a. Zhou Xiaomeng b. Xie Min c. Shi Qiang d. Xiao Shan",
+                "Who tried to poison Lin Lan's cup of water? a. Zhou Xiaomeng b. Xie Min c. Shi Qiang d. Xiao Shan",
+                "Who is wearing a hat and constantly covering their face? a. Zhou Xiaomeng b. Xie Min c. Zhao Li d. Chen Chunli",
+                "Who received a phone call in their store that did not display the number? a. Zhou Xiaomeng b. Shi Qiang c. Chen Chunli d. Protagonist",
+                "Who is the community police officer? a. Zhou Xiaomeng b. Xie Min c. Shi Qiang d. Xiao Shan",
+                "Who is responsible for repairing the ceiling lights in the mayor's office? a. Zhou Xiaomeng b. Xie Min c. Zhao Li d. Protagonist",
+                "Who lives in 306? a. Xiao Shan b. Shi Qiang c. Xie Min d. Zhou Xiaomeng",
+                "Whose profession is mayor? a. Shi Qiang b. Chen Chunli c. Zhao Li d. Xiao Shan",
+                "Which neighbor works at the bar? a. Zhou Xiaomeng b. Xie Min c. Shi Qiang d. Xiao Shan",
+                "Who suggested conducting an exclusive interview for the protagonist? a. Zhou Xiaomeng b. Xie Min c. Zhao Li d. Xiao Shan"
+            ],
+            "a": [
+                "b",
+                "b",
+                "c",
+                "d",
+                "c",
+                "d",
+                "a",
+                "b",
+                "a",
+                "d"
+            ]
+        },
+        {
+            "name": "Shi Qiang",
+            "back": "The sound of \"ding ding ding\" began to ring around, like a bell swaying in the wind or the sound of dishes hitting. You tried to open your eyes, but only saw some dim light passing through the mist in front of you, with dust floating in the thick mist.",
+            "r_q": [
+                {
+                    "q": "Who is the police officer among the six people in Room 401 of Shucun Apartment? a. Li Jianguo b. Zhou Xiaomeng c. Xie Min d. Xiao Shan",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the cause of Lin Lan's death? a. Suicide b. Murder by others c. Sudden physical illness d. Accidents",
+                    "ans": "b"
+                },
+                {
+                    "q": "What do the six people detained in Room 401 of Shucun Apartment have in common? a. They are all orphans, b. They are all police officers, c. They are all neighbors, d. They are all friends of the mayor",
+                    "ans": "c"
+                },
+                {
+                    "q": "How long has it been since the discovery of Lin Lan's death? a. 10 days b. 1 day c. 1 month d. 1 year",
+                    "ans": "a"
+                },
+                {
+                    "q": "What happened on the day of Lin Lan's death? a. Fire b. Explosion c. Earthquake d. Heavy rain",
+                    "ans": "b"
+                },
+                {
+                    "q": "Did Lin Lan's behavior before his death indicate that he had suicidal tendencies? a. Yes B. No",
+                    "ans": "a"
+                },
+                {
+                    "q": "According to the text, who is Lin Lan's secretary? a. Li Jianguo b. Zhou Xiaomeng c. Xie Min d. Xiao Shan",
+                    "ans": "b"
+                },
+                {
+                    "q": "On the day of Lin Lan's death, what suddenly caused the protagonist to have a splitting headache? a. I saw a strange creature. b. Suddenly remembered the pain of the past. c. Heard a mysterious sound. d. drank unclean water",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where were the six people in Shucun Apartment detained after Lin Lan's death? a. Room 301 b. Room 302 c. Room 303 d. Room 401",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who is the last person the protagonist wants to find? a. Li Jianguo b. Zhou Xiaomeng c. Xie Min d. Lin Run",
+                    "ans": "d"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Who is the police officer among the six people in Room 401 of Shucun Apartment? a. Li Jianguo b. Zhou Xiaomeng c. Xie Min d. Xiao Shan",
+                "What was the cause of Lin Lan's death? a. Suicide b. Murder by others c. Sudden physical illness d. Accidents",
+                "What do the six people detained in Room 401 of Shucun Apartment have in common? a. They are all orphans, b. They are all police officers, c. They are all neighbors, d. They are all friends of the mayor",
+                "How long has it been since the discovery of Lin Lan's death? a. 10 days b. 1 day c. 1 month d. 1 year",
+                "What happened on the day of Lin Lan's death? a. Fire b. Explosion c. Earthquake d. rainstorm",
+                "Did Lin Lan's behavior before his death indicate that he had suicidal tendencies? a. Yes B. No",
+                "According to the text, who is Lin Lan's secretary? a. Li Jianguo b. Zhou Xiaomeng c. Xie Min d. Xiao Shan",
+                "On the day of Lin Lan's death, what suddenly caused the protagonist to have a splitting headache? a. I saw a strange creature. b. Suddenly remembered the pain of the past. c. Heard a mysterious sound. d. drank unclean water",
+                "Where were the six people in Shucun Apartment detained after Lin Lan's death? a. Room 301 b. Room 302 c. Room 303 d. Room 401",
+                "Who is the last person the protagonist wants to find? a. Li Jianguo b. Zhou Xiaomeng c. Xie Min d. Lin Run"
+            ],
+            "a": [
+                "d",
+                "b",
+                "c",
+                "a",
+                "b",
+                "a",
+                "b",
+                "c",
+                "d",
+                "d"
+            ]
+        },
+        {
+            "name": "Xiaoshan",
+            "back": "The sound of \"ding ding ding\" began to ring around, like a bell swaying in the wind or the sound of dishes hitting. You tried to open your eyes, but only saw some dim light passing through the mist in front of you, with dust floating in the thick mist.",
+            "r_q": [
+                {
+                    "q": "What was the specific time when the mayor was found dead? a. 9:30 b. 10:00 c. 10:30 d. 11:00",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who was the first person to discover the body in the incident that occurred in the mayor's office? a. Zhou Xiaomeng b. Shi Qiang c. Xie Min d. Chen Chunli",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the cause of Lin Lan's death? a. Poisoning b. Stabbing c. Jumping from a building d. Accidentally falling",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who is believed to be able to extort the mayor due to knowledge of the dark secrets? a. Li Jianguo b. Zhou Xiaomeng c. Shi Qiang d. Chen Chunli",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who was the last person to enter the mayor's office in the incident that occurred? a. Zhou Xiaomeng b. Li Jianguo c. Shi Qiang d. Xie Min",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who entered the mayor's office before the monitoring power was turned off? a. Zhou Xiaomeng b. Shi Qiang c. Xie Min d. Chen Chunli",
+                    "ans": "d"
+                },
+                {
+                    "q": "After Lin Lan was found dead, who was thought to have a possible episode of dizziness? a. Xie Minb. Li Jianguo c. Zhou Xiaomeng d. Chen Chunli",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who turned off the monitoring power in the distribution room next to the administrative office? a. Xie Minb. Li Jianguo c. Shi Qiang d. Chen Chunli",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who made an appointment for the mayor's interview one day in advance? a. Li Jianguo b. Zhou Xiaomeng c. Shi Qiang d. Chen Chunli",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who is believed to have used Zhao Li's clothing and fingerprint film? a. Li Jianguo b. Zhou Xiaomeng c. Shi Qiang d. Chen Chunli",
+                    "ans": "d"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What was the specific time when the mayor was found dead? a. 9:30 b. 10:00 c. 10:30 d. 11:00",
+                "Who was the first person to discover the body in the incident that occurred in the mayor's office? a. Zhou Xiaomeng b. Shi Qiang c. Xie Min d. Chen Chunli",
+                "What was the cause of Lin Lan's death? a. Poisoning b. Stabbing c. Jumping from a building d. Accidentally falling",
+                "Who is believed to be able to extort the mayor due to knowledge of the dark secrets? a. Li Jianguo b. Zhou Xiaomeng c. Shi Qiang d. Chen Chunli",
+                "Who was the last person to enter the mayor's office in the incident that occurred? a. Zhou Xiaomeng b. Li Jianguo c. Shi Qiang d. Xie Min",
+                "Who entered the mayor's office before the monitoring power was turned off? a. Zhou Xiaomeng b. Shi Qiang c. Xie Min d. Chen Chunli",
+                "After Lin Lan was found dead, who was thought to have a possible episode of dizziness? a. Xie Minb. Li Jianguo c. Zhou Xiaomeng d. Chen Chunli",
+                "Who turned off the monitoring power in the distribution room next to the administrative office? a. Xie Minb. Li Jianguo c. Shi Qiang d. Chen Chunli",
+                "Who made an appointment for the mayor's interview one day in advance? a. Li Jianguo b. Zhou Xiaomeng c. Shi Qiang d. Chen Chunli",
+                "Who is believed to have used Zhao Li's clothing and fingerprint film? a. Li Jianguo b. Zhou Xiaomeng c. Shi Qiang d. Chen Chunli"
+            ],
+            "a": [
+                "b",
+                "a",
+                "b",
+                "c",
+                "a",
+                "d",
+                "c",
+                "d",
+                "d",
+                "d"
+            ]
+        },
+        {
+            "name": "Xie Min",
+            "back": "The sound of \"ding ding ding\" began to ring around, like a bell swaying in the wind or the sound of dishes hitting. You tried to open your eyes, but only saw some dim light passing through the mist in front of you, with dust floating in the thick mist.",
+            "r_q": [
+                {
+                    "q": "What is the apartment number of Shucun where the protagonist lives in the text? a. 301 b. 302 c. 303 d. 304",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the protagonist's profession? a. Physics teacher b. Chemistry teacher c. Mathematics teacher d. Biology teacher",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the name of the mayor? a. Chen Chunli b. Li Jianguo c. Shi Qiang d. Xiao Shan",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the time for the protagonist to schedule a meeting with the mayor? a. November 23rd at 9:00am b. November 23rd at 9:45am c. November 23rd at 10:00am d. November 23rd at 10:15am",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the chemicals brought from the protagonist's laboratory? a. Potassium sulfate b. Potassium perchlorate c. Potassium chloride d. Potassium cyanide",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the date when the woman claiming to be a police officer was locked up in an abandoned room? a. November 23, 2021 b. November 30, 2021 c. December 3, 2021 d. December 10, 2021",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which room number is the resident of the suspected missing person who did not appear in the story? a. 301 b. 302 c. 303 d. 304",
+                    "ans": "a"
+                },
+                {
+                    "q": "In what situation is something blocking the protagonist's throat, preventing him from making a sound? a. Walking forward in the mist, b. Meeting with the mayor, c. Looking at the water cup, d. Under the chandelier",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which room does Li Jianguo live in at Shucun Apartment? a. 301 b. 302 c. 303 d. 305",
+                    "ans": "b"
+                },
+                {
+                    "q": "What nickname did the protagonist recall giving him behind the students' backs? a. Teacher B. Gardener C. Sword D. Mental illness",
+                    "ans": "d"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is the apartment number of Shucun where the protagonist lives in the text? a. 301 b. 302 c. 303 d. 304",
+                "What is the protagonist's profession? a. Physics teacher b. Chemistry teacher c. Mathematics teacher d. Biology teacher",
+                "What is the name of the mayor? a. Chen Chunli b. Li Jianguo c. Shi Qiang d. Xiao Shan",
+                "What is the time for the protagonist to schedule a meeting with the mayor? a. November 23rd at 9:00am b. November 23rd at 9:45am c. November 23rd at 10:00am d. November 23rd at 10:15am",
+                "What are the chemicals brought from the protagonist's laboratory? a. Potassium sulfate b. Potassium perchlorate c. Potassium chloride d. Potassium cyanide",
+                "What was the date when the woman claiming to be a police officer was locked up in an abandoned room? a. November 23, 2021 b. November 30, 2021 c. December 3, 2021 d. December 10, 2021",
+                "Which room number is the resident of the suspected missing person who did not appear in the story? a. 301 b. 302 c. 303 d. 304",
+                "In what situation is something blocking the protagonist's throat, preventing him from making a sound? a. Walking forward in the mist, b. Meeting with the mayor, c. Looking at the water cup, d. Under the chandelier",
+                "Which room does Li Jianguo live in at Shucun Apartment? a. 301 b. 302 c. 303 d. 305",
+                "What nickname did the protagonist recall giving him behind the students' backs? a. Teacher B. Gardener C. Sword D. Mental illness"
+            ],
+            "a": [
+                "d",
+                "b",
+                "a",
+                "c",
+                "d",
+                "c",
+                "a",
+                "a",
+                "b",
+                "d"
+            ]
+        },
+        {
+            "name": "Zhou Xiaomeng",
+            "back": "The sound of \"ding ding ding ding\" began to ring around, like a bell swaying in the wind or the sound of bowls and chopsticks hitting. You tried to open your eyes, but only saw some dim light passing through the mist in front of you, with dust in the thick mist.",
+            "r_q": [
+                {
+                    "q": "Where did the protagonist wake up? a. At the municipal government building b. at the Tree Village apartment c. at the 'Night' bar d. in an unfamiliar room",
+                    "ans": "b"
+                },
+                {
+                    "q": "In the protagonist's dream, which flower gradually withers and turns into dust, melting into the mist? a. Sunflowers b. Roses c. Lilies d. Carnations",
+                    "ans": "a"
+                },
+                {
+                    "q": "How does the protagonist feel when he/she tries to shout? a. Feeling palpitations b. Feeling tired c. Unable to make sound d. Feeling fearful",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who are the residents living in 303? a. Xie Minb. Li Jianguo c. Protagonist d. Xiao Shan",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the protagonist's profession? a. Waiter b. Police officer c. Escort d. Teacher",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the protagonist particularly resistant to? a. Drinking alcohol b. Physical contact c. Cleaning work d. Sending flowers",
+                    "ans": "b"
+                },
+                {
+                    "q": "According to the protagonist's memory, when did he/she think the door to the mayor's office was open? a. 10pm b. 12pm c. 11am d. 10am",
+                    "ans": "c"
+                },
+                {
+                    "q": "According to the story, why did the protagonist go to see the mayor? a. Discuss project b. Discuss public policy c. Personal revenge d. Apply for a job",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who provided assistance and justification after the protagonist made the decision? a. Xiao Shan b. Zhao Li c. Li Jianguo d. Shi Qiang",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who is the mysterious figure who disappeared under the city government building in the story? a. Zhao Li b. Li Jianguo c. Shi Qiang d. Xie Min",
+                    "ans": "a"
+                }
+            ],
+            "self": "Hello everyone, I am Zhou Xiaomeng",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "Where did the protagonist wake up? a. At the municipal government building b. at the Tree Village apartment c. at the 'Night' bar d. in an unfamiliar room",
+                "In the protagonist's dream, which flower gradually withers and turns into dust, melting into the mist? a. Sunflowers b. Roses c. Lilies d. Carnations",
+                "How does the protagonist feel when he/she tries to shout? a. Feeling palpitations b. Feeling tired c. Unable to make sound d. Feeling fearful",
+                "Who are the residents living in 303? a. Xie Minb. Li Jianguo c. Protagonist d. Xiao Shan",
+                "What is the protagonist's profession? a. Waiter b. Police officer c. Escort d. Teacher",
+                "What is the protagonist particularly resistant to? a. Drinking alcohol b. Physical contact c. Cleaning work d. Sending flowers",
+                "According to the protagonist's memory, when did he/she think the door to the mayor's office was open? a. 10pm b. 12pm c. 11am d. 10am",
+                "According to the story, why did the protagonist go to see the mayor? a. Discuss project b. Discuss public policy c. Personal revenge d. Apply for a job",
+                "Who provided assistance and justification after the protagonist made the decision? a. Xiao Shan b. Zhao Li c. Li Jianguo d. Shi Qiang",
+                "Who is the mysterious figure who disappeared under the city government building in the story? a. Zhao Li b. Li Jianguo c. Shi Qiang d. Xie Min"
+            ],
+            "a": [
+                "b",
+                "a",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "a",
+                "a"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "What is the possible time frame for the death of the deceased due to excessive blood loss? a. 8-12 minutes b. 15-20 minutes c. 10-15 minutes d. 20-25 minutes",
+            "Is the surveillance video available for investigation purposes? a. No, b. Approval is required, c. Partial approval is allowed, d. Both are acceptable",
+            "What other abnormal situations has the security department encountered recently? a. Peeping b. Fighting c. Theft d. Intentional destruction",
+            "When did Lao Jiang hear the sound of glass shattering? a. 10:25 b. 10:30 c. 10:35 d. 10:40",
+            "What did Shi Qiang wear upstairs? a. Police uniform b. sweatshirt c. gray top d. beige top",
+            "When did Xie Min and Li Jianguo go downstairs? a. 10:10 b. 10:15 c. 10:20 d. 10:25",
+            "What color top is Zhou Xiaomeng wearing? a. Grey b. beige c. black d. blue",
+            "What are the characteristics of Zhao Li when he goes downstairs? a. Wearing a black hoodie and mask, b. wearing a blue sports shirt, c. wearing a gray top, d. wearing electrician work clothes",
+            "Did the high-altitude cleaner notice any abnormal time in the office? a. 12:00 b. 12:05 c. 11:55 d. 11:50",
+            "If the oxide acts non in vivo, how will it affect the deceased? a. Immediate cause of death b. Accelerated wound bleeding c. No impact d. Causes serious illness",
+            "What substances are present in the blood of the deceased? a. Alcohol b. Oxide c. Carbohydrate d. Protein",
+            "Have new pinholes been found on the deceased's body surface? a. Yes B. No",
+            "Did any traces of oxidized fluid flow be detected in the esophagus of the deceased? a. Yes B. No",
+            "What color is Xiao Shan wearing upstairs? a. Blue b. Grey c. Black d. beige",
+            "What was the time when the deceased's heart stopped beating? a. 10:58 b. 11:08 c. 11:18 d. 11:28",
+            "In the case of theft, were any items lost? a. Yes B. No",
+            "When did Xiao Chen go upstairs? a. 10:45 b. 10:50 c. 10:55 d. 11:00",
+            "What was the cause of the deceased's death? a. Heart disease b. Excessive blood loss c. Oxidative poisoning d. Asphyxia",
+            "Which of the following statements is correct regarding the abnormal situation encountered by the security department? a. Only one theft, b. No theft, c. Two thefts, d. Three thefts",
+            "Which of the following statements is correct about the impact of oxides? a. Immediate death is caused by internal effects, while non internal effects accelerate wound bleeding. b. Both internal and non internal effects immediately lead to death. c. Neither internal nor non internal effects have an impact. d. Internal effects have no impact, while non internal effects immediately lead to death",
+            "Based on the case, what is the time frame for the perpetrator to commit the crime? a. 10:45-10:50 b. 10:48-10:53 c. 10:55-11:00 d. 11:00-11:05",
+            "What was the time of Lin Lan's death? a. 10:58 b. 11:08 c. 11:18 d. 11:28",
+            "What was the main reason for Lin Lan's death caused by the murderer? a. Cardiac arrest b. Cyanide poisoning c. Excessive blood loss d. Suffocation",
+            "Did the deceased Lin Lan drink the first glass of water that contained cyanide? a. Yes B. No",
+            "Considering the time of the perpetrator's attack and the time of Lin Lan's death, how long did it take for Lin Lan to die after the perpetrator's attack? a. 10-15 minutes b. 15-20 minutes c. 20-25 minutes d. 25-30 minutes",
+            "How to adjust the time displayed in the surveillance video compared to the actual time to obtain the correct time? a. Adjust forward for 5 minutes b. Adjust backward for 5 minutes c. Adjust forward for 10 minutes d. Adjust backward for 10 minutes",
+            "If the time of the perpetrator's attack is displayed on the surveillance screen as 10:48-10:53, what is the actual time of the attack? a. 10:43-10:48 b. 10:53-10:58 c. 10:38-10:43 d. 10:58-11:03",
+            "According to the case record, what was the time when Shi Qiang knocked over the water cup? a. 10:20 b. 10:25 c. 10:30 d. 10:35",
+            "What is the time for Xiao Shan to go upstairs? a. 9:25 b. 9:30 c. 9:35 d. 9:40",
+            "What event did Xiao Shan witness? a. Xiao Chen killed the deceased b. Zhou Xiaomeng was killed c. Shi Qiang killed the deceased d. Zhou Xiaomeng killed the deceased",
+            "What operations did Xiao Shan perform on the surveillance video? a. Intentionally deleted monitoring b. Intentionally increased monitoring c. Intentionally decreased monitoring d. Failure to operate monitoring",
+            "When did Xie Min go upstairs? a. 9:40 b. 9:45 c. 9:50 d. 9:55",
+            "When did Xie Min and Li Jianguo go downstairs together? a. 10:05 b. 10:10 c. 10:15 d. 10:20",
+            "When did Li Jianguo go upstairs? a. 9:45 b. 9:47 c. 9:50 d. 9:55",
+            "When did Xie Min and Li Jianguo go downstairs together? a. 10:05 b. 10:10 c. 10:15 d. 10:20"
+        ],
+        "key_ans": [
+            "b",
+            "d",
+            "c",
+            "b",
+            "a",
+            "b",
+            "b",
+            "a",
+            "b",
+            "b",
+            "b",
+            "b",
+            "b",
+            "a",
+            "b",
+            "b",
+            "b",
+            "b",
+            "c",
+            "a",
+            "b",
+            "b",
+            "c",
+            "b",
+            "b",
+            "a",
+            "a",
+            "b",
+            "b",
+            "d",
+            "c",
+            "b",
+            "b",
+            "b",
+            "b"
+        ],
+        "key_sc": [
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "s-2",
+            "x-1",
+            "x-1",
+            "x-1",
+            "x-1",
+            "x-1",
+            "l-1",
+            "l-1"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "Which city's mayor is Lin Youli? a. M city b. L city c. N city d. O city",
+            "What is the profession of a courteous wife? a. Congressional Economist b. Internal Network Security Officer c. Congressional Economist and Internal Network Security Officer d. Congressional Internal Network Security Officer",
+            "Which university does Lin Youli's son attend? a. M University b. L University c. N University d. O University",
+            "In which year was Lin Youli first elected as the mayor of M city? a. 2007 b. 2010 c. 2014 d. 2018",
+            "How many terms have you been re elected as the mayor of M city? a. 1 session b. 2 sessions c. 3 sessions d. 4 sessions",
+            "What is Li Jianwei's profession? a. Silent Mantra b. Owner of a miscellaneous English store c. Network philanthropist d. 302 e. All options for a and b",
+            "What is the name of Li Jianwei's store? a. Silent Words b. Miscellaneous English Store c. Public Welfare 302 d. Hardware Store",
+            "When does Li Jianwei often use his phone to check? a. Before online dating, b. in most places, c. when there are things on your mind, d. when there is very little comfort",
+            "What is Shi Qiang's profession? a. Leisurely Wandering b. Ren Community Police c. Tree Machine Highway 305 d. Haven't been to Haopai Bao for a long time",
+            "Which address does Shi Qiang live at? a. Leisurely Wandering b. Ren Community Police c. Tree Machine Highway 305 d. Haven't been to Haopai Bao for a long time",
+            "Where does Shi Qiang often hang out? a. Chess Spleen Room b. Haven't been to Fearful Brand Treasure for a long time c. Community Outflow Office d. City Government",
+            "What is Shi Qiang's recent attitude towards senior officials of the municipal government? a. Especially friendly b. Especially angry c. Especially indifferent d. Especially heartless",
+            "Whose fingerprints were collected from the fragments on the ground at the crime scene? a. Xie Minb. Xiao Chen c. Lin Lan d. Central Strong",
+            "What substances were collected from the blood spreading on the ground? a. Equivalents b. Fragments c. Blood d. Cup lid",
+            "Who made an appointment with the mayor at 9:30 am on November 23rd? a. Xiao Shan b. Xie Min c. Zhou Yumeng d. Chen Chunli",
+            "Whose fingerprints were collected at the crime scene? a. Xie Minb. Central Qiang c. Chen Chunli d. Lin Lan",
+            "Who's fingerprint was collected from the sky of the distribution air monitoring power supply? a. Xie Min b. Zhao Li c. Central Qiang d. Li Jianguo",
+            "Which hand are Zhao Li's fingerprints on? a. Left hand b. Right hand c. Left foot d. Right foot",
+            "Who had a laptop at the crime scene? a. Lin Lan b. Chen Chunli c. Xiao Chen d. Americans",
+            "Who has logged into the secretary's office computer? a. Lin Lan b. Chen Chunli c. Xiao Chen d. Americans",
+            "Who has ever brought water to Secretary Lin? a. Xiao Chen b. Old American c. Chen Chunli d. External wall cleaner",
+            "When did Secretary Lin break the glass? a. Around 8:00, 10:00, 10:40, and 12:05",
+            "Who heard the 'bang' sound upstairs? a. Xiao Chen b. Old American c. Administrative office clerk d. External wall cleaner",
+            "What stabbed the fallen person found in the office? a. Cloth b. Knife c. Water cup d. Mobile phone",
+            "When were the two theft incidents mentioned by the security chief? a. Event b. These past two days c. Chief of Security d. Not mentioned"
+        ],
+        "key_ans": [
+            "a",
+            "c",
+            "a",
+            "b",
+            "b",
+            "b",
+            "b",
+            "a",
+            "b",
+            "c",
+            "a",
+            "d",
+            "a, b",
+            "a",
+            "a",
+            "a, c",
+            "b",
+            "a",
+            "a",
+            "b",
+            "a",
+            "c",
+            "b",
+            "b",
+            "b"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "Who went upstairs at 9:35 in the surveillance video of the city government corridor? a. Xiao Shan b. Xie Min c. Li Jianguo d. Shi Qiang",
+            "Who went downstairs at 10:15 in the surveillance video of the city government corridor? a. Xie Minb. Li Jianguo c. Shi Qiang d. Xiao Chen e. Zhao Li",
+            "Who went downstairs at 11:15 in the surveillance video of the city government building? a. Xie Minb. Li Jianguo c. Zhao Li d. Shi Qiang",
+            "What was the cause of Zhao Li's death? a. B. Burning b. Shock c. Death d. Burning shock death",
+            "What does the corpse file show in the blood of the corpse? a. Oxygen b. Chloride c. Glucose d. Ethanol",
+            "What would happen if chloride was present in the body as shown in the corpse file? a. Treat the disease b. Immediately cause death c. Accelerate wound bleeding d. Raise blood pressure",
+            "What would happen if chloride was found to have non in vivo effects in the corpse file? a. Treat diseases b. Enhance immunity c. Accelerate wound bleeding d. Lower body temperature",
+            "How long did the corpse file show that the knife wound caused excessive blood loss and resulted in death? a. 5-10 minutes b. 10-15 minutes c. 15-20 minutes d. 20-25 minutes",
+            "When did the deceased's heart stop beating in the corpse file? a. 10:30 b. 10:45 c. 11:00 d. 11:08",
+            "What instruction manual does the corpse file show on the deceased's body? a. Towel b. Clothing c. Television d. Gastrointestinal medicine",
+            "Is there any trace of detection on the esophagus of the deceased's body surface shown in the corpse file? a. Oxygen b. Chloride c. Water d. Food",
+            "What does the corpse file show as the murder weapon? a. Knife b. Gun c. Hammer d. Fruit Knife"
+        ],
+        "key_ans": [
+            "a",
+            "a, b",
+            "c",
+            "d",
+            "b",
+            "b",
+            "c",
+            "c",
+            "d",
+            "d",
+            "b",
+            "d"
+        ]
+    },
+    "ju_name": "XIANGYang",
+    "task_nm": "The deceased is Lin Lan",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Shi Qiang",
+        "Xiaoshan",
+        "Xie Min",
+        "Li Jianguo",
+        "Zhou Xiaomeng"
+    ],
+    "murder": "Zhou Xiaomeng",
+    "reason": "Motive for committing the crime:"
+}

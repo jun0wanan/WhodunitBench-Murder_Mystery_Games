@@ -1,0 +1,450 @@
+{
+    "key_clues_pool": {
+        "p": [
+            "Evidence found in passenger Lin's room: SMS records on passenger Lin's phone show that wealthy businessman Zhen will take a batch of stolen diamonds on the 666 train on January 19th to Moscow.",
+            "The evidence found in passenger Lin's room is a letter that seems to be trying to kill someone.",
+            "The evidence file bag found in Lin's passenger's room contains photos of some containers and a small Russian mafia logo on the cargo number document.",
+            "The evidence ledger found in Lin's passenger's room recorded some information about cooperative clients, including wealthy businessman Zhen.",
+            "Evidence found in the deceased's room - Text message on the phone - Zhen: Respected Mafia boss, what do you think of the gun I gave you this time? Is it better than Uncle Li's? Mafia boss: Not bad, it seems that you are also a good choice for cooperation!",
+            "The evidence found in passenger Lin's room showed dried bloodstains on the cuffs.",
+            "The evidence found in passenger Lin's room was Dong's phone, which contained a video of the door number of wealthy businessman Zhen. The conversation between Li Shu and wealthy businessman Zhen inside the concealed door clearly indicated that Li Shu was a girl.",
+            "Mr. Li, where did you hear the rumors? I am your most reliable partner Uncle Li: Don't play Tai Chi with me anymore. We all know who you are and I won't beat around the bush. Uncle Li has been on this road for so many years, and your territory can't be taken away just by giving some benefits. Since you won't listen to my advice, you can be careful when walking on the night road",
+            "The autopsy report shows six knife wounds on the deceased's body, with varying widths. The fatal injury was a knife wound about 4cm wide on the chest and heart.",
+            "The autopsy report shows that the deceased died around 23:45",
+            "The deceased lived in the 7th carriage",
+            "Dong passenger lives in carriage 9",
+            "It takes at least 3 minutes to walk from one carriage to another."
+        ],
+        "2-step": [
+            "Lin, the passenger, should be Uncle Li",
+            "The wealthy businessman Zhen wants to replace Uncle Li's position in the mafia, but Uncle Li, also known as Lin Passenger, is very dissatisfied",
+            "The deceased may have been killed by many people with knives, but only at 23:45 was the person who gave fatal injuries and directly caused death.",
+            "Lin, the passenger, must have been to the victim's room and gave the victim a knife, but it is unclear whether it was a fatal knife.",
+            "The passenger was still in the ninth carriage at 23:40",
+            "The white passenger was still in the ninth carriage at 23:40"
+        ],
+        "3-step": [
+            "Lin, the passenger, wanted to kill the wealthy businessman Zhen to vent his anger because he was dissatisfied with his desire to replace his position.",
+            "Dong passenger cannot commit murder at 23:45 due to drug effects",
+            "Passengers cannot commit murder at 23:45",
+            "White passengers cannot commit murder at 23:45"
+        ],
+        "白乘客": [
+            "At 23:30, the white passenger stole the seat chart of the seagull attendant in the 9th carriage and saw the seagull attendant enter the lounge. At 23:40, Bai passenger saw Sa passenger walking towards the 8th carriage. He didn't want to ask him to secretly return to his carriage, but was caught and decided to go to the 7th carriage later"
+        ],
+        "鸥乘务": [
+            "At 23:55, the Ou attendant pushed a cart from the lounge towards the direction of the Zhen wealthy merchant's carriage. Due to nervousness, the Ou attendant walked quickly. When they reached carriage 7, the Ou attendant met passengers Lin and Dong in the corridor. Lin returned to his private room, while Dong walked towards the direction of carriage nine.",
+            "At 22:40, passenger Dong took the ham sausage that passenger Ou had put in laxatives and ate it. The laxatives started to take effect for an hour and were estimated to last for 10 minutes."
+        ],
+        "撒乘客": [
+            "At 23:40, the Sa passenger was about to go to the 7th carriage to kill someone, but he was a bit conflicted about the time. When he arrived in the 9th carriage, he turned around and saw Sa passenger who had also arrived in the 9th carriage. With a conflicted heart, he decided to kill someone a little later."
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            15
+        ],
+        "白乘客": [
+            16,
+            18,
+            20
+        ],
+        "撒乘客": [
+            16,
+            19
+        ],
+        "鸥乘务": [
+            17,
+            21,
+            22
+        ]
+    },
+    "public_clue": "At 23:40, the white passenger saw the Sa passenger walking towards the 8th carriage. He didn't want to ask him to secretly return to his carriage, but was caught and decided to go to the 7th carriage later",
+    "key_clues_questions": [
+        {
+            "q": "What plan did Lin's passenger's mobile SMS record reveal? a. Travel plan b. Transportation of stolen diamonds c. Family gathering d. Business meeting",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What does the letter found in passenger Lin's room imply? a. Invitation to participate in event b. Love letter c. Assassination plan d. Business cooperation",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What special symbol was found in Lin's passenger's file bag? a. Trademark b. Russian Mafia logo c. Government agency logo d. School emblem",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What information is recorded in Lin's passenger ledger? a. Family expenses b. Personal diary c. Cooperative clients d. Travel expenses",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the relationship displayed in the text message on the deceased's phone? a. Friendship b. Family members c. Mafia cooperation d. Business competition",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What did Lin find on passenger's sleeve? a. Stains b. bloodstains c. handwriting d. buttons",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What did Dong's passenger's mobile phone recording reveal? a. The secrets of wealthy businessman Zhen b. Tourist scenery c. Family gatherings d. Educational courses",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What are the fatal injuries shown in the autopsy report of the deceased? a. Back stab injury b. Head impact c. Chest and heart stab injury d. Abdominal stab injury",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "When was the approximate time of death of the deceased? a. 7am b. 2pm c. 11:45pm d. 1am",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Which carriage did the deceased and passenger Dong live in? a. The deceased's 7th carriage, Dong passenger's 9th carriage b. The deceased's 9th carriage, Dong passenger's 7th carriage c. The deceased's 6th carriage, Dong passenger's 8th carriage d. Both the deceased and Dong passenger lived in the 7th carriage",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Who is Uncle Li's true identity? a. Zhen, wealthy businessman, b. Lin, passenger, c. Dong, passenger, d. Sa, passenger",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the attitude of wealthy businessman Zhen towards Uncle Li? a. I want to replace Uncle Li's position. b. I respect him very much. c. I completely ignore him. d. I want to establish a friendly relationship",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "How was the fatal injury of the deceased caused? a. Direct fatal injury caused by someone at 23:45 b. Knife injury caused by multiple people c. Accidental accident d. Natural death",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "What was the behavior of passenger Lin in the deceased's room? a. A knife was given to the deceased, but it is uncertain whether it was fatal. b. Only an interview was conducted. c. Certain items were stolen. d. Clues were left in the room",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "Why did Lin, the passenger, want to kill the wealthy businessman Zhen? a. Due to personal grudges, dissatisfaction with the wealthy businessman Zhen wanting to replace him, financial disputes, and misunderstandings",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "At 23:40, where are the Sa passenger and the Bai passenger? a. Passengers are in the 7th carriage, while white passengers are in the 9th carriage. b. Both passengers are in the 9th carriage. c. Passengers are in the 9th carriage, while white passengers are in the 7th carriage. d. Both passengers are not in the 9th carriage",
+            "ans": "b",
+            "source": "s-b-2"
+        },
+        {
+            "q": "Why can't Dong, the passenger, commit murder at 23:45? a. Because he is sleeping. b. Because he is not present. c. Due to medication effects, he is unable to move. d. Because he is meeting with others",
+            "ans": "c",
+            "source": "ou-p-k-2"
+        },
+        {
+            "q": "Why can't a passenger kill someone at 23:45? a. There is an alibi. b. Due to medication reasons. c. Because he already has alibi evidence. d. Because he is doing other things",
+            "ans": "c",
+            "source": "b-p-2"
+        },
+        {
+            "q": "Why can't a white passenger go and kill someone at 23:45? a. Because he is in the ninth carriage b. because he is talking to someone c. because he has an alibi d. because he is resting",
+            "ans": "c",
+            "source": "s-p-2"
+        },
+        {
+            "q": "What happened to the white passenger at 23:40 in the evening? a. He is resting in the 7th carriage. B. He saw a passenger walking towards the 8th carriage. C. He met with a passenger in the dining car. D. He is doing evening exercise",
+            "ans": "b",
+            "source": "b-1"
+        },
+        {
+            "q": "Who did the seagull crew meet at 23:55? a. Lin and Dong passengers b. Bai and Sa passengers c. Zhen and Lin passengers d. Zhen and Dong passengers",
+            "ans": "a",
+            "source": "ou-1"
+        },
+        {
+            "q": "What did Dong passenger do at 22:40 that caused him to feel uncomfortable later on? a. I ate ham sausage with laxatives, drank too much water, engaged in vigorous exercise, and was startled",
+            "ans": "a",
+            "source": "ou-1"
+        },
+        {
+            "q": "What are the plans of the passengers at 23:40? a. Go to the 7th carriage to kill someone. b. Go to the 9th carriage to rest. c. Eat in the dining car. d. Wait in the lounge",
+            "ans": "a",
+            "source": "s-1"
+        },
+        {
+            "q": "What did the white passenger do at 23:30? a. I stole the seat chart of the seagull attendant and saw her enter the lounge. B. got into an argument with someone in the 7th carriage. C. had dinner in the dining car. D. rested in her own private room",
+            "ans": "a",
+            "source": "b-2"
+        }
+    ],
+    "role": [
+        {
+            "name": "Scattering passengers",
+            "back": "My name is Asa, and I have a Russian name called 'Alexander Lawsky'. I am an experienced driver who travels far and wide, proficient in various languages and dialects of different countries. My job is to drive long-distance buses, help people repair cars, and be proficient in car maintenance.",
+            "r_q": [
+                {
+                    "q": "Where did you find the private room number for Mr. Zhen? a. When asking the flight attendant, b. in the passenger registration form of the train, c. while eavesdropping on passengers, d. in the luggage of Zhen Fuhao",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Where did you find the private room number for Mr. Zhen? a. When asking the flight attendant, b. in the passenger registration form of the train, c. while eavesdropping on passengers, d. in the luggage of Zhen Fuhao"
+            ],
+            "a": [
+                "b"
+            ]
+        },
+        {
+            "name": "Lin passenger",
+            "back": "At the age of 18, I joined the Mafia. In the following years, I have been helping the mafia use the Siberian Land Bridge route to smuggle some prohibited goods, and have never been discovered. The boss of the mafia did not mistreat me, constantly replenishing my manpower.",
+            "r_q": [
+                {
+                    "q": "At 22:05, in the text message from Mr. Zhen, what time did he schedule a meeting with the Lin passenger? a. 22:00 b. 22:05 c. 22:10 d. 22:20",
+                    "ans": "c"
+                }
+            ],
+            "self": "Hello everyone, I am Lin, a passenger",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "At 22:05, in the text message from Mr. Zhen, what time did he schedule a meeting with the Lin passenger? a. 22:00 b. 22:05 c. 22:10 d. 22:20"
+            ],
+            "a": [
+                "c"
+            ]
+        },
+        {
+            "name": "White passenger",
+            "back": "I am Bai Xiaolong, call me Brother Long. The reason why I took this train is to be reunited! Hatred!",
+            "r_q": [
+                {
+                    "q": "Do you know that Jia Ge has changed his name to Zhen Haofu, and which train will he take? a. Train on January 19, 2017 at 22:00 b. Train on December 30, 2016 c. Train on January 18, 2017 d. Train on December 29, 2016",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Do you know that Jia Ge has changed his name to Zhen Haofu, and which train will he take? a. Train on January 19, 2017 at 22:00 b. Train on December 30, 2016 c. Train on January 18, 2017 d. Train on December 29, 2016"
+            ],
+            "a": [
+                "a"
+            ]
+        },
+        {
+            "name": "Dong Passenger",
+            "back": "Due to family reasons, I dropped out of school in my senior year of high school and became a delinquent. I am now 27 years old. How to relieve worries? Only sudden wealth! Making money is my lifelong dream, but I still have principles - it's better not to make dirty money!",
+            "r_q": [
+                {
+                    "q": "Did you learn from your brother's email which ruthless person on the train needs to be careful of? a. Zhen, wealthy businessman, b. Li, uncle, c. Lin, passenger, d. Dong, passenger",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Did you learn from your brother's email which ruthless person on the train needs to be careful of? a. Zhen, wealthy businessman, b. Li, uncle, c. Lin, passenger, d. Dong, passenger"
+            ],
+            "a": [
+                "b"
+            ]
+        },
+        {
+            "name": "Gull Crew",
+            "back": "He is a train attendant on the Siberian Railway, responsible for the catering and medical care of luxury carriages. People call me the flower of the Siberian Railway, saying that I am a melancholic yet beautiful scenery on this train.",
+            "r_q": [
+                {
+                    "q": "What did you inject into a bottle of beverage with a syringe at 23:20? a. Laxatives b. sleeping pills c. water d. poison",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What did you inject into a bottle of beverage with a syringe at 23:20? a. Laxatives b. sleeping pills c. water d. poison"
+            ],
+            "a": [
+                "b"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "What plan did Lin's passenger's mobile SMS record reveal? a. Travel plan b. Transportation of stolen diamonds c. Family gathering d. Business meeting",
+            "What does the letter found in passenger Lin's room imply? a. Invitation to participate in event b. Love letter c. Assassination plan d. Business cooperation",
+            "What special symbol was found in Lin's passenger's file bag? a. Trademark b. Russian Mafia logo c. Government agency logo d. School emblem",
+            "What information is recorded in Lin's passenger ledger? a. Family expenses b. Personal diary c. Cooperative clients d. Travel expenses",
+            "What is the relationship displayed in the text message on the deceased's phone? a. Friendship b. Family members c. Mafia cooperation d. Business competition",
+            "What did Lin find on passenger's sleeve? a. Stains b. bloodstains c. handwriting d. buttons",
+            "What did Dong's passenger's mobile phone recording reveal? a. The secrets of wealthy businessman Zhen b. Tourist scenery c. Family gatherings d. Educational courses",
+            "What are the fatal injuries shown in the autopsy report of the deceased? a. Back stab injury b. Head impact c. Chest and heart stab injury d. Abdominal stab injury",
+            "When was the approximate time of death of the deceased? a. 7am b. 2pm c. 11:45pm d. 1am",
+            "Which carriage did the deceased and passenger Dong live in? a. The deceased's 7th carriage, Dong passenger's 9th carriage b. The deceased's 9th carriage, Dong passenger's 7th carriage c. The deceased's 6th carriage, Dong passenger's 8th carriage d. Both the deceased and Dong passenger lived in the 7th carriage",
+            "Who is Uncle Li's true identity? a. Zhen, wealthy businessman, b. Lin, passenger, c. Dong, passenger, d. Sa, passenger",
+            "What is the attitude of wealthy businessman Zhen towards Uncle Li? a. I want to replace Uncle Li's position. b. I respect him very much. c. I completely ignore him. d. I want to establish a friendly relationship",
+            "How was the fatal injury of the deceased caused? a. Direct fatal injury caused by someone at 23:45 b. Knife injury caused by multiple people c. Accidental accident d. Natural death",
+            "What was the behavior of passenger Lin in the deceased's room? a. A knife was given to the deceased, but it is uncertain whether it was fatal. b. Only an interview was conducted. c. Certain items were stolen. d. Clues were left in the room",
+            "Why did Lin, the passenger, want to kill the wealthy businessman Zhen? a. Due to personal grudges, dissatisfaction with the wealthy businessman Zhen wanting to replace him, financial disputes, and misunderstandings",
+            "At 23:40, where are the Sa passenger and the Bai passenger? a. Passengers are in the 7th carriage, while white passengers are in the 9th carriage. b. Both passengers are in the 9th carriage. c. Passengers are in the 9th carriage, while white passengers are in the 7th carriage. d. Both passengers are not in the 9th carriage",
+            "Why can't Dong, the passenger, commit murder at 23:45? a. Because he is sleeping. b. Because he is not present. c. Due to medication effects, he is unable to move. d. Because he is meeting with others",
+            "Why can't a passenger kill someone at 23:45? a. There is an alibi. b. Due to medication reasons. c. Because he already has alibi evidence. d. Because he is doing other things",
+            "Why can't a white passenger go and kill someone at 23:45? a. Because he is in the ninth carriage b. because he is talking to someone c. because he has an alibi d. because he is resting",
+            "What happened to the white passenger at 23:40 in the evening? a. He is resting in the 7th carriage. B. He saw a passenger walking towards the 8th carriage. C. He met with a passenger in the dining car. D. He is doing evening exercise",
+            "Who did the seagull crew meet at 23:55? a. Lin and Dong passengers b. Bai and Sa passengers c. Zhen and Lin passengers d. Zhen and Dong passengers",
+            "What did Dong passenger do at 22:40 that caused him to feel uncomfortable later on? a. I ate ham sausage with laxatives, drank too much water, engaged in vigorous exercise, and was startled",
+            "What are the plans of the passengers at 23:40? a. Go to the 7th carriage to kill someone. b. Go to the 9th carriage to rest. c. Eat in the dining car. d. Wait in the lounge",
+            "What did the white passenger do at 23:30? a. I stole the seat chart of the seagull attendant and saw her enter the lounge. B. got into an argument with someone in the 7th carriage. C. had dinner in the dining car. D. rested in her own private room"
+        ],
+        "key_ans": [
+            "b",
+            "c",
+            "b",
+            "c",
+            "c",
+            "b",
+            "a",
+            "c",
+            "c",
+            "a",
+            "b",
+            "a",
+            "a",
+            "a",
+            "b",
+            "b",
+            "c",
+            "c",
+            "c",
+            "b",
+            "a",
+            "a",
+            "a",
+            "a"
+        ],
+        "key_sc": [
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "s-b-2",
+            "ou-p-k-2",
+            "b-p-2",
+            "s-p-2",
+            "b-1",
+            "ou-1",
+            "ou-1",
+            "s-1",
+            "b-2"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "How is the door of B2-1 locked? a. Can only be opened from the outside with a key b. Can only be manually locked from the inside c. Can be locked inside and outside with a key d. Cannot be locked",
+            "Why is the carpet inside the entrance of room B2-1 damp? a. Watering the room b. Water from the bathroom c. Cleaning work d. Rainwater leakage",
+            "What does the discovery of an empty gas cylinder in room B2-2 imply? a. Gas leakage b. Excessive use of gas c. Gas theft d. A fire has occurred in the room",
+            "What is the status of the wiring for the bathroom hair dryer? a. Intact b. Slightly worn c. Exposed wires with damage d. Completely broken",
+            "What are the items with ether found in the garbage bin on this floor? a. Bottles b. Jars c. Gloves d. Handkerchiefs",
+            "What else is stored next to the ether stored in the warehouse? a. Kaifeng gas cylinder b. Unopened gas cylinder c. Empty water bucket d. Chemical fertilizer",
+            "How is the handle of the room door designed? a. Fixed b. Rotating c. Coaxial movement with downward pressure d. Automatic induction",
+            "What is the purpose of the power socket on the corridor wall? a. Regular electricity usage b. Emergency use c. Decorative effect d. For cleaning purposes only",
+            "Why are there water stains on the floor tiles in the bathroom? a. Cleaning is not yet dry. b. The bathtub is leaking. c. The shower water splashes out. d. The pipeline is leaking",
+            "What is the status of the towels in the bathroom of room B2-2? a. Dry and neatly arranged. b. If it gets wet, throw it on the ground. c. If it gets wet, hang it up. d. If it gets dry, throw it on the ground",
+            "What caused most of the items in room B2-2 to be damaged? a. Flood b. Earthquake c. Fire d. Theft",
+            "What could be the possible reason why the bathroom in room B2-2 was not affected by the fire? a. Water prevented the spread of the fire. b. The bathroom door is tightly closed. c. There are no flammable substances. d. The automatic sprinkler system is activated",
+            "Why did the hair dryer fall to the ground? a. Placed by human intervention b. Dropped due to wire breakage c. Deformed bracket due to high temperature d. Unstable due to wire damage",
+            "What are the possible uses of unopened gas cylinders in the warehouse? a. Heating b. Cooking c. Power generation d. Waste",
+            "What is the decorative material for the door handles of the rooms in this building? a. Metal b. Plastic c. High grade leather d. Wood",
+            "What type of lock is inside the door? a. Automatic electronic lock b. Manual knob reverse lock c. Password lock d. Fingerprint lock",
+            "Is the deceased's phone waterproof? a. Yes, but limited to a water level of 30 centimeters. b. Yes, waterproof without restrictions. c. Not d. Yes, but limited to a water level of 50 centimeters",
+            "What is the item blocking the drain in the room? a. Plastic bag b. Wooden block c. High fiber sponge ball d. Stone",
+            "Where was the body found? a. On the bed b. In the water c. At the desk d. In the bathroom",
+            "What was found in the pocket of the corpse's clothes? a. Mobile phone and wallet b. Key to rooms B2-1 and B2-2 c. Map and guide d. Notebook and pen",
+            "What equipment can be operated in the control room? a. Elevator and safety door b. Ventilator and fire sprinkler c. Lighting and sound system d. Heating and air conditioning system",
+            "Is there any obvious external injury to the body? a. There are multiple external injuries. b. There is one external injury. c. There is no obvious external injury. d. Uncertain",
+            "Can the metal bookshelf in the room be easily moved? a. Can be easily moved b. Cannot be easily moved c. Already moved d. Not mentioned",
+            "What is the height of accumulated water in room B3-1? a. Reaching the ventilation opening b. No standing water c. Even the tallest person cannot reach the ventilation opening d. The standing water only covers the ground",
+            "What is the water spray volume setting for the room? a. Minimum b. Medium c. Maximum d. Closed",
+            "How is water treated after the drain is blocked? a. Continuing to accumulate water b. Discharging through other drainage outlets c. Drying the water d. Automatic water absorption"
+        ],
+        "key_ans": [
+            "c",
+            "b",
+            "d",
+            "c",
+            "d",
+            "b",
+            "c",
+            "b",
+            "c",
+            "c",
+            "c",
+            "a",
+            "d",
+            "b",
+            "c",
+            "b",
+            "a",
+            "c",
+            "b",
+            "b",
+            "b",
+            "c",
+            "b",
+            "c",
+            "c",
+            "c"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "Who is the room closest to the bathroom in the negative floor plan? a. Kurosawa b. Shadowsee c. Kirishima d. Kamiya",
+            "What type of wall is the middle wall in the negative floor plan? a. Soundproofing wall b. Decorative wall c. Load bearing wall d. Firewall",
+            "Who lives next to Kurosawa in the negative floor plan? a. Y ō mi and Kirishima b. Kirishima and Kamiya c. Kamiya and Kosano d. Kosano and Y ō mi",
+            "Who lives next to Shengu in the negative floor plan? a. Kurosawa and Kirishima b. Hidemi and Ono c. Kurosawa and Ono d. Kirishima and Hidemi",
+            "Who lives next to Ono in the negative floor plan? a. Kurosawa and Kirishima b. Kirishima and Kamiya c. Kamiya and Shadowsee d. Kurosawa and Shadowsee",
+            "How many rooms are occupied in the negative floor plan? a. 3 b. 4 c. 5 d. 6",
+            "In the negative floor plan, what places do I need to pass through to enter the medical room? a. B. Meeting room and lounge b. Distribution room and meeting room c. Storage room and meeting room d. Lounge and distribution room",
+            "Which room in the negative second floor plan has a bathroom? a. B2-1 b. B2-2 c. B2-3 d. B2-4",
+            "How many rooms starting with B are there in the negative second floor plan? a. 1 b. 2 c. 3 d. 4",
+            "What rooms are on both sides of B2-2 in the negative second floor plan? a. B2-1 and B2-3 b. B2-3 and central control room c. B2-1 and central control room d. Central control room and B2-4"
+        ],
+        "key_ans": [
+            "b",
+            "c",
+            "b",
+            "c",
+            "c",
+            "c",
+            "b",
+            "b",
+            "b",
+            "c"
+        ]
+    },
+    "ju_name": "wuye",
+    "task_nm": "The deceased was a wealthy businessman named Zhen",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Lin passenger",
+        "White passenger",
+        "Scattering passengers",
+        "Gull Crew"
+    ],
+    "murder": "Lin passenger",
+    "reason": "Motive for committing the crime:"
+}

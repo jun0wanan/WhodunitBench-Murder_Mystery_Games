@@ -1,0 +1,354 @@
+{
+    "key_clues_pool": {
+        "p": [
+            "The guest in room 8006 checked in a day or two ago, but I don't remember exactly which day it was. They came around one or two in the morning. At that time, I was on night shift alone and saw that person wearing a strange outfit, wearing a hat, sunglasses, and a black mask, dragging a large black box. It left a deep impression on me. Because it was a reservation call from someone who claimed to be our Miss Yan Jing, and everything was normal at the time, I didn't ask much. I thought the Miss was dating someone and didn't want to be recognized.",
+            "Shang Jian's belongings: There is an old photo in the wallet, showing a couple and a pair of underage children. The boy looks like a young Shang Jian.",
+            "Shang Jian's stuff: There is a high-end small microphone for mobile karaoke in the pocket.",
+            "The perpetrator of the Gretel case seems to have an adopted son or daughter who was in high school at the time. As for whether he was male or female, it is unclear whether Qiao Gu's body was dumped in room 8006",
+            "Shang Jian, the police responsible for investigating the pregnant woman incident in that year, participated in the arrest of the relevant fugitive party in the pregnant woman incident 6 years ago, and beat suspect Yu Xin to be seriously injured and complained about.",
+            "Room Traces - No clothing of the deceased was found, and the entire room was cleaned very clean, as if it had just been moved in, except for an additional naked body. No clues were found in the bathroom or wardrobe.",
+            "Qiao Gu's wife: That night, Qiao Gu received a short message and was so nervous that he took a taxi out. He hasn't come back until now. Although he is playful, he never stays out at night without saying a word. I'm worried that something might happen to him. Police officer, have you heard from him?"
+        ],
+        "2-step": [
+            "The perpetrator used Yan Jing's mobile phone to book a room. According to the hotel front desk statement, the booking call was made by a girl, and Shang Jian had a high-end microphone on his body, which was a mobile phone voice changer",
+            "Shang Jian was the orphan of that time",
+            "Qiao Gu's death is related to the 8006 rape and murder case",
+            "The murderer has the ability to obtain photos of the Chenzhen family, which are evidence related to the cliff falling case, while Shang Jian was originally in charge of the pregnant woman case and now works as a property manager in the evidence room",
+            "After receiving the text message, Qiao Gu went out and got into a taxi owned by Xu You, which was operated by Shang Jian. He was then subdued"
+        ],
+        "曾思纯": [
+            "You are Zeng Sichun, 33 years old. In high school, I was hospitalized due to illness and met a little girl who was taking care of my brother in the same ward. She also brings you food when your parents are busy, which makes you deeply grateful. However, she suddenly disappeared, and soon after, her brother hurriedly left the hospital. Asking someone, only to find out that she was unable to return due to an accident, the girl who had helped you disappeared from your life."
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            65
+        ]
+    },
+    "public_clue": "\n",
+    "key_clues_questions": [
+        {
+            "q": "Do Li William, Xia Yiyue, and Xia Tianjiao need to swipe their cards to enter and exit all rooms?",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What conditions are required to open the door from the outside?",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Which rooms do not have card swiping records?",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the function of inserting the door card into the card slot?",
+            "ans": "a. Make the room electrified and open the door from inside",
+            "source": "p-1"
+        },
+        {
+            "q": "Are there automatic beverage dispensers installed inside all rooms?",
+            "ans": "a. Yes, it is",
+            "source": "p-1"
+        },
+        {
+            "q": "What caused the nicotine residue found near the smoke alarm?",
+            "ans": "d. Activate the automatic beverage dispenser",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the mechanism of automatic door closing?",
+            "ans": "a. Pushing of physical pressure rod",
+            "source": "p-1"
+        },
+        {
+            "q": "What does the water stain found on the glass sculpture on the right side of Room 7 indicate?",
+            "ans": "c. The sculpture has water stains all over its body",
+            "source": "p-1"
+        },
+        {
+            "q": "Which room has a significant distance from the door to the corner?",
+            "ans": "b. Room 7",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the opening and closing method of the door?",
+            "ans": "b. Open the door inside",
+            "source": "p-1"
+        },
+        {
+            "q": "What are the characteristics of the door human body sensing system?",
+            "ans": "d. Can only perform live scanning",
+            "source": "p-1"
+        },
+        {
+            "q": "How long does it take for the door to automatically close?",
+            "ans": "a. 5 seconds",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the number of room cards in each room?",
+            "ans": "a. Only 1 sheet",
+            "source": "p-1"
+        },
+        {
+            "q": "Is the automatic door closing mechanism affected by electricity?",
+            "ans": "b. Not affected",
+            "source": "p-1"
+        },
+        {
+            "q": "How many times do you swipe your card to enter Room 4?",
+            "ans": "a. Only once",
+            "source": "p-1"
+        },
+        {
+            "q": "What are the conditions for starting the automatic beverage dispenser?",
+            "ans": "c. Smoke alarm",
+            "source": "p-1"
+        },
+        {
+            "q": "How many facial features can the door human body sensing system input?",
+            "ans": "c. Three people",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the special discovery outside Room 7?",
+            "ans": "d. The sculpture has water stains all over its body",
+            "source": "p-1"
+        },
+        {
+            "q": "What are the automatic devices in the west corridor?",
+            "ans": "b. Automatic liquor dispenser",
+            "source": "p-1"
+        },
+        {
+            "q": "What other functions does the sensing system include besides human body sensing?",
+            "ans": "b. Thermal sensing system",
+            "source": "p-1"
+        }
+    ],
+    "role": [
+        {
+            "name": "Chen Hao",
+            "back": "38 years old, male, military background, with many years of experience as a police officer, rich experience in handling cases and team management, and sensitive intuition in handling cases.",
+            "r_q": [
+                {
+                    "q": "What was the cause of Yu Xin's death? a. Wounds caused by blunt objects b. Death from suffocation c. Fracture d. Natural death",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What was the cause of Yu Xin's death? a. Wounds caused by blunt objects b. Death from suffocation c. Fracture d. Natural death"
+            ],
+            "a": [
+                "b"
+            ]
+        },
+        {
+            "name": "Wu Dongming",
+            "back": "Wu Dongming, 31 years old, male, graduated from a medical university with a dual degree in computer science. He has expertise in network security and can move freely in various advanced database systems.",
+            "r_q": [
+                {
+                    "q": "Why did Wu Dongming intentionally leave a \"hidden danger\" in Hu Mengjie's computer? a. In order to test Hu Mengjie's computer knowledge, b. I hope Hu Mengjie can rely on him to increase their contact opportunities. c. To test the newly developed software. d. He wants to become the best computer repair expert on campus",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Why did Wu Dongming intentionally leave a \"hidden danger\" in Hu Mengjie's computer? a. In order to test Hu Mengjie's computer knowledge, b. I hope Hu Mengjie can rely on him to increase their contact opportunities. c. To test the newly developed software. d. He wants to become the best computer repair expert on campus"
+            ],
+            "a": [
+                "b"
+            ]
+        },
+        {
+            "name": "Hu Mengyu",
+            "back": "Hu Mengyu, 28 years old, female, trace investigator, is one of the few female forensic examiners in the country and excels in school. Due to insufficient work experience and lack of practical experience, the police sent him to learn from Luo Ming. Your name is Hu Mengyu, and you have a twin sister named Hu Mengjie",
+            "r_q": [
+                {
+                    "q": "Why did Hu Mengyu suddenly decide not to see Wu Dongming again? a. Wu Dongming falls in love with someone else. B. Hu Mengyu feels that their personalities are incompatible. C. Hu Mengyu feels sad and guilty about her sister's sudden death. D. Wu Dongming decides to study abroad for further education",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Why did Hu Mengyu suddenly decide not to see Wu Dongming again? a. Wu Dongming falls in love with someone else. B. Hu Mengyu feels that their personalities are incompatible. C. Hu Mengyu feels sad and guilty about her sister's sudden death. D. Wu Dongming decides to study abroad for further education"
+            ],
+            "a": [
+                "c"
+            ]
+        },
+        {
+            "name": "fefe ",
+            "back": "He Feifei is 29 years old, female, with a PhD in psychology. She specializes in criminal psychology and criminal behavior, and is skilled in deep hypnosis. She is also the police flower of the entire police district. Once hypnotized a drug dealer within 3 minutes, asking him to reveal the place where the drugs were produced and hidden, as well as the key figures involved in the case. Young and promising.",
+            "r_q": [
+                {
+                    "q": "Why did He Feifei decide to reject the proposal of her British mentor and return to her home country? a. Because she couldn't tolerate the sexual harassment from her mentor. b. She wanted to return to a city with memories of Luo Ming. c. She didn't like the climate in the UK. d. She got better job opportunities",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Why did He Feifei decide to reject the proposal of her British mentor and return to her home country? a. Because she couldn't tolerate the sexual harassment from her mentor. b. She wanted to return to a city with memories of Luo Ming. c. She didn't like the climate in the UK. d. She got better job opportunities"
+            ],
+            "a": [
+                "b"
+            ]
+        },
+        {
+            "name": "Shang Jian",
+            "back": "Shang Jian is 34 years old, male, with a background in armed police. He is tall, skilled in combat, and has a strong hatred for evil. He was once the first brother of the action team.",
+            "r_q": [
+                {
+                    "q": "Why was Shang Jian ultimately transferred to the evidence room instead of continuing in the action team? a. He decided to change the working environment b. because he beat suspect in the investigation c. he voluntarily applied for transfer to avoid the pressure from the front d. because he got a higher position",
+                    "ans": "b"
+                }
+            ],
+            "self": "Hello everyone, I am Shang Jian",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "Why was Shang Jian ultimately transferred to the evidence room instead of continuing in the action team? a. He decided to change the working environment b. because he beat suspect in the investigation c. he voluntarily applied for transfer to avoid the pressure from the front d. because he got a higher position"
+            ],
+            "a": [
+                "b"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "Do Li William, Xia Yiyue, and Xia Tianjiao need to swipe their cards to enter and exit all rooms?",
+            "What conditions are required to open the door from the outside?",
+            "Which rooms do not have card swiping records?",
+            "What is the function of inserting the door card into the card slot?",
+            "Are there automatic beverage dispensers installed inside all rooms?",
+            "What caused the nicotine residue found near the smoke alarm?",
+            "What is the mechanism of automatic door closing?",
+            "What does the water stain found on the glass sculpture on the right side of Room 7 indicate?",
+            "Which room has a significant distance from the door to the corner?",
+            "What is the opening and closing method of the door?",
+            "What are the characteristics of the door human body sensing system?",
+            "How long does it take for the door to automatically close?",
+            "What is the number of room cards in each room?",
+            "Is the automatic door closing mechanism affected by electricity?",
+            "How many times do you swipe your card to enter Room 4?",
+            "What are the conditions for starting the automatic beverage dispenser?",
+            "How many facial features can the door human body sensing system input?",
+            "What is the special discovery outside Room 7?",
+            "What are the automatic devices in the west corridor?",
+            "What other functions does the sensing system include besides human body sensing?"
+        ],
+        "key_ans": [
+            "b",
+            "c",
+            "b",
+            "a. Make the room electrified and open the door from inside",
+            "a. Yes, it is",
+            "d. Activate the automatic beverage dispenser",
+            "a. Pushing of physical pressure rod",
+            "c. The sculpture has water stains all over its body",
+            "b. Room 7",
+            "b. Open the door inside",
+            "d. Can only perform live scanning",
+            "a. 5 seconds",
+            "a. Only 1 sheet",
+            "b. Not affected",
+            "a. Only once",
+            "c. Smoke alarm",
+            "c. Three people",
+            "d. The sculpture has water stains all over its body",
+            "b. Automatic liquor dispenser",
+            "b. Thermal sensing system"
+        ],
+        "key_sc": [
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "Did Qiao Gu's wife mention who her brother-in-law was when she called the police? a. Police captain b. Prosecutor c. Investigation team leader d. Lawyer",
+            "Based on the room traces, what is the level of the killer's anti surveillance ability described? a. Very poor b. average c. very strong d. uncertain",
+            "What tools did the perpetrator use during the scene cleanup? a. B. brought by oneself b. provided by the hotel c. found temporarily d. uncertain",
+            "Qiao Gu's wife mentioned what Qiao Gu received before going out at night? a. One document b. One text message c. One phone call d. One letter",
+            "Who did tenant 8006 claim to be when booking in the Gret case? a. Hotel Manager B. Miss C. Government Official D. Wealthy businessman",
+            "Who mentioned that the perpetrator of the Gret case may have strong anti surveillance capabilities? a. Front desk of Gretel Hotel b. Pregnant woman case investigation police c. Qiao Gu's wife d. Shang Jian",
+            "When did tenant 8006 check in in the Gret case? a. 3 or 4 pm b. 1 or 2 am c. 11 pm d. 7 or 8 pm",
+            "For what reason was the investigating police officer Shang Jian disciplined in the pregnant woman case? a. Assault incident b. Late for appointment c. Failure to complete task d. Negligence of duty",
+            "An old photo was found in Shangjian's wallet. Who is on it? a. Shang Jian's parents and siblings b. A couple and two underage children c. Victims of the pregnant woman case d. Suspects in the pregnant woman case",
+            "What kind of adopted son or daughter may the perpetrator of the Gret case have? a. B. studying in university b. studying in high school c. studying in junior high school d. studying in elementary school",
+            "Who mentioned that the perpetrator of the Gret case may have had an adopted son or daughter? a. Front desk of Gretel Hotel b. Pregnant woman case investigation police c. Qiao Gu's wife d. Shang Jian",
+            "What kind of item is in Shang Jian's wallet? a. Old mobile phone b. Music player c. Small microphone d. Electronic watch",
+            "In the Gret case, where did tenant 8006 register to check in? a. Temporary accommodation b. Hotel front desk c. Police station d. City square",
+            "In the Gret case, what kind of box did tenant 8006 carry when checking in? a. Red b. White c. Black d. Blue",
+            "When did tenant 8006 check in in the Gret case? a. 3 or 4 pm b. 1 or 2 am c. 11 pm d. 7 or 8 pm",
+            "What was guest 8006 wearing when the front desk of Gretel Hotel saw him? a. Hats, sunglasses, and black masks b. Hats, gloves, and necklaces c. Headbands, bracelets, and watches d. Earrings, necklaces, and watches",
+            "Who called to book room 8006? a. Yan Jing b. Yan Li c. Yan Xue d. Yan Xiu",
+            "Why didn't the front desk of Gretel Hotel ask for more information about guest 8006? a. Because they are too busy. B. Because the tenant expressed unwillingness to provide more information. C. Because they believe it was a call from the young lady. D. Because they don't want to disturb the tenant",
+            "What kind of photo is there in Shangjian Wallet? a. Photos of Shang Jian when he was a child b. Photos of his family c. Photos of a couple and two underage children d. Photos of his school",
+            "Who mentioned that Qiao Gu's wife is worried that something might happen to Qiao Gu? a. Front desk of Gretel Hotel b. Pregnant woman case investigation police c. Qiao Gu's wife d. Shang Jian"
+        ],
+        "key_ans": [
+            "a",
+            "c",
+            "a",
+            "b",
+            "b",
+            "c",
+            "b",
+            "a",
+            "b",
+            "b",
+            "c",
+            "c",
+            "b",
+            "c",
+            "b",
+            "a",
+            "a",
+            "c",
+            "c",
+            "c"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "What did you find in the room? a. The deceased's clothing b. A naked body c. Restroom d. Wardrobe",
+            "Why didn't you find any clues in the room? a. The room has been cleaned too much. B. The room has been demolished. C. The room has been soaked in water. D. The room cannot be entered"
+        ],
+        "key_ans": [
+            "b",
+            "a"
+        ]
+    },
+    "ju_name": "BAIRIGU2",
+    "task_nm": "The deceased is Qiao Gu",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Zeng Sichun",
+        "pioneering spirit"
+    ],
+    "murder": "Shang Jian",
+    "reason": "Motive for committing the crime:"
+}

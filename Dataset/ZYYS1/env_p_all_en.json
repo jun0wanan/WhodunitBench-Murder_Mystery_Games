@@ -1,0 +1,340 @@
+{
+    "key_clues_pool": {
+        "1-step": [
+            "Since everyone stayed in the bar together after 19:20, no one left, and the time of death of the deceased, Ilya, was at 19:30 in a clothing store.",
+            "The job of the landlady is specific. As long as someone delivers a list to the mailbox at the doorstep, the landlady will automatically start cutting the fabric",
+            "The weapon is a bow, arrow, harpoon"
+        ],
+        "2-step": [
+            "If everyone has an alibi for the crime, then the modus operandi can basically be locked into setting a delay device."
+        ],
+        "3-step": [
+            "Setting up this delay device requires prior knowledge that Ms. Yee is going to the clothing store."
+        ],
+        "4-step": [
+            "The murderer went to the dock to retrieve the murder weapon and harpoon, and also knew in advance that the deceased, Il, was going to the clothing store."
+        ],
+        "伊丽莎白": [
+            "Elizabeth was the last to arrive at the bar, around 7:20, and by the time she arrived, everyone was already at the bar.",
+            "Elizabeth also mentioned in her book that she went to the dock and saw bows, arrows, harpoons",
+            "The dock Elizabeth saw was dirty and dilapidated."
+        ],
+        "杰斯": [
+            "Jess mentioned in his book that he had been to the dock and saw bows, arrows, harpoons"
+        ],
+        "诺里": [
+            "Nori saw that Jess's hands were dirty."
+        ]
+    },
+    "role-q": {},
+    "public_clue": "(1) The deceased told Charles, Jess, and Nori about her actions at night.",
+    "key_clues_questions": [
+        {
+            "q": "At what time was the deceased Il killed? a. 19:20 b. 19:30 c. 20:00 d. 20:30",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Where were the others at the time of Eil's murder? a. Bar b. Clothing store c. Home d. On the street",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Under what circumstances will the boss's wife start cutting fabrics? a. Customers come to the store to purchase fabrics. b. Someone is shouting outside the store. c. Someone delivers the list to the mailbox at the door. d. Received a phone order",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the murder weapon? a. Bow and arrow knife b. Bow and arrow gun c. Bow and arrow harpoon d. Poison",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "If everyone has an alibi at the time of the crime, what is the likely modus operandi? a. Hands on b. Delay device c. Remote control d. Hiring others",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "What are the prerequisites for achieving the modus operandi? a. Know Ms. Iyer's itinerary b. Know that Ms. Iyer is at the bar c. No need to know Ms. Iyer's itinerary d. Ms. Iyer is leaving the bar",
+            "ans": "a",
+            "source": "p-3"
+        },
+        {
+            "q": "Why was the murderer able to successfully execute the modus operandi? a. Knowing that Ms. Yi Er will go to the dock b. Knowing that Ms. Yi Er is going to the clothing store c. Ms. Yi Er's time to go to the dock is random d. The killer does not know Ms. Yi Er's itinerary",
+            "ans": "b",
+            "source": "p-4"
+        },
+        {
+            "q": "When will Elizabeth arrive at the bar? a. 19:00 b. 19:20 c. 19:10  d. 19:30",
+            "ans": "b",
+            "source": "y"
+        },
+        {
+            "q": "Where did Elizabeth see the murder weapon? a. Clothing store b. Bar c. Pier d. Market",
+            "ans": "c",
+            "source": "y"
+        },
+        {
+            "q": "How did Elizabeth describe the condition of the dock? a. Dirty and dilapidated b. Old but well maintained c. Newly built and clean d. Temporary and unstable construction",
+            "ans": "a",
+            "source": "y"
+        },
+        {
+            "q": "Where did Jess see the bow, arrow, and harpoon? a. Clothing store b. Bar c. Market d. Pier",
+            "ans": "d",
+            "source": "j"
+        },
+        {
+            "q": "Which feature did Nori notice about Jess? a. Jess is dressed formally. b. Jess has dirty hands. c. Jess has messy hair. d. Jess is dressed casually",
+            "ans": "b",
+            "source": "n"
+        }
+    ],
+    "role": [
+        {
+            "name": "Emma",
+            "back": "Think carefully about what happened afterwards, such as how did you get to this small town? What is the reason for your visit? You can't even recall these. You only remember living in a dormitory in this small town called Lorraine, which was a room in the corner. Across the door was a man wearing a crow mask named Charles, as well as Jess, Il, Nori, and Elizabeth, all of whom seemed to have no memories. You know that only by not being discovered and restoring your past memories can you ensure your safety. If someone else recovers their memory, they should also be able to think about it, because in the eyes of others, the person who recovers their memory is the one who has been contaminated, that is, the one who will be purified by the yellow hat.",
+            "r_q": [
+                {
+                    "q": "Who handed a book to Jess in the bar? a. Emma B. Charles C. Elizabeth D. Norris",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Who handed a book to Jess in the bar? a. Emma B. Charles C. Elizabeth D. Norris"
+            ],
+            "a": [
+                "c"
+            ]
+        },
+        {
+            "name": "Charles",
+            "back": "The whistle sounded again, and in order to avoid suspicion, you decided to pretend like you had no memory and go to work as usual. You are the first person to wake up, perhaps in order not to affect others, you lived in the corner room, and the person living across from you is the police officer mentioned in the news, Emma. She is probably not from the small town and I don't know why she came here. Poor her, she's still in the dark.",
+            "r_q": [
+                {
+                    "q": "Who mentioned that an old man with a white beard came to the bar? a. Emma B. Charles C. Norris D. Jess",
+                    "ans": "d"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Who mentioned that an old man with a white beard came to the bar? a. Emma B. Charles C. Norris D. Jess"
+            ],
+            "a": [
+                "d"
+            ]
+        },
+        {
+            "name": "Jess",
+            "back": "As the whistle rings, you know a new day has begun, and now you have regained your own memories.",
+            "r_q": [
+                {
+                    "q": "What did you find in Il's bag? a. A slender pencil sharpener b. A fruit knife c. A handgun d. A map",
+                    "ans": "a"
+                }
+            ],
+            "self": "Hello everyone, I am Jess",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "What did you find in Il's bag? a. A slender pencil sharpener b. A fruit knife c. A handgun d. A map"
+            ],
+            "a": [
+                "a"
+            ]
+        },
+        {
+            "name": "Norrie",
+            "back": "Time: unknown",
+            "r_q": [
+                {
+                    "q": "What did you find in the grass hut on the farm? a. Billy lying on the ground b. Billy lying on the bed c. Billy disappeared d. Billy on the floor",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What did you find in the grass hut on the farm? a. Billy lying on the ground b. Billy lying on the bed c. Billy disappeared d. Billy on the floor"
+            ],
+            "a": [
+                "b"
+            ]
+        },
+        {
+            "name": "Elizabeth",
+            "back": "The whistle sounded again, and in order to avoid suspicion, you decided to pretend like you had no memory and go to work as usual. Opening the door, you still warmly greeted Ms. Yi Er. So she shouldn't be a resident of the small town, poor person. You can't tell her the truth yet.",
+            "r_q": [
+                {
+                    "q": "What is the lady wearing on her chest? a. Knife b. Harpoon c. Spear d. Sword",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is the lady wearing on her chest? a. Knife b. Harpoon c. Spear d. Sword"
+            ],
+            "a": [
+                "b"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "At what time was the deceased Il killed? a. 19:20 b. 19:30 c. 20:00 d. 20:30",
+            "Where were the others at the time of Eil's murder? a. Bar b. Clothing store c. Home d. On the street",
+            "Under what circumstances will the boss's wife start cutting fabrics? a. Customers come to the store to purchase fabrics. b. Someone is shouting outside the store. c. Someone delivers the list to the mailbox at the door. d. Received a phone order",
+            "What is the murder weapon? a. Bow and arrow knife b. Bow and arrow gun c. Bow and arrow harpoon d. Poison",
+            "If everyone has an alibi at the time of the crime, what is the likely modus operandi? a. Hands on b. Delay device c. Remote control d. Hiring others",
+            "What are the prerequisites for achieving the modus operandi? a. Know Ms. Iyer's itinerary b. Know that Ms. Iyer is at the bar c. No need to know Ms. Iyer's itinerary d. Ms. Iyer is leaving the bar",
+            "Why was the murderer able to successfully execute the modus operandi? a. Knowing that Ms. Yi Er will go to the dock b. Knowing that Ms. Yi Er is going to the clothing store c. Ms. Yi Er's time to go to the dock is random d. The killer does not know Ms. Yi Er's itinerary",
+            "When will Elizabeth arrive at the bar? a. 19:00 b. 19:20 c. 19:10  d. 19:30",
+            "Where did Elizabeth see the murder weapon? a. Clothing store b. Bar c. Pier d. Market",
+            "How did Elizabeth describe the condition of the dock? a. Dirty and dilapidated b. Old but well maintained c. Newly built and clean d. Temporary and unstable construction",
+            "Where did Jess see the bow, arrow, and harpoon? a. Clothing store b. Bar c. Market d. Pier",
+            "Which feature did Nori notice about Jess? a. Jess is dressed formally. b. Jess has dirty hands. c. Jess has messy hair. d. Jess is dressed casually"
+        ],
+        "key_ans": [
+            "b",
+            "a",
+            "c",
+            "c",
+            "b",
+            "a",
+            "b",
+            "b",
+            "c",
+            "a",
+            "d",
+            "b"
+        ],
+        "key_sc": [
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-3",
+            "p-4",
+            "y",
+            "y",
+            "y",
+            "j",
+            "n"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "What did you deliver to the old mailbox of the clothing store? a. A love letter b. A complaint letter c. A coupon d. A demand form",
+            "What did the clothing store owner do after you submitted the demand form? a. Start cutting the fabric directly. b. Come out to greet you. c. Close the store. d. Continue sleeping",
+            "How can the owner of a clothing store describe the state when cutting fabric? a. Casual and distracted b. Nervous and flustered c. Focused and automated d. Slow and cautious",
+            "What did the clothing store owner do after cutting the fabric? a. Continue cutting other fabrics. b. Return to the table and lie down to rest. c. Start sewing clothes. d. Leave the store",
+            "When will you arrive at the dock? a. 1am b. 2am c. 3am d. 4am",
+            "What color uniform is the police officer wearing behind you? a. Red b. Blue c. Green d. Black",
+            "What is the facial expression of a police officer? a. Kind and amiable b. expressionless c. grotesque d. smiling",
+            "What animal does a police officer's mouth resemble when it opens? a. Lion b. Crocodile c. Dog d. Octopus",
+            "What was your reaction when the police rushed over? a. Escape b. Shout c. Stand still d. Counterattack",
+            "What happened to you in the end? a. You were arrested. b. You lost consciousness. c. You escaped. d. You successfully counterattacked",
+            "What type of vessel did you dock at the dock you arrived at? a. Fishing boat b. Cargo ship c. Luxury cruise ship d. Rubber boat",
+            "What is the condition of the anchor head at the dock? a. Rusted b. Broken c. Brand new d. Missing",
+            "What are the workers doing? a. Clean deck b. Repair deck c. Transport goods d. Fishing",
+            "What kind of item is mentioned in the notice? a. Old style firearms b. Old style knives c. Old style bows, arrows, harpoons d. Old style shields",
+            "What is prohibited by the warning notice? a. B. Taking photos b. Fishing c. Using old-fashioned bows, arrows, and harpoons d. Noise",
+            "What is the reason for the yellow hat warning in the notice? a. Environmental issues b. Property issues c. Safety issues d. Noise issues",
+            "According to the note, when is it not allowed to leave the town? a. When the dock and station are under maintenance b. When the dock and station are open c. When the weather is bad d. At any time",
+            "According to the note, when can I leave the town? a. When the dock and station are under maintenance b. When the dock and station are open c. When the weather is clear d. Not available at any time",
+            "According to the note, what mode of transportation can I use to leave the town? a. Cars and motorcycles b. Planes and helicopters c. Transport ships and trains d. Bicycles and trams",
+            "How was the victim's injury caused? a. Falling leads to head injury b. being hit by a car c. being penetrated by a sharp object in the chest d. being infected with a virus",
+            "What was the weapon that caused the victim's injury? a. Knife b. Gun c. Old style harpoon d. Stick",
+            "What was the victim's state when they were discovered? a. Safe and unharmed b. Minor injury c. life-threatening d. Already dead",
+            "Where was the location where the murder weapon was found? a. On the ground b. On the victim c. In the hands of the perpetrator d. At the police station"
+        ],
+        "key_ans": [
+            "d",
+            "a",
+            "c",
+            "b",
+            "c",
+            "b",
+            "c",
+            "d",
+            "c",
+            "b",
+            "c",
+            "c",
+            "b",
+            "c",
+            "c",
+            "c",
+            "a",
+            "b",
+            "c",
+            "c",
+            "c",
+            "c",
+            "b"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "What are the streets along the map with clothing stores, theaters, banks, libraries, churches, and banks? a. Huaguang Street b. Shezheng Street c. Huanle Street d. Guangming Street",
+            "What is around the police station? a. Library, bar, bank b. Restaurant, bank, dock, bar, and theater c. Bar, mall, theater d. Theater, bank, church",
+            "What's near the wasteland? a. Shopping mall and theater b. Farm and dormitory c. Library and bar d. Church and clothing store",
+            "What is near the dock? a. Banks and libraries b. Restaurants and theaters c. Police stations, bars and restaurants d. Shopping malls and churches",
+            "Where is the train station located? a. Theater and library b. Bank and shopping mall c. Bar and clothing store d. Church and restaurant",
+            "What is the building that separates the library from Shezheng Street? a. Bank b. Clothing store c. Church d. Restaurant",
+            "What is the building that separates the library from Bicester Street? a. Bank b. Clothing store c. Church d. Restaurant",
+            "Which room is opposite 205 on the dormitory floor plan? a. 204 b. 207 c. 203 d. 201",
+            "Which room is opposite 206 on the dormitory floor plan? a. 204 b. 203 c. 207 d. 202",
+            "Which room is opposite 201 on the dormitory floor plan? a. 204 b. 203 c. 207 d. 202",
+            "What is the opposite of 202 in the dormitory floor plan? a. 201 b. Stairs c. 207 d. 203",
+            "Which room is on either side of 206 in the dormitory floor plan? a. 204 and 207 b. 205 and 203 c. 201 and 204 d. 203 and 207",
+            "Which room is on either side of 203 in the dormitory floor plan? a. 206 and 202 b. 207 and 205 c. 204 and 201 d. 205 and 201",
+            "What is located near the front desk in the dormitory floor plan? a. Staircase and utility room b. 203 and 204 c. 201 and 202 d. Restaurant and library",
+            "What is near the stable in the bar floor plan? a. Front door b. Rear door c. Toilet d. Wine cabinet",
+            "How many tables are there in the lobby on the bar floor plan? a. 3 b. 4 c. 5 d. 6",
+            "In the bar floor plan, what room does the stable lean against? a. Lounge b. Kitchen c. Toilet d. Office",
+            "How many model models are there in the floor plan of the clothing store? a. 4 b. 5 c. 6 d. 7",
+            "What is in the middle of the model in the floor plan of the clothing store? a. Counter b. Paint c. Nail box d. Scissors",
+            "What is in the middle of the clothing store floor plan? a. Paint b. Workbench c. Weaving Machine d. Wardrobe",
+            "What are the items near the wardrobe in the floor plan of the clothing store? a. Iron nail box b. Paint c. Workbench d. Weaving machine",
+            "What is in the bottom left corner of the clothing store floor plan? a. Weaving machine b. Workbench c. Paint d. Wardrobe",
+            "What is near the paint on the floor plan of the clothing store? a. Nail box b. Wardrobe c. Workbench d. Model model"
+        ],
+        "key_ans": [
+            "b",
+            "b",
+            "b",
+            "c",
+            "c",
+            "b",
+            "c",
+            "b",
+            "b",
+            "a",
+            "b",
+            "a",
+            "d",
+            "a",
+            "b",
+            "b",
+            "b",
+            "c",
+            "c",
+            "b",
+            "d",
+            "c",
+            "c"
+        ]
+    },
+    "ju_name": "ZYYS1",
+    "task_nm": "The deceased is Il",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Elizabeth",
+        "Jess",
+        "Norrie"
+    ],
+    "murder": "Jess",
+    "reason": "Motive for committing the crime:"
+}

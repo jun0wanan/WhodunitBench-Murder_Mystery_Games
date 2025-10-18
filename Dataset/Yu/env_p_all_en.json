@@ -1,0 +1,797 @@
+{
+    "key_clues_pool": {
+        "1-step": [
+            "The notarized certificate and suicide note were both forged by the murderer",
+            "The person who sent the invitation message to everyone is not Li Jin, and he has already been controlled",
+            "The murderer wants to kill both Li Jin and Zhao Fang.",
+            "Killing Li Jin was due to his mistake committed in 1982, and killing Zhao Fang was due to her identity as a murderer.",
+            "Zhao Fang was controlled in the study of Room 1 at 8 o'clock.",
+            "Wang Jingyun witnessed Wang Jingming walking towards her from Zhao Fang's room in the morning",
+            "The man wearing a headscarf has been the same person since 1979",
+            "Li Jin was in D city 85 years ago and only came to T city 85 years later",
+            "The transaction on October 5th, 2006, Li Jin did not have the time to commit the crime",
+            "Li Jin is the father of the child, and Qian Xiaoqin is the mother of the child.",
+            "Li Jin's feelings towards Zhao Fang changed in 2002",
+            "The man wearing a headscarf kidnapped a 3-year-old child this time, and the risk is extremely high",
+            "Wang Jinrong once gave Zhao Fang a chance and will never forgive her again",
+            "Retribution refers to Zhao Fang's inability to conceive",
+            "Wang Jinrong came out because the man in his head committed another crime",
+            "Zhao Fang left a fake beard in her backpack",
+            "Wang Jingyun has type B blood",
+            "Description of Wang Jingyun as the only single eyelid child in the family",
+            "Liu Guoquan has transfused blood to Jin Shaohua",
+            "Liu Guoquan and his wife Qin Ling have both given blood transfusions to Wang Zhibin",
+            "Li Jin is not the estate owner or he has already been controlled by the murderer",
+            "The suicide note could not have been printed after Li Jin killed Zhao Fang"
+        ],
+        "2-step": [
+            "The perpetrator is the same person.",
+            "In 1982, except for Wang Jingyuan, the deaths of the other four biological parents were all related to Zhao Fang or Li Jin.",
+            "Wang Jinghuan and Wang Jingyun were ruled out as the culprits because they did not leave the dining table throughout the entire process",
+            "Wang Jingming does not have the possibility of hiding in Li Jin's room in advance.",
+            "Qian Xiaoqin and Li Jin have been secretly dating for 4 years",
+            "The man wearing a headscarf has a special purpose for the abduction of a 3-year-old child.",
+            "Liu Guoquan and Jin Shaohua have the same Rh positive blood type system",
+            "Qin Ling and Wang Zhibin are also Rh positive",
+            "The person who invited everyone and has been communicating with the butler is not Li Jin, Wang Jingtian, but type A blood",
+            "Wang Jingyuan has blood type 0.",
+            "Wang Jingming has type B blood",
+            "Red green blind and Wang Jinghuan's parents are Song Qiang and Liu Juan",
+            "Li Peng and Xu Huilan are husband and wife, and both have single eyelids. Wang Jingyun's parents are Li Peng and Xu Huilan."
+        ],
+        "3-step": [
+            "Zhao Fang and Li Jin never met for seven years from 1978 to 1985.",
+            "Zhao Fang is a man wearing a headscarf",
+            "Jin Shaohua has blood type 0 or B, and he is Rh positive in the same blood type system as the five siblings.",
+            "Song Qiang and Liu Juan are husband and wife, and Liu Juan suffers from red green infertility.",
+            "Liu Guoquan has blood type B",
+            "The relationship between the two has broken down, and the content of the suicide note will not include words like 'I will die with each other'."
+        ],
+        "4-step": [
+            "Wang Jinrong was killed by Zhao Fang",
+            "Wang Zhibin has AB blood type",
+            "Li Jin and Zhao Fang cannot have killed each other",
+            "Li Jin did not commit suicide",
+            "Zhao Fang did not commit suicide"
+        ],
+        "5-step": [
+            "Wang Jingtian and Wang Jingming are the children of Wang Zhibin and Zhang Min",
+            "Wang Jingyuan's name is Liu Yong, and she is the child of Liu Guoquan and Qin Ling"
+        ],
+        "王景天": [
+            "There is no Rh negative blood among the 5 siblings",
+            "Wang Jingyuan can barely give Wang Jingyun a blood transfusion",
+            "Wang Jingming and Wang Jingyun have the most matching blood types",
+            "Uncle Jin, who owns a carved dragon pocket watch, and Wang Jingming both transfused blood to Wang Jingyun."
+        ],
+        "王景媛": [
+            "There is no Rh negative blood among the 5 siblings",
+            "Wang Jingtian and Wang Jingyi cannot exchange blood with each other",
+            "Wang Jingming and Wang Jingyun have the most matching blood types",
+            "Uncle Jin, who owns a carved dragon pocket watch, and Wang Jingming both transfused blood to Wang Jingyun."
+        ],
+        "王景明": [
+            "There is no Rh negative blood among the 5 siblings",
+            "Wang Jingtian and Wang Jingyun cannot exchange blood transfusions with each other",
+            "Wang Jingyuan can barely give Wang Jingyun a blood transfusion",
+            "The police officer who transfused Wang Jingyun with Wang Jingming.",
+            "Zhang Min's blood type is type 0"
+        ],
+        "王景桓": [
+            "The police officer who transfused Wang Jingyun with Wang Jingming.",
+            "The police officer who transfused Wang Jingyun with Wang Jingming is named Jin Shaohua"
+        ],
+        "王景芸": [
+            "Zhang Min's blood type is type 0"
+        ]
+    },
+    "role-q": {},
+    "public_clue": "\n",
+    "key_clues_questions": [
+        {
+            "q": "What is Zhang Min's blood type? a. Type A b. Type B c. Type AB d. Type O",
+            "ans": "d",
+            "source": "jy"
+        },
+        {
+            "q": "What is the profession of the person who transfused blood to Wang Jingyun with Wang Jingming? a. Doctor b. Police c. Lawyer d. Teacher",
+            "ans": "b",
+            "source": "h"
+        },
+        {
+            "q": "What is the name of the police officer who transfused Wang Jingyun with Wang Jingming? a. Li Jin b. Wang Zhibin c. Jin Shaohua d. Song Qiang",
+            "ans": "c",
+            "source": "h"
+        },
+        {
+            "q": "Which of the 5 siblings has Rh negative blood type? a. Wang Jingtian b. Wang Jingming c. Wang Jingyuan d. No one is Rh negative",
+            "ans": "d",
+            "source": "m"
+        },
+        {
+            "q": "Can Wang Jingtian and Wang Jingyun exchange blood? a. Completely possible b. barely possible c. completely impossible d. insufficient information to determine",
+            "ans": "c",
+            "source": "m"
+        },
+        {
+            "q": "Can Wang Jingyuan give Wang Jingyun a blood transfusion? a. Completely possible b. barely possible c. completely impossible d. insufficient information to determine",
+            "ans": "b",
+            "source": "m"
+        },
+        {
+            "q": "What is the profession of the person who transfused blood to Wang Jingyun with Wang Jingming? a. Doctor b. Police c. Lawyer d. Teacher",
+            "ans": "b",
+            "source": "m"
+        },
+        {
+            "q": "What is Zhang Min's blood type? a. Type A b. Type B c. Type AB d. Type O",
+            "ans": "d",
+            "source": "m"
+        },
+        {
+            "q": "Which of the 5 siblings has Rh negative blood type? a. Wang Jingtian b. Wang Jingming c. Wang Jingyuan d. No one is Rh negative",
+            "ans": "d",
+            "source": "y"
+        },
+        {
+            "q": "Can Wang Jingtian and Wang Jingyi exchange blood? a. Completely possible b. barely possible c. completely impossible d. insufficient information to determine",
+            "ans": "c",
+            "source": "y"
+        },
+        {
+            "q": "Which two people have the most matching blood types and are suitable for mutual blood transfusion? a. Wang Jingming and Wang Jingyun b. Wang Jingyuan and Wang Jingtian c. Wang Jingming and Wang Jingyuan d. Wang Zhibin and Zhang Min",
+            "ans": "a",
+            "source": "y"
+        },
+        {
+            "q": "Who, along with Uncle Jin who owns the engraved dragon pocket watch, transfused blood to Wang Jingyun? a. Wang Jingming b. Wang Jingyuan c. Wang Zhibin d. Li Jin",
+            "ans": "a",
+            "source": "y"
+        },
+        {
+            "q": "Does the blood type among the 5 siblings include Rh negative? a. Yes b. No c. Insufficient information to determine d. Partial yes",
+            "ans": "b",
+            "source": "t"
+        },
+        {
+            "q": "Can Wang Jingyuan give Wang Jingyun a blood transfusion? a. Completely possible b. barely possible c. completely impossible d. insufficient information to determine",
+            "ans": "b",
+            "source": "t"
+        },
+        {
+            "q": "Which two people have the most compatible blood types? a. Wang Jingming and Wang Jingyun b. Wang Jingyuan and Wang Jingtian c. Wang Jingming and Wang Jingyuan d. Wang Zhibin and Zhang Min",
+            "ans": "a",
+            "source": "t"
+        },
+        {
+            "q": "Who did Uncle Jin, who owns the engraved dragon pocket watch, and others give Wang Jingyun blood together? a. Wang Jingming b. Wang Jingyuan c. Wang Zhibin d. Li Jin",
+            "ans": "a",
+            "source": "t"
+        },
+        {
+            "q": "Who are Wang Jingtian and Wang Jingming's children? a. Li Jin and Qian Xiaoqin b. Wang Zhibin and Zhang Min c. Song Qiang and Liu Juan d. Jin Shaohua and Wang Jinrong",
+            "ans": "b",
+            "source": "p-5"
+        },
+        {
+            "q": "What is Wang Jingyuan's real name and whose child is she? a. Liu Yong is the child of Liu Guoquan and Qin Ling. b. Wang Jun is the child of Wang Zhibin and Zhang Min. c. Li Ming is the child of Li Jin and Qian Xiaoqin. d. Zhao Qiang is the child of Zhao Fang and Li Jin",
+            "ans": "a",
+            "source": "p-5"
+        },
+        {
+            "q": "Who killed Wang Jinrong? a. Li Jin b. Wang Jingming c. Zhao Fang d. Men wearing headscarves",
+            "ans": "c",
+            "source": "p-4"
+        },
+        {
+            "q": "What is Wang Zhibin's blood type? a. Type A b. Type B c. Type AB d. Type O",
+            "ans": "c",
+            "source": "p-4"
+        },
+        {
+            "q": "What were the causes of death for Li Jin and Zhao Fang? a. Mutual killing b. simultaneous suicide c. both killed d. neither committed suicide",
+            "ans": "d",
+            "source": "p-4"
+        },
+        {
+            "q": "What was the cause of death for Li Jin? a. Suicide b. being killed c. accidents d. illness",
+            "ans": "b",
+            "source": "p-4"
+        },
+        {
+            "q": "What was the cause of Zhao Fang's death? a. Suicide b. being killed c. accidents d. illness",
+            "ans": "b",
+            "source": "p-4"
+        },
+        {
+            "q": "Who forged the notarized certificate and suicide note? a. Li Jin b. Zhao Fang c. Murderer d. Wang Jingyun",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Why was Li Jin killed? a. Mistakes in 1982 b. He is the father of the child c. He committed the crime in a transaction in 2006 d. His relationship with Zhao Fang changed in 2002",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Why was Zhao Fang wanted to be killed by the murderer? a. She is the murderer. B. She has given opportunities before. C. Her identity is a murderer. D. She is unable to conceive",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Where is Zhao Fang being controlled? a. Room 1 study b. Room 2 bathroom c. Room 3 tenant hall d. Room 4 bedroom",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Which city did Li Jin live in until 1985? a. T city b. D city c. S city d. C city",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Did Li Jin commit the crime on October 5th, 2006? a. Yes b. No c. Uncertain d. Insufficient information to determine",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Since which year has the man wearing a headscarf been the same person? a. 1979 b. 1982 c. 1985 d. 2002",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Why did Wang Jinrong leave home? a. The man wearing a headscarf commits another crime. b. Zhao Fang cannot have children. c. Give Zhao Fang a chance. d. Li Jin's emotional changes",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What did Zhao Fang put in her backpack? a. Real money b. Fake beard c. Real beard d. Fake money",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What is Wang Jingyun's blood type? a. Type A b. Type B c. Type AB d. Type O",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the relationship between Li Jin and Qian Xiaoqin? a. Partners b. Neighbors c. Parents of children d. Relatives",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Who did Liu Guoquan give blood to? a. Wang Zhibin b. Jin Shaohua c. Wang Jinrong d. Wang Jingyun",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "In which year did Li Jin's feelings towards Zhao Fang change? a. 2000 b. 2002 c. 2004 d. 2006",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Which physical characteristic of Wang Jingyun is different from her family? a. Blood type b. Eyes c. Hair color d. Height",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the possibility of Li Jin being controlled? a. Completely uncontrolled. b. He is the estate owner. c. He has already been controlled by the killer. d. Insufficient information to determine",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Why may Zhao Fang not be forgiven by Wang Jinrong again? a. Controlled b. Headscarf man commits crime again c. Gave a chance, but won't forgive if it happens again d. Took a vacation with beard in backpack",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What does retribution refer to? a. Zhao Fang is unable to conceive. b. Li Jin's fault. c. Zhao Fang's identity was discovered. d. Li Jin did not commit the crime at any time",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Why did Wang Jinrong go out? a. Due to Zhao Fang's inability to conceive, b. Due to the man wearing a headscarf committing another crime, c. Due to Li Jin being controlled, d. Due to the forgery of a suicide note",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Who is the target of the headscarf man's abduction this time? a. Zhao Fang b. A 3-year-old child c. Li Jin d. Qian Xiaoqin",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What did Wang Jingyun see in the morning? a. Li Jin walked from Zhao Fang's room. B. Wang Jingming walked from Zhao Fang's room. C. Zhao Fang walked from Li Jin's room. D. A man with a headscarf walked from the study",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "In 1982, besides who, the deaths of the other four biological parents were all related to Zhao Fang or Li Jin? a. Wang Jingyun b. Wang Jingming c. Wang Jingyuan d. Wang Jinghuan",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "Why were Wang Jinghuan and Wang Jingyun excluded as the culprits? a. Because they never left the dining table throughout the entire process. b. Because they fainted during the crime. c. Because they had no intention of killing the deceased. d. Because they were abroad at the time",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "Why couldn't Wang Jingming hide in Li Jin's room in advance? a. He fainted due to physical discomfort. b. He didn't have a chance. c. He wasn't at home at the time. d. He was monitored by someone else and was not found in the room",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "How many years have Qian Xiaoqin and Li Jin been secretly dating? a. 2 years b. 3 years c. 4 years d. 5 years",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "What special purpose does the man wearing a headscarf have for the abduction of a 3-year-old child? a. Revenge b. Demand ransom c. Special purpose d. Experiment",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the blood type system of Liu Guoquan and Jin Shaohua? a. Rh negative b. Rh positive c. AB type d. O type",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the blood type system of Qin Ling and Wang Zhibin? a. Rh negative b. Rh positive c. AB type d. O type",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "Who is the person who invited everyone and has been communicating with the butler? a. Li Jin b. Wang Jingming c. Zhao Fang d. Non Li Jin",
+            "ans": "d",
+            "source": "p-2"
+        },
+        {
+            "q": "What is Wang Jingtian's blood type? a. Type A b. Type B c. Type AB d. Type O",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "What is Wang Jingyuan's blood type? a. Type A b. Type B c. Type AB d. Type O",
+            "ans": "d",
+            "source": "p-2"
+        },
+        {
+            "q": "What is Wang Jingming's blood type? a. Type A b. Type B c. Type AB d. Type O",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "Who are Wang Jinghuan's parents? a. Li Jin and Qian Xiaoqin b. Li Peng and Xu Huilan c. Song Qiang and Liu Juan d. Jin Shaohua and Qin Ling",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "What are the common characteristics of Li Peng and Xu Huilan? a. Both have double eyelids. b. Both have single eyelids. c. Both have type B blood. d. Both are Rh positive",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "Who are Wang Jingyun's parents? a. Li Jin and Qian Xiaoqin b. Li Peng and Xu Huilan c. Song Qiang and Liu Juan d. Jin Shaohua and Qin Ling",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "During which period did Zhao Fang and Li Jin not meet? a. 1978 to 1985 b. 1980 to 1987 c. 1982 to 1989 d. 1975 to 1982",
+            "ans": "a",
+            "source": "p-3"
+        },
+        {
+            "q": "What is Zhao Fang's true identity? a. Li Jin b. Wang Jingming c. Headscarf Male d. Jin Shaohua",
+            "ans": "c",
+            "source": "p-3"
+        },
+        {
+            "q": "What is Jin Shaohua's blood type? a. Type A b. Type B or 0 c. Type AB d. Rh positive",
+            "ans": "b",
+            "source": "p-3"
+        },
+        {
+            "q": "What is the relationship between Song Qiang and Liu Juan? a. Brother and sister b. Husband and wife c. Father and daughter d. Colleagues",
+            "ans": "b",
+            "source": "p-3"
+        },
+        {
+            "q": "What kind of color vision abnormality does Liu Juan suffer from? a. Red green blindness b. Blue yellow blindness c. Full color blindness d. Abnormal colorless perception",
+            "ans": "a",
+            "source": "p-3"
+        },
+        {
+            "q": "What is Liu Guoquan's blood type? a. Type A b. Type B c. Type AB d. Type O",
+            "ans": "b",
+            "source": "p-3"
+        },
+        {
+            "q": "Why doesn't the content of the suicide note include the words' I will die with the other person '? a. Because the person who wrote the suicide note wants to keep the property. b. Because the suicide note is forged. c. Because their relationship has broken down. d. Because the law does not allow it",
+            "ans": "c",
+            "source": "p-3"
+        }
+    ],
+    "role": [
+        {
+            "name": "Wang Jingheng",
+            "back": "\n刺耳的喧器声从一个城多结合部的小餐馆内传出,十几个长发花臂青年围坐在饭桌旁吹得天花乱坠。店家抱着啤酒一箱地选进来，又提着一箱箱的空出去。你实在是不胜酒力，倒在一旁的凳子上昏昏欲睡。\n一个只见过几次但却以兄弟相称的人把你从凳子上拽起。说着你是主角，怎么能这么快就倒下的话。你听后勉强撑起身来，突然感觉胃里一阵翻腾，但碍于面子，你不能吐。\n你半睁着眼睛望着这群喧闹的人群，在那一刻，他们的举止似乎都成了慢动作，划拳吹牛的声音也夏然而止。你似乎明白，自己这些年看似是长大了许多，却什么也没有得到。你的心里出现了一股从未有过的空虚感，直到你再也没有力气拍起你的眼皮，整个世界一下子黑了下去………\n院子里有一座老旧的双层瓦房，瓦房旁边的茅草屋内有一头牛在吃草，旁还有几只鸡鸭在打斗玩闹。朝外看，一条蜒曲折的山路通向远方，路边的果树枝繁叶茂，秋天时会结出又大又甜的果实，树下是郁郁的小草，父亲每天都会割一些去喂牛--这就是你在T市农村的家。\n你叫王景桓，今年25岁，在家里排行老四。其他人分别是大哥景天，二姐景嫒，三哥景明和小妹景芸，你们兄妹5人被此相差岁。你从小没有见过母亲，父亲比你大45岁，他叫王金荣，是地地道道的农民，靠种田为生。\n家中大哥和二姐是兄妹中最成熟的，所以他们要跟着父亲种地放牛、捡柴割草喂牲口。三哥比较老实木讷，比起村里其他同龄孩子也略显稚嫩，而小妹则活泼开朗，与跟她同龄的孩子相比也略显成熟。同时小妹还是你们当中唯一一个单眼皮的孩子，你和她的关系也最好，你看她总是喜欢穿暗黄色的裙子，于是经常会摘一些同颜色的小花送她。\n你5岁那年，雨季刚刚结束，苍茫的大地云蒸础润，阳光本多日未见，此时却是分明的一轮烈日挂在天空，无体无止的向地面辐射着高温。山上和果园里的桃子都成熟了，被村里人冠以“小猴子”外号的你当然是要趁着这个时候去“洗劫”一番。\n山上的野桃子味道酸涩,果因里的却甜美多汁。你带着小伙伴到达目的地后二话不说，朝着树枝纵身一跃，再用双脚一勾，倒挂在那一人高的树枝上，完美地展示出了你的“猴子\"本领,看着下面的小伙伴羡慕的眼神,你心里满足极了。这样的满足感让你愈发肆无忌惮起来，你开始在其他果树之间穿梭，丝毫不管那些来回荡落的蜜桃。\n突然果团的主人老胡从远处赶来，其他小伙伴见状撒腿就跑，面你由于在树上跑的慢了被他看到,“王景桓,我记得你,你给我站住。”你没有理会他的喊声。一口气跑回了家。\n到家后你嘴着粗气越想越怕，你怕老胡会找上门来告诉父亲，于是想瞒着父亲偷偷拿钱赔偿。想到这儿，你悄悄地溜进他的房间，从他放钱的盒子里拿了50元，转身刚要离开，发现父亲已在身后怒气冲冲的看着你。\n父亲问你为什么偷钱，你支支吾吾的把前因后果说了一遍，他听后什么都没说，从你手中拿过钱便离开了。下午他回到家，用那粗壮有力的右手把你提到院子里。“跪下!”\n父亲生气了，你被这一声吓得腿软起来，立马跪在地上。那天，你在院子里一直跪到傍晚，直到哥哥姐姐和小妹替你求情父亲才让你起来。\n晚上吃饭，父亲一脸严肃，你只敢抓拉着自己碗里的饭。父亲夹了一子菜到你确上:“你不是爱吃鸡蛋吗?”\n你无声地低着头，眼泪吧嗒吧嗒的落入碗中。\n晚饭后，父亲走到你身旁:“腿疼不疼?”\n面对父亲突如其来的询问，你下意识缩了缩身体，点了点头。\n他见状教训道:“疼也得忍着。让你长长记性，记得，鸡摸狗的事情不能傲，再有下次绝不饶你。”\n你低头小声道:“爸，我知道了。我保证。”\n父亲见状从柜子里拿出一瓶药酒，搂起你的裤腿，帮你揉着膝。父亲皲裂的手掌磨蹭得你很痒，你忍不住笑了出来，父亲忍耐了一会儿，也露出了孩童般的笑容。\n父亲笑着笑着突然抱起你:“你这个小免息子，能不能让我省省心!\"我是小免崽子，那你就是大兔崽子!\"你不假思索地回答\n“就属你最会讲，你要是把这聪明放在正道上，老子享福了。\n\"那我就让你享福，享最大最好的福!\"\n“哈哈哈，小免崽子，今晚和我睡，爸爸给你讲故事。\n\"好诶好诶，大免崽子要给小免息子讲故事咯!\"你开心得跳起来，可腿还是很麻，结果一下摔在了地上。又是一阵开怀的笑声，直到深夜，这笑声才渐渐停下。\n几个月后的一天，你玩到很晚才回来。到家后发现家里空无一人，楼梯旁还有一大滩血，你吓坏了，一屁股坐在地上哇哇大哭。\n过了一会儿，你听见外面传来脚步声，只见父亲带着大哥和三哥回来了，你从大哥口中得知小妹从楼梯上摔下来住了院，二姐留在了医院照顾她。晚上你看三哥不停的在揉胳膊，于是过去关心的问道:“怎么了?胳膊?\"三哥撅着嘴告诉你他和一个警察叔叔一起给小妹输了很多血，虽然这样但是他并没有哭。你听后佩服的夸他了不起，三哥得到了你的夸赞后显然心情大好，于是不再抱怨转头开心的睡觉去了。\n转天，你发现家里的牛和鸡鸭不见了，聪明的你想到小妹的治疗费于是也没再多问。二姐晚上回来后问你家里的家禽哪去了，你把自己的想法告诉了她。由于少了这些家畜让你们本就不富裕的日子更是雪上加霜，于是小妹痊愈回家后你也没怎么给她好脸色看。\n后来为了庆祝小妹康复出院，父亲决定在儿童节那天带你们去里玩。这是你们第一次全家一起出去玩,路边的山花开了,阳光正好,微风不燥。来到城里，父亲带你们逛集市,这里还有一个叫便利店的地方，好吃的、好玩的，应有尽有!你第一次吃到了冰淇淋，原来世界上还有这么好吃的东西。\n到了下午，你们经过一家照相馆，这里的店员说今天拍全家福半价，你们问父亲全家福是什么，他说全家福就是一家人一起拍的照片，问你们想不想拍，你忙不迭地点头，其他兄妹也是如此。父亲犹豫了一会儿，看着你们期待的眼神，便点头答应了。\n刚要进门正巧碰到一个打扮洋气的女人从里面出来,父亲和那女人见面时彼此都愣了一下，只听父亲开口道:“这么多年没见了，你还好吗?\"\n“还好，孩子们都这么大了。”\n父亲赶忙拉着你们道:“快，叫小姨。”\n“小姨。”你们听话道。\n小姨笑道:“真乖，等小姨有空去家里看你们给你们买糖吃。\n“以前的事情都过去了，没事就来家里坐坐吧。\"\n小姨听完父亲的话点了点头后就转身离开了，\n父亲望着她离去的背影叹了口气便领你们进了照相馆。\n一切准备好后父亲给你们排位置，“景天，你站中间，最明景桓站你大哥右景媛景芸站你大哥左边……”边，\n摄影师见你们都准备好了于是喊道:“好，站好别动啊，别眨眼。3,2.1“指了rmw\"\n“味璨”一声，时光仿佛静止，一切都定格在了那一刻。过了几天,来家里作客的村长不知和父亲聊了什么,他走后父亲心情特别好,于是当天下午带你们去城里取了照片。从照相馆出来后你诧异的发现父亲并没有带你们回家，而是坐了好几个小时的车，终于在天黑前来到一个高山上。\n父亲告诉你们他和妈妈在11年前结的婚，而这里是他和妈妈第一次见面的地方，也是他觉得最美的地方。父亲还说妈妈叫赵莹和自己同岁，小叫赵芳，比妈妈小了 18 岁。69 年因为文革批斗导致外公外婆给妈妈和小留下一笔财富后就死掉了，是妈妈把小姨当成孩子一样看大，所以姐妹感情很深。\n你们听完后问道:“妈妈长什么样子呀?”\n“你们的妈妈可美了。是这世界上最美的女人。\"\n“那妈妈现在在哪呀?\"\n这时父亲指向一旁道:\"看，她生完小芸后就变成这些小花了。你们应爸爸以后要把我撒在这里，这样我就能一直陪着她了。\"\n“撒在这里?”\n“哈哈哈，等你们长大就懂了……”\n和煦的微风抚动半人高的茅草，娴娜多姿地朝你们招摇。一家六口坐在空旷的山顶，享受着难有的闲暇时光。这时父亲把裱装过的照片拿出来，你们都争先恐后地围过去看。三哥看罢笑着说你面无表情,你也不甘示弱地调侃他笑得真丑。那天大家都很开心，也是自己在父亲怀里靠得最多的一天。月光很柔和，它把你的零星回忆包裹起来，镀上一层滤镜。火堆，草从，，名叫妈妈的小花和故事，更是有那一阵阵的笑声，这笑声传到空中，飘开来………\n后来小姨每隔几个月就会来家里一次，不知道为什么，小对你和小妹的态度不像对其他孩子那么好。另外许医生在那次事故后也经常来家里看望你们，并且每次来除了会带一些好吃的还给你们讲很多新鲜好玩的事，渐渐的，你发现这个人除了有点话多大嘴巴其他方面还是很好的,于是你们兄妹和他的关系也是越来越好。\n二姐和三哥都没有机会上学，本来你也想留在家中帮父亲干活，但他执意要把你送到学校，说就算砸锅卖铁也会供着你，于是在你8岁那年同小妹一起步入了学堂。因为家里条件不好，学校的同学总会拿这个来取笑你，导致你经常会做出一些调皮捣蛋的事来证明自己不比别人差，为此没少被老师点名。但淘气归淘气，在学习上你丝毫没有马虎，聪明的你一直保持着班级的前几名。\n9岁那年的一天，你们兄妹在外面玩，回家时正好看见村里的老胡在你家门口愉听着什么。他见到你们回来了便转头朝自己家的方向走去。\n你们来到家门口才听到原来是小姨和父亲在吵架。\n小姨:\"如果不是我姐当初非要坚持，TA 怎么可能娶那个女人，那样我也不用来T市，如果不来T市也不会碰到那两个畜生。\"\n父亲:“以你们的关系你就不该喜欢 TA，另外那两个人虽然可恶但你也不能那样微呀，你姐如果活着也不希望看到你这样。\"\n小姨:“我也没想到时隔7年还能见到 T。这就是上天注定要我们在一起，再说你还有脸提我姐?你为什么当时不救她?”\n父亲:“我对不起你姐姐，但我承诺过小莹会好好照顾你，所以当初我才原谅了你。”\n小姨:“这么说我还得感谢你了?”\n父亲:“那是你的事，之前我已经做到仁至义尽了，如果再有下次我决不饶\n你。”\n这时你们迈进了房间大门，她见到你们先是一愣，随即挤了个难看的笑脸后拿着一张纸夺门而去。\n你们上前去问父亲怎么了?他只是一边摇着头一边叹气道报应啊，报应。这种生活当中的小插曲时不时会出现一次，5年后你不负众望，考上了县里的重点初中。父亲为了给你和小妹赚学费，日日奔波劳累，导致他积劳成疾，染上了凤湿。这天夜里下雨，父亲又独自在房里默默忍耐病痛的折磨。于是你下定决心，放弃学业，去县城里赚钱。\n\"不行，你还小，这个社会太复杂，爸爸怕你会吃亏。”\n“爸!我也想像大哥一样，给家里出一份力!也想多赚点钱，给你治。“你小子，你大哥在厂里可是吃了不少苦，不是你想的那么简单的。\"\"你不让我试试怎么知道?\"\n罢了罢了，男子汉大丈夫就是要磨炼磨炼!你去吧，千万要记得好好照顾自己，有空常回家陪陪爸爸。”“好嘞!\"\n夜晚时分，万俱静，月光如水般洒向大地，给整片多村蒙上了一层纱。家家户户都睡了，唯有父亲的窗前还亮着灯，他戴着老花镜，一针一线地为你缝着被子，他说外面冷，一定要盖厚被子，于是把你原先准备的被子又加厚一层。\n在县城，你背着包袱到处找工作，由于你从小就分不太清各种颇色所以面试时处处碰壁。到了晚上，你没有地方下脚，于是就到破屋中将就，你躺在铺着被子的水泥地上，虽然空气很冷，但被子中却很暖和。\n日子就这么一天天的过着,这天你照常来到集市想看看有没有什么地方招工突然警见一个跟你年纪差不多的孩子竟然将手伸进了一个中年男子的裤兜,你想起小时候父亲的教导，于是赶紧跟上前去想要阻止。可自己到的时候他已经得手离开，于是你拍拍那个男子的肩膀想提醒他，没想到那人模摸自己的口袋发现钱包不见了以后就抓住你的手，一口咬定钱包是你偷的。\n在你身上没有搜出钱包后，那个男子把你送进了派出所。三个小时后，父亲也来了。他蓬头垢面，一件已经有些发黄的白衬衫紧紧贴在布汗水的身上。\n听完派出所民警的描述后，父亲冲你抬起右手，当你以为下一刻要打你时没想到那只手却落在他自己的脸上。\n你赶忙冲过去拉住父亲的手:“爸，你这是干啥呀!”\n“你放开，都怪我没有教好你，是我的错，害你成了个小偷。”“爸，我真的没有偷东西啊，我是想去帮他，东西真不是我偷的。”你急的哭了出来。\n“混账东西，都现在了还不承认，你是不是要把我的脸都丢光你才高兴?\"你心里难受极了，开始怪自己去帮助那个男子，开始觉得好心没好报。不出所料，父亲赔了钱。你抹着眼泪，父亲的不信任完全占据了你的内心，一股巨大的委屈感压迫着你，于是你一把甩开了他想要拉你回家的手跑回了破。\n你靠在墙上看着窗外的繁星，在瓦房生活的点点滴滴涌上心头。从给老胡的赔款想到小妹的手术费,从同学的白眼想到刚刚那人的德行……那一晚你想了很多，最后得出一个结论--做人如果太老实，不仅到处被欺负，到头来还只能像父亲一样穷。你想和过去有个了断，于是你在15岁时只身一人来到了市，接下来的目子中每天混迹接头，靠偷自行车和找学生收保护费为生。\n你刚到J市人生地不熟，到处被人欺负，但你凭借一股狠劲渐渐的在这里站稳脚跟，圣诞节这天，你向往常去收保护费，走着走著突然发现小穿着一件略黄色外套从人群中一闪面过，你本想追过去打个招呼，突然觉得脑后一便栽例在地。你回过头去，发现是这一片的大哥靳刚，他之前仗者人多找过你很多次麻烦，但你一直在忍让。这次你从地上弹起，死死的抓住新刚的头发，参头一下一下朝对方的脸砸去，任凭周围人如何攻击你也没有松开……\n你再醒过来时发现自己躺在医院的病床上，而你因为怕给家里添麻而拨担输液管从民院跑了出来。可能是不打不相识。在那之后斯刚带着小弟过来交了你这个朋友。\n通过了解你知道新刚比你大3岁。D市人，父亲叫新少华，是一名警察，因为工作调动自己在?岁那年随父亲去到了T市,几年前因为与父亲吵架便离开了家来到」市闯荡。\n之后的几年为了扩大势力，你跟大哥他们又回到了了市发展，虽然干的都是些见不得光的事，但起码生活有了些许保障。\n有一天，新刚带你来到一家饭店的地下赌场。这里的灯光十分微弱，刺鼻的香烟味寒满了整个闭塞的空问。你看到很多兄弟都在这儿，那些赢方扭曲的笑脸和对“柔胜追击”的渴望与输方狰狞的表情和想“血洗前耻”的欲望形成了鲜明对比。你被眼前这一切吓到了，于是和靳刚说了句不舒便转身离开了那里。\n从那以后，你便再没去过赌场，尽管你的“总”有时会被兄弟们作为谈资嘲笑，但你并没有太在意。\n转眼你已经 21岁，这天靳刚请你吃饭，他告诉你他要去城里生活了。你问其原因，他说之前赌钱赢了不少，现在不愁吃穿，这种见不得光的日子不想再维续了，只想娶妻生子过稳定的生活。临走前他犹豫了一下还是掏出了一块已经损坏的怀表递给你，告诉你这块表当年救过父亲的命，能带来幸运，是离家前父亲留给他的。你抚摸着表盘上的图案，看着好兄弟慢慢近去的背影，内心的最后一道防线终于被击垮了，你想着自己要是也能赢，不仅能够给父亲治腿，你们一家人也能平安富贵!你再次来到了这个熟悉的地方，却不再感到陌生与恐惧。在看了两场赌局熟悉了规则后，你开始下注。你一开始没下多，开盘前，你的掌心全是冷汗，心快跳到嗓子眼儿上，你双眼直直地盯着赌盘，开了，中了!你品着的心终于放了下来，眼里是藏不住的惊喜。你一连赌了好儿局，都以胜利告终，一夜之间赢了好几万。你开心不己,身旁许多穿着暴露的小姐给你喂酒,你从未感到如此满足。第二天,你飘飘然进入赌场,小钱小利已经满足不了你了,一押就是大数目。又赢了!你开始膨胀起来，把自己所有钱全押进去，想着赌完这一局就收手，不料，这一局却输得血本无归。\n你不服气，认为这局是自己运气不好，于是借了高利贷，维续赌。但你却失去了之前的手气，十赌九输，最终把借的钱也赌没了。\n过年了，你回到久别的家中，著无其事地给父亲拜年。大哥、三哥和小妹的未归导致这个6口之家变得支离破碎，草草的吃过年夜饭便睡下了。\n转天债主竟然找上门来往你们家墙上泼油漆,你们跑到村里张阿姨家躲债时姐抓着你的领口问你欠了多少，对于这天文数字你沉默了，她见你不说话直接就是一巴掌，使劲地捶打着你的胸口，父亲赶紧过来拦住了她，说他会想办法还钱的。\n你没有脸再在家中呆下去，没等吃午饭就离开了。半年后，二姐嫁了个s市的有钱人，帮你还掉了所有赌债。可赌博像是毒品一般吞噬人们的斗志，明知是错的，却偏无法戒掉。你有了靠山后，忍不住去赌场“一雪前耻”，但1年来不仅将之前的存款输光并且又欠下了5万块钱。这天你去s市找二姐，再三保证承诺这是最后一次，她也才给了你1万块钱就把你打发走了。\n转天你喝了很多酒，摇摇晃晃来到家，进门后看到父亲正坐在长椅上不知想着什么，你连忙赶到他面前跪下:“爸，你快劝劝二姐再借我点钱吧，我保证这是最后一次了!\"\n“你个混账，我怎么就养了你这么个东西!你二姐走了，被我们给逼走了!我对不起她，对不起她……”\n说着说着父亲竟然哭了起来，这是你第一次见他落泪。\n你急道:“你们是不是不想替我还钱?你就这么眼睁睁的看着利息越滚越多吗?\"“那都是你自己造的孽!”\n你委属极了，若不是为了能让父亲看得起病，为了能让家人过上好日子，自已怎么可能沾上赌博。若不是当初他的不信任,自己怎么会弄成这样。想到这里。你起身借着酒劲骂道:“妈的你个老东西，一股酸劲!我要不是有你这个参我会活成这个样子吗?\"说罢你转身朝门外走去。\n\"你走!你这个不知悔改的东西，走了就不要回来了，我没你这个儿子!\"离开家后你又和以前那帮“兄弟\"混在一起，时不时的还偷些电瓶车维持生计，就这样每天过着提心吊胆的日子。\n这天你路过一个木工店时，发现店主竟然是三哥。长期鬼混的生活你实在不想再维续下去了，于是犹豫了一下上前喊道:“三哥。”\n三哥正在忙着装配一个沙发，听到喊声拍头望了你一眼后摘下手套，叫你进去坐。\n“三哥，那个，实不相瞒，我是想让你给我找份工作，呃，就在你这里打零工就行。”你对三哥不好意思的笑着。\n三哥端起桌上的茶水吹了吹，据了一口:“你在外边玩儿完了，现在想吃现成的想起找我来了?我学木工的时候也不见你给我说过一句宽心的话吧。\"\n你从三哥的话里听出了不耐烦，但你还是接着求了下去。\n“三哥，你看你现在还有店面，我看你一个人也忙不过来，恰好来帮帮你我不要多，你看着给工钱就行，再说了，我们这亲兄弟还用说啥呀，你说是吧。尴尬的笑脸挂在你的脸上，让你十分不舒服。\n“哼，工钱，好说好说，来，你现在把这杯茶喝下去，我让你做。\n看着茶几上滚烫的茶水，你彻底怒了:“老三，你别太过分啊。叫你三哥那是以前的情面，咱们一个屋糖下生活了十几年，你现在这样对我?\"\n“情面，哼，你在外面惹事的时候怎么不说给我留情面，咱爸对你那么好为你做了那么多，你给他情面了?”老三怒气冲冲地斜视着你。\n你嘴角抽了一下吼道:“少他妈在这儿教训我。”\n你抓起茶几上的茶水朝他脸上泼去,在他捂着脸的时候你又对他一顿拳打脚\n器“呸，情义，还亲兄弟，都他妈是放屁!”最后你朝他吐了口唾沫离开了店\n里:\n之后的2年里你再没有回过家，也没有跟兄弟姐妹有任何联系。这天你正在睡觉，突然头被一个袋子套住，然后你就被人装到了车上。不知到了什么地方下车摘下头套后发现自己竟然被带回了赌场。\n这时场主在远处正和一个陌生男人不知在说着什么，你隐约听到场主叫那人李老板，那是个留着胡子的50来岁的中年人，单单的眼皮下一双不大的眼睛异常有神。\n待李老板走后，场主晃晃悠悠的朝你这边走来，只见他掏出刀子冲你眼前比划了一下说要你留下一只手还债。你害怕极了，跪在地上拼命求饶。突然。他似乎想到了什么,犹豫了一会儿从抽屉中拿出一张纸条递给你说这上面都是很久之前他大哥宋强还在世时所有欠款人的名单，由于只有姓名没有照片所以找起案很困难,另外你如果能找到的话不仅利息全免且每找到一个人额外再奖励自己1万块钱。\n你接过纸条看了看，发现上面有很多名学和对应的欠款数字，其中上半部分名字中央都被划了横线。场主告诉你名单上面的人基本都是老主顾，后面的数字是当年他们在这里输掉的钱。划横线的人是不欠钱的，不用管，你就负责把没划横线的人找到就可以。\n你正要将纸条收好时突然上面一个被划了横线的名字让你瞪大了眼睛,赵芳?\n这不是小姨吗?\n场主得知你可能认识这个人后告诉你她是在78年被一个叫李鹏的赌徒带过来玩的，不到1年的时间就输了好多钱。也因为这样，李鹏欠前场主宋大哥的钱全都一笔勾销了。往后的几年里她又陆陆续续的不知从哪搞来一些钱，但也都输了进去，82年宋大哥出事后她便没有再来过了。你离开赌场后想到之前二姐和小姨关系走的比较近，于是打算找她问间小姨的联系方式。\n转天一早你便买了去S市的车票，下车朝二姐家走时，正好看到她提着两大袋米和一桶鲁花食用油从家乐福超市出来。你凑上前去打招呼，她在得知你的来意后拿出刚刚超市的购物小票给你将电话号码写在背面，你将小票收好，临别时跟她说之前偷偷找她借的钱会尽快还她，让她放心。10月6日这天下午你约了小姨前往一家新开业不久叫浅红的饭店吃饭，以便想确认她是不是和那家赌场有关系。虽然饭店所在的道路很窄，但紧邻步行街且门口的装修非常豪华，大门外还有一个独着小头套穿者玩偶服的接待在和来来往往的人群互动，看得出老板是花了心思的。\n你在一个靠窗的位置坐下，正要点餐时看到小妹竟也来到这里，你知道如果小妹加入饭局那有些话就没办法问出口，于是假装没有看到，可谁知小妹发现了你，你心里暗骂了一声随即招呼她过来一起坐，看来想了解小之前的事情只能再找机会了。\n特小妹坐下后，你发现她和以前一点都不一样了，不仅去割了双眼皮，还涂着浓浓的口红，打着嫩白的粉底，整个人显得十分成熟。\n你们边吃边叙旧，这时突然远处一个声音响起:“你今晚10点能从D市回来是吧?那边怎么说?能帮着找吗……你急?我还急呢………我现在就想知道你到底什么时候和 TA离婚，你总跟我说你不爱TA，让我再给你些时间，都4年了，我真的受够了!\"\n由于那人打电话的声音非需大，你循声望去发现是一名打扮时尚的年经女性。小妹这时给你介绍到那人叫钱晓琴，是以前的大学同学，她起身想要去打个招呼，结果刚要靠近，钱晓琴手机突然响了，只见她接听后非常激动的说道:“找到了?真的吗?太好了，真是太好了，谢谢你们，我，我马上就来。随即她挂了电话朝饭店外跑去。\n小妹可能见对方有急事便没有叫住她而是重新坐同了自己的座位。吃完饭已是晚上8点了，你们刚要离开时看到小姨从饭店门口经过，她烫的波浪卷发搭配着精致的妆容，胸前项链末端挂着一个双手捧起状的吊坠。整个人虽然已经50出头，但白皙的皮肤加上修长的身村一点也看不出老态。你奇怪她为什么放你子，本想过去叫住她，但想到有小妹在场也不方便问于是便打消了这个念头，而你和小妹又找了个酒吧一直喝到晚上 11 点多才各白回家。\n转天早晨 10点，你打开电视，发现正在播报在本市沉寂了20多年的头巾男再次出来作案的新闻。头巾男你小时候听村里长辈们说起过，是个人贩子，据说以前经常拐卖孩子，后来渐渐的就没有再出现。由于每次作案都会用头中将头事住，只能隐隐约约见到从头巾下露出来的胡子因而给起了头中男的外号。你刚要换台，手机突然响起，接起后发现是警察，当对方告知你父亲在巷子中被人杀害的消息时你仿佛五雷轰顶。\n来到派出所，一进门就看到两个哥哥和二姐着眼睛望着你。\n认尸时你第一次这么仔细地看父亲，她频骨很高，两斑白，黯淡无光的脸上布满皱纹。他的腿因常年风湿已经变形，从前宽大的臂膀竞变得如此瘦小，而头部一块一块的伤口异常刺眼。你的泪像泉水般喷涌面出，忙在他身旁跳下自扇耳光道:“爸，我回来了!我答应你，我再也不赌了，再也不赌了!您睁开眼再看看儿子好不好?”\n旁边的民警连忙过来制止了你并扶你到门口的长椅上休息，特小妹赶来后办案民警说尸体今早被发现在一个偏僻的巷子内，头部遭受连续重击致死，身上财物丢失疑似抢劫杀人，死亡时间初步确定是昨天下午3-8点之间，并表示会尽快捉到凶手\n从警局出来后你们兄妹5人只是互相留了联系方式便各奔东西了。之后的日子里你每天喝的烂醉如泥,仿佛行尸走肉般活着,找人的事情也被你抛到了一边2006年12月6日这天你突然收到了一条短信，短信的内容是一名自称是李律师的人说王金荣老先生在半年前检查出了肝癌,委托他在自己死亡的2个月后将家中房产、耕地及其他遗产分给你们5兄妹和小。他本以为老先生还能撑个几年，没想到竟突然出现意外，约你后天前往集合地点，会有人接你们前往T市郊外的零钥山庄领取。\n其他遗产?你突然想起有一次小姨请你们全家吃饭时确实听父亲提起过家里有个十分珍贵的东西，那天父亲喝了不少酒，你当时还以为是酒话，没想到竟然是真的。零铜山庄又是哪里?你上网查了一下发现并没有这个地方，虽然心中存有疑虑但还是决定去一探究竟。\n当天下午。你如约到达了集合地点。面对从小生活在一起的他们，虽说都是一家人，但你还是感觉到了一经生分……你们正聊着平时的过往，赵芳娜姗来迟。她刚来没一会，一辆照色商务7人轿停在了你们面前，一名中年男子从驾驶位走了下来自我介绍道:“我姓罗，是零钥山庄的管家，想必各位就是庄主的客人吧。\"\n“庄主?我们是李律师邀请来的。”大哥上前一步说道,\n“哦，李律师就是庄主。”罗师傅答道。\n“他人呢?没在?”你问道。\n“庄主吩咐我先带各位回山庄,他今天被一些事情耽搁了,要晚点才能到。”你们相互看了一眼，也没说什么便随罗师傅上了车。\n过了不知多久，车子停了下来，罗师傅说道:“各位下车吧，前面是吊桥，必须步行，过了桥就到了。下车时慢点，今早刚刚下过今年的第一场雪所以地面比较滑，大家小心一些。”\n你看了看表，已经晚上6点多了，拍头时你突然发觉周围的场景似乎有些眼熟，但却想不起在哪里见过。你没有在意，跟着罗师傅走过一个U型山路，等到了山的另一端果然看见白茫茫的雪地中躺着一座不太长的吊桥,由于天已黑的缘故，看不太清桥对面的建筑，只能凭借品桥尽头拱门上的灯光看到“零钥山庄”四个大字。\n他带着你们过了吊桥，穿过走廊案到了最近的建筑，据罗师傅说这里是1号用餐和一些娱乐活动都在这里。房，\n你们进到大厅，发现这里是一个二层的公共区域，一层是前台、厨房、衣帽间、管家房、储藏间等地，二层是休息室、卫生间、餐厅和书房等。\n罗师傅带你们六人去衣帽间换下外套后来到前台指了指墙壁上的地图说道;“这里是山庄的鸟瞰图，我现在给大家发钥匙。”\n“房间都给我们安排好了?”小姨问道。\n“对，庄主已经统一安持好了，王景芸2号房，王景相是3号房，赵芳是4号房，王景明是5号房，王最媛是6号房，王景天是7号房，最后庄主自己住0号房。\"管家一边发钥匙一边继续道,“由于这个钥世因内目前配不到，所以大家都妥善保管好，如果弄丢了可就进不去房间了，除非等庄主回来，他那里还有一套备用钥匙。”\n“李律师今晚就能回来是吧?”小姨继续问道。“他是这么跟我说的，请问您有什么事吗?\"“哦没什么,我这公司还一堆事情等着我去处理呢,不能光在这里耗着啊。\"大哥突然没好气的说道:\"最好现在就回去处理，您这家大业大的，在这儿多待上一天损失大了可划不来。”\n“我要去哪用不着你管。”小姨有些不开心的盯着大哥道。\n罗师傅皱了皱眉:“书房是庄主的私人房间所以是上了锁的，连我也没有匙，其他地方大家可以随意参观，晚饭过会儿就好。二楼餐厅旁边有休息室，累了可以在那里稍作休息,由于这里没有信号所以如果大家想打电话可以到前台来这里有一部。庄主之前交代说他今晚8点半前回来，如果到时回不来就让各位回房歇息，明天早上7点在他所住的0号房集合。哦对了，由于水柴要过几天才能送来所以各个房间的壁炉暂时没法生火，大家晚上睡觉时多些被子吧，别着凉了。”\n你们听后也没什么异议，一起朝二楼餐厅走去。你们围坐在餐桌前边剥着桌上的花生边聊着家常，小姨则说了句自己对花生过敏就坐到一边看书去了。\n过了约半个小时，终于开饭了，罗师傅将餐桌收拾干净后端上一道道美味的\n菜看，而这时小姨也合上书坐了过来。饭桌上碰杯声不绝于耳，你看着眼前的众人，感良多，毕竟大家坐在一起吃饭的场景在你离开瓦房后就很少有过了,有那么一瞬间你感觉仿佛回到了小时候。\n这时罗师傅端着一条清燕鱼走了进来,“大家慢用,这是今天最后一道菜了,过后我给你们准备甜点。”\n他刚刚离开三哥便起身道:“你们吃，我饱了。\"\n二姐在一旁动道:“景明，这才7点40，这么久没见了不坐下说说话吗?反正李律师也还没来，这么着急走干嘛?\"\n只见他拿出手机看了看，“你们聊你们的，这酒我着有点上头，现在离8点半还 50分钟呢，先去休息室歇会儿。”说罢便离开了餐厅。\n小妹见状笑道:“看得出来三哥今天高兴。”\n你跟着附和道:“是啊，毕竟一家人很久没聚到一起吃饭了，如果咱爸还在的话……\"说到这里，饭桌上突然没了声音，你突然意识到自己说错话了于是打了个哈哈道:“来来来，吃饭吃饭。\"\n吃着吃着大哥起身道:\"我肚子有点不舒服，去趟洗手间。”5分钟后二姐也起身说要去厕所，她刚离开没一会儿小姨看了看表后站起来说道:“我先回去了，你们继续。”说罢转身离开了餐厅。你这时看了看表，8点整\n你和小妹又聊了会儿天，二姐同到座位上问道:“小姨回去了?\"你答道:“是啊，刚走没一会儿。\"\n又过了5分钟，大哥着点心回到了餐厅，“刚碰到了罗师傅，他说前台还有事要忙就拜托我给大家送过来了。”\n你们品尝着甜点，聊着童年。可美好的时光总是短暂的，你不经意的抬头时撒了一眼墙上的挂钟发现已经8点半了，于是说道:“已经8点半了，大家也别再等了，早点回去休息吧。”\n二姐起身道:“也好，那我们明天再和李律师商量遗产的事吧。\n你们一起来到休息室，看到三哥披着外套躺在沙发上睡着了，小妹过去摇了\n描他道:“三哥，回去了，李律师没能赶回来。”三哥可能确实是喝的有点多，迷迷糊糊的道:“你们先回去吧，不用管我。下楼时你们见罗师傅在前台不知忙些什么，二姐冲他咐道:“罗师傅，晚上我三弟如果睡这里您受累给盖个毯子。\"\n“放心吧，这是我应该做的。\"\n在听到管家的答复后你们去衣帽问取了衣服便回了各自的房间。\n转天早晨天还没亮，你起床案到外面，发现选处0号房的房门似乎没关，而屋内倾泻出来的灯光引领你朝着那个方向走去。\n来到门口时你拿出手机看了看，7点整，这时你朝屋内望去，只见除你之外其他兄妹都已经到了，但此刻他们正站在房内一副不知所措的样子。\n你好奇的开口道:“你们在干嘛?”\n小妹转身见是你于是解释道:“两条人命，李律师杀掉小后自杀了。你听后被吓了一跳，“小姨死了?还有李律师为什么要这么做?”她回道:“不知道，这要问问罗师博才行。这时你们看到屋内有个对讲机，于是赶紧呼叫他过来一趟。等了一阵，只见他慌慌张张的赶了过来。你们把事情的经过跟他做了简要的说明，他听完后说道:“不光是这里，1号房前台的电话线昨天夜里也被人剪断了，目前的情况看是不是自杀现在还不好说，如果不是自杀的话那杀害他们的凶手可能就在我们之中。”\n你听完罗师傅的话顿时感觉气不打一处来，于是朝他吼道:“放你妈的屁，我们兄妹怎么可能杀人，我看这件事八成就是你干的。\"\n罗师傅冷笑一声,从怀里掏出了一个警官还道:“我是「市市局的刑警罗辉。首先我为我之前隐瞒身份的行为跟各位说声抱歉，另外我来这里是执行任务，每天早晨8点会向队里报告昨天的情况,如果他们没有收到我的报告则会立刻出警朝这里赶来，我希望大家在这段时间内尽可能的配合我。\"\n",
+            "r_q": [
+                {
+                    "q": "How old is Wang Jinghuan's father? a. 70 years old b. 65 years old c. 60 years old d. 75 years old",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "How old is Wang Jinghuan's father? a. 70 years old b. 65 years old c. 60 years old d. 75 years old"
+            ],
+            "a": [
+                "a"
+            ]
+        },
+        {
+            "name": "Wang Jingming",
+            "back": " \n雨点打在雨棚上的声音吵得你心烦意乱，夜已深，你还在握着钉锤，一根根地把洋钉钉入木板中。你舍不得给自己找一名助手，只能在订单多的时候独自赶工到深夜。\n“啊!”你叫了一声，长时间的工作让你注意力难以集中，不小心敲到了拇指。你用另一只手将受伤的指头攥住，愤怒的踢开钉锤，倒在沙发上掩面叹息。现在虽然在城里有这么个门面，但实际收入很少，客户还压着货款不还，马上门面的租金都交不起了。\n你到杂乱不堪的厨房里拿出一瓶酒，一口喝掉了大半瓶，脸上慢慢泛起了红晕。你一直想娶个媳妇儿，但一方面是因为买不起房，另一方面由于小时候患病没有及时治疗，导致左脸面瘫，与右脸不对称，没人愿意嫁给这副模样的你。酒劲慢慢上头，这样的神经麻痹你早已习惯，至少可以暂时不用去想那些让你感到十分无力的事情，只需沉浸在脑子里的美好幻想中享受那短暂的放空。\n院子里有一座老旧的双层瓦房，瓦房旁边的茅草屋内有一头牛在吃草，屋旁还有几只鸡鸭在打斗玩阔。朝外看，就是曲折的山路，路边果树上的绿叶青翠欲滴，到了秋天，就会结出又大又甜的果实，下是郁郁葱葱的青草，父亲每天都会割一些去喂牛--这就是你在T市农村的家。\n你叫王景明，今年26岁，在家里排行老三。上面分别是大哥景天，二姐媛，下面是四弟最桓和小妹景芸，你们兄妹5人彼此相差1岁。你从小没有见过母亲，父亲比你大44岁，他叫王金荣，是地地道道的农民，靠种田为生。\n兄妹中二姐虽然和村里同龄孩子相比要略显稚,但在家里她和大哥还是你们当中最成熟的，所以每天他们都要跟着父亲种地放牛、柴割草喂牲口。而四弟则和其他同龄孩子差不太多，他和小妹的关系最好，总会摘一些红红绿的小花送给她。\n你为人憋厚老实，是几兄妹里面跟父亲性格最像的一个，虽然从小学东西都比别人慢，但是父亲对你的爱却一点儿都不比对他们少。他会耐心地教你学步:他会手把手教你用筷子夹菜:夏夜，他会轻摇蒲哄你睡觉;冬天，他会给你暖\n被窝伴你入眠……这年你6岁，因为想到山上看看于是哀求父亲让他带你一起上山采药。早晨的山里雾气蒙蒙，鸟儿和你们父子起的一样早，召唤着要升起的太阳。父亲走在你前面，不断地用砍柴刀骑开拦路的灌木，你小心的牵着他的衣角，生怕摔倒。来到山顶，这是一片开阔的地方，父亲朝一个突出的岩石下身，摘下一株草药放在鼻子前闻了闻，便递到了你的背婆里。\n“这种草叫石解，很值钱的，采回家晒干了，卖钱给你买好吃的。”他在悬雄边上下其手，半个小时不到，已经摘了半背篓。\n“唉，可惜石制长不了多少啊。走，咱们回家。”\n“诶，那边还有一棵。”你小手指着另一边的崖壁，没等父亲看过来就走过去想把它摘下。因为这边是背阴面的缘故，地上长着许多青苔，你突然脚下一滑便朝悬崖的方向冲了过去。\n“景明!”你大脑中一片空白,等你再反应过来时发现自己像一个挂件似的在悬崖边上荡漾。你在一股巨大恐惧感的包围下回头看向父亲，只见他扑在地上，一只手紧紧地提住了你背着背多的带子。\n你哭着喊道:“爸。我怕。”\n“景明，别动啊，爸爸拉你上来。\"\n此时他手上青筋暴起，大叫一声，你随着背签被父亲甩了上去。他立马将你身上的背篓解下，双手捧着你的脸，在你身上检查了一遍又一遍，然后将你紧紧的抱住。你感受到了他那颗要快要蹦出胸膛的心，而那双抱着你的手更是抖得厉害。\n天上的太阳很大，阳光伴随着春风酒在山顶，虽然你在父亲怀里几乎被勒得喘不过气，但此刻你没有挣脱，只想静静的享受着这暖暖的安全感。\n一个月后的一天，小妹不知怎的从楼梯上摔了下去流了好多血。你和大哥、二姐陪着父亲将小姝送到医院,医生检查之后告知父亲小妹失血严重需要马上手术，只见父亲毫不犹豫地颤抖着双手在医生递过来的纸上写着什么。\n“医生，能不能先给我女儿做手术?这钱会慢慢凑的您放心……我……我跪下求您了……\"\n“您这是做什么,快起来,救人治病本来就是医生的天职,收费是医院的事放心，我会尽力教你女儿的。”\n“谢谢医生!谢谢医生!”\n这时一个护士跑了进来急道:“许大夫,血库里面孩子需要的血已经没有了。\"许医生听后马上冲出了办公室，父亲见状也急忙跟了出去。\n你在远处看到父亲冲许医生撸起左臂的袖子边走边说着什么，许医生听后了摆手跟父亲回应着,父亲犹豫了一下又和许医生说了一些什么后许医生停下了脚步。他朝你们的方向看了看，回头又问了问父亲，见父亲点头后许医生赶紧让一个护士带着你们去验了血。\n验血后医生说父亲和大哥的血型一样，但他们与小妹不能互相输，虽然二姐的血也勉强可以给小妹输但最后不知为什么医生还是让自己给小妹输血。你强忍着疼痛，眼泪一直在眼眶里打转但始终没有哭出来，和你一同给小妹献血的还有个好心的叔叔，你从旁边医生的口中听到叔权好像是名警察在医院等待的时间永远是那么漫长。终于，手术门开了，父亲赶忙冲过去抓着一个护士的手，边晃边询问小妹的情况，旁边的许医生见状给父亲叫到一边，你和大哥凑上前去听见医生告诉父亲旁边病房有一个需要性血的患者，可惜你们兄妹中并没有刚阴性血的人。他还说小妹的手术很成功，而且院里考虑到你们家里的情况决定将这次费用全免，让父亲不要担心，只见父亲听完后对着他一连五六次鞠射致谢。\n当天二姐替父亲留在医院照顾小妹，父亲则带着你和大哥回了家。晚上由于针孔隐隐作痛你一直在揉着胳膊,四弟过来询间情况时你把献血的事情跟他讲了他听后冲你伸出大拇指连夸你了不起，你听的高兴，顿时感觉胳膊上的针孔似于也不是那么疼了。\n转天你看到父亲带着家里的牛和鸡鸭朝村长家的方向走去。此后的日子他直在医院照看小妹，由于这段时间没有于活且家里少了那些牲畜，导致原本就围难的生活更是雪上如霜。\n后来为了庆祝小妹康复出院，父亲决定在儿童节那天带你们去城里玩。这是你们第一次全家一起出去玩，路边山花开了，阳光正好，微风不。来到里，父亲带你们逛集市，这里有一个叫便利店的地方，好吃的、好玩的，应有尽有!你第一次吃到了冰淇淋，原来世界上还有这么好吃的东西。\n到了下午，你们经过一家照相馆，这里的店员说今天拍全家福半价，你们问父亲全家福是什么，他说全家福就是一家人一起拍的照片，问你们想不想拍，你忙不迭地点头，其他兄妹也是如此。父亲犹豫了一会儿，看着你们期待的眼神，便点头答应了。\n刚要进门正巧碰到一个打扮洋气的女人从里面出来,父亲和那女人见面时彼此都愣了一下，只听父亲开口道:“这么多年没见了，你还好吗?“\n“还好，孩子们都这么大了。”\n父亲赶忙拉着你们道:“快。叫小姨。\n“小姨。”你们听话避。\n小姨笑道:“真乖，等小姨有空去家里看你们给你们买吃。”\n“以前的事情都过去了，没事就来家里坐坐吧。\n小姨听完父亲的话点了点头后就转身离开了，父亲望着她离去的背彤叹了口气便领你们进了照相馆。\n-切准备好后父亲给你们排位置，“景天，你站中间，景明景相站你大哥右边，景媛最芸站你大哥左边……\"\n摄影师见你们都准备好了于是喊道:“好，站好别动啊，别眨眼，3.2,1”\n“茄子…~”\n“咔嚟”一声。时光仿佛静止，一切都定格在了那一刻。\n过了几天，村长来到家里给了父亲一个三个字的本本，只见父亲拿到手后开心的像个孩子，于是当天下午带你们去城里取了照片。从照相馆出来后你诧异的发现父亲并没有带你们回家，而是坐了好几个小时的车，终于在天黑前来到一个高山上。\n父亲告诉你们他和妈妈在 11年前结的婚，面这里是他和妈妈第一次见面的地方，也是他觉得最美的地方。父亲还说妈妈叫赵莹和自己同岁，小叫赵芳，比妈妈小了 18岁。69 年因为文革批斗导致外公外婆给妈妈和小留下一笔财富后就死掉了，是妈妈把小姨当成孩子一样看大，所以姐妹感情很深。\n你们听完后问道:“妈妈长什么样子呀?”\n“你们的妈妈可美了，是这世界上最美的女人。“\n“那妈妈现在在哪呀?”\n这时父亲指向一旁道:“看，她生完小芸后就变成这些小花了。你们答应爸爸以后要把我撒在这里，这样我就偿一直陪着她了。\"\n“撒在这里?”\n“哈哈哈，等你们长大就懂了……”\n和煦的微风抚动半人高的茅草，婀娜多姿地朝你们招据。一家六口坐在空旷的山顶，享受着难有的闲暇时光。这时父亲把裱装过的照片拿出来，你们都争先恐后地围过去看。你看要笑着说四弟面无表情,他也不甘示弱地调你笑得真丑。那天大家都很开心。也是自己在父亲怀里靠得最多的一天。月光很柔和，它把你的零星回忆包事起来，镀上一层滤镜。火堆，草丛，，名叫妈妈的小花和故事，更是有那一阵阵的笑声，这笑声传到空中，骐开来.\n两天后父亲带大哥去学堂上学了,之后大哥每天放学回来都会把当天学到的东西教给你和二姐，虽然你都是会很认真的去听，去记，但有些东西是没法理解。二姐则不同，她一用下来就会去翻阅大哥的课本，每次大哥教的东西也总是很快就能明白,但可能是家里没有富裕的钱再去供她读书导致她去和村里张阿学了刺绣。你知道自己不是读书的材料，于是安心在家帮着父亲做农活。后来小姨每隔几个月就会来家里一次，所有兄弟姐妹中二姐和小姨的关系是最好的，她经常会拿出新学的刺绣给小姨看，小姨也总会笑着说她聪明。另外许医生在那次事故后也经常来家里看望你们,并且每次来除了会带一些好吃的还给你们讲很多新鲜好玩的事,渐渐的,你发现这个人除了有点话多大嘴巴其他方面还是很好的,于是你们兄妹和他的关系也是越案越好。\n10 岁那年的一天，你们兄妹在外面玩，回家时正好看见村里的老胡在你家门口偷听着什么，生见到你们回来了便转头朝自己家的方向走去。\n你们来到家门口才听到原来是小姨和父亲在吵。\n小姨:\"如果不是我姐当初非要坚持，TA 怎么可能娶那个女人，那样我也不用来T市，如果不来T市也不会碰到那两个生。\"\n父亲:“以你们的关系你就不该喜欢TA，另外那两个人虽然可题但你也不能那样做呀，你姐如果活着也不希望看到你这样。\"\n小姨:“我也没想到时隔7年还见到TA，这就是上天注定要我们在一起再说你还有脸提我姐?你为什么当时不救她?\"\n父亲:“我对不起你姐姐，但我承诺过小莹会好好照顾你，所以当初我才原谅了你。”\n小姨:\"这么说我还得感谢你了?\"\n父亲:“那是你的事。之前我已经做到仁至义尽了，如果再有下次我决不饶你，\n这时你们近进了房间大门，她见到你们先是一愣，随即挤了个难看的笑脸后拿着一张纸夺门而去。\n你们上前去问父亲怎么了?他只是一边摇着头一边叹气道报应啊，报应。这种生活当中的小插曲时不时会出现一次,你本以为这种平淡的日子会一直持续下去，但3年后，一切都变了。\n那天一尽你站在房檐下慵懒的激口，突然发现嘴里的水从嘴角流了出来。自己的右脸像是不听使唤一样任凭你怎么努力也使不上劲儿。你赶紧将症状告诉了父亲，他端详着你的脸说:“你这个是半边瘫呀，是晚上被一口凉气吹到了脑子里，要找村里的张阿给你揉揉。”\n张阿姨你认识，二姐就是跟她一直在学刺绣。她叫张晴，人很漂亮，身材胖，笑容极具感染力。有一次你和二姐去张阿姨家玩的时候看到张阿在对着一块玉佩发朵，她告诉你们她曾经有个开赌场的远房表哥叫宋强，是个大眼双眼皮的帅气小伙，小时候对自己很是照顾。表哥同表嫂结婚一年后张阿姨便嫁到了这个村，嫁过来后同他们也没有什么联系了，之后她从报纸上看到他们夫妻二人死亡的消息时还伤心了好一阵子。\n你们来到张阿姨家说清来意后她把你拉到面前，一只手扶住你的头，另一只于在你右脸上来回操捏。这个让你痛苦万分的动作持续了一个小时后她终于开口说道:“回去用热水敷一敷，过段时间就好了。\n两个星期过去了，你感觉没什么好转于是找到了父亲，父亲告诉你没事儿，张阿姨的手法很好的，都揉好了几个了，再等等，会好的。\n这天清晨，你起来上厕所，屋外的意风吹得你直打哆嗦。刚提上裤子，你突然感觉右脸抽了一下，于是伸手一模发现自己的嘴竟然抽向右边回不来了。你害怕地跑回屋里照镜子，当你看到镜中自己的那一刻心彻底凉了，只见眼睛和嘴巴全都歪向一边犹如怪物一样。\n“呜!”你面对这样的自己哭了出来。\n父亲赶来后见到你的样子也是吓了一跳，赶紧将你抱起朝门外跑去。可到了县里的诊所一间才知道，不仅要住院，还要交对于当时的父亲来说是一笔巨款的费用。父亲带着你坐在诊所门前的台阶上低头抽着烟，过了一会儿他站起身来:“走。我带你去个地方。\"\n你们坐了好几个小时的车来到了D市的一个木匠家，屋里木居堆的满地都是，一个跟父亲年纪差不多的师博正用刨子在一块木头上机械地重复着。父亲走过去跟他说着些什么，还往他手里塞了50块钱。他脱下手套，去另一个房间的墙上将一个挂若的布袋子取下来打开，你看到里面是各式各样的针，只见他取出一根，直接扎在了你脸上，但是，除了一阵酥麻之外，你并没有其他感觉。\n\"太晚了，怕是会留下病根子，而且。还得在我这儿扎一个星期。”本工师傅给父条解释。父亲叹了口气，家里还有老四老五需要照顾，老大也不在，父亲只好回去并嘱咐自己这个星期就在这住着。虽然不舍得，但为了自己的脸能变回原样，你还是同意了。\n在这里你听到别人都叫他泰师傅，他腰间挂着一个刻着“张敏\"的银质刨子模型，非常精美。秦师傅告诉你他曾经在D市的一家家具厂工作，这个模型上的名字是厂长的，由于秦师傅在工作中得了先进，厂长便把这个挂件送给了秦师傅以表彰他的匠人精神。\n当时的厂长单眼皮，高鼻梁，不仅长的不错还是个特别有爱心的人。因为厂长的O型血是各医院最需要的血型，所以经常去献山，可惜好人不长命，在结婚4年后夫妻俩因为一起交通事故死掉了。从那之后工厂每况愈下，师傅为了谋生就开了这个小店。\n十几岁的年纪总是坐不住的，脸上扎着许多根针的你跑来看案师傅于活儿。他可以把一块不起眼的木头雕得精美绝伦,也可以把地上的几根烂术头做成椅子，\n你看得津津有味。“想学吗?”秦师傅笑眯眯地者者蹲在地上的你，你连连点头。三天后妇女节这天，你在店门口玩的时候正好看到小，只见她穿着一件黑色外套从人群中一闪面过，你刚要迫过去打招呼，只见父亲从另一个方向赶来，看来他还是放心不下自己，提前来了。秦师傅跟父亲商量了收自己为徒的事。父亲看着你，问你愿意吗，你想着，在家里闲着也是闲着，在这里能治病还能学一门手艺，将来能养活自己，也满口答应了。\n临走的时候，你将一个父亲将你举高高的木雕拿出来给了，这是你这几天做的第一个作品，虽然相糙，但父亲却爱不释手。看着他慢慢消失在雪里，只留下一排脚印，那个时候，你第一次有了真正离开家的感觉。\n学木工也不像自己想象的那么简单,没于过这种活的你经常会把手磨起水泡。秦师父对你也很严格，每一个动作都会让你练上很多遍。后来，父亲来的次数渐少了，但你也没有说什么，同时你脸上的病虽然好了很多，但已经不能根治，看起来还是有点歪斜。\n5年后的一天，你正在店里选合适的木料，门口响起了一个女声。“三哥蒞掖络篝敝郑你回过头来发现竞然是小妹，赶紧给她让到星里面坐。经过了解你才知道原来昨天小妹在学校门口被人欺负，是父亲和秦师父给她救了下来，这次过来是专门找秦师父道谢的。\n你听后告诉炮案师父刚好出差要过几天才能回来，虽然没能让小妹见到师父心里有点不痛快但毕竟你们兄妹好久不见还是有很多话聊的,你将秦师父的事情告诉了她，而她也将学校的所见所闻讲给你听……不知不觉你们聊了好几个小时外面天色渐渐暗了下来，小妹起身说要回家时你拦住了，毕竟一个女孩子晚上坐车太危险。你留她在店里休息了一晚，转天才选她去的车站。\n又过了3年，你终于小有所成，能做到跟师父差不多的水平，找你各种家具的人也渐渐多了起来，于是你瞒着父亲找师父借了点钱，再加上自己的，准备回T市开个小店，临走时秦师父甚至将一直带在身边的刨子挂件送给了你。\n城里的店面租金都很责，你找了许多家都没谈拢，直到你遇到一个姓李的老饭。这是个留着胡子50 来岁的中年人,单单的眼皮下一双不大的眼睛异常有神。在攀谈的过程中你的得知他以前是你师父的同事，都在D市家具厂工作，后家具厂不景气后他于 85年辞去了工作到T市发展，想不到之后生意越大才有了今天的成绩。你们越聊越投机，再加上秦师父的这层关系，原本租不起的店面被他降价租给自己，你也将他视作恩人。\n刚租下店面，自己的订单量少的可怜，于是你开始在做工之余还要四处奔走宣传，繁忙的事务导致你今年春节都没有回家。\n23 岁这年你收到二姐结婚的消息，婚礼当天你发现兄妹中只有你去参加了你问父亲其他兄妹为什么没来时父亲只是摇了摇头并没有说什么。喜实时你看着一对新人站在台上你有些高兴不起来，不知自己什么时候才能有女孩子喜欢，你叹了口气，草草的吃过饭便离开了。\n不知是因为二姐婚礼的刺激还是跑客户时常常受人冷眼的缘故，你的气开始变得暴躁，经常一个人自言自语的破口大骂，\n1年后的一天中午，你看见对面街上一样人在围观着什么，恰好自己手头上的事儿也忙完了，决定过去凑个热闹。你费力地挤进人群，却看见那个躺在地上招着腰痛苦不堪的人正是自己的父亲!“爸!你咋了，快，我带你去医院!”你一下把父亲背起来，推开人群朝医院奔去。\n到医院检查后好在父亲没什么大碍。\n\"爸，你怎么来城里了?”\n“老四好久没回家了，我来找找他……\"\n“老四咋了?”\n“他在外面没学好，唉。”\n你想起小时候他因为偷拿家里钱被父亲罚跪的事情继续道:“妈的，这小子从小就不老实，手脚也不干净，现在还把您害成这样，我逮到他非得打断他腿不河。\n“别，老四还小。是我没教好啊。”\n\"这时候了你还护着他，你从小……算了，你好好养病，别管他，饿不死。\"父亲住了两天院后，你送他回了家，家里死气沉沉的只有他一人。大哥一直没回来，二姐也嫁了人，老四在外面鬼混，老五还在上学。\n“爸，要不你跟我去城里，我那儿虽然小，但有您住的地方。”\n“没事儿，爸爸就喜欢住这里，你们都挺忙的，不用经常回来，我可以照顾白己。”\n又僵持了一会儿你见拗不过他于是嘱咐道:“那你这两天就别去干活了，把伤养好再说。”\n“老三，你在城里工作，有时间帮我找找老四，我放心不下他。”你听完强压着怒火敷衍道:“好好好，我帮你找，我抽时间再回来看您。回到了店里，满地都是还未完成的木头，你心很烦。你开始使劲儿地削着木头，右脸也开始抽揣起来，你了自己两个耳光，可右脸上的肌肉还是在跳，你把刨子扔在地上，将头埋在被子里。楼上大妇阀出的动静实在让你睡不着，你在床上翻来覆去，脑子里胡思乱想。你紧紧地抱着被子，把它幻想成一个女人，脸上的丑陋让你十分自卑，到现在都没怎么和女孩子说过话。你开始怪父亲偷心，开始怪他没有及时带你去医治，不然自己也不会这样，说不定现在已经结婚或是过得比现在好。在无尽的幻想与愤怒中你睡着了，你梦到你掉进一个深渊里，直都没掉到底。一周后，老四居然在门口叫你，你不想理他，但碍于面子不情感的下手套叫他鱭讓龃藐灮郑来о顥达坐。\n他笑道:“三哥，那个，实不相，我是想让你给我找份工作，呃，就在你这里打零工就行。”\n你端起桌上的茶水吹了吹，据了一口:“你在外边玩儿完了，现在想吃现成的想起找我来了?我学木工的时候也不见你给我说过一句宽心的话吧。\"\n他继续陪笑道:“三哥，你看你现在还有店面，我看你一个人也忙不过来，恰好来帮帮你，我不要多，你看着给工钱就行，再说了，我们这亲兄弟还用说啥呀，你说是吧。”\n“哼，工钱，好说好说，来，你现在把这杯茶下去，我让你做。\n他看了眼茶几上滚烫的茶水怒道:“老三，你别太过分啊。叫你三哥那是以前的情面，咱们一个屋檐下生活了十几年，你现在这样对我?”\n他不说还好，一说你就气不打一处来:“情面，哼，你在外面惹事的时候怎么不说给我留情面，咱爸对你那么好，为你做了那么多，你给他情面了?”\n老四听完后嘴角抽了一下吼道:\"少他妈在这儿教训我!”随后他抓起茶几上的茶水朝你泼来，你躲闪不及，只觉得脸上一阵刺痛。在你双手拍住脸的时候老四又过来对你一顿拳打脚踢。\n“呸，情义，还亲兄弟，都他妈是放屁!”最后他朝你吐了口唾沫便离开了店里。\n转天你怒气冲冲地回了家,“爸，你好好看看你宝贝儿子干的好事儿。”你指着自己睹肿发红的脸。\n父亲凄过来看了看:“你找着他了?他………”\n你没想到父亲一开口竟然还是老因那个王八蛋,于是还没等他说完你就冲着他吼道:\"我算是明白了,他是你几子我就不是?你躺在地上的时候教你的是我。你还惦记着他，他竟然打我啊!我脸成现在这样还不是你给抱的，你都没有关心过我，却一直满嘴地提老四，你还是我爸吗?\"\n你的右脸又抽搐了起来，你一脚蹦开房门，甩开后面父亲挽留你的手，一个人回到了店里,你花了一个晚上把店里打理好,你要努力干活,你要让父亲看看，他一直看重的老四是个废物。往后的2年你再没回过家，也没有和其他兄妹联系，每天夜以维日地工作，想着自己赚大钱的那天。\n10月3号这天，你在逛街时遇到了小。遂的她一起到附近一家叫浅红的饭店吃饭。这家饭虐上个月底开业后你来过几次，发现菜的味道很棒，为此你还特意办了他家的VP卡。饭店虽然所在的道路很窄，但紧邻步行街且门口的装修非常豪华，大门外还有一个套着小熊头套穿若玩偶服的接特在和来来往往的人群互动，看得出老板是花了心思的。\n你们来到饭店已经下午5点多了，刚要进门就发现从店里出来的大哥，他见到你显然有些意外，你让他陪你们吃饭时他一再推脱，但你念者他小时候教自己和二姐读书写字的情谊再加上兄弟许久未见于是强行给拉到店内。你们在一个靠窗的餐桌旁坐下，就在你们准备点餐时竟然又看到二姐从大门口走了进来，\n“二姐?\"你冲她招了招手。\n她回过头看到你们也是愣了一下。犹豫了片刻还是坐了过来。你发现小姨变化不大，她棕红色的卷发搭配着精致的妆容，胸前项链末瑞挂着一个双手捧珍珠的吊坠，整个人虽然已经50出头，但白暂的皮肤加上修长的身材一点也看不出老态。反观二姐则仿佛爸老了很多，无论是手上的老茧还是脸上的皱纹感觉都不像是这个年纪该留下的痕迹。而大哥无论是穿着还是打扮虽然比自己稍逊一筹但他身上的那份成然和男子汉气质依旧不减当年。你感慨了一下，想到你们小时候的样子如今真是时过境迁。\n你看的出二姐和大哥貌似有矛盾，二人之间的沉默导致饭来上气氛非常尬。而小姨似乎也发现了这一点，于是你俩见缝插针的一直在找着话题打场。过了一会儿，你从窗外看到穿若绿色外套、怀里抱若一个哭同孩子的李老板从旁边经过，这时小姨放下筷子说自己还有点事情便离开了。小走后本就尴尬的饭局更加槛价了，终于大哥在8点多时起身告别了你和二姐。大哥走后气氛顿时缓和了不少。你和二姐又聊了聊童年的往事后便彼此告别离开了。\n10月7日你一睁眼已是上午10点，打开电视发现一连4天了，每天这个时间都是重复头中男在本市再次作案的新闻。头巾男你小时候听村里长辈们说起过,是个人贩子,据说以前经常拐卖孩子,后来渐渐的就没有再出现。由于每次作案部会用头中将头事住，只能隐隐约约见到从头巾下露出来的胡子因而给起了头中男的外号。\n你无奈的将电视关上，正想再睡会手机突然响起，是一个陌生号码，接起后发现是警察，当对方告知你父亲在巷子中被人杀害的消息时你仿佛五雷轰顶。\n来到派出所，一进门就看到大哥和二姐红着眼睛望着你。\n认尸时你第一次这么仔细地看父亲，他骨很高，两鬓斑白，淡无光的脸上布满皱纹。他的腿因常年风湿已经变形，从前宽大的臂膀竟变得如此瘦小，而头部一块一块的猩红色异常刺眼。\n一股巨大的悲痛感从心底升起:“爸，几子来晚了，儿子不该把您一个人留家里。对了爸,您是在跟儿子开玩笑对吧，小时候您经常这么逗我开心,对不对，你说句话啊爸……”你剧烈的据晃着父亲那冰冷的身躯，泪水如泉涌般喷出。旁边的民警赶忙将你从尸体旁拉开然后将你扶到门口的长椅上休息\n在老四和小妹相维赶来后办案民警说尸体今早被发现在一个偏僻的巷子内，头部遭受连续重击致死，身上财物丢失疑似抢劫杀人，死亡时间初步确定是昨天下午3-8点之间，并表示会尽快找到凶手。\n从警局出来后你才发现小妹变化好大,以前她是你们兄妹中唯一一个单眼皮的孩子，如今不仅去割了双眼皮，还涂着艳丽的口红，打着白的粉底，整个人的气质与当初截然不同。不过你并没有在意，草草和其他兄妹留了联系方式便回去了。之后的日子里你仿佛行尸走肉般生活着，虽然工作还在继续，生活还在继续，但最爱你的那个人已然永远的离开了你。\n2006年12月6日这天你突然收到了一条短信，短信的内容是一名自称是李律师的人说王金荣老先生在半年前检查出了肝癌，委托他在自己死亡的2个月后将家中房产、耕地及其他遗产分给你们5兄妹和小。他本以为老先生还能撑个几年，没想到竟突然出现意外，约你后天前往集合地点，会有人接你们前往T市郊外的零钥山庄领取。\n其他遗产?你突然想起有一次小姨请你们全家吃饭时确实听父亲提起过家里有个十分珍贵的东西，那天父亲喝了不少酒，你当时还以为是酒话。没想到竟然是真的。零钢山庄又是哪里?你导航了一下发现并没有这个地方，虽然心中存有疑虑但还是决定去一探究竟。\n当天下午，你如约到达了集合地点。面对从小生活在一起的他们，虽说都是一家人，但你还是感觉到了一生分……你们正聊着平时的过往，赵芳婚娜来迟。她刚来没一会，一辆黑色商务7人轿停在了你们面前，一名中年男子从驾驶位走了下来自我介绍道:“我姓罗，是零钥山生的管家，想必各位就是庄主的客人吧。”\n“庄主?我们是李神师邀请来的。”大哥上前一步说道\n“哦，李律师就是庄主。”罗师傅答道。\n“他人呢?没在?”四弟问道。\n“庄主吩咁我先带各位回山生,他今天被一些事情搁了,要晚点才能到。”你们相互看了一眼，也没说什么便随罗师傅上了车。\n过了不知多久，车子停了下来，罗师博说道:\"各位下车吧，前而是吊桥，必须步行，过了桥就到了。下车时慢点，今早刚刚下过今年的第一场雪所以地面比较滑，大家小心一些。”\n你看了看表，已经晚上6点多了，抬头时你突然发觉周围的场录似手有些眼熟，但却想不起在哪里见过。你没有在意，跟着罗师傅走过一个U型山路，等到了山的另一端果然看见白茫茫的雪地中躺着一座不太长的吊桥,由于天已黑的缘故，看不太清桥对面的建筑，只能凭借吊桥尽头拱门上的灯光看到“零钥山四个大字。\n他带着你们过了吊桥，穿过走廊来到了最近的建筑，据罗师傅说这里是1号房，用智和一些娱乐活动都在这里。\n你们进到大厅，发现这里是一个二层的公共区域，一层是前台、厨房、衣帽间、管家房、储藏同等地，二层是休息室、卫生间、餐厅和书房等\n罗师傅带你们六人去衣帽问换下外套后来到前台指了指墙壁上的地图说道:“这里是山庄的鸟瞰图，我现在给大家发钥匙。\n\"房问都给我们安排好了?”小姨问道。\n“对，庄主已经续一安排好了，王景芸2号房，王景桓是3号房，赵芳是4号房，王景明是5号房，王景媛是6号房，王景天是7号房，最后庄主自己住0号房。”管家一边发钥匙一边继续道,“由于这个钥匙国内目前配不到，所以大家都妥善保管好，如果弄丢了可就进不去房间了，除非等庄主回来，他那里还有一套备用钥匙。”\n“李律师今晚就能回来是吧?”小姨继续问道,“他是这么跟我说的，请问您有什么事吗?\"“哦没什么,我这公司还一堆事情等着我去处理呢,不能光在这里耗着啊。”大哥突然没好气的说道:“最好现在就回去处理，您这家大业大的，在这儿多待上一天损失大了可划不来。”\n“我要去哪用不者你管,”小姨有些不开心的盯者大哥道。\n罗师傅皱了皱眉:\"书房是庄主的私人房问所以是上了锁的，连我也没有钥匙，其他地方大家可以随意参观，晚饭过会儿就好。二楼餐厅旁边有休息室，累了可以在那里稍作休息，由于这里没有信号所以如果大家想打电话可以到前台来，这里有一部。庄主之前交代说他今晚8点半前回来，如果到时不来就让各位回房歇息，明天早上7点在他所住的0号房集合。哦对了，由于木柴要过几天才能送来所以各个房问的壁炉暂时没法生火，大家晚上睡觉时多盖些被子吧，别着凉了\n你们听后也没什么异议，一起朝二楼餐厅走去。你们围坐在餐桌前边剥着桌上的花生边聊着家常，小姨则说了句自己对花生过敏就坐到一边看书去了。\n过了约半个小时，终于开饭了，罗师傅将餐桌收拾干净后端上一道道美味的\n菜肴，面这时小姨也合上书坐了过来。饭桌上碰杯声不绝于耳，你看着眼前的众人，感良多，毕竟大家坐在一起吃饭的场景在你离开瓦房后就很少有过了,有那么一瞬间你感觉仿佛回到了小时候，\n在这种令你高兴的环境下你不知不觉喝的有点多了,这时罗师傅端着一条清蒸鱼走了进来，“大家慢用，这是今天最后一道菜了，过后我给你们准备甜点。你看她离开后起身道:“你们吃，我饱了。”\n二姐在一旁劝道:“景明，这才7点40，这么久没见了不坐下说说话吗?反正李律师也还没来，这么着急走干嘛?\"\n你听后拿出手机看了看，确实才7点40,但醉酒的眩晕感让你十分不舒服，于是推脱道:“你们聊你们的，这酒我喝着有点上头，现在离8点半还50分钟呢，先去休息室歇会儿。”\n你去到衣帽间拿了外套,目到休息室将外套盖在身上后便倒在沙发上昏昏沉沉的睡了过去。不知过了多久，你觉得有人在摇你的身子。你睁开眼发现是大哥他们，小妹\n冲你说道:“三哥，回去了，李律师没能赶回来。”你睡得正香，不想被打扰，于是朝他们哪道:“你们先回去吧，不用管我。转天早展，你从休息空的沙发上醒来，据了摇宿醉的脑袋醒了醒吨。去洗手间洗激后便拧开门锁走出了1号房。\n来到外面，你发现天还没亮，于是借着朦胧的月光朝0号房走去。快到时，突然见到远处有个人影蹲在0号房门口，那人似乎也察觉到了你，于是起身朝你的方向望了过来。待离近你发现原来是小妹，你们互相打过招呼后你拿出手机看了看，6:55。刚准备敲门时你注意到房门虚掩着并没有锁，推开门看见大哥和二如正站屋内似乎很慌张的样子，你们走过去问道:“大哥，二姐，你们这是?”\n“小姨和李律师死了。”大哥回道。\n你不敢相信的“啊”出了声，赶紧凑上前去，只见小姨和一个男人穿着鞋子从头到脚衣着完好的并排躺在床上。\n你仔细看了看那具男尸，竟然是李老板，正纳问时大哥递过来张纸，“这里有封遗书。”\n你和小妹接过来发现果然是遗书且落款正是李律师，这时大哥在一旁骂道“妈的，电话打不通!”\n“你们在干嘛?\"\n你转身看见四弟正站在门口处望着你们。\n小妹冲他解释道:“两条人命，李律师杀掉小后白杀了。他震惊道:“小姨死了?还有李律师为什么要这么做?”小妹回道:“不知道，这要间问罗师傅才行。”\n这时你们看到屋内有个对讲机，于是赶紧呼叫他过一趟，\n等待的过程中你突然注意到床上死掉的李律师竟然是李老板,正在你的闷时罗师傅慌慌张张的赶了过来。你们把事情的经过跟他做了简要的说明，他听完后说道:“不光是这里，1号房前台的电话线昨天夜里也被人剪断了，目前的情况看是不是自条现在还不好说,如果不是自杀的话那杀害他们的凶手可能就在我们之中。四弟吼道:“放你妈的屁，我们兄妹怎么可能杀人，我看这件事八成就是你干的。”\n罗师傅冷笑一声,从怀里掏出了一个警官证道:“我是T市市局的刑警罗辉。首先我为我之前隐瞒身份的行为跟各位说声抱歉，另外我来这里是执行任务。每天早晨8点会向队里报告昨天的情况,如果他们没有收到我的报告则会立刻出警朝这里赶来，我希望大家在这段时间内尽可能的配合我。\n",
+            "r_q": [
+                {
+                    "q": "Why did the doctor ask Wang Jinghuan to give the little sister a blood transfusion in the end of this script? a. Wang Jinghuan's blood type matches his younger sister's. b. Wang Jinghuan is the only one willing to donate blood. c. The hospital lacks blood supply. d. Wang Jinghuan's blood type is the most suitable",
+                    "ans": "d"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Why did the doctor ask Wang Jinghuan to give the little sister a blood transfusion in the end of this script? a. Wang Jinghuan's blood type matches his younger sister's. b. Wang Jinghuan is the only one willing to donate blood. c. The hospital lacks blood supply. d. Wang Jinghuan's blood type is the most suitable"
+            ],
+            "a": [
+                "d"
+            ]
+        },
+        {
+            "name": "Wang Jingyuan",
+            "back": "“喂?知道了我马上就回去。”\n你挂掉电话直起身子向外看了看，夕阳西下，热闹了一天的市场顿时宁静下来。白天生机盎然的街道，在夜的朦胧中穿上了缥缈的睡衣，好似睡去了。你捋了捋凌乱的头发并深深地叹了口气,应该是自己太累竟然在市场的长椅上睡着了。疲惫的你起身刚要离开，脚下一个不稳又直直的坐在了地上。你赶忙把从篮子里掉出的菜重新收拾好，看着身上的泥污，眼泪一滴滴地滚落下来。你蹲在地上放声大哭,也许正因为这难得的安静才敢将自己的情绪全部宣泄出来。回家的路上，路过市里的居民小区，落地窗里的一家几口正开心的吃着晚饭，这么多高楼大厦，到底什么时候才能有一间是属于自己的。\n打开门，儿子在沙发上翘着二郎腿看着电视，根本没有看你一眼。你早已习惯了这种冷淡，但更过分的还有婆婆的使唤和谩骂。忍过这一切，回到房间躺在床上，脑中全是瓦房里幸福、快乐的时光……院子里有一座老旧的双层瓦房，瓦房旁边的茅草屋内有一头牛在吃草，屋旁还有几只鸡鸭在打斗玩闹。朝外看，就是蜒曲折的山路，路边果树上的绿叶青翠欲滴，到了秋天，就会结出又大又甜的果实，树下是郁郁葱葱的青草，父亲每天都会割一些去喂牛--这就是你在T市农村的家。\n你叫王景媛，今年27岁，是家里的老二。上面有一个大哥景天，下面是三弟景明、四弟景桓和小妹景芸。你们兄妹5人彼此相差1岁。你从小没有见过母亲，父亲比你大43岁，他叫王金荣，是地地道道的农民，靠种田为生。山上的土地没有平原肥沃，因此每年的收成不多，只能勉强糊口。\n兄妹中三弟和村中同龄孩子相比略显稚嫩,大哥则与他同龄的孩子相比更加显得稚嫩很多。但即使如此，你和大哥还是要比家中的其他孩子成熟，于是大哥每天都要跟着父亲种地放牛，而你负责抢柴制草喂牲口。\n那天你等在桂花树下，这里是你每天傍晚都会等父亲回家的地方，给辛劳一天的他递上一瓢水、一块擦汗巾，父亲每次擦完汗都会把你抗在肩上转圈圈，夸你是他的贴心小棉袄。\n天渐渐黑了下来，你许久都没有等到那个肩扛锄头的顾长身影，于是你沿着父亲案时的路寻了过去。走了一会儿你发现周围的环境已经非常陌生了，当你再想往回走时早己不记得路线。风吹过树叶的“沙沙“声配上聒噪的蝉鸣让你害怕极\n\"爸爸!爸爸!你在哪里啊?”\n你绝望地边哭边摸索回家的路。不知怎的，你找到了一个山洞，山洞很小，差不多只能容纳一个人。你蜷缩在洞里，身体不停地颤抖。\n过了许久,突然一束强光出现,你揉了揉眼睛,看清了那个拿着手电简的人，是父亲。他一见到你，紧皱的眉头顿时舒展开来，蹲下身子将你抱起，用袖口了擦你满是污泥的脸，嘴里念叨着:“谢天谢地，还好没事。”\n而你却把积攒一整晚的委屈发泄了出来，捶打着他的胸口，边擤鼻边哭:“你怎么才来啊?我还以为你不要我了!”\n“爸爸怎么会不要小嫒呢，看这是什么?”只见他从怀里掏出一块手帕，递到你面前。\n你打开一看，是两个漂亮的小夹子!夹子上的图案是两颗红红的中间带有黑点点的果子,果子上有一片绿叶。你问父亲这是什么果子,父亲回答说这是草莓，一种又酸又甜的水果。非常好吃。你听后砸吧了一下嘴。父亲抱着你回家时，你一直盯着夹子上的图案，你知道家里困难，所以并没有奢求父亲买给自己\n转天夜里，你睡前刚想熄灯，父亲便悄悄进门，手里竟然拿着一小袋草莓和几株草莓苗，你看到草荐一边拍手一边开心的跳了起来。这天你第一次吃草荐原来真的是酸酸甜甜的。\n爸爸，草莓真好吃，你也吃一个。\"\n\"爸爸不爱吃，小媛吃就好。”\n你知道父亲是不舍得吃，于是说道:“等我长大了，一定种好多草给爸爸吃，到时候不许说不爱吃。”\n父亲高兴的点头答应着。\n渐渐地，父亲与你的笑容融进了朦胧月色中，月光又冷又清，淡淡的、柔柔的，如流水一般穿过窗户静静地泻入屋内，将地板点缴得斑驳陆离。你在父亲的陪伴下进入了梦多。双手还握着夹子……\n你7岁那年，小妹不知怎的从楼梯上掉下案流了好多血。你和大哥、三弟陪着父亲将小妹送到医院。医生检查之后告知父亲小妹失血严重需要马上手术，只见父亲毫不犹豫地颤抖着双手在医生递过来的纸上写着什么。\n“医生，能不能先给我女儿做手术?这钱会慢慢凑的您放心.…我…….我跪下求您了.”\n“您这是做什么,快起来,教人治病本来就是医生的天职,收费是医院的事，放心，我会尽力教你女儿的。\n“谢谢医生!谢谢医生!\n这时一个护士跑了进来急道:“许大夫,血库里面孩子需要的血已经没有了。”许医生听后马上冲出了办公室，父亲见状也急忙跟了出去。\n你在远处看到父亲冲许医生拍起左臂的袖子边走边说着什么，许医生听后摆了摆手跟父亲回应着,父亲犹豫了一下又和许医生说了一些什么后许医生停下了脚步。他朝你们的方向看了看，回头又问了问父亲，见父亲点头后许医生赶紧让一个护士带着你们去验了血。\n验血后医生说父亲和大哥的血型一样，但他们与小妹不能互相输，最后还是由最匹配的三弟给小妹输的血。和三第一同给小妹献血的还有个姓靳的叔权，他还掏出一个刻着龙已经损坏的怀表说自己曾经重伤时也是被人输血才得的救,现在就当作回镀社会了。\n在医院等待的时间永远是那么漫长。终于，手术门开了，父亲赶忙冲过去抓着一个护士的手，边晃边询问小妹的情况，旁边的医生见状给父亲叫到一边不知跟他说着什么，只见父亲对着医生一连五六次鞠躬致谢。\n当天晚上你普父亲留在医院照顾小妹,第二天回家后竟然发现家里的牛和鸡鸭都不见了,忙间四弟怎么回事,四弟说可能是为了给小妹看病将牲畜都卖掉了。于是小妹痊愈回家后你也没怎么给她好脸色看。\n后来为了庆祝小妹康复出院，父亲决定在儿童节那天带你们去城里玩。这是你们第一次全家一起出去玩，路边山花开了，阳光正好，风不。来到里，父亲带你们逛集市，这里有一个叫便利店的地方，好吃的、好玩的。应有尽有!你第一次吃到了冰淇淋，原来世界上还有这么好吃的东西。\n到了下午，你们经过一家照相馆，这里的店员说今天拍全家福半价，你们问父亲全家福是什么，他说全家福就是一家人一起拍的照片，问你们想不想拍，你忙不迭地点头，其他兄妹也是如此。父亲犹豫了一会儿，看着你们期待的眼神，便点头答应了。\n刚要进门正巧碰到一个打扮洋气的女人从里面出来,父亲和那女人见面时彼此都愣了一下，只听父亲开口道:“这么多年没见了，你还好吗?”\n还好，孩子们都这么大了。”\n父亲赶忙拉着你们道:\"快，叫小姨。\n“小姨。”你们听话道。\n小姨笑道:“真乖，等小姨有空去家里看你们给你们买糖吃。”“以前的事情都过去了，没事就来家里坐坐吧。\"\n小姨听完父亲的话点了点头后就转身高开了。\n父亲望着她离去的背影叹了口气便领你们进了照相馆。\n·切准备好后父亲给你们排位置，“景天，你站中问，景明景桓站你大哥右边，最媛景芸站你大哥左边……”\n摄影师见你们都准备好了于是喊道:“好，站好别动啊，别眨眼，3,2,1”“茄子……”\n“咔嚓”一声，时光仿佛静止。一切都定格在了那一刻。\n过了几天,来家里作客的村长不知和父亲聊了什么,他走后父亲心情特别好，于是当天下午带你们去城里取了照片。从照相馆出来后你诧异的发现父亲并没有带你们回家，而是坐了好几个小时的车，终于在天黑能来到一个高山上。\n父亲告诉你们他和妈妈在11年前结的婚，而这里是他和妈妈第一次见面的地方，也是他觉得最美的地方。父亲还说妈妈叫赵莹和自己同岁，小叫赵芳，比妈妈小了18 岁。69年因为文革批斗导致外公外婆给妈妈和小留下一笔财富后就死掉了，是妈妈把小姨当成孩子一样看大，所以姐妹感情很深\n你们听完后问道:“妈妈长什么样子呀?\"\n\"你们的妈妈可美了，是这世界上最美的女人。\n“那妈妈现在在哪呀?\"\n这时父亲指向一旁道:\"看，她生完小芸后就变成这些小花了。你们应爸爸以后要把我撒在这里，这样我就能一直陪着她了。”\n“微在这里?”\n“哈哈哈，等你们长大就懂了……”\n和煦的微风抚动半人高的茅草，婀娜多姿地朝你们招摇。一家六口坐在空旷的山顶，享受着难有的闲暇时光。这时父亲把裱装过的照片拿出来，你们都争先恐后地围过去看。你看罢笑着说小妹的眼睛眯成了一条，她也不甘示弱地调侃你说你笑得真丑。\n那天大家都很开心，也是自己在父亲怀里掌得最多的一天。月光很柔和，它把你的零昆回忆包裹起来，镀上一层镜。火堆，草丛，，名叫妈妈的小花和故事，更是有那一阵阵的笑声，这笑声传到空中，飘散开来……\n两天后父亲带着大哥去学常读书，你十分羡幕，你问父亲自己什么时候能去上学，父亲说家里没有钱供你读书了，你听间跑回房间哭了很久。过了一会儿父亲来到你身边坐下安慰你，跟你讲道理。后来，他告诉你他托张阿姨教你刺绣，让你有一技之长，将来好有立足之地。\n你沉默了一会，试探性地问道:“真的没有办法了吗?\"\n只见父亲叹了口气摇摇头，你见状便没有再多说什么，含着泪水答应了张阿姨叫张晴，人很漂亮，身材微胖，笑容极具感染力。有一次你和三弟去张阿姨家玩的时候看到张阿姨在对着一块刻着“娟”字的玉佩发呆，她告诉你们她曾经有个开赌场的远房表哥叫宋强，是个大眼双眼皮的帅气小伙，小时候对自已很是照顾。表哥同表嫂结婚一年后张阿姨便嫁到了这个村，嫁过来后同他们也没有什么联系了,之后她从报纸上看到他们夫妻二人死亡的消息时还伤心了好一阵子。\n虽然你在张阿姨家学刺绣,但一天之内你最快乐的时光还是傍晚时分大哥把当天学到的知识教给你和三弟的时候,那时你的双目总是有神,耳朵竖起来生怕错过了什么，更是一闲下来就会去翻阅大哥的课本。对知识的渴望致使你想上学的念头还是会时不时的冒出来,但想到家里弟弟妹妹们都不能去学业于是便没有再和父亲提过这个要求。\n自从在照相馆见到小姨后，她每隔几个月就会来家里一次，所有兄弟姐妹中你和小姨的关系是最好的，你经常会拿出新学的刺绣给她看，她也总会笑着说你聪明。另外许医生在那次事故后也经常来家里看望你们，并且每次来除了会带些好吃的还给你们讲很多新鲜好玩的事，渐渐的，你发现这个人除了有点话多大嘴巴其他方面还是很好的，于是你们兄妹和他的关系也是越来越好。\n3年来你刺绣的手艺有了些起色，张阿直夸你聪明。她很有耐心，总是手把手教你们，不仅如此，你跟她还学会了织毛衣、截衣服等技术。\n批在你 10 岁那年的一天，父亲竟然送因弟和小妹上学了!\n等他回到家你叉着腰质问道:“爸，你不是说家里没钱了吗?那你是哪来的钱送他们上学的?\"\n父亲怔了怔:“这几年你大哥打零工，赚了些钱……\"\n凭什么?凭什么那个害人精就可以去上学，我不能?”\n什么害人精?\"\n你想到父亲跟你们说妈妈生完小变星星的故事,又想到之前给小妹看病类掉的牲畜于是怒道:“我说错了吗?小妹就是害人精!克死了妈妈，还害现上不了学!”\n父亲一巴掌扇到你脸上骂道:“混账!”\n你招着脸含泪道:“爸。你竟然打我?你为了她打我?我讨厌你!”你在河边哭了很久，父亲为了补偿你，带你去集市买了新衣服，还给你买了草莓。你第一次知道，原来草莓这么贵，比自己之前吃的所有水果都贵。你想起了之前在院口种的草葬苗，过了没多久就死了，后来父亲又买了草苗，但一直都没有种成功。\n转年有一天你们兄妹在外面玩，同家时正好看见村里的老胡在你家门口偷听着什么。他见到你们回来了便转头朝自己家的方向走去。\n你们来到家门口才听到原来是小姨和父亲在吵。\n小姨:\"如果不是我姐当初非要坚持，\"怎么可能娶那个女人，那样我也不用来T市，如果不来T市也不会碰到那两个畜生。\"\n父亲:“以你们的关系你就不该喜欢TA，另外那两个人虽然可恶但你也不能那样傲呀，你姐如果活着也不希望看到你这样。\"\n小姨:“我也没想到时隔7年还见到 TA，这就是上天注定要我们在一起再说你还有险提我姐?你为什么当时不救她?”\n父亲:“我对不起你姐姐，但我承诺过小莹会好好照顾你，所以当初我才原谅了你。”\n小姨:“这么说我还得感谢你了?”\n父亲:“那是你的事，之前我已经做到仁至义尽了，如果再有下次我决不饶你。”\n这时你们近进了房间大门，她见到你们先是一号，随即挤了个难看的笑脸后拿着一张纸夺门而去。\n你们上前去问父亲怎么了?他只是一边摇着头一边叹气道报应啊，报应这种生活中的小插曲时不时会出现一次，后来大哥和四弟小学毕业后就都去外面打工了，三弟在一次中风后被一个木匠收了做学徒，小妹则是全家唯一一个还在上学的，而你也在17岁那年去到纺织厂上班。\n3年间你虽然类力工作但收入并不高，主要也是跟厂子效益一直不太好有关但后来多亏了一个姓字的老板融资后才缓了过来。李考板是个留着胡子的40多岁中年人，单单的眼皮下一双不大的眼睛异常有神。他常常同厂长一起下车间考察工作，有一次午体你制绣时被李老板撞见，他拿过你的东西仔细看了看后连夸你手艺好，从那之后你便受到了厂长的重视，不仅给你涨了工资，很多有钱人家定制的衣服也都交由你来修。大哥时不时也会给家里寄一些钱，父亲知道你有银行卡后便每次在你回家时将之前寄过来的现金都拿出来交由你保管。\n这天你正在跟姐妹逛街,无意中看到了小妹的身影,她正在跟一个男孩子玩手上还拎着大大小小的购物袋。\n你十分好奇，便借了同事的自行车一路跟着他们，回到家中。你看她将手中的购物袋不停的向后藏，于是过去一把扯过来讥调道:“呦，你什么时候这么有钱了?偷的还是抢的?还是勾引哪个男人……\"\n\"我没有!”\n父亲这时劝道:\"你怎么能花别人的钱，怎么能让别人给你买东西，你现在\n还小，要好好学习，处对象可以等你长大后再说。”你想到以前的种种，冷漠的开口道:\"爸就在你身上花钱最多!送你上学却要我在家工作供着你,凭什么?早知道这样当初就该让我去上学,你个赔钱货!”小妹一把推开你们瞪着你吼道:“谁是赔钱货，我王景芸用不着你的钱。\"随后她又把头转向了父亲:“她给我买东西怎么了?从小到大你给我买过几样东西?我上学的书包和书都是哥哥的，我穿的衣服是姐姐的,就连我睡的床单都是旧的!说罢从你手中抢过购物袋跑回屋中。\n你见软不满道:“爸!看这就是你给惯的!”\n父亲并没有接你的话，而是忙跑进房里，把家里好吃的拿出来。因为你很久没有同过家了,他一个劲问你工作上、生活上的事儿,同你有没有把自己照顾好。有没有受到什么默负………你的眼泪在眼睛里打转，你不想让小妹看笑话，于是借口厂里还有事婴做便离开了家里。\n1年后的一天，你正好在家，小妹把那个男人带了回来。吃饭时你了解到他叫李墨生，比小妹大1岁，家住在县里。父亲叫李晋，早前在D市一个家具厂担任会计，后来在李墨生4岁那年去T市挣钱，音讯全无。4年后他和妈妈来T市找才知道父亲早就在这里又有了一个相好的，于是妈妈和李晋在那年离了婚，他还说母亲告诉自己父亲有个小1岁的弟弟叫李，和父亲一样单眼皮小眼睛，在自己还没出生时就去T市阿荡了，之后时不时就会买东西回来看望他们娘，不过后来听说为了让妻子过上好日子沾上了赌博，还欠了很多钱，还清赌债后夫妇俩在自己1岁的时候白杀了。没想到父亲听完盯着李墨生看了看之后放下筷子便回了屋，你追进屋内问询得知父亲不同意这个事情，让小妹趁早断了念想，反正你也对小没什么好感，便也没怎么在意。\n转天，你穿着新衣服去看望张阿姨，其他姑娘们纷纷投出羡慕的眼光，直夸你的新衣服美，就连张阿姨都夸你是村里最美的一朵花。你很享受这种众星捧月般的感觉，之后时不时的便会去买些新的衣服和化妆品，其至动用了大哥放在你这里的钱。\n24岁那年你回家过年，没想到大哥竟然向你提起钱的事。你支支音音的道:\"那个……大哥，你之前也没说这钱你还要拿回去啊。“大哥通问道:“你把钱花了?你花哪儿了?\"\n“我……我买衣服和化妆品了，我这不是还要存嫁妆……\"他听后跟跄了一步随后怒道:“你怎么能花在这么不正经的地方?谁他妈让你动我的钱的!那是我结婚用的钱啊!\"\n你听后委屈哭道:“那钱是咱爸给我的啊，你怎么能怪我?再说你从小到大从来没给我花过钱，就知道给小妹交学费，你怎么这么偷心。”\n\"我为了咱家生计从小开始打工，我一赚到钱就给你们了，自己舍不得吃会不得穿，把最好的都留给你们!你非但不感激，还怪我偏心?你良心被狗吃了?\"说罢他转身离开了家里。\n父亲见状急忙追了出去，但最后还是没能将大哥留下，\n大哥的离开，三弟与小妹的未归导致这个原本和睦的家庭变得支离破碎，草草的吃过年夜饭便睡下了。\n转天，一切都变了，当邻居还在吃团圆饭时，你们家却被别人泼了油漆。原来是四弟欠了赌债，债主找上门来了。你们一家人跑到张阿姨家躲债，你抓着四弟的领口问他欠了多少，四弟沉默了半天也没说出个数字。你见状气不打一处来，直接给了他一巴掌，使劲地捶打着他的胸口，父亲赶紧过来拦住了你，说他会想办法还钱的。\n一个月后父亲来电话说给你谈好了一门婚事。原来几天前，父亲从前的挚友找到父亲说他儿子的老婆去世了，还留下了一个七岁的孩子，问父亲不能让未出嫁的女儿嫁过去照顾他们父子辆，父亲当场就拒绝了。但挚友说他儿子品行、相貌端正，在一家知名私企当经理，会好好照顾未来妻子，并且承诺会替你们家还清四弟欠下的所有债务，父亲有所动摇，便应了下来。\n你听完气愤道:“爸!我的婚事关乎我一辈子，你为什么都没跟我商量就答应了?”\n“我当时也没想那么多，毕竟我兄弟的人品我是知道的，他教出来的儿子不会差。你也不小了，爸爸也想给你找个好归宿啊。\"\n“我知道你想替四弟还钱，但你也不能牺牲我的幸福啊!\"\n“爸爸是想尽快还钱，但是也想给你找个好人家!\"\n“他结过婚，孩子都能打酱油了，这就是你说的好人家?为什么是我?凭什么是我?你不是最喜欢小妹吗?让她去嫁啊?”\n“小嫒，你别任性，你小妹还小，他虽然有孩子，但是会好好待你的。你深吸了一口气问道:“因弟欠了多少钱?\"\n“40万。”\n听后你险些站立不稳，对你来说这简直就是一串天文数字，你在电话的一头泣不成声，但还是无亲地等应了。\n几个月后你们举办了婚礼。婚礼当天只有三弟过来参加了，而张阿则拿出了那个珍藏多年的玉佩，她据着你的手说这个玉佩是她表嫂生前在张阿姨结婚时送给她的，现在送给你，让你嫁出去后不要忘了常回来看看，婆婆第一次来自己家，眼睛里充满了嫌弃，丈夫黄杰则来回敬酒，忙得不可开交。\n婚礼结束之后，你和丈夫来到了S市的新房，新房很大，装饰很美。黄杰相貌堂堂，一身西装革履十分有气质，你见他的第一眼，心里就接受了。后来，丈夫让你辞去了工作并把他儿子和母亲接了过来，希望你能全职太太照顾他们。丈夫对你很好，会给你钱让你买衣服、和朋友出去玩，但是他经常出差，一走就是几个月。丈夫在家时，婆婆和儿子对你都挺客气，但是他一离开，他们就会对你很刻薄，一个劲地挖苦你。\n儿子总是叫你坏王后，在他眼里，后妈都是坏蛋。有一次，他作业不会写，你过去辅导他，他竟然骂你是没上过学的多巴佬，各种嘲笑你。婆婆让你包揽家中一切家务，还说家里不养闲人，她自己却一天到晚打麻将。结婚转年，青年节这天你在市场看到了小姨，只见她穿着一件绿色外套从人群中一闪面过，你追了过去并跟她换了联系方式，刚到家就发现四弟在门口等你。他又赌输了，一张口就我你要5万，并再三承诺不会再赌了。你动了侧隐之心，但你也拿不出那么多，于是偷偷给他1万块钱后把他打发走了。\n2年后有一天你提着在家乐福买的米和油准备回家时刚好碰到四，他说要找你要小姨的联系方式，于是你掏出刚刚的购物小票写给了他，临别时他告诉你之前找你借的钱会尽快还上，让你放心。想不到这话被不知何时站在旁边的婆婆听到了，她对于你偷偷借给四弟钱的行为非常气愤，骂你是丧门星，骂你们一家都不是省油的灯，并把你赶出了家门。\n此时丈夫在外出差，你打电话怎么也打不通，无处可去的你回到瓦房，看着从小生活的地方痛哭起来。\n一个声音从远处传来:“女儿回来了?\"\n婚后一直没回家的你看到父亲的那一刻简直不敢相信自己的眼睛，他竟瘦成这样，他的腿因常年风湿已经变形，从前宽大的臀膀竟变得如此瘦小。你看在眼里，一股莫名的悲痛感从心底升起，可一声“爸”到了嘴边又咽了回去想着自己的境遇气道:“谁是你女儿?你明知道我不喜欢还要我嫁给他!\n“怎么了?他对你不好吗?”\n你咆哮道:“你都不知道我这些天过得是什么鬼日子!要不是你，我怎么可能活得这么痛苦?你就是个人贩子!为了你儿子欠的40万就把我给卖了!我恨你!我恨你们所有人!”\n你没有回S市，也没有回到小时候那个充满回忆的家，而是在比较熟悉的T市租了个房子落脚，想等着丈夫回亲后再做打算。\n10月3号这天，你在逛街时发现一家新开业不久叫浅红的饭店，虽然饭店所在的道路很窄，但紧邻步行街且门口的装修非常豪华，大门外还有一个套着小熊头套穿着玩偶服的接待在和来来往往的人群互动，看得出老板是花了心思的。\n你打算进去问问这里有没有适合自己的岗位,于是刚踏进大门便听到运处一个声音响起。\n'二姐?”的气质与当初截然不同。不过你并不在意，草草和其他兄妹留了联系方式便回去了。之后的日子里你仿佛行尸走肉股活着，虽然生活还在维续，但最爱你的那个人已然永远的离开了你。\n2006年12月6日这天你突然收到了一条短信，短信的内容是一名自称是李律师的人说王金荣老先生在半年前检查出了肝癌,委托他在自己死亡的2个月后将家中房产、耕地及其他迪产分给你们5兄妹和小。他本以为老先生还能撑个几年，没想到竟突然出现意外，约你后天前往集合地点，会有人接你们前往零钥山庄领取。\n其饱透产? 你突然想起有一次小姨请你们全家吃饭时确实听父亲提起过家里有个十分珍贵的东西。那天父亲喝了不少酒，你当时还以为是酒话，没想到竞然是真的。零钥山庄又是哪里?你导航了一下发现并没有这个地方，虽然心中存有疑虑但还是决定去一探究竟。\n当天下午，你如约到达了集合地点。面对从小生活在一起的他们，虽说都是一家人，但你还是感觉到了一丝生分……你转过头看到三弟正坐在一个靠窗的餐桌旁向你招手,他对面竟然是大哥和小姨，你犹豫了一下还是坐了过去。你发现小姨变化不大，她红色的卷发搭配着精致的妆容，胸前项链末端挂着一个双手捧珍珠的品坠，整个人虽然已经50出头，但一点也看不出老态。三弟则穿着工装，被发股固定住的发型非常时尚，给人一种成熟男人的气质。面大哥要朴素很多，无论是穿着还是打扮都比三弟略逊一筹。你感慨了一下，想到你们小时候的样子如今真是时过境迁。\n由于你和大哥之前的矛盾导致饭桌上气氛非常尴尬,三弟和小姨则是见缝插针的一直在找着话题打圆场。过了一会儿，你从窗外看到穿着色外套、怀里抱着一个哭闹孩子的李老板从旁边经过,这时小姨放下筷子说自己还有点事情便离开了。小姨走后本就尴尬的饭局更加尴尬了，终于大哥在8点多时起身告别了你和三弟。大哥走后气氛顿时缓和了不少，你和三弟又聊了聊量年的往事后便被此告别离开了。\n10月7日上午你一睁眼已经10点了，打开电视发现一连4天了。每天这个时间都是头巾男在本市再次作案的新闻。\n头巾男你小时候听村里长辈们说起过,是个人贩子,据说以前经常拐类孩子，后来渐渐的就没有再出现。由于每次作案都会用头中将头事住，只能隐约约见到从头中下露出来的胡子因而给起了头中男的外号。\n你无奈的将电视关上，正想再睡会手机突然响起，是一个陌生号码，接起后发现是警察，当对方告知你父亲在巷子中被人杀害的消息时你仿佛五雷轰顶。\n来到派出所认尸时你看到静静躺在停尸间的父亲，头部一块一块的猩红色异常刺眼。你一下跌坐在地上，没有起来，也不想起来，你轻轻地抚摸着他冰冷的身躯，眼泪像泉水般喷涌面出:“爸，爸你睁开眼看看我啊爸，我不生你气了，\n我求求你看看小媛好不好……”一旁的民警连忙将你搀了起来，然后扶着你到门口的长椅上体息。其他兄妹陆续赶来后办案民警说尸体今早被发现在一个偏僻的巷子内,头部遭受连续重击致死，身上财物丢失疑似抢劫杀人，死亡时间初步确定是昨天下午3-8点之间，并表示会尽快找到凶手。\n从警局出来后你才发现小妹变化好大，以前她是你们兄妹中唯一一个单眼皮的孩子，如今不仅去割了双眼皮，还涂着艳的口红，打着嫩白的粉底，整个人你们正聊着平时的过往，赵芳姗来迟。她刚来没一会，一辆黑色商务7人骄停在了你们面前，一名中年男子从驾驶位走了下来自我介绍道:“我姓罗，是李钥山庄的管家，想必各位就是庄主的客人吧。”\n“庄主?我们是李律师邀请来的。”大哥上前一步说道。\n“哦，李律师就是庄主。”罗师傅答道。\n“他人呢?没在?”四弟问道。\n“庄主吩咐我先带各位回山庄,他今天被一些事情耽搁了,要晚点才到。”你们相互看了一眼，也没说什么便随罗师傅上了车。\n过了不知多久，车子停了下来，罗师傅说道:“各位下车吧，前面是吊桥，必须步行，过了桥就到了。下车时慢点，今早刚刚下过今年的第一场雪所以地面比较滑，大家小心一些。”\n你看了看表。已经晚上6点多了，拍头时你突然发觉周围的场景乎有些眼熟，但却想不起在哪里见过。你没有在意，跟着罗师傅走过一个U型山路，等到了山的另一端果然看见白茫茫的雪地中躺着一座不太长的吊桥,由于天已的缘故，看不太清桥对面的建筑，只能凭借品桥尽头拱门上的灯光看到“零钥山庄四个大字。\n他带着你们过了吊桥，穿过走膨来到了最近的建筑，据罗师傅说这里是1号房，用餐和一些娱乐活动都在这里。\n你们进到大厅，发现这里是一个二层的公共区域，一层是前台、厨房、衣帽间、管家房、储藏间等地，二层是休息室、卫生间、餐厅和书房等。\n罗师傅带你们六人去衣帽间换下外套后来到前台指了指墙壁上的地图说道:“这里是山庄的鸟瞰图，我现在给大家发铜匙。”\n“房问都给我们安排好了?”小姨问道。\n“对，比主已经统一安排好了，王景芸2号房，王景恒是3号，赵芳是4号房，王景明是5号房，王景媛是6号房，王景天是7号房，最后庄主自己住0号房。\"管家一边发钥匙一边继续道,“由于这个钥匙国内目前配不到，所以大家都妥善保管好，如果弄丢了可就进不去房间了，除非等庄主回来，他那里还有套备用钥匙。\"\n“李律师今晚就能回来是吧?”小姨继续问道。“她是这么跟我说的，请问您有什么事吗?“哦没什么,我这公司还一堆事情等着我去处理呢,不能光在这里耗着啊。\"大哥突然没好气的说道:“最好现在就回去处理，您这家大业大的，在这儿多待上一天损失大了可划不来。\"\n“我要去哪用不着你管。”小姨有些不开心的盯着大哥道。\n罗师傅皱了皱眉:“书房是庄主的私人房间所以是上了锁的，连我也没有钥匙，其他地方大家可以随意参观，晚饭过会儿就好。二楼餐厅旁边有休息室，累了可以在那里稍作休息,由于这里没有信号所以如果大家想打电话可以到前台来这里有一部。庄主之前交代说他今晚8点半前回来，如果到时回不案就让各位回房歇息，明天早上7点前在他所住的0号房集合。哦对了，由于木柴要过几天才能送来所以各个房间的壁炉暂时没法生火，大家晚上睡觉时多盖些被子吧，别着凉了。”\n你们听后也没什么异议，一起朝二楼餐厅走去。你们围坐在餐桌前边剩着桌上的花生边聊着家常，小姨则说了句自己对花生过敏就坐到一边看书去了。\n过了的半个小时，终于开饭了，罗师傅将餐桌收拾干净后端上一道道美味的\n菜肴，而这时小姨也合上书坐了过来。饭桌上碰杯声不绝于耳，你看着眼前的众人，感慨良多，毕竟大家坐在一起吃饭的场景在你离开瓦房后就很少有过了,有那么一瞬间你感觉仿佛回到了小时候。\n这时罗师傅着一条清蒸鱼走了进来,“大家慢用,这是今天最后一道菜了，过后我给你们准备甜点。”\n他刚刚离开三弟便起身道:“你们吃，我饱了。”\n你看了眼表劝道:“景明，这才了点40，这么久没见了不坐下说说话吗?反正李律师也还没来，这么着急走干嘛?\"\n只见他拿出手机看了看，“你们聊你们的。这酒我喝着有点上头，现在离8点半还 50 分钟呢，先去休息室歇会儿。”说罢便离开了餐厅。\n小妹见状笑道:“还看得出来三哥今天高兴。\"\n四弟跟着附和道:“是啊，毕竟一家人很久没聚到一起吃饭了，如果咱爸还在的话……”说到这里，饭桌上突然没了声音，可他也意识到自己说错话了于是打了个哈哈道:“来来来，吃饭吃饭。”\n过了一阵大哥起身道:“我肚子有点不舒服,去趟洗手间。\"这时你看了看表,19:50 分。\n又过了一会儿，你也去了越厕所，顺便对着镜子补了补妆，在8点05回到了餐桌。\n坐下后你发现小姨不在于是问道:“小姨回去了?”\n四弟答道:“是啊，刚走没一会儿。”\n片刻后大哥端着点心回到了餐厅，“刚碰到了罗师傅，他说前台还有事要忙就拜托我给大家送过来了。”\n你们品尝着甜点，聊着童年。又过了不知多久，四弟突然道:“已经8点半了，大家也别再等了，早点回去休息吧。\"\n你这时看了看手表，确实已经8点30了，于是起身道:“也好。那我们明天再和李律师商量遗产的事吧。”\n你们一起来到休息室，看到四弟披着外套躺在沙发上睡着了，小妹过去摇了\n摇他道:“三哥，回去了，馆主没能赶回来。\"三弟可能确实是喝的有点多，迷迷糊糊的道:\"你们先回去吧，不用管我。下楼时你们见罗师傅在前台不知忙些什么，你冲他喝道:“罗师傅，晚上我三弟如果睡这里您受累给盖个毯子。”\n“放心吧，这是我应该做的。\"\n在听到管家的答复后你们去衣帽间取了衣服便离开了1号房。由于今天这顿饭让你和大哥之间的关系缓和了不少，再加之你和房屋相邻，于是你俩结伴回了各自的房间。\n转天早晨，你借着朦脱的月光来到0号房门前时掏出手机看了看，6:45分你敲了敲门，等了半天也没人应答，于是轻轻推了一下发现屋门竟然开了。由于屋内开着灯，所以你觉得李律师已经起床了，没想到进屋关门后你看到有两个人躺在床上。\n“李律师?\"\n你呼唤了一下见没有回应，于是迈步走上前去，离近了你发现床上躺着的竟然是李老板和小姨，只见他们穿着鞋子从头到脚衣着完好的并排躺在那里一动不动。\n“小?”\n你摇了摇她的身子，还是没有动静。于是你壮着胆子试了试二人的鼻息，发现竟然已经死了。\n你惊叫一声转身朝外跑去，快到门口时正好看到大哥推门进来，你如看到了救星:“大哥!大哥!你来的正好，死人了，死人啦!”\n大哥听闻随手关了一下门后赶紧过去查看，同样试了试二人的鼻息。“真真的死了，这到底是怎么回事?\"\n你连忙解释道:“不知道啊，我来的时候就这样了。”\n这时你发现床头柜旁有一张纸,过去拿起来看了看发现原来李老板就是李律师，而手中的这张纸正是遗书。\n“哥，那人就是李律师，这是遗书。”\n他接过来扫了两眼道:“不管怎样我们得赶紧报警。\"\n你附和着，“对，报警，赶紧报警。”\n此刻小妹和三弟走了进来说道:“大哥，二姐，你们这是?\"“小姨和李律师死了。”大哥回道。\n“啊?”二人一起惊呼。\n“这里有封遗书。”说着大哥将手中的纸张递了过去。\n二人看遗书的时候大哥拿起屋内的电话迅速按下了110，过了一会儿他骂道:“妈的，电话打不通!”\n“你们在干嘛?”\n你转身看见四弟正站在门口处望着你们。\n“两条人命，李律师杀掉小姨后自杀了。”小妹说道\n四弟震惊道:“小姨死了?还有李律师为什么要这么做?\"\n小妹回道:“不知道，这要问问罗师傅才行。\"\n这时你们看到屋内有个对讲机，于是赶紧呼叫他过来一趟。\n等了一阵，只见他慌慌张张的赶了过来。你们把事情的经过跟他做了简要的说明，他听完后说道:“不光是这里，1号房前台的电话线昨天夜里也被人剪断了，目前的情况看是不是自杀现在还不好说，如果不是自杀的话那杀害他们的凶手可能就在我们之中。”\n四弟吼道:“放你妈的屁。我们兄妹怎么可能杀人，我看这件事八成就是你干的。”\n罗师傅冷笑一声,从怀里掏出了一个警官证道:“我是T市市局的刑警罗辉。首先我为我之前隐睛身份的行为跟各位说声抱歉，另外我来这里是执行任务，每天早晨8点会向队里报告昨天的情况,如果他们没有收到我的报告则会立刻出警朝这里赶来，我希望大家在这段时间内尽可能的配合我。\"\n\n",
+            "r_q": [
+                {
+                    "q": "What are the characteristics of the man wearing a headscarf in the script? a. Frequently wearing a black coat, b. never caught, c. always showing a beard, d. holding a child in her arms",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What are the characteristics of the man wearing a headscarf in the script? a. Frequently wearing a black coat, b. never caught, c. always showing a beard, d. holding a child in her arms"
+            ],
+            "a": [
+                "c"
+            ]
+        },
+        {
+            "name": "Wang Jingyun",
+            "back": "巷子两旁的小餐馆内，灯火朦胧，空气中混杂着油烟和香烟的气息，男人们光着膀子靠在座位上高谈阔论，有的小青年提着行李箱准备回老家，与父母电话时满脸的不耐烦。\n你独自一人漫不经心地走在雨里，耷拉着的头发紧紧贴在惨白的脸颊上，湿透的防晒衣显出你那瘦小的身躯。\n不知不觉问你来到了那个熟悉的地方，找了个能挡雨的房檐蹲了下来，摸出兜里的廉价香烟，颤抖着拨动着手中的打火机，却始终没有打着。你尖叫一声把烟和打火机狠狠地拌在路上的雨水里，转过身将头一下一下地往墙上撞。由一开始的小声哭泣，到后面的放声大哭。\n这时一个撑着伞的陌生男子走到你的面前，你没有理会他对你的嘘寒问暖，也没有像往常一样跟着男人走进廉价出租屋，而是狠狠地扇了他一巴掌，他也以同样的方式回敬了你并骂了一句神经病后离开了\n你一个人在雨里无力地靠在墙上，想起自己靠在父亲怀里的感觉，一样的厚实，只是很冰，很冷…院子里有一座老旧的双层瓦房，瓦房旁边的茅草展内有一头牛在吃草，屋旁还有几只鸡鸭在打斗玩闹。朝外看，就是蜒曲折的山路，路边果树上的绿叶青翠欲滴，到了秋天，就会结出又大又甜的果实，树下是郁郁葱葱的青草，父亲每\n天都会割一些去喂牛--这就是在了市农村的家。你叫王景芸，今年24岁，是家里唯一单眼皮的孩子也是年纪最小的一个。上面分别是大哥景天，二姐景媛，三哥景明和四哥景桓，你们兄妹5人彼此相差1岁。你从小没有见过母亲，父亲比你大46岁，他叫王金荣，是地地道道的农民，靠种田为生。山上的土地没有平原肥沃，因此每年的收成不多，只能勉强糊p。\n兄妹中大哥虽然跟村里的同龄孩子相比显得稚嫩很多,但在家里他和二姐还是你们当中最成熟的，所以每天大哥都要跟着父亲种地放牛，二姐捡柴草喂口。四哥则与其他同龄孩子差不太多，可能是他对颜色不敏感，总把送你的一些红绿小花说成黄色。\n你4岁那年收成不错，父亲每天都能收一大堆稻草，大哥二姐一直在帮忙做农活，他们先是把稻谷和稻草分离，然后用机器剥开稻谷，就可以看到白花花的大米和金灿灿的稻壳了。最后父亲留下一些米当你们一年的口粮，剩下的全部打包卖给别人。\n有一天四哥不在家,你穿着平时最喜欢的红裙子在二楼的楼梯口把稻壳撒下去，轻飘飘金灿灿的稻壳就在空中翩翩起舞，好生漂亮。\n“下雪喽。”你边撒边喊，突然感觉脚下一滑从棱梯上摔了下去。\n你再次恢复意识时耳边是父亲急促而有力的心跳声,头顶是他着粗气的吁吸声，眼睛昏昏沉沉的，想睡却又不敢睡。太阳，遥遥地挂在天上;路，巡遥地放在眼前。因为刚下过雨，所以山路格外泥泞，父亲深一步浅一步地走着，路上时不时会滑一跤，但他始终护着你。\n你后来听说自己被做了手术,在康复回家后,你发现家里的牛和鸡鸭不见了父亲跟你说牛死了，鸡鸭也吃了，你责怪他们没有留给你。之后的几天大哥和三哥对你一如往常，但是二姐和四哥看你的眼神却和以前不一样了。\n父亲说为了庆祝你出院，于是在儿童节那天带你们去里玩。这是你们第一次全家一起出去玩，路边山花开了，阳光正好，微风不燥。来到城里，父亲带你们逛集市，这里有一个叫便利店的地方。好吃的、好玩的，应有尽有!你第一次吃到了冰淇淋，原来世界上还有这么好吃的东西。看着周围的高楼大厦，你爱上了城市，你告知父亲喜欢这里，想要长久生在这里，父亲语重心长地说等你以后上学了一定要好好努力，考上好大学。才能来城里生活。\n到了下午，你们经过一家照相馆，这里的店员说今天拍全家福半价，你们父亲全家福是什么，他说全家福就是一家人一起拍的照片，问你们想不想拍，你忙不迭地点头，哥哥姐姐们也是如此。父亲犹豫了一会儿,看着你们期待的眼神，便点头答应了。\n刚要进门正巧碰到一个打扮洋气的女人从里面出来,父亲和那女人见面时彼此都愣了一下，只听父亲开口道:“这么多年没见了，你还好吗?”\n“还好，孩子们都这么大了。\"\n父亲赶忙拉着你们道:“快，叫小姨。\n“小姨。”你们听话道。\n小姨笑道:“真乖，等小姨有空去家里看你们给你们买糖吃。\n“以前的事情都过去了，没事就来家里坐坐吧。\"\n小姨听完父亲的话点了点头后就转身离开了。\n父亲望着她离去的背影叹了口气便领你们进了照相馆。\n一切准备好后父亲给你们排位置，“景天，你站中间，景明景站你大哥右边，景媛景芒站你大哥左边…--…\"\n摄影师见你们都准备好了于是喊道:“好，站好别动啊，别眨眼，3.2.1”“茄子~w\"\n“咔嚓”一声，时光仿佛静止，一切都定格在了那一刻。\n过了几天，村长来到家里给了父亲一个三个字的本本，只见父亲拿到手后开心的像个孩子，于是当天下午带你们去城里取了照片。从照相馆出来后你异的发现父亲并没有带你们回家，而是坐了好几个小时的车，终于在天黑前来到一个高山上。\n父亲告诉你们他和妈妈在 11年前结的婚，而这里是他和妈妈第一次见面的地方，也是他觉得最美的地方。父亲还说妈妈叫赵莹和自己同岁，小叫赵芳，比妈妈小了18 岁。69 年因为文革批斗导致外公外给妈妈和小姨留下一笔财富\n后就死掉了，是妈妈把小姨当成孩子一样看大，所以姐妹感情很深。\n你们听完后问道:“妈妈长什么样子呀?\"\n“你们的妈妈可美了，是这世界上最美的女人。\"\n“那妈妈现在在哪呀?”\n这时父亲指向一旁道:“看，她生完小要后就变成这些小花了。你们答应爸爸以后要把我撒在这里，这样我就能一直陪着她了。\"\n“撒在这里?”\n“哈哈哈，等你们长大就懂了……”\n和煦的微风抚动半人高的茅草，娜多姿地朝你们招摇。一家六口坐在空旷的山顶，享受着难有的闲暇时光。这时父亲把裱装过的照片拿出来，你们都争先恐后地围过去看。二姐看罢笑着说你的眼睛眯成了一条缝，你也不甘示弱地调佩她说她笑得真丑。\n那天大家都很开心，也是自己在父亲的怀里靠得最多的一天。月光很柔和，它把你的零星回忆包裹起来，镀上一层滤镜。火堆，草丛，闹，名叫妈妈的小花和故事，更是有那一阵阵的笑声，这笑声传到空中，飘散开来……\n后来小姨每隔几个月就会来家里一次，不知道为什么，小对你和四哥的态度不像对其他孩子那么好,另外给你看病的许医生在那次事故后也经常来家里看望你们，并且每次来除了会带一些好吃的还给你们讲很多新鲜好玩的事,渐渐的，你发现这个人除了有点话多大嘴巴其他方面还是很好的，于是你们兄妹和他的关系也是越来越好。\n7岁那年你和四哥也如愿上了村里唯一的一所小学。为了供你上学，父亲不仅要打理农活，还给别人打了好几份零工，大哥一边上学一边给别人打工，而二姐和三哥却没有机会上学，二姐在家刺绣贴补家用，三哥在帮家里干活，你深知这个机会不容易，于是下定决心一定要好好学习。\n你在学校的表现非常好，不像四哥那样顽皮捣蛋，每个老师都很喜欢你，村子里也会有人向父亲夸赞，说这孩子长大有一定很有出息。父亲很忙，不能给予你任何学习上的帮助，但对你来说，拆次自己拿着鲜红的奖状回家时，父亲说完那句“我女儿真厉害”后，把自己举的高高的奖励，已经足够。\n转年有一天你们兄妹在外圆玩,回家时正好看见村里的老胡在你家门口偷听着什么，他见到你们回来了便转头朝自己家的方向走去\n你们来到家门口才听到原来是小姨和父亲在吵架。\n小姨:“如果不是我姐当初非要坚持，TA怎么可能娶那个女人，那样我也不用来T市，如果不来T市也不会碰到那两个畜生。\n父亲:“以你们的关系你就不该喜欢TA，另外那两个人虽然可恶但你也不能那样做呀，你姐如果活着也不希望看到你这样。\"\n小姨:“我也没想到时隔7年还能见到TA，这就是上天注定要我们在一起。再说你还有脸提我姐?你为什么当时不救她?”\n父亲:“我对不起你姐姐，但我承诺过小鉴会好好照顾你，所以当初我才原谅了你。”\n小姨:“这么说我还得感谢你了?\"\n父亲:“那是你的事，之前我已经做到仁至义尽了，如果再有下次我决不饶你。”\n这时你们迈进了房间大门，她见到你们先是一，随即挤了个难看的笑脸后拿着一张纸夺门面去。\n你们上前去问父亲怎么了?他只是一边摇着头一边叹气道报应啊，报应。这种生活当中的小插曲时不时会出现一次，后来大哥和四哥小学毕业后就去外面打工了，二姐也在她 17岁的时候去了纺织厂工作，三哥则在之前的一次中风后被木匠师傅收作了学徒，而你则在16岁那年不负众望，考上了城里的重点高中。父亲的眼神里，除了那忍住的泪水，还有溢出来的期望。由于距离因素，你需要在学校住宿，每周才能回家一次。第一次离开家里，父亲非常不舍，千咛万嘱咐，直到亲手帮你把被褥拿到寝室才肯作罢。而你则在同学面前感到十分害羞，你害怕同学看到自己父亲这么不堪，便匆匆递他离开了。\n到了新的环境，你变得唯唯诺诺，觉得自己农村人的身份好像上不了什么台面，心里很是自卑。新寝室的夜晚，总是谁都睡不着的。室友们都在聊着天，从出生地聊到兴趣爱好，从零食聊到头巾男。\n头巾男你小时候听村里长辈们说起过,是个人贩子,据说以前经常拐卖孩子后来渐渐的就没有再出现。由于每次作案都会用头巾将头裹住，只能隐隐约约见到从头巾下露出来的胡子因而给起了头巾男的外号。但你只是了解这么多，至于兴趣爱好吃的玩的这些你就都只能听着了，并且越听越自卑。寝室里忽然有个心细的室友注意到了自己，问起自己家里的情况，为什么不和她们一起聊天，其他几个室友也好奇地望了过来。你沉默了一会儿才说出自己是高干子弟，只是比较喜欢安静，这是你第一次说谎，居然是为了自己的虚荣心。\n你不仅性格乖巧，学习努力。长得也十分出众。在学校中追求者众多，但你并不想理会，一是真没这个心，二是没遇上那个人。但这些追求者中，不乏学校门口经常徘徊的那些把头发留得遮住眼睛还染得五颜六色的混混。每次你只要出校门，这些混混就立马把那轰鸣声震得人心烦的摩托车开到面前，开始展示自己的“帅气逼人”。\n刚上高二那年周五下午放学，大家都收拾衣服回家了，你也不例外，只是今天自己走得比较晚。刚出校门没多久，一只手捂住了你的嘴，任凭你如何嘶喊也没有声音。你被拉到了墙角，三个混混围住自己。此刻的你绝望地坐在了地上望着这三个丧心病狂的混混你无助地哭了出来。其中一个混混朝自己脸亲过来，你闭上了眼，已经不想挣扎。\n“啊!”\n你睁开了眼睛，混混应声倒地，面前站着一个熟悉的身影--父亲。“几个畜生!”\n父亲咬牙切齿,三拳两脚把一个泥混打得鼻血直流。你第一次看见父亲打人，哪怕是四哥小时候偷拿家里的钱，父亲也只是让他罚跑。\n但无奈对方人太多，父亲渐渐吃了亏，这时一个跟父亲差不多年纪的叔叔冲了过来。\n“老秦?”父亲诧异的喊了一声。\n“妈的免崽子们，活腻味了是吧。”秦叔叔边骂边动起手来。\n秦叔权的加入导致战局瞬间扭转，最后几个混混跑得一个比一个快。\n“你们谁敢再打她的主意，小心你们的命!\"父亲朝他们远去的身影威胁道。\n父亲弯下身子，用他那皲裂的手给你擦了擦眼泪。\n“爸，我好想你!”父亲越擦你越哭得厉害。\n父亲把你搂在怀里，\"别哭了，爸爸来晚了，让你受欺负了。\"“老王，孩子没事就好，你们父女聊着，我先走了。\"父亲赶忙给秦叔叔道了谢，然后目选他离开。\n“爸，我们俩走路回家好不好?”你见秦权权走后停止了哭泣弱地问。父亲右手提起装着你衣物的大号布袋，左手牵着你的手。从学校走到家需要四个小时，在这四个小时里，你给父亲唱着《在那花盛开的地方》，父亲虽然不会，但是也含糊地跟着你一起会。他牵着你的手像秋千似的荡漾，你踏着欢乐步一点也不疲惫的领着父亲走着，把所有的不偷快全都丢在了远去的歌声中。\n天暗了，月亮很明，多下没有路灯，所以星星也看得很清…\n由于父亲告诉你帮忙赶走混混的那个人是三哥的师父,所以你借着周末放假特意去到秦叔叔的店里想向他当面道谢。来到县里，你按照父亲告诉你的地址找到了秦叔叔的店，一进门就看到三哥在对一块木头打量着什么。\n“三哥”\n三哥回头看到是你特别开心。忙让你进去坐，待你进去说清来意后三哥说秦叔叔出门干活去了，今天是回不来了。你听后有些失望，但毕竟和三哥许久未见还是有很多话聊，他告诉你秦叔叔曾经在城里的一家家具厂工作，当时的厂长单眼皮，高鼻梁，不仅长的不错还是个特别有爱心的人。因为厂长的0型血是各医院最需要的血型，所以经常去献血，可惜好人不长命，在结婚4年后夫妻俩因为一起交通事故死掉了。从那之后工厂每况愈下，秦叔叔为了谋生就到县里开了这个小店……而你也将学校的所见所闻讲给他听，不知不觉你们聊了好几个小时，童年的回忆总是美好的，但外面渐渐暗下来的天色提醒着你该回家了。由于要坐长途汽车，三哥不放心，于是你便在店里留宿了一晚，转天他才送你去的车站。\n再次来到学校，你发现自己竟成了校内的风云人物。农民女儿的形象被到处宣传着。你知道是那几个混混干的但是又无可奈何，回到室面对室友的询问你解释那只是嫁祸，自己父亲是个知识分子。\n一周后又到了你回家的日子,你和同寝室的几个女生刚出校门发现父亲正站在门口等你。你顿时心里一慌，想从旁边绕过去，没想到还是被他看到了，“小芸，爸爸在这儿。”\n只见父亲挥舞着手朝你的方向喊着。\n这时同寝室的几个女生愣了一下，然后互相对视一眼笑道:“小芸，这是你爸啊?”\n你一时语塞，不知该如何解释。她们仿佛也看穿了你的心思对着父亲说了一声“叔叔好\"便笑着离开了。\n\"都是因为你!都是因为你!你能不能别来了，别管我了好不好!\"你抱怨\n道。\n父亲愣了一下，然后陪着笑说道:“那你走前面，我在后面跟着你，不让别人看笑话好吗?”\n“我不回去了，我不想看到你!”你吼了一句后转身朝学校跑去。你躲在角落哭泣时突然耳边传来陌生却好听的男声，“你怎么了?\"你转身看去，只见一位面容清秀的少年站在你面前。\n“你是不是和家人吵架了?”\n“你是谁?你怎么知道?\"\n他笑道:“你的表情都写在脸上呢。”\n你俩帮谈了一阵得知他叫李墨生，比你大1岁，家住在县里。父亲叫李晋早前在D市一个家具厂担任会计，后来在李墨生4岁那年去T市挣钱，音讯全无。4年后他和妈妈来T市找才知道父亲早就在这里又有了一个相好的，于是妈妈和李晋在那年离了婚。他还说母亲告诉自己父亲有个小1岁的弟弟叫李，他和父亲一样单眼皮小眼睛，在自己还没出生时就去了市闯荡了，之后时不时就会买东西回来看望他们娘俩，不过后来听说为了让妻子过上好日子沾上了赌博，还欠了很多钱，还清赌债后夫妇俩在自己1岁的时候自杀了。\n在那之后，李墨生时不时的主动朝你打招呼，你也礼貌性地回一下。直到一天，他突然当着全班同学的面给自己唱了一首《真的爱你》，你才知道原来这个很少跟自己说话的男生竟然喜欢着自己。\n也就这样,你懵懵懂懂地和他在一起了,虽然你也不知道怎样才算是在一起。可能只是每天放学躲着老师悄悄牵着手去公园转两圈，再说上一些情情爱爱的话吧。他在街上给你买了很多新衣服，还有一些首饰，带你去吃好吃的。你觉得他对自己很好，是除了父亲，对自己最好的男人!\n你开始把自己的想法和规划写进笔记本里，开始上课走神。你的成绩出现了明显下滑，班主任找你谈，你也只是敷衍。你的学习成绩越来越差，有一次成绩发下来，数学竟然没有及格。为了安慰你，李墨生让你旷了下午的课陪你玩到很晚。你两手拎着大大小小的购物袋忐忑地回到家中，却不想被父亲撞了个正着。\n父亲严肃地问道:\"老师说你下午拉肚子没去上课,而且你的成绩怎么回事!\n此时的你显然有点不知所措，支支吾吾的答道:“……挺不舒服的……这次没考好，下次我会努力的……\"边说边把购物袋放到身后。\n许久没有回家的二姐不知什么时候出现在你身后一把抓起你的购物袋:“呦，你什么时候这么有钱了?偷的还是抢的?还是勾引哪个男人…”\n“我没有!”\n父亲这时劝道:\"你怎么能花别人的钱，怎么能让别人给你买东西，你现在还小，要好好学习，处对象可以等你长大后再说。\"\n二姐这时冷漠的开口道:\"爸就在你身上花钱最多!送你上学却要我在家工作供着你，凭什么?早知道这样当初就该让我去上学，你个赔钱货!\"\n你一把推开他们瞪着二姐吼道:“谁是赔钱货，我王景芸用不着你的钱。”随后你又把头转向了父亲:\"他给我买东西怎么了?从小到大你给我买过几样东西?我上学的书包和书都是哥哥的，我穿的衣服是姐姐的，就连我睡的床单都是旧的!”说要从二姐手中抢同购物袋跑回屋中。\n身后隐隐传来二姐激动的声音:\"爸!看这就是你给的…………”从那之后，你们之问的隔阂越来越大，就算生活在同一屋檐下,也相对无言,不出意外，你没有考上好大学，只考上了Q市的一个三本，父亲难以支付学校高昂的学费，却还是坚持要你上学。\n李墨生高中毕业后并没有维续读书，而是在你学校附近租了一个房子，于是你从宿舍搬了出去和他住到了一起。\n大一那年你 19岁，你觉得自己已经长大了，虽然家里比较难，但想到今后他就是你要结婚的对象，还是打算让李墨生见见父亲。周五这天你得知下周一的教师节放假，于是想趁着这个3天小假期带李墨生回家。放学后他帮你拎着行李，你则跟在后面与他嬉戏打闹，刚出校门正好看到小姨穿着绿色外套从校门口经过，你本打算过去叫住她，但在前方李墨生的催促下放弃了这个念头。你们坐车回到家中，那天二姐正好也在，吃饭时你把李墨生和你说的家中情况向他们叙述了一遍，没想到父亲听完盯着李墨生看了看之后放下筷子便回了屋。在你带他准备离开时父亲拉着你说他还是不同意你们俩的事。让你趁早断了念想。\n之后的3年问你因为父亲对你和李墨生的态度面不再回去,甚至二姐的婚礼都没有参加。一开始，父亲每周都会打电话，从学习到李墨生问个没完，你越来越不耐烦，而他打电话的次数也越来越少。\n毕业后你和李果生回到了T市，由于他学历的原因始终没有找到工作，你靠着那点微薄的工资使得你们的生活难以为维。在一次偶然的机会下，你发现一家KTV 在招公主，看着招聘启示上月薪后面那诱人的数字，你心动了，于是抱着试试看的态度走了进去。\n给你面试的是位帅气的经理，他告诉你别紧张，只是陪客人说说话喝喝酒即可。渐渐的，你发现这里并不向他说的那么简单，客人的骚扰简直是家常便饭，有的甚至会提出更过分的要求。同事们很多都已经选择了用身体来换取金钱，但你始终坚守着自己的底线。\n就这样，你每天过着陪唱陪酒黑白甗倒的生活，但每每想到你和李墨生的将来，还是努力咬牙坚持着。\n你23岁那年，由于例假连续两个月都没有来，于是你去医院做了检查，当你得知怀孕的消息后简直不敢相信自己的耳朵,你从医院出来买菜去李墨生家准备跟他商量关于孩子的事，进屋之后看到他不在客厅，于是打开他室的房门发现他在床上赤裸着上身，身下还有一个女人一经不挂。你愣在了门口，菜从你的手中滑落。\n“为什么?”\n“小芒，你听我解释。\"他有些慌乱的继续道，\"那次去你家后你爸不同意咱俩的事，他已经我过我好几次了，让我跟你分手，说将来无论如何也不会把你给我。\"\n“所以呢，你为什么不早跟我说!你不是说你爱我吗?你不是说以后要娶我吗?难道这么一点挫折你就退缩了?还是说你跟我在一起就是为了让我给你钱花?”\n“小芸，不是的，不是你想的那样，我对你是真心的，但是我不想再继续这样没有结果的事情了。是，这几年我是花了你不少钱，但是你放心，等我找到我爸，之前花你的钱我会连本带利的还给你!\"\n“你混蛋!”你狠狠的扇了他一巴掌后自顾自的跑了出去。\n你伤心欲绝，刚刚跑下楼就听到一个熟悉的声音。\n“小芸?\"\n你转头发现竟然是父亲，李墨生的话还此时还在耳边绕，于是怒道:“你又背着我来找他!你能不能对我有哪怕一丝的尊重。”\n\"你，你都知道了，你怎么这么傻，我是为了你好。\n没有打雷，雨点开始打在众人脸上。\n然后他一把拉起你的手:“走，跟爸回家!”\n你咆哮道:\"都怪你!都是因为你!我和他今天的结果都是你一手造成的!现在好了，我们分手了，你该满意了吧。爸，你好狠的心啊!我讨厌你!”\n雨和着泪水顺着你的下巴流了下来,你甩开父亲的手朝错综复杂的巷子里跑了进去，躲在硕大的垃圾桶后面，任凭父亲呼喊。\n那晚你独自一人游荡在街头，看着前面搂抱的小情侣朝你走来，看着前面李福的一家三口在街道上并排行走,霓虹灯铺满整座城市,这是你梦寐以求的地方城市很大，比多年前更美了，但此刻的你意如此惘然。\n接下来的日子里你终日以泪洗面,自己这么多年的青春换来的是什么?自己这么长时间以来坚守的底线为的是什么?在出租屋沉寂了将近半个月的你有了答案。\n你去医院做了孕检后将自己肚中的孩子打掉，重新回到了那个灯红酒的地方。你面对客人的骚扰不再躲躲闪闪，面对他们过分的要求也不再千推万阻。你为了让自己更加的光彩夺目不仅办了健身卡还割了双眼皮,你每天画着艳丽的口红，打着嫩白的粉底，踩着他们最爱的高跟，在不同的客人怀抱里笑着。你听过太多男人边穿裤子边问“为什么不干点别的”,“过两天我安排人给你找个新的工作\"，“等我和我媳妇离婚我就娶你”…\n·开始你还抱有期望,当你对于这种找乐子的男人见得多了后发现他们只是嘴上说说,想进入他们的家庭?想利用他们手中的资源?一切的一切不过是痴心妄想。\n短短一年时间，你却看尽了世间百态，那张曾经的孕检单你时不时就会拿出来看一看，以便时刻提醒着自己任何时候相信别人都不如相信自己10月6日这天下午你打算到一家新开业不久叫浅红的饭店吃饭，到了后发现虽然饭店所在的道路很窄，但紧邻步行街且门口的装修非常豪华，大门外还有一个套着小能头套穿着玩偶服的接待在和来来往往的人群互动,看得出老板是花了心思的。\n进去后你竟然碰到了四哥，他正坐在一个靠窗的位置不知在等什么，他看到你也很意外，随即招呼你过去。坐下后你发现四哥还和以前一样，黑皮衣，中分头，打扮的流里流气。你们边吃边叙旧，这时突然远处一个声音响起:“你今晚10点能从D市回来是吧?那边怎么说?能帮着找吗……你急?我还急呢……我现在就想知道你到底什么时候和TA离婚，你总跟我说你不爱T，让我再给你些时间。都4年了，我真的受够了!”\n由于那人打电话的声音非常大，你循声望去发现是以前的大学同学钱晓琴你简单的跟他介绍了一下后打算过去打个招呼,结果刚要靠近她手机突然响了，只见她接听后非常激动的说道:“找到了?真的吗?太好了，真是太好了，谢谢你们。我。我马上就来。”随即她挂了电话朝饭店外跑去。你见对方可能有急事便没有叫住她而是重新坐回了自己的座位。\n吃完饭已是晚上8点了，你们刚要离开时看到小从饭店门口经过，她红色的卷发搭配着精致的妆容，胸前项链末端挂着一个双手捧起状的吊坠，整个人虽然已经50出头，但白暂的皮肤加上修长的身材一点也看不出老态。你奇怪小姨为什么在这儿，本想过去叫住她，但想到跟她许久没有联系了见面也不知要说什么便打消了这个念头。而你和四哥又找了个酒吧一直喝到晚上 11 点多才各自回家。\n转天早晨10点,你正看着电视中播出的本市沉寂了20多年的头巾男再次出来作案的新闻，手机突然响起，是一个陌生号码。接起后发现是警察，当对方告知你父亲在巷子中被人杀害的消息时你仿佛五雷轰顶。\n来到派出所，一进门就看到三个哥哥和二姐红着眼睛望着你。\n认尸时你始终不敢相信眼前的一幕。父亲竟瘦成这样。他的腿因常年风湿已经变形，从前宽大的臂膀竞变得如此瘦小，而头部一块一块的猩红色异常刺眼。你一下跌坐在地上，没有起来，也不想起来，你轻轻地抚摸着他冰冷的身躯，想着从前的种种，一股巨大的悲痛感从心底升起，\n“爸，小芸回来看您了。怎么瘦成这样呢。爸你怎么不说话，是对小芸失望了吗?小芸不走了，每天都陪着你好吗?好不好，你说句话，你为什么不说话啊爸!”你从开始的小声呢哺到后面的敬斯底里。泪水如泉涌般止不住、停不下。一旁的民警赶忙将你搀起扶到门口的长椅上休息,特你稳定情绪后办案民警说尸体今早被发现在一个偏僻的巷子内，头部遭受连续重击致死，身上财物去失疑似抢劫杀人，死亡时间初步确定是昨天下午3-8点之间，并表示会尽快找到凶手。\n从警局出来后你才发现二姐仿佛苍老了很多,无论是手上的老茧还是脸上的皱纹感觉都不像是这个年纪该留下的痕迹。不过你并没有在意，草草和其他兄妹留了联系方式便回去了。之后的日子里你用了很长时间才从父亲离开的阴霾中走出，虽然工作还在维续，生活还在维续，但最爱你的那个人已然永远的离开了你。2006年12月6日这天你突然收到了一条短信，短信的内容是一名自称是李律师的人说王金荣老先生在半年前检查出了肝癌,委托他在自己死亡的2个月后将家中房产、耕地及其他遗产分给你们5兄妹和小。他本以为老先生还能撑个几年，没想到竟突然出现意外，约你后天前往集合地点，会有人接你们前往T市郊外的零钥山庄领取。\n其他遗产?你突然想起有一次小姨请你们全家吃饭时确实听父亲提起过家里有个十分珍贵的东西，那天父亲喝了不少酒，你当时还以为是酒话，没想到竟然是真的。零钥山庄又是哪里?你导航了一下发现并没有这个地方，虽然心中存有疑虑但还是决定去一探究竟。\n当天下午，你如约到达了集合地点。面对从小生活在一起的他们，虽说都是一家人，但你还是感觉到了一丝生分……你们正聊着平时的过往，赵芳姗案迟。她刚来没一会，刻，一辆照色商务7人轿停在了你们面前，一名中年男子从驾驶位走了下来自我介绍道:“我姓罗，是零钥山庄的管家，想必各位就是庄主的客人吧。”\n\"庄主?我们是李律师邀请来的。”大哥上前一步说道。\n“哦，李律师就是庄主。”罗师傅答道。\n“恺人呢?没在?”四哥问道。\n“庄主吩咐我先带各位回山庄，他今天被一些事情耽搁了，要晚点才能到。\n你们相互看了一眼，也没说什么便随罗师傅上了车。\n过了不知多久，车子停了下来，罗师傅说道:“各位下车吧，前面是吊桥，必须步行，过了桥就到了。下车时慢点，今早刚刚下过今年的第一场雪所以地面比较滑，領炬大家小心一些。”\n你看了看表，已经晚上6点多了，抬头时你突然发觉周围的场景似乎有些眼熟，但却想不起在哪里见过。你没有在意，跟着罗师傅走过一个U型山路，等到了山的另一端果然看见白茫茫的雪地中躺着一座不太长的吊桥,由于天已黑的缘故，看不太清桥对面的建筑，只能凭借吊桥尽头拱门上的灯光看到“零钥山庄\"四个大字。\n他带着你们过了吊桥，穿过走廊来到了最近的建筑，据罗师傅说这里是1号房，用餐和一些娱乐活动都在这里。\n你们进到大厅，发现这里是一个二层的公共区域，一层是前台、厨房、衣帽间、管家房、储藏间等地，二层是休息室、卫生间、餐厅和书房等。\n罗师傅带你们六人去衣帽间换下外套后来到前台指了指墙壁上的地图说道:“这里是山庄的鸟瞰图，我现在给大家发钥匙。”\n“房间都给我们安排好了?”小姨问道。\n“对，庄主已经统一安排好了，王景芸2号房，王景桓是3号房，赵芳是4号房，王景明是5号房，王景媛是6号房，王景天是7号房，最后庄主自己住0号房。\"管家一边发钥匙一边继续道，“由于这个钥匙因内目前配不到，所以大家都妥善保管好，如果弄丢了可就进不去房间了，除非等庄主回来，他那里还有一套备用钥匙。”\n“李律师今晚就能回来是吧?”小姨继续问道。“他是这么跟我说的，请问您有什么事吗?”“哦没什么，我这公司还一堆事情等着我去处理呢，不能光在这里耗着啊。大哥突然没好气的说道:“最好现在就回去处理，您这家大业大的，在这儿多待上一天损失大了可划不来。“\n“我要去哪用不着你管。”小姨有些不开心的盯着大哥道。\n罗师傅皱了皱眉:“书房是庄主的私人房间所以是上了锁的，连我也没有钥匙，其他地方大家可以随意参观，晚饭过会儿就好。二楼餐厅旁边有休息室，累了可以在那里稍作休息，由于这里没有信号所以如果大家想打电话可以到前台案，这里有一部。庄主之前交代说他今晚8点半前回来，如果到时回不来就让各位回房歇息，明天早上7点前在他所住的0号房集合。哦对了，由于木柴要过几天才能送来所以各个房间的壁炉暂时没法生火，大家晚上睡觉时多些被子吧，别着凉了。”\n你们听后也没什么异议，一起朝二楼餐厅走去。你们围坐在餐桌前边剥着桌上的花生边聊着家常，小姨则说了句自己对花生过敏就坐到一边看书去了。\n过了约半个小时，终于开饭了，罗师傅将餐桌收拾干净后端上一道道美味的菜肴，而这时小姨也合上书坐了过来。\n饭桌上碰杯声不绝于耳，你看着眼前的众人，感慨良多，毕竟大家坐在一起吃饭的场景在你离开瓦房后就很少有过了,有那么一瞬问你感觉仿佛回到了小时候。这时罗师傅着一条清蒸鱼走了进来,“大家慢用，这是今天最后一道菜了，过后我给你们准备甜点。”\n他刚刚离开三哥便起身道:“你们吃，我饱了。”\n二姐在一旁劝道:“景明，这才7点40，这么久没见了不坐下说说话吗?反正李律师也还没来，这么着急走干嘛?\"\n只见他拿出手机看了看，“你们聊你们的，这酒我着有点上头，现在离8点半还 50分钟呢，先去休息室敏会儿。”说罢便离开了餐厅。\n你见状是笑道:“看得出来三哥今天高兴。”\n四哥跟着附和道:“是啊，毕竟一家人很久没聚到一起吃饭了，如果咱爸还在的话………\n说到这里，饭桌上突然没了声音，可能他也意识到自己说错话了于是打了个哈哈道:“来来来，吃饭吃饭。”\n吃着吃着大哥起身道:“我肚子有点不舒服，去趟洗手间。”\n5分钟后二姐也起身说要去厕所，她刚离开没一会儿小姨看了看表后结起来说道:“我先回去了，你们继续。”说罢转身离开了餐厅。\n你和四哥又聊了会儿天，二姐回到座位上问道:“小姨回去了?\"\n你看了看指向 8:05 的手表答道:“是啊，刚走5分钟。”\n过了一会儿，大哥端着点心回到了餐厅，“刚碰到了罗师傅，他说前台还有事要忙就拜托我给大家选过来了。”\n你们品尝着甜点，聊着童年。又过了不知多久，四哥突道:“已经8点半了，大家也别再等了，早点回去体息吧。”\n你这时看了眼手机，确实已经8点30了。\n二姐起身道:“也好，那我们明天再和李律师商量遗产的事吧。\"\n你们一起来到休息室。看到三哥披着外套躺在沙发上睡着了，你过去摇了摇\n他道:“三哥，回去了，李律师没能赶回来。”三哥可能确实是喝的有点多，迷迷糊糊的道:“你们先回去吧，不用管我。”下楼时你们见罗师傅在前台不知忙些什么，二姐冲他道:“罗师傅，晚上我三弟如果睡这里您受累给盖个毯子。\"\n“放心吧，这是我应该傲的。”\n在听到管家的答复后你们去衣帽间取了衣服便回了各自的房间。\n转天早晨，你借着朦股的月光来到0号房门前时看了看表，6:54。你为之后重要的场合整了整衣服并重新系了系鞋带后刚要起身,发现有个人影从4号房方向朝你走来。你等了一会儿，待那人离近后发现原来是三哥，你和打了个招呼准备敲门时看见房门虚掩着并没有锁。推开门你注意到大哥和二姐正站在屋内似乎很慌张的样子，你们走过去问道:“大哥，二姐，你们这是?”\n“小姨和李律师死了。”大哥回道。\n你不敢相信的“啊”出了声，赶紧凑上前去，只见小和一个男人穿着鞋了从头到脚衣着完好的并排躺在床上。\n你仔细看了看那具男尸，面相上感觉似乎有些眼熟。你突然想起这人竟然是李墨生的父亲李晋，由于之前李墨生总拿出他的照片案看，所以你对这个人的印象还是比较深的。你正纳闷时大哥递过来张纸，“这里有封遗书。\"你和三哥接过来发现果然是遗书且落款正是李律师，这时大哥在一旁骂道:“妈的，电话打不通!”\n“你们在干嘛?”\n你转身看见四哥正站在门口处望着你们。\n你冲他解释道:“两条人命，李律师杀掉小姨后自杀了。”他震惊道:“小姨死了?还有李律师为什么要这么做?”你回道:“不知道，这要问问罗师傅才行。\"\n这时你们看到屋内有个对讲机。于是赶紧呼叫他过来一。\n等了一阵，只见他慌慌张张的赶了过来。你们把事情的经过跟他做了简要的说明，他听完后说道:\"不光是这里。1号房前台的电话线昨天夜里也被人剪了，目前的情况看是不是自杀现在还不好说，如果不是自杀的话那杀害他们的凶手可能就在我们之中。”\n四哥吼道:“放你妈的屁，我们兄妹怎么可能杀人，我看这件事八成就是你干的。”\n罗师傅冷笑一声，从怀里掏出了一个警官证道:\"我是T市市局的刑警罗辉。首先我为我之前隐瞒身份的行为跟各位说声抱歉，另外我来这里是执行任务，每天早晨8点会向队里报告昨天的情况,如果他们没有收到我的报告则会立刻出警朝这里赶来，我希望大家在这段时间内尽可能的配合我。\"\n",
+            "r_q": [
+                {
+                    "q": "When is the time of death of Wang Jinrong in the script? a. Yesterday afternoon 3 o'clock b. Yesterday afternoon 8 o'clock c. Yesterday afternoon 3-8 o'clock d. This morning",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "When is the time of death of Wang Jinrong in the script? a. Yesterday afternoon 3 o'clock b. Yesterday afternoon 8 o'clock c. Yesterday afternoon 3-8 o'clock d. This morning"
+            ],
+            "a": [
+                "c"
+            ]
+        },
+        {
+            "name": "Wang Jingtian",
+            "back": "中午，长途客运站迎来了新的高峰，一辆辆待发的公交车安静的等待着搭乘的旅客。\n你看了一眼表，11点40分，距离发车还有20分钟。你向前走着，车站里回荡着你那锃亮的皮鞋踩在大理石地面的哒哒声,在确认了检票窗口后拿着手中的车票站到了队伍的最后面。\n在你上车时，整车人的目光齐刷刷的向你袭来，你压了压头上的渔夫帽，发现留给你的座位已然不多了，于是你将双肩背包抱在怀中，在最后排找了个角落坐了下去。\n“还有没有上车的，没有发车了啊。”\n随着司机的叫喊声，车门渐渐关了起来。你看着车窗外的景色，似乎感到失去了些什么，想着一会儿要见到的他们，开始琢磨这一切是否值得……院子里有一座老旧的双层瓦房，瓦房旁边的茅草屋内有一头牛在吃草，屋旁还有几只鸡鸭在打斗玩阁。朝外看，就是蜒曲折的山路，路边果树上的绿叶青翠欲滴，到了秋天，就会结出又大又甜的果实，树下是郁郁葱葱的青草，父亲每天都会测一些去喂牛--这就是在T市农村的家。\n你叫王景天，今年28岁，从你记事开始，就一直生活在这里。你在家中排行老大，下面还有二妹景，三弟景明，四弟景桓和小妹景芸。你们兄妹5人彼此相差1岁。小妹是家里唯一单眼皮的孩子，可能是家庭环境的历练，她跟村里同龄孩子相比略显成熟，而二妹每天都要抢柴制草喂牲口，虽然她比同龄孩子略是稚嫩，但在家中却有着不输给你的成熟。\n你从小没有见过母亲，父亲比你大42岁，他叫王金荣，是地地道道的农民，靠种田为生，山上的土地没有平原肥沃，因此每年的收成都不多，只能勉强糊口。他总是教诲你，作为大哥一定要以身作则，要让着弟弟妹妹们，好好照顾他们，你每次都会拍着胸脯答应。\n你5岁那年的正月十五，路上人头攒动，组成了一只浩浩荡荡的队伍朝着村口刚搭好的戏台进发。因为你以前还没看过唱戏，于是虎头虎脑地冲在队伍前面。\n夜葛降临，戏台上咿咿呀呀的唱了起来。台上台下都热得像是过年，自己却被这些吐着火的青面獠牙吓得一屁股坐在地上。耳边拍着手的观众与一旁敲锣打鼓的声音混合起来，让你觉得后背发凉。你起身拔腿就跑，边跑还边回头，背后的笑声像是在不停追赶的恶魔离自己越来越远……\n正值中秋之际，山路上的落叶踩起来嘎咖响，此时你已经不知道自己跑到了哪里。只见前面有一问破旧的小术屋，这屋子虽能挡风，但也还是凉凉的，你只得缩在墙角。呼啸的穿堂风将你包围起来，你想起父亲给自己说过多年前大跃进的时候，这里曾经饿死过一家人，自己会不会……\n这时墙上的蜘蛛网掉到了你的头上，你“啊”地叫了出来，眼泪从眼眠中涌出，但又不敢哭出声来。\n“景天……王景天…………\"\n过了许久，正在你绝望之际，突然听到了父亲的呼喊，于是激动地站了起来探出头去:“爸!我在这儿!”父亲听到了你的呼喊，立马朝你的方向跑来。不料一根突出的树根将他绊倒，膝盖也磕在了石头上，但父亲只是捂了一下便起身继续一一的来到你\n在的破屋前喘着粗气问道:“小天，是你吗?”你心里害怕极了，脸上的泪珠滚落到了嘴里:“爸……我怕。”他立马冲到了你的身边，抱着你的头安慰着:“别怕别怕，爸爸在这儿呢啊。”\n你倒在父亲怀里，哭得更加大声。你第一次觉得自己面前这个男人有如此重要，第一次觉得依靠在这个男人肩膀上有多安稳。他把你抱起来，用袖口给你擦了擦眼泪，“我们回家，别哭了啊，男子汉要有男子汉的样子。\"\n你坐在父亲的臂膀上，抱着他的脖子，享受着这下山的倾疑……\n之后你不再调皮，经常跟着父亲放牛，他还手把手教你炒菜，你感受着面前的温度，看着父亲结实有力的手臂，发誓今后一定要像他一样做一个顶天立地的男子汉!\n7岁那年父亲带你去村里的学堂上学，到了教室门口父亲让你在外等待，自己进去不知和老师说着什么。过了一会儿只见他垂头丧气的出来告诉你老师说年龄还不够，需要再等等才能上学。你也跟父亲表示过说不想上学，要帮着他于活顺便照顾弟弟妹妹，但父亲却说你胡间，他告诉你想要走出这大山，上学是唯一的出路。\n1年后的一天小妹不知怎的从楼梯上掉了下去流了好多血。你和二妹、三弟陪着父亲将小妹送到医院。医生检查之后告知父亲小妹失直严重需要马上手术，只见父亲毫不犹豫地颜抖着双手在医生递过来的纸上写着什么。\n“医生，能不能先给我女儿做手术?这钱会慢慢凑的您放心……我……我跪下求您了……--\"\n“您这是做什么，快起来，数人治病本来就是医生的天职，收费是医院的事，放心，我会尽力教你女儿的。”\n“谢谢医生!谢谢医生!这时一个护士跑了进来急道:“许大夫，血库里面孩子需要的血已经没有了。”\n许医生听后马上冲出了办公室，父亲见状也急忙跟了出去。你在远处看到父亲冲许医生拍起左臂的袖子边走边说着什么，许医生听后摆了摆手跟父亲回应着，父亲犹豫了一下又和许医生说了一些什么后许医生停下了脚步。他朝你们的方向看了看，回头又问了问父亲，见父亲点头后许医生赶紧让一个护士带着你们去验了血。\n验血后虽然二妹的血勉强可以给小妹输但三弟和小妹是最匹配的。和三弟一同给小妹献血的还有个姓靳的叔叔，他还掏出一个刻着龙已经摸坏的怀表说自己曾经重伤时也是被人输血才得的救，现在就当作回馈社会了\n在医院等待的时间永远是那么漫长。终于，手术门开了，父亲赶忙冲过去抓着一个护士的手，边晃边询问小妹的情况，旁边的医生见状给父亲叫到一边，你和三弟凑上前去听见医生告诉父亲旁边病房还有一个需要刚阴性血的患者，可惜你们兄妹中并没有刚阴性血的人。他还说小妹的手术很成功，而且院里考虑到你们家里的情况决定将这次费用全免，让父亲不要担心，只见父亲听完后对着医生一连五六次鞠躬致谢。\n转天，你看到父亲带着家里的牛和鸡鸭朝村长家的方向走去，晚上他一个人空着手回到家中，你问父亲那些牲畜哪去了，父亲只是笑了笑并没有说什么，此后本就一贫如洗的家少了这些牲畜后更是雪上加霜。\n后来为了庆祝小妹康复出院，父亲决定在儿童节那天带你们去城里玩。这是你们第一次全家一起出去玩，路边山花开了，阳光正好，微风不。来到城里，父亲带你们逛集市，这里有一个叫使利店的地方，好吃的、好玩的，应有尽有!你第一次吃到了冰淇淋，原来世界上还有这么好吃的东西。\n到了下午，你们经过一家照相馆，这里的店员说今天拍全家半价，你们问父亲全家福是什么，他说全家福就是一家人一起拍的照片，问你们想不想拍，你忙不选地点头,弟弟妹妹们也是如此。父亲犹豫了一会儿,看着你们期待的眼神,便点头答应了。\n刚要进门正巧碰到一个打扮洋气的女人从里面出来,父亲和那女人见面时彼此都楞了一下，只听父亲开口道:“这么多年没见了，你还好吗?”\n“还好，孩子们都这么大了。”\n父亲赶忙拉着你们道:“快，叫小姨。\n“小姨。” 你们听话道。小姨笑道:“真乖，等小姨有空去家里看你们给你们买糖吃。”\n“以前的事情都过去了，没事就来家里坐坐吧。\"\n小姨听完父亲的话点了点头后就转身离开了。\n父亲望着她离去的背影叹了口气便领你们进了照相馆。\n-切准备好后父亲给你们排位置，“最天，你站中间，景明景站你大哥右景媛景芸站你大哥左边………\"边，\n摄影师见你们都准备好了于是喊道:“好，站好别动啊，别眨眼，3,2,1“茄子~…#\n“昨嚓”一声，时光仿佛静止，一切都定格在了那一刻。\n过了几天，来家里作客的村长不知和父亲聊了什么,他走后父亲心情特别好于是当天下午带你们去城里取了照片。从照相馆出来后你诧异的发现父亲并没有带你们回家，而是坐了好几个小时的车，终于在天黑前来到一个高山上。\n父亲告诉你们他和妈妈在 11年前结的婚，而这里是他和妈妈第一次见面的地方，也是他觉得最美的地方。父亲还说妈妈叫赵莹和自己同岁，小姨叫赵芳，比妈妈小了18岁。69 年因为文革批斗导致外公外给妈妈和小留下一笔财富后就死掉了，是妈妈把小姨当成孩子一样者大，所以姐妹感情很。\n你们听充后问道:“妈妈长什么样子呀?\"\n“你们的妈妈可美了，是这世界上最美的女人。\n“那妈妈现在在哪呀?\"\n这时父亲指向一旁道:“看，她生完小艺后就变成这些小花了。你们答应爸爸以后要把我撒在这里，这样我就能一直陪着她了。\"\n撒在这里?”\n“哈哈哈，等你们长大就怪了……”\n和煦的微风抚动半人高的茅草，娴娜多姿地向朝你们招。一家六口坐在空旷的山顶，享受着难有的闲暇时光。这时父亲把裱装过的照片拿出来，你们都予先忍后地围过去看。父亲笑着说你的衣服没整理好。你也不甘示弱地调侃他说他头发乱槽槽。那天大家都很开心。也是自己在父亲的怀里靠得最多的一天。月光很柔和，它把你的零星回忆包裹起来，镀上一层滤镜。火堆，草丛，嬉，名叫妈妈的小花和故事，更是有那一阵阵的笑声，这笑声传到空中，飘散开来……两天后父亲又带着你去了学校，这次老师很痛快的就给你办了入学手续。学堂老师十分亲切的发给你新书，你双手小心翼翼地捧着，生怕把它们弄脏。教室里经常有学生打闹，学生中有和你同的，也有比你小几岁的，更有十几岁的大哥哥大姐姐，不过你们都用同一间教室。\n后来小姨每隔几个月就会案家里一次，不知道为什么，小姨对四弟和小妹的志度不像对其他孩子那么好。另外许医生在那次事故后也经常来家里看望你们，并且每次来除了会带一些好吃的还给你们讲很多新鲜好玩的事，渐渐的，你发现这个人除了有点话多大嘴巴其他方面还是很好的,于是你们兄妹和他的关系也是越来越好。\n几年后，二妹和三弟也到上学的年纪了，但家里实在负担不起他们的学费，父亲无奈只好请了隔壁张阿姨教二妹刺绣，而三弟则留在家里帮父亲干活。你知道他们委屈，于是每晚都会把老师当天教你的知识教给他们，二妹很聪明，总是学得很快，你想要是她也有机会去学堂听课，懂的知识一定比自己多，而三弟却总是一知半解，需要讲好多遍他才能明白。\n由于家里的生活困难，于是你想普父亲承担一部分压力。因为你的学习成绩非常优异，所以在学堂专门帮别人写作业，一天作业一毛钱。起初，你的“生意”十分惨淡，渐渐地，越来越多的同学找你写作业，你赚的钱也越来越多。不仅如此，你还会做各种各样的零工，甚至放假时给邻居放牛插秧，你将赚到的钱全都补贴家里，为的就是让父亲能少受一点累。\n12岁那年的一天，你们兄妹在外面玩，回家时正好看见村里的老胡在你家门口偷听着什么，他见到你们回来了便转头朝自己家的方向走去。\n你们来到家门口才听到原来是小姨和父亲在吵架。\n小姨:“如果不是我姐当初非要坚持，TA怎么可能娶那个女人，那样我也不用来T市，如果不来T市也不会碰到那两个畜生。”\n父亲:“以你们的关系你就不该喜欢 TA，另外那两个人虽然可恶但你也不能那样做呀，你姐如果活着也不希望看到你这样。\"小姨:\"我也没想到时隔7年还能见到TA，这就是上天注定要我们在一起。再说你还有脸提我姐?你为什么当时不数她?\"\n父亲:\"我对不起你姐姐，但我承诺过小莹会好好照顾你，所以当初我才原谅了你。”\n小姨:“这么说我还得感谢你了?\"\n父亲:\"那是你的事，之前我已经做到仁至义尽了，如果再有下次我决不饶\n你\n这时你们迈进了房间大门，她见到你们先是一愣，随即挤了个难看的笑脸后拿着一张纸夺门而去。\n你们上前去问父亲怎么了?他只是一边摇着头一边叹气道报应啊，报应。这种生活当中的小插曲时不时会出现一次。小学毕业后，你考上了初中，本来父亲执意要送你上学，但弟弟妹妹们渐渐大了，家里的开销也大了，你不想再给父亲添负担，于是决定辍学打工。\n父亲沉默良久后开口道:“小天，是爸爸对不起你!是我没力供你上学!”\n你扑到他怀里:“爸，千万别这么说，您一直都是我的榜样!我会好好工作，您在家也要好好照顾自己，别累着了。”\n父亲欣慰的摸了摸你的头感慨道:“好。好!\"\n去B市闯荡的前一晚，父亲和弟弟妹妹们给你践行。父亲准备了一大桌子菜，还有鸡和鱼。在饭桌上，他总是一个劲儿地夹肉给你们吃，自己却没有吃一口。你夹了一块鸡肉到父亲碗里，父亲却又夹回到你碗里，说他不爱吃肉，让你多吃点。\n转天一大早，你扛上了衣服和各种生活用品，本来不想让父亲送，但他执党坚持送你到车站。阳光酒向蜿蜒的山路，父亲走在你前面，他扛着你的被子，缓慢前行，他的身体依然健壮，但却没有从前那股高大，不知是他变老了，还是你长大了。\n到了B市后才发现一个没有学历没有人际关系的人想找一份工作谈何容易。你离开家已经1个月了，渐渐的已经花光了身上所有的钱，这天你来到了一家橡胶厂应聘，果不其然又被拍绝了。你坐在路边，沮丧的低着头，想学那些乞丐，但自己始终放不下面子。\n\"你是饿了吗，是不是回不了家了?”一个温柔的声音把你从恍饱中拉回\n了现实。你拍头看着这个素不相识的女孩儿，却一句话也说不出来，“哦~你是个哑巴啊。”女孩儿笑着，从一个写著为人民服务的军绿色布袋子里拿出半个馒头:“喏，我这里有半个没吃完的馒头，你不嫌弃的话，给你吧。\"\n你只是呆呆地望着她，缓缓地伸出手接住馒头，再放到干裂的嘴边，此时的你饿得像一只许久未进食的狼，捧着馒头大口的啃咬起来。\n吃完馒头你抹了抹嘴上的碎屑，羞涩的说道:“那个……我不是哑巴,呃………谢谢你的馒头。\n那女孩笑了一下表示没什么，你看她要离开忙维续问道:“那个……我是从外地来的，没有亲戚，我想问问，你知不知道哪里能找到工作?”说完你自己都觉得有些得寸进尺。\n她听后又打量了你几眼:“嗯……也行，那你在这儿等会吧。”说罢女孩儿踏着欢乐步朝工厂的方向走去。\n过了半个多小时，一个叔叔从厂里出来将你叫了过去，大概询间了一下你的背景后就把你留下了。你知道自己能留在这里是那个女孩的功劳，于是想找她当面道谢，但从那天开始就再也没有见过她。\n工厂工作的强度超出了你的想象，活很累不说还没有休息日，此时的你只是一个14 岁的少年，却要干跟20岁青年一样的活。流水线的工作十分痛苦乏味，但你一想到远在农村的家人，还是咬牙坚持了下去。你们舍是大通铺，每天晚上都有打呼和磨牙的声音，刚来的那几天你根本无法入睡，后来也许是渐渐适应了环境，也许是工作一天后的身心俱彼，基本躺下就睡着了。由于没有银行卡，你每个月发了工资都会寄回家里，一是给四和小妹的学费，二是让父亲替自己存着将来娶媳妇用。\n7年后你由于工作认真勤劳，被厂长提拔成了车间组长，升了职，工资也比以前多了一些。期问你了解到二妹在她17岁那年去了城里的纺织厂工作:三弟因为13岁时的一次中风被送去D市给一位木匠师傅做了学徒:四弟和你一样小学毕业后便去外面打工了:小妹到是还好，维续上者学:父亲则因常年劳作息上了风湿，一变天膝盖就会疼。你指望不上其他人，想着多赚点钱给父亲治病，于是每天都吃得很清淡。食堂的白菜泡饭就是你的标配。每次闻到隔壁餐盘飘来的肉香都会忍不住咽口水，但一想到家里的弟弟妹妹和积劳成疾的父亲，你都会忍住食欲。\n这天又是一如既往的白菜泡饭，突然你的餐盘蹦出了一个炸鸡腿，面皮炸得酥脆，还泛着油香。你拍头一看，一位长发女子正对你微笑，她穿着雪白的长裙，端着餐盘略带害羞地说道:“请你吃的!”说罢甩了秀发，和同伴缓离去。你从来没有见过这么美的姑娘，盯着她的背影，竟出了神…\n后案你从同事那里打听到她叫阿香，是你们厂长的女儿，不仅长得漂亮，还上了大学，像你这种农村出身、小学文凭的人，大概只能远远地望着了吧建军节这天，你出门办事。刚好看到小姨穿着黑色外从人群中一闪而过，你由于手边有事要处理便没有过去打招呼。待你忙完已经是中午了，回到厂里的食堂，见到阿香正坐在桌子旁对着一张照片和一个卡片发呆。你凑过去看到照片上是个漂亮的单眼皮女人，而卡片上印着人民警察证，姓名:秦玲，性别:女，血型:A型，出生日期……\n阿香发现你在身后时“啊”了一声，赶紧将东西收了起来。\n“不好意思，我不是故意偷看的。”你摸着后脑勺继续道，“哦对了，谢谢那天的鸡腿。”\n“不用谢。”随后她又盯着你看了半天问道，\"你不记得我了?\"\n“你是?\"\n“给你馒头的人。”\n你听闻吃了一惊，指着她结巴道:“你，你，你，你……”\n她无奈道:“你什么你，唉，看来你早就把我这个思人给忘了。\"\n“不是不是”你连忙摆手,“怎么可能忘了呢，主要是你变化太大了，也更漂亮了。”\n阿香听完双颊微红，骂了你一句不正经后转身跑开了。\n那天开始下班后你总是有意无意的去找她搭话，不知是不是老天为你的努力而感动，阿香终于成为了你的女朋友。她比你大1岁，D市人，那天片上的女人是她的邻居，小时候对她非常好。遗憾的是那个邻居与她同事结婚三年后在 82年一场大火中不参去世。由于那场火灾烧毁了房子，政府给了补助金后，阿香父母带着她来到了B市创业，后来随着生意越做越大，阿香便在毕业后来厂里帮忙了。\n随着关系的深入，阿香把你带回了家中，你本以为凭借自己在厂里这么多年的付出能得到她父母的认可，可谁知他们嫌弃你是农村出身，十分反对你们在一起，并提出要你买个三居室才会把女儿嫁给你。你知道这是他们故意在刁难你，但你没有退缩，面是暗暗发誓一定要将阿香娶回家，于是你开始没日没夜地工作，就连体息日都会去找一些兼取的差事打工。\n理想和现实总是筹距很大，一晃你已经25岁了，尽管你拼命努力，但看着那遥不可及的房价一种无力感深深的刺痛着你。最重要的是阿香也早已到了适婚的年龄。正当你不知如何是好时阿香给你带来了一个天大的好消息，\n原来她父亲有个朋友叫李晋，是个搞投资的老板，家里有很多套房产，对阿香也十分飘顾，前两天阿香和他出来吃饭时李老板答应可以使宜卖一套给你们结婚用。你听闻狂喜，李老板你在厂里见过几次，是个留着胡子的40多岁中年人，单单的眼皮下一双不大的眼睛异常有神。起初这个人的面相给自己的感觉并不是很好，没想到如今竟然成了自己的恩人，你怕李老板改变主意，于是在回家过年时打算向父亲要回存款付首付。\n到家后父亲告诉你钱都交给二妹保管了，让你等她一会儿回来间问她。在漫长的等待中二妹终于回来了，你一个健步冲过去抓着她的手问道:“小媛，把我存家里的钱给我，我急用。”\n二妹眼神飘忽支支吾吾的道:“那个……大哥，你之前也没说这钱你还要拿回去啊。”\n你意识到事情不对遂逼问道:“你把钱花了?你花哪儿了?”\n“我………我买农服和化妆品了，我这不是还要存嫁收嘛……”\n你跟跄了一步，突然觉得天旋地转，完了，一切都完了。心头遇不住的怒火进发而出:\"你怎么能花在这么不正经的地方?谁他妈让你动我的钱的!那是我结婚用的钱啊!”\n二妹哭道:\"那钱是咱爸给我的啊，你怎么能怪我?再说你从小到大从来没给我花过钱，就知道给小妹交学费，你怎么这么偏心。”\"我为了咱家生计从小开始打工，我一赚到钱就给你们了，自己舍不得吃舍不得穿，把最好的都留给你们!你非但不感激，还怪我偏心?你良心被狗吃了?\"说罢你转身离开了家里。\n父亲赶忙跑出来拉住了你:“小天，你别怪你妹，钱没了可以再赚，吃过年夜饭再走吧。”\n“吃个屁!爸，你知不知道我存那些钱受了多少苦，我那都是汗珠子脚面一分一分赚出来的啊，你上嘴皮一碰下嘴皮就交给别人保管了?你经过我同意了吗?我算是看出来了，你养我就是为了让我替你养儿女?哈哈哈哈……我告诉你，从今天开始我再也不会给你们一分钱!也没有你们这些个家人!”你怒吼着，咆哮着，把心头所有的怨恨都发泄在眼前的这个老人身上。\n回到厂里，工人们都回家过年了，你看着空无一人的车向不禁失声痛哭。你恨他们，恨他们对自己这么多年辛苦付出的不闻不间，恨他们认为你所做的这一切都是理所应当。\n不出所料，阿香在得知你的情况后无奈的惨笑了一下，她说再去找父亲商量商量便转身离去了，你不放心。怕她跟厂长吵架，于是偷偷跟在后面，没想到听到的全是厂长对于你的冷嘲热讽。\n之后没几天你便被开除了，你知道这是厂长想让你彻底远离他女儿采取的手段，但你没有怨言，毕竟你没办法给他女儿一个稳定的将来，也不能让阿香将自己的青春继续葬选在自己手中。\n你离开了B市，离开了这个挥酒了10多年汗水的地方。临别时阿香来车站送了你，她等应你会努力说服她父亲并等你回来。你违心地告诉她自己永送不会再回来，让她如果有好人家就赶紧嫁了吧，她听完转身关着跑离了站台。你看着她的背影心里难受极了，推了擦拳头转身刚要上车看到地上有个证件，捡起来发现是阿香邻居的那个警官证，你默默的将证件收起，想着将来有朝一日重逢时再还给她。\n国到T市后你不分日夜的我着各种兼职工作，因为工作大多都是临时的且日期比较不固定，所以每次你都会将自己的工作和档期记录在本本上以免忘记。期间你再没有回过家，也没有打听任何关于家里人的事情，此刻你心里只有一个含头，赚钱，你要出人头地，然后将之前看不起自己的人狠裂的踩在脚下。\n2006年国庆长假前，你去一家刚开业不久叫浅红的饭店门口兼职接待，饭店位于步行街旁一个不家的小路上。工作内容统是换上小熊头套和玩偶服在饭店门口和来往的人群互动，上班时间不固定，一般是11:00-17:00或者17:00-22:00，虽然不能坐着且需要一直穿着玩偶服，但好在工作时间不长，所以到也不是很辛苦。\n10月3日这天你刚下班换好衣服准备回家，可谁知正好被前来吃饭的三弟和小姨叫住。你本来想借着有事为由赶紧离开，但耐不住三的热情邀请，于是只好随他们在饭店的一个靠窗的餐桌旁坐下，就在你们准备点餐时你最不想见到的二妹竟然从大门口走了进来。\n“二姐?”三弟冲她招了招手,\n她回过头看到你们也是愣了一下，犹豫了片刻还是坐了过来。你发现三弟他穿着工装，被发胶固定住的发型非常时尚，给人一种成熟男人的气。而小姨变化不大，棕红色的卷发搭配着精致的妆容，胸前项链术端挂着一个双手捧珍珠的吊坠，整个人虽然已经50出头，但白的皮肤加上修长的身材一点也看不出老态。反观二妹则苍老了很多，无论是手上的老茧还是脸上的皱纹感觉都不像是这个年纪该留下的痕迹。你感慨了一下，想到你们小时候的样子如今真是时过境迁。\n由于你和二妹之前的矛盾导致饭桌上气氛非常地尬，三弟和小则是见缝插针的一直在找着话起打网场。过了一会儿，你从窗外看到穿着绿色外套、怀里抱着一个哭闹孩子的李老板从旁边经过，这时小姨放下筷子说自己还有点事情便离开了。小姨走后本就尴尬的饭局更加尴尬了，于是在8点多时你起身告别了二妹和三弟回到了出租屋。\n又过了3天，你正在饭店门口上班时见到四弟过来吃饭，没过一会儿小妹也加入了他的饭局。他们由于坐在靠近玻璃窗的桌子旁，你远远望去发现四弟穿着画皮衣，中分头，打扮的流里流气，而小妹和以前一点都不一样了，不仅割了双眼皮，还涂了艳丽的口红，打着白的粉底，整个人显得的十分成熟。面对许久未见的二人，你心里五味杂陈，你不想让他们看到你如今的窘况于是并没有摘下头套同他们相认。晚上8点他们离开饭店时你见到小慌慌张张的从门口经过，你觉得她身上有点奇怪，但又说不出来，便也没有多想。\n转天上午10点你打开电视机，发现一连4天了，每天这个时间都是重复头中男在本市再次作塞的新闻。\n头巾男你小时候听村里长辈们说起过，是个人贩子，据说以前经常拐卖孩子，后来渐渐的就没有再出现。由于每次作案都会用头巾将头事住，只能隐隐约约见到从头巾下露出来的胡子因而给起了头中男的外号。\n你无奈的将电视关上，正要出门时手机突然响起，接起后发现是警察，当对方告知你父亲在巷子中被人杀害的消息时你仿佛五雷轰顶。\n来到派出所，一进门就看到二妹红着眼睛望着你。\n认尸时你始终不敢相信眼前的一幕，父亲竟瘦成这样，他的腿因常年风湿已经变形，从前宽大的臂膀竟变得如此瘦小，而头部一块一块的猩红色异常刺眼。你再也压抑不住的悲伤的情绪，使劲扇自己耳光，旁边民警见状连忙制止了你。你坐在派出所的长椅上，满脑子都是父亲，他教你做饭时的样子，他安慰你时的神情，他送你上班时离开的背影……\n待其他弟弟妹妹赶来后办案民警说尸体今早被发现在一个的巷子内，头部遭受连续重击致死，身上财物丢失疑似抢劫杀人，死亡时间初步确定是昨天下\n午3-8 点之间，并表示会尽快找到凶手。从警局出来后你们兄妹5人只是互相留了联系方式便各奔东西了。之后的日子里你根本无心工作，就这样浑浑暖事的过了半个多月才渐渐从阴中走出。这天你正在路边看招工启示，突然一位50多岁着礼帽的男人过来拍了拍\n你的肩膀道:“年轻人，找工作?”你点了点头，只见他笑着说如果信得过他便跟他走。你觉得这个人是骗子，但他提出的薪资实在是太诱人，再加上自己现在真的急需钱便答应了对方。\n他开车带你来到了一座高山上，下车后你感觉有一眼熟，猛然想起这就是父亲和母亲第一次见面的那个地方。你虽心中存疑但还是跟着他朝前方走去，你们徒步拐过一个U型山口，对面一座座错落有序的房屋赫然映入眼帘，而不远处吊桥上的“零钥山庄”四个大字提醒着你，目的地到了。过了吊桥，穿过走腐来到了最近的建筑，他告诉你这里是1号房，用餐和一些娱乐活动都在这里。\n你进到大厅，发现这里是一个二层的建筑，一层是前台、房、衣间、管家房、储藏间等地，二层是休息率、卫生间、餐厅和书房等。\n对方告诉你他姓高，以后可以称呼他庄主，你的工作便是做这个山庄的管家，条件就是在这里做管家的事情需要绝对保密，对任何人都不能提起。\n在这里工作了一周，你发现他跟一位普通的老人没什么区别，作息很规律，每天就是看报纸看新闻。半个月后庄主找到你说自己要离开半年，这段时间让你好好打理，书房可以随意进出，里面的书籍都可以翻阅但不能带走。\n庄主离开后你每天氨蒙业业的打理着山庄，有一次打理书房时突然见到桌子上放着一本笔记，好奇心的驱使下你将它翻开，发现里面竟然全都是推理小说中整理的杀人说计，你想着可能是庄主的写作素材于是并没在意，将笔记放同原位后继续干活去了。\n转天由于是休息日所以你回到了城里，晚上的许医生喝酒时得知父亲出事那天有个姓袁的警官在父亲的案发现场因为踩到一颗白色珍珠滑了一跤导致手部骨折。他在喝醉时还跟你吐露了一个天大的秘密，原来自己并非是父亲的亲生儿子。你回家的路上反复琢磨着许医生跟你说的话，猛然想起10月6日见到小时那怪怪的蛾觉，原来是她吊坠上的珍珠不见了。\n难道是小姨杀了父亲?不，不可能，这怎么可能!你飞快的赶往案发现场并在一个极其隐蔽的角落找到了那题珍珠,，在铁一般的证据面前你不得往最坏的方面去想，于是往后的几天你开始略中观察小姨，终于在一次她和李老板的对话中确认她就是杀害自己父亲的真凶，同时更加让你震惊的是李老板竟然是24年前杀死自己亲生父母的人。\n赵芳!李晋!我要让你们血情血偿!你并没有将知道的事情告诉警方。而是回到了山庄，在书房内拿出那本笔记反复研究。\n研究笔记的过程中你突然想起之前有一次小姨请你们全家吃饭时听父亲提起过家里有个十分珍贵的东西。那天父亲喝了很多酒，你觉得那一定是父亲的酒话。家中的条件你是清楚的，大家生活的这么围难如果真有那种东西父亲早就拿出来了。不过没有不代表没可能有，一个完美的杀人计划在你脑海中成型。你先是雇佣了一个姓罗的临时管家,之后绑架了李晋通迫他说出自己的银行卡偷码，最后你用李晋的身份证购买了一张新的手机卡，用短信的方式和罗管家沟通着工作中的注意事项并用李晋的银行卡给对方提前转了1个月的工资。\n2006年12月6日，你将父亲的骨灰从瓦房中取出并撒在这高山上，用李晋的新号码给包括自己在内的兄妹5人和小姨发了一条短信，内容为一名自称是李律师的人说王金荣老先生在半年前检查出了肝,委托他在自己死亡的2个月后将家中房产、耕地和其他造产分给你们5兄和小，约大家后天前往集合地点，会有人接他们前往零钥山庄领取。由于小姨是你必须要杀死的日标，为了保证她能如约而至你又单独给她发了一条短信，并用珍珠的事情对她进行了威胁。2006年12月7日，今天是罗管家上班的第一天，你用短信对其交代了一下今明两天的工作和注意事项后给李晋换了一身于净的衣服并在深夜开车带他来到了零钥山庄。下车后你用布将他的嘴塞住，用刀子换持他经过吊桥来到山庄的零号房，你将屋内的电话线指断，用提前准备好的毒药将其杀死并将天窗打开，将事先准备好的道产分配书和李晋的遗书放到务边的床头柜后一个人开车回到了出租屋。\n至此，一切准备就绪，你躺在床上看着斑驳的天花板，等待着明早那场白雪的到来。\n当天下午，你如约到达了集合地点。面对从小生活在一起的他们，虽说都是一家人，但你还是感觉到了一丝生分……\n摄示:你是本案的真凶，务必隐你今年10月6日那天看到过赵芳，你们正聊着平时的过往，赵芳娜来迟。她刚来没一会。一辆黑色商务7人轿停在了你们面前，一名中年男子从驾驶位走了下来自我介绍道:“我姓罗，是零铜山庄的管家，想必各位就是庄主的客人吧。”\n你只在应聘简历上看过这个人的照片，没想到真人比照片更多了一份英气，你调整了一下呼吸,佯装不知的上前一步问道:“庄主?我们是李律师邀请来的。“哦，李律师就是庄主。”罗师傅答道。\n“他人呢?没在?\"四弟问道。\n“庄主吩咐我先带各位回山庄,他今天被一些事情耽搁了,要晚点才能到。\"你们相互看了一眼，也没说什么便随罗师傅上了车。\n过了不知多久，车子停了下来，罗师傅说道:“各位下车吧，前面是品桥，必须步行，过了桥就到了。下车时慢点，今早刚刚下过今年的第一场雪所以地面比较滑，大家小心一些。\"\n你看了看表，已经晚上6点多了。罗师傅带你们六人去衣帽间换下外套后来到前台指了指墙壁上的地图说道:\"这里是山庄的鸟瞰图,我现在给大家发钥匙。“房间都给我们安排好了?\"小姨问道。\n“对，庄主已经统一安排好了，王景芸2号房，王量明是3号房，赵芳是4号房，王景桓是5号房，王景媛是6号房，王景天是7号房，最后庄主自己住0号房。”管家一边发钥匙一边继续道。“由于这个钥匙因内目前配不到。所以大家都妥善保管好，如果弄丢了可就进不去房间了，除非等庄主回来，他那里还有一套备用钥匙。”\n“李律师今晚就能回来是吧?”小继续问道，\n\"他是这么跟我说的，请问您有什么事吗?\"\n“哦没什么,我这公司还一堆事情等着我去处理呢,不能光在这里耗着啊。”你虽然极力在控制着自己的情绪,但想到这个人的丑恶嘴脸还是忍不住嘲讽道:“最好现在就回去处理，您这家大业大的，在这儿多待上一天损失大了可划不来。\"\n“我要去哪用不着你管。”小姨有些不开心的盯着你道。\n罗师傅皱了皱眉:“书房是庄主的私人房间所以是上了锁的，连我也没有钥匙，其他地方大家可以随意参观，晚饭过会儿就好。二楼餐厅旁边有休息室，累了可以在那里稍作休息,由于这里没有信号所以如果大家想打电话可以到的台来，这里有一部。庄主之前交代说他今晚8点半前回来，如果到时回不来就让各位回房歇息，明天早上7点在他所住的0号房集合。哦对了，由于木柴要过几天才能送来所以各个房间的壁炉暂时没法生火，大家晚上睡觉时多盖些被子吧，别着凉\n你们听后也没什么异议，一起朝二楼餐厅走去。你们围坐在餐桌前边剥着桌上的花生边聊着家常，小姨则说了句自己对花生过敏就坐到一边看书去了。\n过了约半个小时，终于开饭了，罗师傅将餐桌收拾干净后上一道道美味的\n菜肴，面这时小姨也合上书坐了过来。饭桌上碰杯声不绝于耳，你看着眼前的众人，感慨良多，毕竟大家坐在一起吃饭的场景在你离开瓦房后就很少有过了,有那么一瞬间你感觉仿佛回到了小时候。\n这时罗师傅端着一条清燕鱼走了进来“大家慢用,这是今天最后一道菜了过后我给你们准备甜点。”\n他刚刚离开三弟便起身道:“你们吃，我饱了。”\n二妹在一旁劝道:“最明，这才7点40，这么久没见了不坐下说说话吗?反正李律师也还没来，这么着急走干嘛?”\n只见他拿出手机看了看，“你们聊你们的，这酒我喝着有点上头，现在离8点半还 50分钟呢，先去休息室会儿。\"说罢便离开了餐厅。\n小妹见状笑道:“看得出来三哥今天高兴。\"\n四弟跟着附和道:“是啊，毕竟一家人很久没聚到一起吃饭了。如果咱爸还在的话……”\n说到这里，饭桌上突然没了声音，可能他也意识到自己说错话了于是打了个哈哈道:“来来来，吃饭吃饭。”\n过了一会儿你看了眼墙上的挂钟，19:50，你觉得时间差不多了，于是起身道:“我肚子有点不舒服，去趟洗手间。”\n按照之前给罗师傅下的工作计划他这个时候应该正在厨房给你们准备甜点，于是你悄悄下楼后藏在楼梯口的拐角处，探出头看了一眼发现他果然不在大厅你迅速前往农帽间将小姨放在这里的外套拿到二楼书房，再从书房里拿出提前冲备好的绳子和氯仿，做好这一切后你便躲在男厕右边空地处探头窥视着走，等待小姨的出现。\n过了一会儿你发现二妹从餐厅出来去了洗手间。继续又等了不到5分钟，小姨终于拎着包从餐厅里面走出。等小姨穿过走廊朝楼梯口走去时你快步来到她的身后，用沽满氯仿的手帕死死的捂住她的口鼻并将她拖向旁边的书房。她显然被你的举动吓了一跳，在你的方拼命挣扎，不过也仅仅是挣扎而已，待你关上书房房门的刹那她便没了动静。\n你将昏迷的小姨放到地毯上,用绳子将她勒死后迅速闪出书房前往洗手问洗\n手\n一切顺利:\n你从洗手间出来时刚好碰到前来送甜点的罗师傅,他说他前台还有事情要忙拜托你帮他给大家送过去，你接过甜点在8点10分若无其事的回到餐厅。\n来到餐厅，你发现二妹已经回到了座位上，你撒了一眼小的空位，想到之前和她拌过嘴，这里关心她似乎不太好，于是把甜点端到大家面前道:“刚碰到了罗师傅，他说的台还有事要忙就拜托我给大家送过来了。”\n你们品尝着甜点，聊着童年。又过了不知多久，四弟突然道:“已经8点半了，大家也别再等了，早点回去休息吧。”\n你这时看了看手表，确实已经8点30了。\n二妹起身道:“也好，那我们明天再和李律师商量遗产的事吧。”\n你们一起来到休息室，看到三弟披着外套躺在沙发上睡着了，小妹过去播了摇他道:“三哥，同去了，庄主没能赶回来。\n三弟可能确实是喝的有点多，迷迷糊糊的道:\"你们先回去吧，不用管我。下楼时你们见罗师傅在前台不知忙些什么，二妹冲他嘱道:“罗师傅，晚上我三弟如果睡这里您受累给盖个子。\"\n“放心吧，这是我应该做的。\"\n在听到管家的答复后你们去衣帽间取了衣服便离开了1号房。由于今天这顿饭让你和二妹之间的关系缓和了不少，再加之你和她房屋相邻，于是你结伴回了各自的房间。\n漫长的等待下时间终于来到了0点，你出门来到0号房门前，脱下自己的鞋子用钥匙打开房门后进到卫生间。你用抹布将鞋底擦干净放到卫生间的地上，将抹布洗好后你穿着袜子来到床边，冷冷的看了一眼躺在床上李晋的尸体，把他的鞋子换上出门倒退着走到4号房。你在4号房随意的走动一番，将屋内布置成住过的样子，然后继续出门倒退着来到吊桥旁。你用刀子将品桥的绳索砍断，将李晋的鞋子鞋底向上放在1号房门前，穿着袜子进星指断前台的电话线后前往二楼的书房。\n来到书房，你将外套给小穿好并换上她的鞋子，拿着绳子、仿、手帕和小姨的背包将她背出了1号房。来到门口，你将李晋的鞋子拿起，再将小背回她的4号房。进屋后走了一圈后继续背着她来到0号房，你将手帕和绳子扔在床边，把氯仿放到床头柜，将小姨摆到李晋的尸体旁。你把钥放入李晋的口袋，将二人的手机进行了处理,最后穿着他们的鞋子在地上来回走了几趟后将鞋子重新套回到他们脚上。为了不留下脚印你并没有换上自己的鞋子，面是穿着袜子在房内等待天亮。\n早晨6点多，你将房内的灯打开，来到门前将鞋子穿好，推开房门确定周围没人后赶紧躲到了0号房房檐下最北侧的空地处。\n过了半个多小时，你听到对面传来了敲门声，知道终于有人来了。你静静的等了一会儿，然后迅速来到1号房门前在地上踩几脚门口的雪。\n这时屋内传案了一声尖叫，你站在雪地里看了眼表，6点50分，你调整了下呼吸，推开房门时只见二妹正慌慌张张的向门口跑来。\n“大哥!大哥!你来的正好，死人了，死人啦!\"\n你听闻随手关了一下门后赶紧走到内间假装查看,装模作样的伸手试了试二人的鼻息后道:“真，真的死了，这到底是怎么回事?”\n“不知道啊，我来的时候就这样了。\"\n这时二妹从床头柜拿起你伪造的遗书看了看，“哥，那人就是李律师，这是遗书。”\n你接过来扫了两眼，拍头对二妹佯装紧张道:“不管怎样我们得赶紧报警。她附和着，“对，报警，赶紧报警。\"此刻小妹和三弟走了进来说道:“大哥，二姐，你们这是?”“小姨和李律师死了。”你回道。“啊?”二人一起惊呼。“这里有封遗书，你们看看,”说着你将手中的纸张递了过去。二人看透书的时候你拿起屋内的电话按下了110，等了片刻故意喊道:“妈的。电话打不通!\"\n“你们在干嘛?”\n你转身看见四弟正站在门口处望着你们。“两条人命，李老板杀掉小后自杀了。”小妹说道。四弟震惊道:\"小姨死了?还有李律师为什么要这么做?”小妹回道:“不知道，这要问问罗师傅才行。”这时你们看到屋内有个对讲机，于是赶紧呼叫他过来一趟。等了一阵，只见他慌慌张张的赶了过来。你们把事情的经过跟他做了简要的说明，他听完后说道:“不光是这里，1号房前台的电话线昨天夜里也被人剪断了，目前的情况看是不是自杀现在还不好说，如果不是自系的话那杀害他们的凶手可能就在我们之中。”\n四弟吼道:“放你妈的屁，我们兄妹怎么可能杀人，我看这件事八成就是你干的。”\n罗师傅冷笑一声,从怀里掏出了一个警官证道:\"我是T市市局的刑警罗辉。首先我为我之前隐瞒身份的行为跟各位说声抱歉，另外我来这里是执行任务，每天早晨8点会向队里报告昨天的情况，如果他们没有收到我的报告则会立刻出警朝这里赶来，我希望大家在这段时间内尽可能的配合我。”\n",
+            "r_q": [
+                {
+                    "q": "Why does the protagonist change shoes next to Li Jin's body in the script? a. To create confusion, to prevent leaving one's own footprints, to ensure comfortable wearing, and to test new shoes",
+                    "ans": "b"
+                }
+            ],
+            "self": "Hello everyone, I am Wang Jingtian",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "Why does the protagonist change shoes next to Li Jin's body in the script? a. To create confusion, to prevent leaving one's own footprints, to ensure comfortable wearing, and to test new shoes"
+            ],
+            "a": [
+                "b"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "What is Zhang Min's blood type? a. Type A b. Type B c. Type AB d. Type O",
+            "What is the profession of the person who transfused blood to Wang Jingyun with Wang Jingming? a. Doctor b. Police c. Lawyer d. Teacher",
+            "What is the name of the police officer who transfused Wang Jingyun with Wang Jingming? a. Li Jin b. Wang Zhibin c. Jin Shaohua d. Song Qiang",
+            "Which of the 5 siblings has Rh negative blood type? a. Wang Jingtian b. Wang Jingming c. Wang Jingyuan d. No one is Rh negative",
+            "Can Wang Jingtian and Wang Jingyun exchange blood? a. Completely possible b. barely possible c. completely impossible d. insufficient information to determine",
+            "Can Wang Jingyuan give Wang Jingyun a blood transfusion? a. Completely possible b. barely possible c. completely impossible d. insufficient information to determine",
+            "What is the profession of the person who transfused blood to Wang Jingyun with Wang Jingming? a. Doctor b. Police c. Lawyer d. Teacher",
+            "What is Zhang Min's blood type? a. Type A b. Type B c. Type AB d. Type O",
+            "Which of the 5 siblings has Rh negative blood type? a. Wang Jingtian b. Wang Jingming c. Wang Jingyuan d. No one is Rh negative",
+            "Can Wang Jingtian and Wang Jingyi exchange blood? a. Completely possible b. barely possible c. completely impossible d. insufficient information to determine",
+            "Which two people have the most matching blood types and are suitable for mutual blood transfusion? a. Wang Jingming and Wang Jingyun b. Wang Jingyuan and Wang Jingtian c. Wang Jingming and Wang Jingyuan d. Wang Zhibin and Zhang Min",
+            "Who, along with Uncle Jin who owns the engraved dragon pocket watch, transfused blood to Wang Jingyun? a. Wang Jingming b. Wang Jingyuan c. Wang Zhibin d. Li Jin",
+            "Does the blood type among the 5 siblings include Rh negative? a. Yes b. No c. Insufficient information to determine d. Partial yes",
+            "Can Wang Jingyuan give Wang Jingyun a blood transfusion? a. Completely possible b. barely possible c. completely impossible d. insufficient information to determine",
+            "Which two people have the most compatible blood types? a. Wang Jingming and Wang Jingyun b. Wang Jingyuan and Wang Jingtian c. Wang Jingming and Wang Jingyuan d. Wang Zhibin and Zhang Min",
+            "Who did Uncle Jin, who owns the engraved dragon pocket watch, and others give Wang Jingyun blood together? a. Wang Jingming b. Wang Jingyuan c. Wang Zhibin d. Li Jin",
+            "Who are Wang Jingtian and Wang Jingming's children? a. Li Jin and Qian Xiaoqin b. Wang Zhibin and Zhang Min c. Song Qiang and Liu Juan d. Jin Shaohua and Wang Jinrong",
+            "What is Wang Jingyuan's real name and whose child is she? a. Liu Yong is the child of Liu Guoquan and Qin Ling. b. Wang Jun is the child of Wang Zhibin and Zhang Min. c. Li Ming is the child of Li Jin and Qian Xiaoqin. d. Zhao Qiang is the child of Zhao Fang and Li Jin",
+            "Who killed Wang Jinrong? a. Li Jin b. Wang Jingming c. Zhao Fang d. Men wearing headscarves",
+            "What is Wang Zhibin's blood type? a. Type A b. Type B c. Type AB d. Type O",
+            "What were the causes of death for Li Jin and Zhao Fang? a. Mutual killing b. simultaneous suicide c. both killed d. neither committed suicide",
+            "What was the cause of death for Li Jin? a. Suicide b. being killed c. accidents d. illness",
+            "What was the cause of Zhao Fang's death? a. Suicide b. being killed c. accidents d. illness",
+            "Who forged the notarized certificate and suicide note? a. Li Jin b. Zhao Fang c. Murderer d. Wang Jingyun",
+            "Why was Li Jin killed? a. Mistakes in 1982 b. He is the father of the child c. He committed the crime in a transaction in 2006 d. His relationship with Zhao Fang changed in 2002",
+            "Why was Zhao Fang wanted to be killed by the murderer? a. She is the murderer. B. She has given opportunities before. C. Her identity is a murderer. D. She is unable to conceive",
+            "Where is Zhao Fang being controlled? a. Room 1 study b. Room 2 bathroom c. Room 3 tenant hall d. Room 4 bedroom",
+            "Which city did Li Jin live in until 1985? a. T city b. D city c. S city d. C city",
+            "Did Li Jin commit the crime on October 5th, 2006? a. Yes b. No c. Uncertain d. Insufficient information to determine",
+            "Since which year has the man wearing a headscarf been the same person? a. 1979 b. 1982 c. 1985 d. 2002",
+            "Why did Wang Jinrong leave home? a. The man wearing a headscarf commits another crime. b. Zhao Fang cannot have children. c. Give Zhao Fang a chance. d. Li Jin's emotional changes",
+            "What did Zhao Fang put in her backpack? a. Real money b. Fake beard c. Real beard d. Fake money",
+            "What is Wang Jingyun's blood type? a. Type A b. Type B c. Type AB d. Type O",
+            "What is the relationship between Li Jin and Qian Xiaoqin? a. Partners b. Neighbors c. Parents of children d. Relatives",
+            "Who did Liu Guoquan give blood to? a. Wang Zhibin b. Jin Shaohua c. Wang Jinrong d. Wang Jingyun",
+            "In which year did Li Jin's feelings towards Zhao Fang change? a. 2000 b. 2002 c. 2004 d. 2006",
+            "Which physical characteristic of Wang Jingyun is different from her family? a. Blood type b. Eyes c. Hair color d. Height",
+            "What is the possibility of Li Jin being controlled? a. Completely uncontrolled. b. He is the estate owner. c. He has already been controlled by the killer. d. Insufficient information to determine",
+            "Why may Zhao Fang not be forgiven by Wang Jinrong again? a. Controlled b. Headscarf man commits crime again c. Gave a chance, but won't forgive if it happens again d. Took a vacation with beard in backpack",
+            "What does retribution refer to? a. Zhao Fang is unable to conceive. b. Li Jin's fault. c. Zhao Fang's identity was discovered. d. Li Jin did not commit the crime at any time",
+            "Why did Wang Jinrong go out? a. Due to Zhao Fang's inability to conceive, b. Due to the man wearing a headscarf committing another crime, c. Due to Li Jin being controlled, d. Due to the forgery of a suicide note",
+            "Who is the target of the headscarf man's abduction this time? a. Zhao Fang b. A 3-year-old child c. Li Jin d. Qian Xiaoqin",
+            "What did Wang Jingyun see in the morning? a. Li Jin walked from Zhao Fang's room. B. Wang Jingming walked from Zhao Fang's room. C. Zhao Fang walked from Li Jin's room. D. A man with a headscarf walked from the study",
+            "In 1982, besides who, the deaths of the other four biological parents were all related to Zhao Fang or Li Jin? a. Wang Jingyun b. Wang Jingming c. Wang Jingyuan d. Wang Jinghuan",
+            "Why were Wang Jinghuan and Wang Jingyun excluded as the culprits? a. Because they never left the dining table throughout the entire process. b. Because they fainted during the crime. c. Because they had no intention of killing the deceased. d. Because they were abroad at the time",
+            "Why couldn't Wang Jingming hide in Li Jin's room in advance? a. He fainted due to physical discomfort. b. He didn't have a chance. c. He wasn't at home at the time. d. He was monitored by someone else and was not found in the room",
+            "How many years have Qian Xiaoqin and Li Jin been secretly dating? a. 2 years b. 3 years c. 4 years d. 5 years",
+            "What special purpose does the man wearing a headscarf have for the abduction of a 3-year-old child? a. Revenge b. Demand ransom c. Special purpose d. Experiment",
+            "What is the blood type system of Liu Guoquan and Jin Shaohua? a. Rh negative b. Rh positive c. AB type d. O type",
+            "What is the blood type system of Qin Ling and Wang Zhibin? a. Rh negative b. Rh positive c. AB type d. O type",
+            "Who is the person who invited everyone and has been communicating with the butler? a. Li Jin b. Wang Jingming c. Zhao Fang d. Non Li Jin",
+            "What is Wang Jingtian's blood type? a. Type A b. Type B c. Type AB d. Type O",
+            "What is Wang Jingyuan's blood type? a. Type A b. Type B c. Type AB d. Type O",
+            "What is Wang Jingming's blood type? a. Type A b. Type B c. Type AB d. Type O",
+            "Who are Wang Jinghuan's parents? a. Li Jin and Qian Xiaoqin b. Li Peng and Xu Huilan c. Song Qiang and Liu Juan d. Jin Shaohua and Qin Ling",
+            "What are the common characteristics of Li Peng and Xu Huilan? a. Both have double eyelids. b. Both have single eyelids. c. Both have type B blood. d. Both are Rh positive",
+            "Who are Wang Jingyun's parents? a. Li Jin and Qian Xiaoqin b. Li Peng and Xu Huilan c. Song Qiang and Liu Juan d. Jin Shaohua and Qin Ling",
+            "During which period did Zhao Fang and Li Jin not meet? a. 1978 to 1985 b. 1980 to 1987 c. 1982 to 1989 d. 1975 to 1982",
+            "What is Zhao Fang's true identity? a. Li Jin b. Wang Jingming c. Headscarf Male d. Jin Shaohua",
+            "What is Jin Shaohua's blood type? a. Type A b. Type B or 0 c. Type AB d. Rh positive",
+            "What is the relationship between Song Qiang and Liu Juan? a. Brother and sister b. Husband and wife c. Father and daughter d. Colleagues",
+            "What kind of color vision abnormality does Liu Juan suffer from? a. Red green blindness b. Blue yellow blindness c. Full color blindness d. Abnormal colorless perception",
+            "What is Liu Guoquan's blood type? a. Type A b. Type B c. Type AB d. Type O",
+            "Why doesn't the content of the suicide note include the words' I will die with the other person '? a. Because the person who wrote the suicide note wants to keep the property. b. Because the suicide note is forged. c. Because their relationship has broken down. d. Because the law does not allow it"
+        ],
+        "key_ans": [
+            "d",
+            "b",
+            "c",
+            "d",
+            "c",
+            "b",
+            "b",
+            "d",
+            "d",
+            "c",
+            "a",
+            "a",
+            "b",
+            "b",
+            "a",
+            "a",
+            "b",
+            "a",
+            "c",
+            "c",
+            "d",
+            "b",
+            "b",
+            "c",
+            "a",
+            "c",
+            "a",
+            "b",
+            "b",
+            "a",
+            "a",
+            "b",
+            "b",
+            "c",
+            "b",
+            "b",
+            "b",
+            "c",
+            "c",
+            "a",
+            "b",
+            "b",
+            "b",
+            "c",
+            "a",
+            "b",
+            "c",
+            "c",
+            "b",
+            "b",
+            "d",
+            "a",
+            "d",
+            "b",
+            "c",
+            "b",
+            "b",
+            "a",
+            "c",
+            "b",
+            "b",
+            "a",
+            "b",
+            "c"
+        ],
+        "key_sc": [
+            "jy",
+            "h",
+            "h",
+            "m",
+            "m",
+            "m",
+            "m",
+            "m",
+            "y",
+            "y",
+            "y",
+            "y",
+            "t",
+            "t",
+            "t",
+            "t",
+            "p-5",
+            "p-5",
+            "p-4",
+            "p-4",
+            "p-4",
+            "p-4",
+            "p-4",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "What is Qin Ling's position? a. Patrol Detachment Officer b. Chief c. Police Officer d. Assistant",
+            "How many months is Wang Jingyun pregnant? a. 1 month b. 2 months c. 3 months d. 4 months",
+            "What was the cause of death for Li Jin? a. Chloroform poisoning b. Mechanical suffocation c. Stabbing d. Shooting",
+            "What was the cause of Zhao Fang's death? a. Chloroform poisoning b. Mechanical suffocation c. Stabbing d. Shooting",
+            "According to the information on the People's Police Certificate, what is Qin Ling's blood type? a. Type A b. Type B c. Type AB d. Type O",
+            "What are the characters engraved on the jade pendant? a. Fang b. Juan c. Min d. Ling",
+            "What is the name engraved on the silver shavings ornament? a. Zhang Minb. Zhang Fangc. Zhang Juan d. Zhang Ling",
+            "Where can the key found on Li Jin open? a. Garage b. Office c. All rooms in the villa d. Safe deposit box",
+            "What is Qin Ling's date of birth? a. July 22, 1954 b. March 19, 1958 c. July 2005 d. July 22, 1958",
+            "What do the strangulation marks found on Zhao Fang's body indicate about the cause of death? a. Chloroform poisoning b. Mechanical asphyxia c. Drug overdose d. Natural death",
+            "Which bedside table has an empty bottle of high concentration chloroform solution? a. B. on the left, c. on the right, c. in the middle, d. outside",
+            "How many months did Wang Jingyun's pregnancy test report show that she was pregnant? a. 2 months b. 3 months c. 4 months d. 5 months",
+            "What two characters are engraved on the silver shavings pendant? a. Zhang Fang b. Zhang Juan c. Zhang Min d. Zhang Ling",
+            "When does Li Jin's ID card show his date of birth? a. July 22, 1954 b. March 19, 1958 c. July 2005 d. July 22, 1958",
+            "According to preliminary examination, what kind of chemical residue is left on Li Jin's body? a. Jade pendant b. Silver shavings c. High concentration chloroform d. High concentration alcohol",
+            "Where was Zhao Fang's body found? a. On the sofa b. On the floor c. On the bed d. In the bathroom",
+            "What is Qin Ling's gender? a. Male b. Female c. Unknown d. Other",
+            "What possible criminal tools do the ropes and handkerchiefs found next to the two bodies suggest? a. Firearms b. Knives c. Rope and Handkerchiefs d. Poison",
+            "What is the length of the rope? a. Approximately 1 meter b. Approximately 2 meters c. Approximately 3 meters d. Approximately 4 meters",
+            "What chemical residue was found on the handkerchief? a. Alcohol b. Iodine c. Chloroform d. Sulfuric acid",
+            "The suicide note mentions that Mr. Wang Jinrong's estate will be divided equally among several people? a. 3 people b. 4 people c. 5 people d. 6 people",
+            "Under what circumstances did Mr. Wang lose the meaning of living as mentioned in his suicide note? a. I learned that he has a terminal illness. B. I learned that his wife is a murderer. C. His son was kidnapped. D. His property was robbed",
+            "What special connection did Li Jin find with Master Luo on his phone? a. Mobile phone number b. Email address c. Home address d. Social media account",
+            "What is the status of the mud footprints in room 0? a. Dry b. damp c. clear d. blurry",
+            "Who else's footprints were found in Room 4 besides Zhao Fang? a. Luo Hui b. Li Jin c. Wang Jinrong d. Mr. Wang Lao",
+            "What is the situation in Room 5? a. Someone has lived there before. b. No one has lived there. c. Under renovation. d. Blocked",
+            "What matches the strangulation left on Zhao Fang's neck? a. Handkerchief b. Rope c. Chain d. Belt",
+            "What debris was found on the floor of Room 4? a. Biscuits b. Peanut peels c. Corn flakes d. Breadcrumbs"
+        ],
+        "key_ans": [
+            "a",
+            "b",
+            "a",
+            "b",
+            "a",
+            "b",
+            "a",
+            "c",
+            "b",
+            "b",
+            "b",
+            "a",
+            "c",
+            "a",
+            "c",
+            "b",
+            "b",
+            "c",
+            "a",
+            "c",
+            "c",
+            "b",
+            "a",
+            "a",
+            "b",
+            "b",
+            "b",
+            "b"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "In the mountain villa footprint map, where did Wang Jingtian pass by when he went to the villa owner's place? a. Warehouse 5 b. Jingyuan Residence 6 c. Reception Room 7 d. Garden 8",
+            "Who has been to Zhao Fang's room in the mountain villa footprint map? a. Li Jin b. Wang Jingheng c. Wang Jingming and Wang Jingyun d. All answers are correct",
+            "Who hasn't been to Zhao Fang's room in the mountain villa footprint map? a. Wang Jingheng and Wang Jingming b. Wang Jingyun and Wang Jingheng c. Wang Jingyuan and Wang Jingtian d. Zhao Fang",
+            "What room is the second floor restaurant on the map of Room 1? a. Men's restroom b. Meeting room c. Study d. Lounge",
+            "In the map of Room 1, which room must I pass through on the 2nd floor to go up the stairs? a. Women's restroom b. Men's restroom c. Study d. Bedroom",
+            "In the map of Room 1, which room should I pass by first when exiting Room 1 and descending from the 2nd floor? a. Living room b. Meeting room c. Storage room d. Butler room",
+            "What room is on the first floor facing the main entrance in the map of Room 1? a. Meeting room b. Kitchen c. Front desk d. Butler room",
+            "What is the status of the two bodies in room 0 on the map? a. None of them are wearing shoes, wearing pajamas. b. One is wearing shoes, the other is not. c. Both are wearing formal attire. d. Both are wearing shoes and outerwear"
+        ],
+        "key_ans": [
+            "b",
+            "d",
+            "c",
+            "d",
+            "c",
+            "d",
+            "d",
+            "d"
+        ]
+    },
+    "ju_name": "Yu",
+    "task_nm": "Please complete the following tasks using all the clues at hand",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Wang Jingtian",
+        "Wang Jingyuan",
+        "Wang Jingming",
+        "Wang Jinghuan",
+        "Wang Jingyun"
+    ],
+    "murder": "Wang Jingtian",
+    "reason": "Motive for committing the crime:"
+}

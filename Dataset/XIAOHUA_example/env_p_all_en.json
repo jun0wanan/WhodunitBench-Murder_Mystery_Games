@@ -1,0 +1,2141 @@
+{
+    "key_clues_pool": {
+        "p": [
+            "Xia Qingqing's autopsy report [2016] Autopsy No. 666- Our bureau assigned/hired relevant personnel to conduct an autopsy and identification of the cause of Xia Qingqing's death, and the conclusion was that Xia Qingqing died of heart paralysis.",
+            "Clinical diagnosis report name: Xia Qingqing Gender: Female Diagnosis: 1. Severe deterioration of heart disease, unable to last for more than 30 days. 2. It is necessary to carry quick acting heart saving pills with you. 3. Follow up for discomfort.",
+            "The evidence found in Teacher Bai's space suggests that students have heart problems on clear days and should pay attention to observation.",
+            "The evidence found in Teacher Bai's space shows that he invited his junior sister Ou to the rooftop at 14:00, but he didn't make it afterwards.",
+            "The evidence found in Teacher Bai's space shows that he also made an appointment with Xia Qingqing to go to the rooftop at 14:00",
+            "I found in Teacher Bai's space that he had previously posted about a woman whose face was the same as that of Ou Xuemei",
+            "The evidence found in the Ghost Sister's space is evidence of her conversation with Xia Qingqing. Xia Qingqing said she wanted to disclose the incident from back then",
+            "The evidence found in Ghost Sister's space in 2014 includes a photo in her bag: Ghost Sister was bullying a woman in 2014.",
+            "The evidence found in the Xia Qingqing space and the chat records of Ghost Sister show that she wanted to scare Xiaohua",
+            "Evidence found in the activity building space, Room 601: There is a cup of freshly squeezed fruit juice on the table, with white powder on it but not opened.",
+            "The evidence found in the Ghost Sister Space shows that every two years, M University's campus flower jumps off a building and dies!!! I just heard that a girl named Xiaohua has died in the photography department in the welcoming courtyard on the F side! The curse of M is too terrifying!",
+            "Why did my little flower die after finding evidence in Teacher Bai's space? Who ruined her appearance?? Did we agree to never do it? Diary from April 1st, 2014.",
+            "Evidence found in the activity building space: Vitamin C601 activity room: A medicine box fell on the ground, and after inspection, it was found to be full of vitamin C."
+        ],
+        "1-step": [
+            "News from that year: Xiaohua jumped off a building and died in 2014",
+            "Xia Qingqing is very concerned about Xiaohua's death back then. She wants to reveal the truth to redeem herself",
+            "Teacher Bai made an appointment at 14:00 to go to Tiantai on a sunny summer day",
+            "Teacher Bai invited Ou Xuemei to the rooftop at 14:00",
+            "Teacher Bai changed his career and stayed on as a teacher",
+            "Teacher Bai doesn't understand the reason why Xiaohua committed suicide and why her appearance was ruined",
+            "News from that year: Xiaohua jumped off a building and died in 2014",
+            "In 2014, Teacher Bai's friend circle showed that his girlfriend was Xiaohua",
+            "Teacher Bai knows that the disfigurement of Xiaohua back then was related to Xia Qingqing",
+            "Teacher Bai knows that Xia Qingqing has heart problems",
+            "The deceased died of sudden cardiac arrest",
+            "The deceased has severe heart disease and needs to carry a quick acting heart rescue pill with them",
+            "The medicine boxes found near the location of the deceased's death were all filled with vitamin C"
+        ],
+        "2-step": [
+            "Xia Qingqing feels very guilty for helping to date Xiaohua back then, which led to her disfigurement and suicide, and wants to make amends",
+            "Teacher Bai will meet with Ou Xuemei and Xia Qingqing at 14:00 at the same time",
+            "Xiaohua jumped off a building and died in 2014. As her boyfriend, Teacher Bai really wants to know the reason for Xiaohua's death and the destruction of her appearance",
+            "The reason for the sudden cardiac arrest of the deceased was that she suffered from a severe heart disease and did not receive timely treatment"
+        ],
+        "3-step": [
+            "The killer is someone who knows that the deceased Xia Qingqing has serious heart disease or heart problems",
+            "Xia Qingqing saw Ou Xuemei and thought it was the resurrection of the little flower from back then, so she was scared, which may have caused her heart to be startled.",
+            "Teacher Bai has decided to stay at school because he wants to investigate the death of his girlfriend Xiaohua",
+            "The killer is someone who knows that the deceased Xia Qingqing has serious heart disease or heart problems",
+            "At 14:00, Xia Qingqing saw a small flower on the rooftop that she thought was dead, and she felt guilty. She was scared and ran away in a panic"
+        ],
+        "4-step": [
+            "Teacher Bai believes that Xiaohua's death is closely related to Xia Qingqing",
+            "Teacher Bai knows that the deceased had heart problems and died from sudden cardiac arrest",
+            "Teacher Bai knows that scheduling a meeting with Xia Qingqing and Xiaohua at the same time will startle Xia Qingqing"
+        ],
+        "5-step": [
+            "On a sunny day in summer, if she has heart problems and is frightened, it will have a serious impact on her heart and may lead to her death"
+        ],
+        "6-step": [
+            "Xia Qingqing died from taking useless and replaced vitamin C in the end"
+        ],
+        "鬼学姐": [
+            "Ou Xuemei looks very, very similar to Xiaohua back then, feeling like a person, but she is not Xiaohua because she didn't recognize Gui Xuejie."
+        ],
+        "鸥学妹": [
+            "At 14:00, when she met Xia Qingqing, she ran away in a panic."
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            80
+        ],
+        "鬼学姐": [
+            81,
+            100,
+            101,
+            105
+        ],
+        "鸥学妹": [
+            81,
+            100,
+            106,
+            120
+        ]
+    },
+    "public_clue": "\n",
+    "key_clues_questions": [
+        {
+            "q": "What is the cause of her death according to Xia Qingqing's autopsy report? a. Drug overdose b. Cardiac paralysis c. Cerebral hemorrhage d. Suicide by jumping off a building",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "What are the main symptoms of Xia Qingqing in the clinical diagnosis report? a. Pneumonia b. Hypertension c. Severe heart disease d. diabetes",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What medications do I need to carry with me on a sunny summer day? a. Quick acting heart saving pills b. Antidepressants c. Painkillers d. Antibiotics",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "Xia Qingqing mentioned in her chat with Ghost Sister that she wanted to scare someone? a. Teacher Bai, Sister Gui, Sister Ou, Sister Xiao Hua",
+            "ans": "d",
+            "source": "p"
+        },
+        {
+            "q": "What was found on the juice table in Activity Room 601 of Activity Building? a. Pink powder b. Suspected yellow stain c. White powder d. Light yellow powder",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "How many years does the school flower of M University jump off a building and die? a. Two years b. One year c. Three years d. Four years",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "What are the days mentioned in Xia Qingqing's diary? a. April 1st, 2014 b. April 1st, 2013 c. April 1st, 2015 d. April 1st, 2016",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "Who does the woman's face mentioned in Teacher Bai's speech resemble? a. Ghost Sister b. Little Flower c. Summer Sunny Day d. European Sister",
+            "ans": "d",
+            "source": "p"
+        },
+        {
+            "q": "In the chat records with Ghost Sister discovered in Xia Qingqing's space, what did Xia Qingqing mention about going public? a. Teacher Bai's girlfriend is Xiaohua. B. Ou Xuemei looks very similar to Xiaohua. C. Ghost Xuejie once bullied Xiaohua. D. There is a curse in school. Every year, the school flower jumps off the building",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What is Ghost Sister doing in the 2014 photo? a. Bullying a girl b. Attending graduation ceremony c. Studying in the library d. Competing at a sports meet",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "Which year is involved in the matter that Xia Qingqing expressed her desire to make public? a. 2012 b. 2013 c. 2014 d. 2015",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "Who does Xia Qingqing's chat record with Ghost Sister show that she wants to scare? a. Xiaohua b. Ou Xuemei c. Teacher Bai d. Senior Qiao",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "What is inside the medicine box found on the ground in Activity Room 601? a. B. Analgesics b. Vitamin C c. Cardiovascular and cerebrovascular drugs d. Medications for treating heart disease",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "In which year did Xiaohua jump off a building and die? a. 2012 b. 2013 c. 2014 d. 2015",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What does Xia Qingqing want to publicly release to redeem herself? a. Teacher Bai's past b. His own mistakes c. Campus secrets d. Little Flower's truth",
+            "ans": "d",
+            "source": "p-1"
+        },
+        {
+            "q": "Who did Teacher Bai invite to the rooftop at 14:00? a. Ghost Sister b. Little Flower c. Summer Sunny Day d. Senior Qiao",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Which two characters did Teacher Bai invite to the rooftop at 14:00? a. Ou Xuemei and Xia Qingqing b. Xia Qingqing and Xiaohua c. Gui Xuemei and Xiaohua d. Xiaohua and Ou Xuemei",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What career did Teacher Bai choose later? a. Be a teacher in the hospital. B. Continue to be a teacher at the school you used to be in. C. Continue to be a teacher at the art gallery you used to be in. D. Continue to be a teacher in the piano room you used to be in",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Which of the following things has Mr. Bai always wanted to investigate? a. Xia Qingqing's illness b. Reasons for Xiaohua's suicide and ruined appearance c. Students' grades d. Campus management",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Who did Mr. Bai's girlfriend show on his 2014 social media account? a. Xiaohua b. Ghost Sister c. Summer Sunny Day d. European Sister",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Who does Teacher Bai know about Xiaohua's disfigurement? a. Summer sunny day b. Ghost senior sister c. European senior sister d. Myself",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Does Teacher Bai know what health problems summer sunny days have? a. Heart disease b. Diabetes c. Hypertension d. Asthma",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What medication does the deceased need to carry with them? a. Antidepressants b. Quick acting heart saving pills c. Quick acting antidotes d. Medications for treating constipation",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Why do summer sunny days feel guilty? a. She accidentally injured Teacher Bai. b. She caused Xiaohua's disfigurement and suicide. c. She failed to complete her studies. d. She lost an important job",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "Why does Teacher Bai want to know the cause of Xiaohua's death? a. He is a police officer. B. He is Xiaohua's boyfriend. C. He is the principal of the school. D. He is Xiaohua's brother",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the cause of death on a sunny summer day? a. Cardiac arrest b. Traffic accident c. Drug overdose d. Death due to excessive bleeding",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "What causes death on a sunny summer day? a. She suffered from severe heart disease and did not receive timely treatment. b. She exercised excessively. c. She was attacked. d. She ate expired food",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "What way does Xia Qingqing hope to redeem himself? a. By donating b. by revealing the truth c. by helping others d. by writing a book",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "How did Xiaohua end up? a. She changed her career. b. She moved abroad. c. She committed suicide. d. She started wearing masks",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "Why does Xia Qingqing feel scared when she sees Ou Xuemei on the rooftop? a. She thought Ou Xuemei would attack her. b. She thought Ou Xuemei was Xiaohua. c. She did something shameful to Ou Xuemei. d. At that time, Ou Xuemei was covered in blood",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "Who did Xia Qingqing think she saw when she saw Ou Xuemei? a. Ghost Sister B. Little Flower C. Ghost D. Teacher Bai",
+            "ans": "b",
+            "source": "p-3"
+        },
+        {
+            "q": "What is the reason why Teacher Bai stayed at school? a. Investigate the cause of death of Xia Qingqing b. Investigate the death of Xiao Hua c. Improve teaching quality d. Manage student activities",
+            "ans": "b",
+            "source": "p-3"
+        },
+        {
+            "q": "Does the murderer know what health problems Xia Qingqing has? a. Visual problems b. Hearing loss c. Heart disease d. Brain intellectual disability",
+            "ans": "c",
+            "source": "p-3"
+        },
+        {
+            "q": "What is the reason for being scared on a sunny summer day? a. The threat of Ou Xuemei b. believes that she saw the dead little flower c. hears the little flower talking d. Ou Xuemei deliberately pretends to be a ghost to scare her",
+            "ans": "b",
+            "source": "p-3"
+        },
+        {
+            "q": "Why did Teacher Bai invite Xia Qingqing and Ou Xuemei to meet at the same time? a. Discuss a project for two people, b. Solve their three complex emotional problems, c. Expect to startle them on a sunny summer day, d. Arrange new courses",
+            "ans": "c",
+            "source": "p-4"
+        },
+        {
+            "q": "In Teacher Bai's opinion, which of the following situations could lead to Xia Qingqing's death? a. Excessive exercise b. Seeing gull junior sister c. Eating expired food d. Being in a high-pressure environment",
+            "ans": "b",
+            "source": "p-4"
+        },
+        {
+            "q": "What does Teacher Bai think is the relationship between Xiaohua's death and Xia Qingqing? a. General relationship b. No relationship c. Significant relationship d. Slight relationship",
+            "ans": "c",
+            "source": "p-4"
+        },
+        {
+            "q": "Teacher Bai knows about Xia Qingqing's physical problems, what impact does this have on his actions? a. He tried to avoid mentioning b. He attempted to provide assistance c. He did not take any action d. He used this information to startle and kill her",
+            "ans": "d",
+            "source": "p-4"
+        },
+        {
+            "q": "What is the relationship between Teacher Bai and Xiaohua? a. Boyfriend b. Friend c. Family member d. Unrelated",
+            "ans": "a",
+            "source": "p-4"
+        },
+        {
+            "q": "Under which circumstances is it most likely to die on a sunny summer day? a. During light exercise b. in a quiet state c. when strongly frightened d. when overeating",
+            "ans": "c",
+            "source": "p-5"
+        },
+        {
+            "q": "Which replaced medication did Xia Qingqing take that ultimately led to her death? a. Quick acting heart saving pills b. Vitamin D c. Vitamin C d. Antidepressants",
+            "ans": "c",
+            "source": "p-6"
+        },
+        {
+            "q": "What are the consequences of replacing Xia Qingqing's medicine? a. B. healthier body b. no changes c. slight discomfort d. leading to death",
+            "ans": "d",
+            "source": "p-6"
+        },
+        {
+            "q": "What happened to Xia Qingqing's medicine that led to her death? a. Replaced with sugar pills b. Replaced with expired drugs c. Replaced with ineffective ingredients such as vitamins d. Replaced with another medication for treating the brain",
+            "ans": "c",
+            "source": "p-6"
+        },
+        {
+            "q": "Who may be involved in replacing the medicine for Xia Qingqing? a. Her doctor b. murderer c. her friends d. her family",
+            "ans": "b",
+            "source": "p-6"
+        },
+        {
+            "q": "What is the main reason why summer sunny days have not received effective treatment? a. She ignored the symptoms b. She didn't take her medication on time c. Her medication was replaced by vitamin c. She chose the wrong treatment method",
+            "ans": "c",
+            "source": "p-6"
+        },
+        {
+            "q": "Why isn't Ou Xuemei Xiaohua? a. Xiaohua knows Sister Gui, but she didn't recognize her. b. Because she has never appeared on campus. c. Their names are different. d. Their family backgrounds are different",
+            "ans": "a",
+            "source": "g"
+        },
+        {
+            "q": "Why didn't Ouxue recognize Guixue? a. She lost her memory and didn't know her. b. She didn't know Ghost Sister in the first place. c. She deliberately pretended not to know Ghost Sister. d. Ghost Sister dressed up a little different from usual that day",
+            "ans": "b",
+            "source": "g"
+        },
+        {
+            "q": "Why is Ghost Sister surprised when she sees Ou Sister? a. She thought Ou Xuemei was resurrected by Xiaohua. b. She found Ou Xuemei dressed strangely. c. She thought Ou Xuemei was already dead. d. She thought Ou Xuemei shouldn't appear here",
+            "ans": "a",
+            "source": "g"
+        },
+        {
+            "q": "Where did Xia Qingtian run away in a panic? a. Ghost Sister's bedroom b. Bathroom c. Rooftop d. Teacher Bai's room",
+            "ans": "c",
+            "source": "ou"
+        }
+    ],
+    "role": [
+        {
+            "name": "Teacher Bai",
+            "back": "I am Teacher Bai, a former high achieving student in the Photography Department of M University. M University is a nationally renowned comprehensive art university, and its",
+            "self": "Hello everyone, I am Teacher Bai. Currently, I am a teaching staff member in the Photography Department of M University and also the photography instructor for the Anime Uniform Club. I have always been passionate about photography and was once a top student at M University, continuing my educational career here. I enjoy capturing vivid moments on campus, especially during school anniversaries or important events.",
+            "answer": "I don't know. I am not the murderer.",
+            "r_q": [
+                {
+                    "q": "What is the main reason why Teacher Bai stayed at school to teach? a. Passion for education b. To investigate the truth c. Because I enjoy campus life d. To guide the anime club",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the date when Xiaohua and Teacher Bai became a couple? a. January 1, 2014 b. February 1, 2014 c. March 1, 2014 d. April 1, 2014",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the date when Xiaohua was informed that she would receive the lead actress for the school anniversary play? a. February 28, 2014 b. March 1, 2014 c. March 15, 2014 d. April 1, 2014",
+                    "ans": "a"
+                },
+                {
+                    "q": "On what date did Teacher Bai learn about Xiaohua's suicide? a. March 30, 2014 b. April 1, 2014 c. June 1, 2015 d. February 25, 2016",
+                    "ans": "b"
+                },
+                {
+                    "q": "When was the date when Xiaohua was disfigured by sulfuric acid? a. February 28, 2014 b. March 15, 2014 c. March 18, 2014 d. April 1, 2014",
+                    "ans": "c"
+                },
+                {
+                    "q": "What career did Teacher Bai plan to become? a. Independent photographer b. Professional teacher c. Club instructor d. Ministry of Education official",
+                    "ans": "a"
+                },
+                {
+                    "q": "When is the hypothetical date for Xiaohua's suicide by jumping off a building? a. March 30, 2014 b. April 1, 2014 c. June 1, 2015 d. February 25, 2016",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Teacher Bai try to kill Xia Qingqing? a. Poison b. Vitamin replacement heart saving pill c. Sharp weapon attack d. Pushing down high places",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Ou Xuemei question Teacher Bai? a. March 28, 2016 13:00 b. March 28, 2016 13:36 c. March 28, 2016 14:00 d. March 28, 2016 14:15",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did Teacher Bai find the place where Xia Qingqing died? a. On the rooftop b. in the activity room c. in the cafeteria d. in the chemistry laboratory",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did Teacher Bai choose to stay on campus to teach? a. Because he enjoys teaching. b. Because he wants to become an independent photographer. c. In order to have more opportunities to uncover the truth. d. Because he enjoys the school environment",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which day did Teacher Bai learn of Xiaohua's death by jumping off a building? a. March 30, 2014 b. April 1, 2014 c. June 1, 2015 d. February 25, 2016",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did Xiaohua feel hopeless and leave a suicide note? a. She lost her job. b. She was disfigured by sulfuric acid. c. She didn't get the role. d. She didn't graduate",
+                    "ans": "b"
+                },
+                {
+                    "q": "What method did Teacher Bai use to try to kill Xia Qingqing? a. Use a knife to attack b. Push her off the rooftop c. Replace her heart saving pill d. Lock her in an empty room",
+                    "ans": "c"
+                },
+                {
+                    "q": "How does Teacher Bai maintain contact with the outside world to witness the school anniversary play? a. B. via phone b. via email c. via diary d. unable to stay in touch",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which day did Xiaohua and Teacher Bai officially become a couple? a. January 1, 2014 b. February 1, 2014 c. March 1, 2014 d. April 1, 2014",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Ou Xuemei question Teacher Bai? a. March 28, 2016 13:00 b. March 28, 2016 13:36 c. March 28, 2016 14:00 d. March 28, 2016 14:15",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which two people did Teacher Bai arrange to meet on the rooftop? a. Xia Qingqing and Ou Xuemei b. Xia Qingqing and Xiaohua c. Ou Xuemei and Xiaohua d. Xia Qingqing and Teacher Bai",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the specific date when Xiaohua was disfigured by sulfuric acid? a. March 1, 2014 b. March 15, 2014 c. March 18, 2014 d. April 1, 2014",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Teacher Bai find the place where Xia Qingqing died? a. On the rooftop b. in the activity room c. in the cafeteria d. in the chemistry laboratory",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Mr. Bai's initial career plan? a. Vocational teacher b. Independent photographer c. Club instructor d. Officials from the Ministry of Education",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Xiaohua become the school flower? a. January 2014 b. December 2013 c. February 2014 d. March 2014",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was Teacher Bai informed of the news of Xiaohua's suicide? a. Studio b. Campus c. His office d. Cafeteria",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the reason for despair mentioned in Xiaohua's suicide note? a. Unable to graduate b. Failed to obtain the female lead c. Disguised by sulfuric acid d. Lost job",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which day will Teacher Bai finish his outdoor filming task and return to school? a. March 31, 2014 b. March 30, 2014 c. April 1, 2014 d. April 2, 2014",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did Teacher Bai attempt to kill Xia Qingqing? a. Lock her in the room. B. Replace the life-saving pill with vitamin C. Attack her. D. Push her from the rooftop",
+                    "ans": "b"
+                },
+                {
+                    "q": "What methods does Teacher Bai use to maintain contact with the outside world? a. Email b. Phone c. Diary d. Social media",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Xiaohua find out that she became the female lead in the school anniversary drama? a. February 27th, 2014 b. February 28th, 2014 c. March 1st, 2014 d. March 15th, 2014",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Teacher Bai try to get Xia Qingqing and Ou Xuemei to meet? a. Send a text message to agree on a meeting location. b. Arrange by phone. c. Post information on social media. d. Send an invitation via email",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the first action taken by Teacher Bai after Xiaohua's suicide? a. Stay on campus to teach b. Investigate Xia Qingtian c. Collect evidence d. View Xiaohua's belongings",
+                    "ans": "d"
+                },
+                {
+                    "q": "What career did Teacher Bai initially plan to pursue? a. Independent photographer b. Professional teacher c. Club instructor d. Ministry of Education official",
+                    "ans": "a"
+                },
+                {
+                    "q": "On which day did Xiaohua and Teacher Bai officially become a couple? a. January 1, 2014 b. February 1, 2014 c. March 1, 2014 d. April 1, 2014",
+                    "ans": "b"
+                },
+                {
+                    "q": "On which day did Teacher Bai return to school and learn of Xiaohua's death by jumping off a building? a. March 30, 2014 b. March 31, 2014 c. April 1, 2014 d. April 2, 2014",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which day was Xiaohua disfigured by sulfuric acid? a. March 15th, 2014 b. March 16th, 2014 c. March 17th, 2014 d. March 18th, 2014",
+                    "ans": "d"
+                },
+                {
+                    "q": "Why did Teacher Bai decide to stay on campus to teach? a. Because he enjoys teaching. b. Because he wants to become an independent photographer. c. In order to have more opportunities to uncover the truth. d. Because he enjoys the school environment",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did Teacher Bai try to kill Xia Qingqing? a. Use a knife to attack b. Push her off the rooftop c. Replace her heart saving pill d. Lock her in an empty room",
+                    "ans": "c"
+                },
+                {
+                    "q": "How does Teacher Bai maintain contact with the outside world to witness the school anniversary play? a. B. via phone b. via email c. via diary d. unable to stay in touch",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which day did Xiaohua and Teacher Bai officially become a couple? a. January 1, 2014 b. February 1, 2014 c. March 1, 2014 d. April 1, 2014",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Ou Xuemei question Teacher Bai? a. March 28, 2016 13:00 b. March 28, 2016 13:36 c. March 28, 2016 14:00 d. March 28, 2016 14:15",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which two people did Teacher Bai arrange to meet on the rooftop? a. Xia Qingqing and Ou Xuemei b. Xia Qingqing and Xiaohua c. Ou Xuemei and Xiaohua d. Xia Qingqing and Teacher Bai",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was Mr. Bai's initial career plan? a. Vocational teacher b. Independent photographer c. Club instructor d. Officials from the Ministry of Education",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Xiaohua become the school flower? a. January 2014 b. December 2013 c. February 2014 d. March 2014",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was Teacher Bai informed of the news of Xiaohua's suicide? a. Studio b. Campus c. His office d. Cafeteria",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the reason for despair mentioned in Xiaohua's suicide note? a. Unable to graduate b. Failed to obtain the female lead c. Disguised by sulfuric acid d. Lost job",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which day will Teacher Bai finish his outdoor filming task and return to school? a. March 31, 2014 b. March 30, 2014 c. April 1, 2014 d. April 2, 2014",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did Teacher Bai attempt to kill Xia Qingqing? a. Lock her in the room. B. Replace the life-saving pill with vitamin C. Attack her. D. Push her from the rooftop",
+                    "ans": "b"
+                },
+                {
+                    "q": "What methods does Teacher Bai use to maintain contact with the outside world? a. Email b. Phone c. Diary d. Social media",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Xiaohua find out that she became the female lead in the school anniversary drama? a. February 27th, 2014 b. February 28th, 2014 c. March 1st, 2014 d. March 15th, 2014",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Teacher Bai try to get Xia Qingqing and Ou Xuemei to meet? a. Send a text message to agree on a meeting location. b. Arrange by phone. c. Post information on social media. d. Send an invitation via email",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the first action taken by Teacher Bai after Xiaohua's suicide? a. Stay on campus to teach b. Investigate Xia Qingtian c. Collect evidence d. View Xiaohua's belongings",
+                    "ans": "d"
+                }
+            ],
+            "m": 1,
+            "q": [
+                "What is the main reason why Teacher Bai stayed at school to teach? a. Passion for education b. To investigate the truth c. Because I enjoy campus life d. To guide the anime club",
+                "What is the date when Xiaohua and Teacher Bai became a couple? a. January 1, 2014 b. February 1, 2014 c. March 1, 2014 d. April 1, 2014",
+                "What was the date when Xiaohua was informed that she would receive the lead actress for the school anniversary play? a. February 28, 2014 b. March 1, 2014 c. March 15, 2014 d. April 1, 2014",
+                "On what date did Teacher Bai learn about Xiaohua's suicide? a. March 30, 2014 b. April 1, 2014 c. June 1, 2015 d. February 25, 2016",
+                "When was the date when Xiaohua was disfigured by sulfuric acid? a. February 28, 2014 b. March 15, 2014 c. March 18, 2014 d. April 1, 2014",
+                "What career did Teacher Bai plan to become? a. Independent photographer b. Professional teacher c. Club instructor d. Ministry of Education official",
+                "When is the hypothetical date for Xiaohua's suicide by jumping off a building? a. March 30, 2014 b. April 1, 2014 c. June 1, 2015 d. February 25, 2016",
+                "How did Teacher Bai try to kill Xia Qingqing? a. Poison b. Vitamin replacement heart saving pill c. Sharp weapon attack d. Pushing down high places",
+                "When did Ou Xuemei question Teacher Bai? a. March 28, 2016 13:00 b. March 28, 2016 13:36 c. March 28, 2016 14:00 d. March 28, 2016 14:15",
+                "Where did Teacher Bai find the place where Xia Qingqing died? a. On the rooftop b. in the activity room c. in the cafeteria d. in the chemistry laboratory",
+                "Why did Teacher Bai choose to stay on campus to teach? a. Because he enjoys teaching. b. Because he wants to become an independent photographer. c. In order to have more opportunities to uncover the truth. d. Because he enjoys the school environment",
+                "On which day did Teacher Bai learn of Xiaohua's death by jumping off a building? a. March 30, 2014 b. April 1, 2014 c. June 1, 2015 d. February 25, 2016",
+                "Why did Xiaohua feel hopeless and leave a suicide note? a. She lost her job. b. She was disfigured by sulfuric acid. c. She didn't get the role. d. She didn't graduate",
+                "What method did Teacher Bai use to try to kill Xia Qingqing? a. Use a knife to attack b. Push her off the rooftop c. Replace her heart saving pill d. Lock her in an empty room",
+                "How does Teacher Bai maintain contact with the outside world to witness the school anniversary play? a. B. via phone b. via email c. via diary d. unable to stay in touch",
+                "On which day did Xiaohua and Teacher Bai officially become a couple? a. January 1, 2014 b. February 1, 2014 c. March 1, 2014 d. April 1, 2014",
+                "When did Ou Xuemei question Teacher Bai? a. March 28, 2016 13:00 b. March 28, 2016 13:36 c. March 28, 2016 14:00 d. March 28, 2016 14:15",
+                "Which two people did Teacher Bai arrange to meet on the rooftop? a. Xia Qingqing and Ou Xuemei b. Xia Qingqing and Xiaohua c. Ou Xuemei and Xiaohua d. Xia Qingqing and Teacher Bai",
+                "What was the specific date when Xiaohua was disfigured by sulfuric acid? a. March 1, 2014 b. March 15, 2014 c. March 18, 2014 d. April 1, 2014",
+                "Where did Teacher Bai find the place where Xia Qingqing died? a. On the rooftop b. in the activity room c. in the cafeteria d. in the chemistry laboratory",
+                "What was Mr. Bai's initial career plan? a. Vocational teacher b. Independent photographer c. Club instructor d. Officials from the Ministry of Education",
+                "When did Xiaohua become the school flower? a. January 2014 b. December 2013 c. February 2014 d. March 2014",
+                "Where was Teacher Bai informed of the news of Xiaohua's suicide? a. Studio b. Campus c. His office d. Cafeteria",
+                "What is the reason for despair mentioned in Xiaohua's suicide note? a. Unable to graduate b. Failed to obtain the female lead c. Disguised by sulfuric acid d. Lost job",
+                "On which day will Teacher Bai finish his outdoor filming task and return to school? a. March 31, 2014 b. March 30, 2014 c. April 1, 2014 d. April 2, 2014",
+                "How did Teacher Bai attempt to kill Xia Qingqing? a. Lock her in the room. B. Replace the life-saving pill with vitamin C. Attack her. D. Push her from the rooftop",
+                "What methods does Teacher Bai use to maintain contact with the outside world? a. Email b. Phone c. Diary d. Social media",
+                "When did Xiaohua find out that she became the female lead in the school anniversary drama? a. February 27th, 2014 b. February 28th, 2014 c. March 1st, 2014 d. March 15th, 2014",
+                "How did Teacher Bai try to get Xia Qingqing and Ou Xuemei to meet? a. Send a text message to agree on a meeting location. b. Arrange by phone. c. Post information on social media. d. Send an invitation via email",
+                "What was the first action taken by Teacher Bai after Xiaohua's suicide? a. Stay on campus to teach b. Investigate Xia Qingtian c. Collect evidence d. View Xiaohua's belongings",
+                "What career did Teacher Bai initially plan to pursue? a. Independent photographer b. Professional teacher c. Club instructor d. Ministry of Education official",
+                "On which day did Xiaohua and Teacher Bai officially become a couple? a. January 1, 2014 b. February 1, 2014 c. March 1, 2014 d. April 1, 2014",
+                "On which day did Teacher Bai return to school and learn of Xiaohua's death by jumping off a building? a. March 30, 2014 b. March 31, 2014 c. April 1, 2014 d. April 2, 2014",
+                "On which day was Xiaohua disfigured by sulfuric acid? a. March 15th, 2014 b. March 16th, 2014 c. March 17th, 2014 d. March 18th, 2014",
+                "Why did Teacher Bai decide to stay on campus to teach? a. Because he enjoys teaching. b. Because he wants to become an independent photographer. c. In order to have more opportunities to uncover the truth. d. Because he enjoys the school environment",
+                "How did Teacher Bai try to kill Xia Qingqing? a. Use a knife to attack b. Push her off the rooftop c. Replace her heart saving pill d. Lock her in an empty room",
+                "How does Teacher Bai maintain contact with the outside world to witness the school anniversary play? a. B. via phone b. via email c. via diary d. unable to stay in touch",
+                "On which day did Xiaohua and Teacher Bai officially become a couple? a. January 1, 2014 b. February 1, 2014 c. March 1, 2014 d. April 1, 2014",
+                "When did Ou Xuemei question Teacher Bai? a. March 28, 2016 13:00 b. March 28, 2016 13:36 c. March 28, 2016 14:00 d. March 28, 2016 14:15",
+                "Which two people did Teacher Bai arrange to meet on the rooftop? a. Xia Qingqing and Ou Xuemei b. Xia Qingqing and Xiaohua c. Ou Xuemei and Xiaohua d. Xia Qingqing and Teacher Bai",
+                "What was Mr. Bai's initial career plan? a. Vocational teacher b. Independent photographer c. Club instructor d. Officials from the Ministry of Education",
+                "When did Xiaohua become the school flower? a. January 2014 b. December 2013 c. February 2014 d. March 2014",
+                "Where was Teacher Bai informed of the news of Xiaohua's suicide? a. Studio b. Campus c. His office d. Cafeteria",
+                "What is the reason for despair mentioned in Xiaohua's suicide note? a. Unable to graduate b. Failed to obtain the female lead c. Disguised by sulfuric acid d. Lost job",
+                "On which day will Teacher Bai finish his outdoor filming task and return to school? a. March 31, 2014 b. March 30, 2014 c. April 1, 2014 d. April 2, 2014",
+                "How did Teacher Bai attempt to kill Xia Qingqing? a. Lock her in the room. B. Replace the life-saving pill with vitamin C. Attack her. D. Push her from the rooftop",
+                "What methods does Teacher Bai use to maintain contact with the outside world? a. Email b. Phone c. Diary d. Social media",
+                "When did Xiaohua find out that she became the female lead in the school anniversary drama? a. February 27th, 2014 b. February 28th, 2014 c. March 1st, 2014 d. March 15th, 2014",
+                "How did Teacher Bai try to get Xia Qingqing and Ou Xuemei to meet? a. Send a text message to agree on a meeting location. b. Arrange by phone. c. Post information on social media. d. Send an invitation via email",
+                "What was the first action taken by Teacher Bai after Xiaohua's suicide? a. Stay on campus to teach b. Investigate Xia Qingtian c. Collect evidence d. View Xiaohua's belongings"
+            ],
+            "a": [
+                "b",
+                "b",
+                "a",
+                "b",
+                "c",
+                "a",
+                "b",
+                "b",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "a",
+                "c",
+                "b",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "a",
+                "d",
+                "a",
+                "b",
+                "c",
+                "d",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "a",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "a",
+                "d"
+            ]
+        },
+        {
+            "name": "What kind of infatuation",
+            "back": "I am He Zhiqing, 20 years old, a third year photography student at M University and also Sunny's boyfriend. I am usually quiet and enjoy reading books, especially detective novels. Three years ago (September 2013), on my first day of freshman year, I saw a sunny day. She was so beautiful, and in an instant, I loved her",
+            "r_q": [
+                {
+                    "q": "When is the date for He Zhiqing to confess his feelings to Sunny Day? a. September 2013 b. October 29, 2013 c. March 22, 2014 d. October 29, 2015",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did Sunny Day first become popular on the internet? a. Wrote a novel b. Took photos of anime uniforms c. Participated in campus shooting activities d. Published academic papers",
+                    "ans": "b"
+                },
+                {
+                    "q": "On what occasion did Sunny Day and He Zhiqing first meet? a. Library b. Anime Uniform Club c. First Day on Campus d. Photography Activities",
+                    "ans": "c"
+                },
+                {
+                    "q": "What method did He Zhiqing use to murder Sunny? a. Pushing down stairs b. Poisoning c. Stabbing d. Shooting",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did He Zhiqing decide to submit the work of Sunny Day as his own? a. January 25th, 2016 b. February 18th, 2016 c. March 10th, 2016 d. March 21st, 2016",
+                    "ans": "a"
+                },
+                {
+                    "q": "When is the deadline for the sunny day to threaten his infatuation? a. March 27th, 2016 b. March 28th, 2016 c. March 10th, 2016 d. March 21st, 2016",
+                    "ans": "a"
+                },
+                {
+                    "q": "On which day did the infatuation poison the sunny day with a drink? a. March 28, 2016 at 13:00 b. March 21, 2016 c. March 27, 2016 d. March 10, 2016",
+                    "ans": "a"
+                },
+                {
+                    "q": "When did Sunny Day fall from a building and die? a. March 28, 2016 at 3:00 PM b. March 21, 2016 c. March 10, 2016 d. March 27, 2016",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is inside a small medicine box that is usually carried on a sunny day? a. Vitamin B. Pain relievers C. Sleep medications D. Antidepressants",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where did the infatuation purchase the poison from? a. On campus pharmacy b. Off campus pharmacy c. A shop in an alley d. Online website",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the specific date when Sunny and He Zhiqing first met? a. September 1, 2013 b. September 15, 2013 c. September 29, 2013 d. September 30, 2013",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the hobby of He Zhiqing? a. Photography b. Painting c. Writing novels d. Collecting stamps",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the major for sunny days? a. Photography b. Design c. Economics d. Medicine",
+                    "ans": "a"
+                },
+                {
+                    "q": "When did He Zhiqing start using Sunny's works to impersonate himself? a. 2015 b. 2016 c. 2017 d. 2018",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the reason for the popularity of sunny days? a. Movie performance b. Dance competition c. Anime uniform photos d. Sports competition",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the submission date for the article on Sunny Day stolen by He Zhiqing? a. January 25th, 2016 b. February 18th, 2016 c. March 10th, 2016 d. March 21st, 2016",
+                    "ans": "a"
+                },
+                {
+                    "q": "When is the specific time for He Zhiqing, who is threatened by sunny weather, to disclose the truth to everyone? a. 10:00 AM b. 12:00 PM c. 2:00 PM d. 8:00 PM",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where is the place to buy poison? a. On campus pharmacy b. Off campus pharmacy c. A shop in an alley d. Online website",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the last time I saw someone infatuated before committing suicide on a sunny day? a. 1:00 PM b. 1:45 PM c. 2:30 PM d. 3:00 PM",
+                    "ans": "b"
+                },
+                {
+                    "q": "What medications are usually carried in a bag on sunny days? a. Vitamin B. Pain relievers C. Sleep medications D. Antidepressants",
+                    "ans": "a"
+                },
+                {
+                    "q": "Under what circumstances did He Zhiqing decide to kill Sunny? a. Sunny threatens to expose his plagiarism. b. Sunny demands a breakup. c. Sunny loses her status as a celebrity. d. Sunny refuses to help him write",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was the last time Sunny and He Zhiqing met? a. School Library b. Activity Building 601 c. Off campus Coffee Shop d. Photography Club Meeting Room",
+                    "ans": "b"
+                },
+                {
+                    "q": "How to deal with the poisoned drink he gave to Sunny Day? a. Put it in her bag b. Leave it on her desk c. Hand it to her by hand d. Pass it on through friends",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the drink that He Zhiqing bought for Sunny Day? a. Coffee b. Fruit juice c. Green tea d. Cola",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did the infatuation purchase the poison? a. On campus pharmacy b. Off campus pharmacy c. A shop in an alley d. Online website",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did He Zhiqing and Sunny first meet? a. September 1, 2013 b. October 29, 2013 c. March 22, 2014 d. October 29, 2015",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the way to die on a sunny day? a. Suicide b. Murder c. Car accident d. Disease",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the title of the article \"Sunny Day\" used by He Zhiqing to disguise his own works? a. The Fall of the Internet Celebrity School Flower \"b.\" The Curse of Anime Uniforms \"c.\" The Photographer's Secret \"d.\" The Mystery of Mystery Fiction \"",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who summoned He Zhiqing for investigation after his death on a sunny day? a. School police b. City police c. Detective d. School principal",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the deadline for what kind of infatuation is threatened by sunny days? a. March 27th, 2016 b. March 28th, 2016 c. March 10th, 2016 d. March 21st, 2016",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where did He Zhiqing and Sunny first meet? a. Campus activities b. Library c. Anime uniform club d. Classroom",
+                    "ans": "d"
+                },
+                {
+                    "q": "On which date did he confess his love to Sunny? a. September 29, 2013 b. October 29, 2013 c. November 29, 2013 d. December 29, 2013",
+                    "ans": "b"
+                },
+                {
+                    "q": "What caused Sunny Day to become popular on the internet? a. Publish novel b. Publish poetry c. Photography competition d. Anime uniform photos",
+                    "ans": "d"
+                },
+                {
+                    "q": "Why use an article with a certain name to impersonate one's own work? a. The Secret of Campus Stars \"b.\" The Fall of Internet Celebrity Campus Flowers \"c.\" Unsolved Mysteries \"d.\" The Challenge of Youth \"",
+                    "ans": "b"
+                },
+                {
+                    "q": "On which day did He Zhiqing decide to use the sunny day's works? a. January 25th, 2016 b. February 18th, 2016 c. March 10th, 2016 d. March 21st, 2016",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the deadline for the sunny day to threaten his infatuation? a. March 26, 2016 10:00 AM b. March 27, 2016 10:00 AM c. March 28, 2016 10:00 AM d. March 29, 2016 10:00 AM",
+                    "ans": "b"
+                },
+                {
+                    "q": "When is the date for buying poison? a. March 27th, 2016 b. March 28th, 2016 c. March 29th, 2016 d. March 30th, 2016",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the way to die on a sunny day? a. Murdered b. Suicide c. Car accident d. Disease",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did He Zhiqing add poison to sunny drinks? a. School cafeteria b. Their residence c. Off campus coffee shop d. Beverage shop",
+                    "ans": "d"
+                },
+                {
+                    "q": "When will He Zhiqing finally meet Sunny Day? a. 1:00 PM b. 1:45 PM c. 2:30 PM d. 3:00 PM",
+                    "ans": "b"
+                },
+                {
+                    "q": "What club did Sunny and He Zhiqing join? a. Photography Club b. Calligraphy Club c. Anime Uniform Club d. Literature Club",
+                    "ans": "c"
+                },
+                {
+                    "q": "When is the date of successful confession of love? a. September 1, 2013 b. October 29, 2013 c. November 29, 2013 d. December 25, 2013",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are the reasons why sunny days become internet celebrities? a. Publish scientific articles b. Participate in dance competitions c. Photography competitions d. Anime uniform photos",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the name of the work that He Zhiqing plagiarized? a. The Fall of the Internet Celebrity School Flower \"b.\" The Curse of Anime Uniforms \"c.\" The Mystery of Mystery Novels \"d.\" The Secret of Campus Stars \"",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which boss appreciated He Zhiqing and decided to publish his works? a. Mr. Li b. Mr. Wang c. Mr. Zhang d. Mr. Zhou",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the deadline set for the sunny day to threaten his infatuation? a. March 27th, 2016 b. March 28th, 2016 c. March 29th, 2016 d. March 30th, 2016",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where does infatuation buy poison from? a. On campus pharmacy b. Off campus pharmacy c. A shop in an alley d. Online website",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the last time I met Sunny? a. 1:00 PM b. 1:45 PM c. 2:30 PM d. 3:00 PM",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the way of death on a sunny day? a. Suicide b. Murder c. Car accident d. Disease",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who summoned He Zhiqing for investigation? a. School police b. City police c. Detective d. School principal",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "When is the date for He Zhiqing to confess his feelings to Sunny Day? a. September 2013 b. October 29, 2013 c. March 22, 2014 d. October 29, 2015",
+                "Why did Sunny Day first become popular on the internet? a. Wrote a novel b. Took photos of anime uniforms c. Participated in campus shooting activities d. Published academic papers",
+                "On what occasion did Sunny Day and He Zhiqing first meet? a. Library b. Anime Uniform Club c. First Day on Campus d. Photography Activities",
+                "What method did He Zhiqing use to murder Sunny? a. Pushing down stairs b. Poisoning c. Stabbing d. Shooting",
+                "When did He Zhiqing decide to submit the work of Sunny Day as his own? a. January 25th, 2016 b. February 18th, 2016 c. March 10th, 2016 d. March 21st, 2016",
+                "When is the deadline for the sunny day to threaten his infatuation? a. March 27th, 2016 b. March 28th, 2016 c. March 10th, 2016 d. March 21st, 2016",
+                "On which day did the infatuation poison the sunny day with a drink? a. March 28, 2016 at 13:00 b. March 21, 2016 c. March 27, 2016 d. March 10, 2016",
+                "When did Sunny Day fall from a building and die? a. March 28, 2016 at 3:00 PM b. March 21, 2016 c. March 10, 2016 d. March 27, 2016",
+                "What is inside a small medicine box that is usually carried on a sunny day? a. Vitamin B. Pain relievers C. Sleep medications D. Antidepressants",
+                "Where did the infatuation purchase the poison from? a. On campus pharmacy b. Off campus pharmacy c. A shop in an alley d. Online website",
+                "When was the specific date when Sunny and He Zhiqing first met? a. September 1, 2013 b. September 15, 2013 c. September 29, 2013 d. September 30, 2013",
+                "What is the hobby of He Zhiqing? a. Photography b. Painting c. Writing novels d. Collecting stamps",
+                "What is the major for sunny days? a. Photography b. Design c. Economics d. Medicine",
+                "When did He Zhiqing start using Sunny's works to impersonate himself? a. 2015 b. 2016 c. 2017 d. 2018",
+                "What is the reason for the popularity of sunny days? a. Movie performance b. Dance competition c. Anime uniform photos d. Sports competition",
+                "What was the submission date for the article on Sunny Day stolen by He Zhiqing? a. January 25th, 2016 b. February 18th, 2016 c. March 10th, 2016 d. March 21st, 2016",
+                "When is the specific time for He Zhiqing, who is threatened by sunny weather, to disclose the truth to everyone? a. 10:00 AM b. 12:00 PM c. 2:00 PM d. 8:00 PM",
+                "Where is the place to buy poison? a. On campus pharmacy b. Off campus pharmacy c. A shop in an alley d. Online website",
+                "What was the last time I saw someone infatuated before committing suicide on a sunny day? a. 1:00 PM b. 1:45 PM c. 2:30 PM d. 3:00 PM",
+                "What medications are usually carried in a bag on sunny days? a. Vitamin B. Pain relievers C. Sleep medications D. Antidepressants",
+                "Under what circumstances did He Zhiqing decide to kill Sunny? a. Sunny threatens to expose his plagiarism. b. Sunny demands a breakup. c. Sunny loses her status as a celebrity. d. Sunny refuses to help him write",
+                "Where was the last time Sunny and He Zhiqing met? a. School Library b. Activity Building 601 c. Off campus Coffee Shop d. Photography Club Meeting Room",
+                "How to deal with the poisoned drink he gave to Sunny Day? a. Put it in her bag b. Leave it on her desk c. Hand it to her by hand d. Pass it on through friends",
+                "What is the drink that He Zhiqing bought for Sunny Day? a. Coffee b. Fruit juice c. Green tea d. Cola",
+                "Where did the infatuation purchase the poison? a. On campus pharmacy b. Off campus pharmacy c. A shop in an alley d. Online website",
+                "When did He Zhiqing and Sunny first meet? a. September 1, 2013 b. October 29, 2013 c. March 22, 2014 d. October 29, 2015",
+                "What is the way to die on a sunny day? a. Suicide b. Murder c. Car accident d. Disease",
+                "What is the title of the article \"Sunny Day\" used by He Zhiqing to disguise his own works? a. The Fall of the Internet Celebrity School Flower \"b.\" The Curse of Anime Uniforms \"c.\" The Photographer's Secret \"d.\" The Mystery of Mystery Fiction \"",
+                "Who summoned He Zhiqing for investigation after his death on a sunny day? a. School police b. City police c. Detective d. School principal",
+                "What is the deadline for what kind of infatuation is threatened by sunny days? a. March 27th, 2016 b. March 28th, 2016 c. March 10th, 2016 d. March 21st, 2016",
+                "Where did He Zhiqing and Sunny first meet? a. Campus activities b. Library c. Anime uniform club d. Classroom",
+                "On which date did he confess his love to Sunny? a. September 29, 2013 b. October 29, 2013 c. November 29, 2013 d. December 29, 2013",
+                "What caused Sunny Day to become popular on the internet? a. Publish novel b. Publish poetry c. Photography competition d. Anime uniform photos",
+                "Why use an article with a certain name to impersonate one's own work? a. The Secret of Campus Stars \"b.\" The Fall of Internet Celebrity Campus Flowers \"c.\" Unsolved Mysteries \"d.\" The Challenge of Youth \"",
+                "On which day did He Zhiqing decide to use the sunny day's works? a. January 25th, 2016 b. February 18th, 2016 c. March 10th, 2016 d. March 21st, 2016",
+                "What is the deadline for the sunny day to threaten his infatuation? a. March 26, 2016 10:00 AM b. March 27, 2016 10:00 AM c. March 28, 2016 10:00 AM d. March 29, 2016 10:00 AM",
+                "When is the date for buying poison? a. March 27th, 2016 b. March 28th, 2016 c. March 29th, 2016 d. March 30th, 2016",
+                "What is the way to die on a sunny day? a. Murdered b. Suicide c. Car accident d. Disease",
+                "Where did He Zhiqing add poison to sunny drinks? a. School cafeteria b. Their residence c. Off campus coffee shop d. Beverage shop",
+                "When will He Zhiqing finally meet Sunny Day? a. 1:00 PM b. 1:45 PM c. 2:30 PM d. 3:00 PM",
+                "What club did Sunny and He Zhiqing join? a. Photography Club b. Calligraphy Club c. Anime Uniform Club d. Literature Club",
+                "When is the date of successful confession of love? a. September 1, 2013 b. October 29, 2013 c. November 29, 2013 d. December 25, 2013",
+                "What are the reasons why sunny days become internet celebrities? a. Publish scientific articles b. Participate in dance competitions c. Photography competitions d. Anime uniform photos",
+                "What is the name of the work that He Zhiqing plagiarized? a. The Fall of the Internet Celebrity School Flower \"b.\" The Curse of Anime Uniforms \"c.\" The Mystery of Mystery Novels \"d.\" The Secret of Campus Stars \"",
+                "Which boss appreciated He Zhiqing and decided to publish his works? a. Mr. Li b. Mr. Wang c. Mr. Zhang d. Mr. Zhou",
+                "When was the deadline set for the sunny day to threaten his infatuation? a. March 27th, 2016 b. March 28th, 2016 c. March 29th, 2016 d. March 30th, 2016",
+                "Where does infatuation buy poison from? a. On campus pharmacy b. Off campus pharmacy c. A shop in an alley d. Online website",
+                "What was the last time I met Sunny? a. 1:00 PM b. 1:45 PM c. 2:30 PM d. 3:00 PM",
+                "What is the way of death on a sunny day? a. Suicide b. Murder c. Car accident d. Disease",
+                "Who summoned He Zhiqing for investigation? a. School police b. City police c. Detective d. School principal"
+            ],
+            "a": [
+                "b",
+                "b",
+                "c",
+                "b",
+                "a",
+                "a",
+                "a",
+                "a",
+                "a",
+                "c",
+                "a",
+                "c",
+                "a",
+                "b",
+                "c",
+                "a",
+                "a",
+                "c",
+                "b",
+                "a",
+                "a",
+                "b",
+                "c",
+                "b",
+                "c",
+                "a",
+                "a",
+                "a",
+                "c",
+                "a",
+                "d",
+                "b",
+                "d",
+                "b",
+                "a",
+                "b",
+                "b",
+                "b",
+                "d",
+                "b",
+                "c",
+                "b",
+                "d",
+                "a",
+                "c",
+                "a",
+                "c",
+                "b",
+                "a",
+                "c"
+            ]
+        },
+        {
+            "name": "Ghost Sister",
+            "back": "I was born into an ordinary family, carrying a distant dream of becoming a star! To become a celebrity, one must",
+            "r_q": [
+                {
+                    "q": "In 2012, which music department did the protagonist get into? a. S large b. Y large c. M large d. H large",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why did the protagonist become the focus of attention on campus? a. She is the president of the student union. B. She serves as the class monitor. C. She is very good at singing. D. She is the captain of the basketball team",
+                    "ans": "c"
+                },
+                {
+                    "q": "In 2014, who stole the glory that originally belonged to the protagonist? a. Xiaohong b. Xiaoming c. Xiaohua d. Xiaogang",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why did Xiaohua accidentally jump off a building? a. Being bullied b. Heartbroken c. Reagent splashed face d. Academic pressure",
+                    "ans": "c"
+                },
+                {
+                    "q": "What role was the protagonist supposed to play on March 15, 2014? a. Drama female lead b. Singer c. Dancer d. Host",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who was the protagonist's secret initially shared with? a. Little devil b. Little flower c. Summer sunny day d. What kind of infatuation",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why is it so popular on sunny days in summer? a. Publish research papers b. Concert performances c. Cosplay photos on social media d. Sports competition awards",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is the boyfriend of the author of the book 'The Fall of the Internet Celebrity School Flower'? a. Little Flower b. Summer Sunny c. Protagonist d. Little Ghost",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did the protagonist ultimately solve the problem of a sunny summer day? a. Reconciliation b. Threats c. Deception d. Murder",
+                    "ans": "d"
+                },
+                {
+                    "q": "What method did the protagonist use to make Xia Qingqing unconscious? a. Strike the head b. Food poisoning c. Ether d. Alcohol",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the protagonist's dream? a. Becoming a scientist b. Becoming a photographer c. Becoming a singer d. Becoming a celebrity",
+                    "ans": "d"
+                },
+                {
+                    "q": "Which school and department does the protagonist attend? a. M major music department b. Y major dance department c. S major drama department d. H major art department",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which character suffered serious injuries due to a dangerous accident? a. Little Red b. Summer Sunny c. Little Flower d. Little Ghost",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who initially won the female lead role in the 2014 school anniversary drama? a. Xiaohong b. Sunny Summer c. Little Flower d. Protagonist",
+                    "ans": "d"
+                },
+                {
+                    "q": "How did the relationship between the protagonist and her change after becoming popular on a sunny summer day? a. Becoming closer b. Becoming more distant c. No change d. Becoming an enemy",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did the protagonist decide to end Xia Qingqing's life? a. Revenge b. jealousy c. protecting one's own secrets d. wrong judgment",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the secret revealed in the novel 'The Fall of the Internet Celebrity School Flower'? a. Campus bullying b. The identity of the protagonist c. The incident of bullying Xiaohua d. The protagonist's wealth",
+                    "ans": "c"
+                },
+                {
+                    "q": "What substance did the protagonist use to make Xia Qingqing unconscious? a. Cyanide b. Chlorine c. Ether d. Sulfuric acid",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did the protagonist handle the sunny summer days? a. Pushing out the window b. Abandoned in the wilderness c. Locked in the basement d. Throwed into the river",
+                    "ans": "a"
+                },
+                {
+                    "q": "Whose appearance is extremely similar to Xiaohua? a. Summer sunny day b. Little devil c. Gull junior girl d. Little red",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the protagonist's motivation for studying music at M University? a. Becoming a scientist b. Improving acting skills c. Becoming a celebrity d. Learning chemistry",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the direct cause of Xiaohua's serious injury? a. Computer explosion b. Reagent splashing on the face c. Falling down stairs d. Car accident",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did the protagonist and Xia Qingqing initially plan their prank on Xiaohua? a. Music classroom b. Library c. Anime club d. Gymnasium",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the direct reason for Xiaohua jumping off the building? a. Because of glory b. because of pressure c. because of disfigurement d. because of being bullied",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why did the summer sunny day suddenly become popular in 2015? a. Sports achievements b. Academic achievements c. Online photos d. Public speaking",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is the author of the novel 'The Fall of the Internet Celebrity School Flower' related to? a. Little Flower b. Protagonist c. Summer Sunny Day d. Little Ghost",
+                    "ans": "c"
+                },
+                {
+                    "q": "What method does the protagonist use to make Xia Qingqing unconscious? a. Injection of drugs b. Food poisoning c. Ether d. Alcohol",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why did the protagonist decide to kill Xia Qingqing? a. For revenge b. For love c. To protect secrets d. For money",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did Xia Qingqing die? a. Suicide b. Jumping off a building c. Being pushed off a building d. Car accident",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the relationship between Ou Xuemei and Xiaohua? a. Sisters b. mother and daughter c. classmate d. similar appearance",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the protagonist's dream? a. Becoming a teacher b. Becoming a doctor c. Becoming a lawyer d. Becoming a celebrity",
+                    "ans": "d"
+                },
+                {
+                    "q": "In 2012, which university and department did the protagonist get into? a. S University Law Department b. M University Music Department c. Y University Medical Department d. H University Engineering Department",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did the protagonist become the focus of attention on campus? a. Her academic achievements b. Her athletic ability c. Her public speaking skills d. Her appearance and talents",
+                    "ans": "d"
+                },
+                {
+                    "q": "What event caused Xiaohua to jump off the building? a. Being bullied b. Heartbroken c. Reagent splashed face d. Academic pressure",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who was the initial female lead in the school anniversary play on March 15, 2014? a. Little flower b. Summer sunny day c. Main character d. Ou Xuemei",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the protagonist's biggest secret? a. Her true identity b. Her family background c. Her feud with Xiaohua d. Her academic misconduct",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why does a sunny summer day suddenly become popular? a. Her sports achievements b. Her academic achievements c. Her cosplay photos d. Her musical talent",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is the boyfriend of the author of the book 'The Fall of the Internet Celebrity School Flower'? a. Little flower b. Summer sunny day c. Main character d. Ou Xuemei",
+                    "ans": "b"
+                },
+                {
+                    "q": "What extreme measures does the protagonist ultimately decide to take to protect the secret? a. Reconciliation b. Seeking legal help c. Killing Xia Qingqing d. Publicly apologizing",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did Xia Qingqing die? a. Natural death b. being hit by a car c. being pushed downstairs d. poisoning",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why does the protagonist want to become a celebrity? a. Because of family pressure b. to escape reality c. because of dreams and love d. for money",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Xiaohua's injury incident occur? a. Campus Square b. Teaching Building c. Chemistry Laboratory d. Library",
+                    "ans": "c"
+                },
+                {
+                    "q": "How has the relationship between the protagonist and Xia Qingqing changed? a. Becoming more encrypted b. No change c. Becoming distant d. Becoming an enemy",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the date when Xiaohua jumped off the building? a. February 28, 2014 b. March 15, 2014 c. March 20, 2014 d. March 28, 2016",
+                    "ans": "c"
+                },
+                {
+                    "q": "What measures did the protagonist take to keep Xia Qingtian confidential? a. Tracking b. Threats c. Reconciliation d. Murder",
+                    "ans": "d"
+                },
+                {
+                    "q": "Why did the summer sunny day suddenly become popular? a. Because of academic achievements, b. because of sports achievements, c. because of social media, d. because of public speaking",
+                    "ans": "c"
+                },
+                {
+                    "q": "What did Xia Qingqing's boyfriend, He Zhiqing, provide for the writing of novels? a. Inspiration b. Financial support c. Editing skills d. Publishing channels",
+                    "ans": "a"
+                },
+                {
+                    "q": "How did the protagonist kill Xia Qingqing? a. Lock her in the basement, use poison, push her downstairs, have a car accident",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the similarities between Ou Xuemei and Xiaohua? a. Personality b. Appearance c. Interests and hobbies d. Dressing style",
+                    "ans": "b"
+                },
+                {
+                    "q": "What substance did the protagonist use to make Xia Qingqing unconscious before pushing her down? a. Cyanide b. Ether c. Alcohol d. Sleeping pills",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "In 2012, which music department did the protagonist get into? a. S large b. Y large c. M large d. H large",
+                "Why did the protagonist become the focus of attention on campus? a. She is the president of the student union. B. She serves as the class monitor. C. She is very good at singing. D. She is the captain of the basketball team",
+                "In 2014, who stole the glory that originally belonged to the protagonist? a. Xiaohong b. Xiaoming c. Xiaohua d. Xiaogang",
+                "Why did Xiaohua accidentally jump off a building? a. Being bullied b. Heartbroken c. Reagent splashed face d. Academic pressure",
+                "What role was the protagonist supposed to play on March 15, 2014? a. Drama female lead b. Singer c. Dancer d. Host",
+                "Who was the protagonist's secret initially shared with? a. Little devil b. Little flower c. Summer sunny day d. What kind of infatuation",
+                "Why is it so popular on sunny days in summer? a. Publish research papers b. Concert performances c. Cosplay photos on social media d. Sports competition awards",
+                "Who is the boyfriend of the author of the book 'The Fall of the Internet Celebrity School Flower'? a. Little Flower b. Summer Sunny c. Protagonist d. Little Ghost",
+                "How did the protagonist ultimately solve the problem of a sunny summer day? a. Reconciliation b. Threats c. Deception d. Murder",
+                "What method did the protagonist use to make Xia Qingqing unconscious? a. Strike the head b. Food poisoning c. Ether d. Alcohol",
+                "What is the protagonist's dream? a. Becoming a scientist b. Becoming a photographer c. Becoming a singer d. Becoming a celebrity",
+                "Which school and department does the protagonist attend? a. M major music department b. Y major dance department c. S major drama department d. H major art department",
+                "Which character suffered serious injuries due to a dangerous accident? a. Little Red b. Summer Sunny c. Little Flower d. Little Ghost",
+                "Who initially won the female lead role in the 2014 school anniversary drama? a. Xiaohong b. Sunny Summer c. Little Flower d. Protagonist",
+                "How did the relationship between the protagonist and her change after becoming popular on a sunny summer day? a. Becoming closer b. Becoming more distant c. No change d. Becoming an enemy",
+                "Why did the protagonist decide to end Xia Qingqing's life? a. Revenge b. jealousy c. protecting one's own secrets d. wrong judgment",
+                "What is the secret revealed in the novel 'The Fall of the Internet Celebrity School Flower'? a. Campus bullying b. The identity of the protagonist c. The incident of bullying Xiaohua d. The protagonist's wealth",
+                "What substance did the protagonist use to make Xia Qingqing unconscious? a. Cyanide b. Chlorine c. Ether d. Sulfuric acid",
+                "How did the protagonist handle the sunny summer days? a. Pushing out the window b. Abandoned in the wilderness c. Locked in the basement d. Throwed into the river",
+                "Whose appearance is extremely similar to Xiaohua? a. Summer sunny day b. Little devil c. Gull junior girl d. Little red",
+                "What is the protagonist's motivation for studying music at M University? a. Becoming a scientist b. Improving acting skills c. Becoming a celebrity d. Learning chemistry",
+                "What was the direct cause of Xiaohua's serious injury? a. Computer explosion b. Reagent splashing on the face c. Falling down stairs d. Car accident",
+                "Where did the protagonist and Xia Qingqing initially plan their prank on Xiaohua? a. Music classroom b. Library c. Anime club d. Gymnasium",
+                "What is the direct reason for Xiaohua jumping off the building? a. Because of glory b. because of pressure c. because of disfigurement d. because of being bullied",
+                "Why did the summer sunny day suddenly become popular in 2015? a. Sports achievements b. Academic achievements c. Online photos d. Public speaking",
+                "Who is the author of the novel 'The Fall of the Internet Celebrity School Flower' related to? a. Little Flower b. Protagonist c. Summer Sunny Day d. Little Ghost",
+                "What method does the protagonist use to make Xia Qingqing unconscious? a. Injection of drugs b. Food poisoning c. Ether d. Alcohol",
+                "Why did the protagonist decide to kill Xia Qingqing? a. For revenge b. For love c. To protect secrets d. For money",
+                "How did Xia Qingqing die? a. Suicide b. Jumping off a building c. Being pushed off a building d. Car accident",
+                "What is the relationship between Ou Xuemei and Xiaohua? a. Sisters b. mother and daughter c. classmate d. similar appearance",
+                "What is the protagonist's dream? a. Becoming a teacher b. Becoming a doctor c. Becoming a lawyer d. Becoming a celebrity",
+                "In 2012, which university and department did the protagonist get into? a. S University Law Department b. M University Music Department c. Y University Medical Department d. H University Engineering Department",
+                "Why did the protagonist become the focus of attention on campus? a. Her academic achievements b. Her athletic ability c. Her public speaking skills d. Her appearance and talents",
+                "What event caused Xiaohua to jump off the building? a. Being bullied b. Heartbroken c. Reagent splashed face d. Academic pressure",
+                "Who was the initial female lead in the school anniversary play on March 15, 2014? a. Little flower b. Summer sunny day c. Main character d. Ou Xuemei",
+                "What is the protagonist's biggest secret? a. Her true identity b. Her family background c. Her feud with Xiaohua d. Her academic misconduct",
+                "Why does a sunny summer day suddenly become popular? a. Her sports achievements b. Her academic achievements c. Her cosplay photos d. Her musical talent",
+                "Who is the boyfriend of the author of the book 'The Fall of the Internet Celebrity School Flower'? a. Little flower b. Summer sunny day c. Main character d. Ou Xuemei",
+                "What extreme measures does the protagonist ultimately decide to take to protect the secret? a. Reconciliation b. Seeking legal help c. Killing Xia Qingqing d. Publicly apologizing",
+                "How did Xia Qingqing die? a. Natural death b. being hit by a car c. being pushed downstairs d. poisoning",
+                "Why does the protagonist want to become a celebrity? a. Because of family pressure b. to escape reality c. because of dreams and love d. for money",
+                "Where did Xiaohua's injury incident occur? a. Campus Square b. Teaching Building c. Chemistry Laboratory d. Library",
+                "How has the relationship between the protagonist and Xia Qingqing changed? a. Becoming more encrypted b. No change c. Becoming distant d. Becoming an enemy",
+                "What was the date when Xiaohua jumped off the building? a. February 28, 2014 b. March 15, 2014 c. March 20, 2014 d. March 28, 2016",
+                "What measures did the protagonist take to keep Xia Qingtian confidential? a. Tracking b. Threats c. Reconciliation d. Murder",
+                "Why did the summer sunny day suddenly become popular? a. Because of academic achievements, b. because of sports achievements, c. because of social media, d. because of public speaking",
+                "What did Xia Qingqing's boyfriend, He Zhiqing, provide for the writing of novels? a. Inspiration b. Financial support c. Editing skills d. Publishing channels",
+                "How did the protagonist kill Xia Qingqing? a. Lock her in the basement, use poison, push her downstairs, have a car accident",
+                "What are the similarities between Ou Xuemei and Xiaohua? a. Personality b. Appearance c. Interests and hobbies d. Dressing style",
+                "What substance did the protagonist use to make Xia Qingqing unconscious before pushing her down? a. Cyanide b. Ether c. Alcohol d. Sleeping pills"
+            ],
+            "a": [
+                "c",
+                "c",
+                "c",
+                "c",
+                "a",
+                "c",
+                "c",
+                "b",
+                "d",
+                "c",
+                "d",
+                "a",
+                "c",
+                "d",
+                "b",
+                "c",
+                "c",
+                "c",
+                "a",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "d",
+                "d",
+                "b",
+                "d",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "d",
+                "c",
+                "a",
+                "c",
+                "b",
+                "b"
+            ]
+        },
+        {
+            "name": "Ou Xuemei",
+            "back": "I am Ou Xuemei, 18 years old, a freshman in the Performance Department of M University. I have been an orphan since I was young, and I don't know who my biological parents are. But in fact, I am very satisfied with my current family. There is an adoptive father who loves me very much and has always regarded me as",
+            "r_q": [
+                {
+                    "q": "What is the age of Ou Xuemei? a. 15 years old b. 16 years old c. 17 years old d. 18 years old",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the university where Ou Xuemei is located? a. N large b. M large c. S large d. L large",
+                    "ans": "b"
+                },
+                {
+                    "q": "What company does Ou Xuemei's adoptive father own? a. The largest software company b. The largest trading company c. The largest film and television company d. The largest construction company",
+                    "ans": "c"
+                },
+                {
+                    "q": "At what event did Ou Xuemei first meet Teacher Bai? a. Speech competition b. Sports meeting c. Newcomer recruitment site d. Graduation ceremony",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Ou Xuemei become Teacher Bai's girlfriend? a. January 2, 2016 b. February 2, 2016 c. March 2, 2016 d. April 2, 2016",
+                    "ans": "c"
+                },
+                {
+                    "q": "What equipment did Ou Xuemei use when she discovered the relationship between her foster father and Xia Qingqing? a. Tablet b. Personal computer c. Father's phone d. Father's computer",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year and month did Ou Xuemei's adoptive father start contacting Xia Qingqing? a. September 2015 b. November 2015 c. October 2015 d. December 2015",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the first thing that Ou Xuemei did when she returned to the dormitory? a. B. Search for Xia Qingqing on the computer. C. Call the adoptive father. D. Tear up Xia Qingqing's poster",
+                    "ans": "d"
+                },
+                {
+                    "q": "What method does Ou Xuemei plan to use to harm Xia Qingqing? a. Concentrated sulfuric acid b. Knife c. Gun d. Rope",
+                    "ans": "a"
+                },
+                {
+                    "q": "What clothes should Ou Xuemei wear to wait for Teacher Bai on the rooftop? a. Evening gown b. Princess dress c. Casual dress d. Sportswear",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why is Ou Xuemei being viewed by her adoptive father? a. Baby daughter b. Little princess c. Noble lady d. Treasure",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the relationship between Ou Xuemei and Teacher Bai? a. Classmate b. friend c. teacher-student relationship d. colleague",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why does Ou Xuemei want to hurt Xia Qingqing? a. Jealousy b. revenge c. infatuation d. hatred",
+                    "ans": "a"
+                },
+                {
+                    "q": "What important clue did Ou Xuemei discover for the first time when she returned home? a. Father's diary b. Father's letter c. Father's phone d. Father's computer",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Ou Xuemei discover the connection between her adoptive father and Xia Qingqing? a. Weekends b. Workdays c. Holidays d. Holidays",
+                    "ans": "a"
+                },
+                {
+                    "q": "When do Xia Qingqing and Ou Xuemei's adoptive father plan to get married? a. Soon b. Next month c. Next year d. Unknown",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Ou Xuemei's evaluation of Xia Qingtian? a. Virtuous b. pure c. green tea bitch d. kind",
+                    "ans": "c"
+                },
+                {
+                    "q": "How does Ou Xuemei plan to expose Xia Qingqing? a. B. Broadcast on social media at school c. Send anonymous letters through Moments d",
+                    "ans": "a"
+                },
+                {
+                    "q": "Why does Ou Xuemei think her adoptive father would give up on Xia Qingqing? a. If she leaves the city b. If she changes her mind c. If she disfigures d. If she loses her reputation",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Xia Qingqing's reaction when she sees Ou Xuemei? a. Happy b. Surprised c. Nervous d. Angry",
+                    "ans": "c"
+                },
+                {
+                    "q": "At which school did Ou Xuemei meet Teacher Bai? a. N large b. M large c. S large d. L large",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Ou Xuemei's reaction after discovering her foster father's relationship with Xia Qingqing? a. Calm b. Surprised c. Angry d. Happy",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where does the evidence for Ou Xuemei's discovery of her foster father's relationship with Xia Qingqing come from? a. Father's diary b. Father's computer c. Father's phone d. Father's letter",
+                    "ans": "c"
+                },
+                {
+                    "q": "How was the relationship between Teacher Bai and Ou Xuemei made public? a. Teacher Bai publicly announced that b. Ou Xuemei told her classmates c. They were secretly filmed d. They have never made it public",
+                    "ans": "d"
+                },
+                {
+                    "q": "How does Ou Xuemei describe her adoptive father? a. Greedy and cold b. Rude and impolite c. Elegant and enlightened d. Cunning and cunning",
+                    "ans": "c"
+                },
+                {
+                    "q": "What method does Ou Xuemei plan to use to harm Xia Qingqing and prevent her adoptive father from marrying her? a. Plan to expose her true face b. Use concentrated sulfuric acid to disfigure c. Report her behavior to school d. Use social media to humiliate her",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why does Ou Xuemei want to publicly expose Xia Qingqing? a. Because she was fed up with Xia Qingqing. b. In retaliation. c. She believed that Xia Qingqing had deceived many people. d. She was angered by Xia Qingqing's behavior",
+                    "ans": "c"
+                },
+                {
+                    "q": "What kind of clothes should Ou Xuemei wear to wait for Teacher Bai on the rooftop? a. Evening dress b. Princess dress c. Sportswear d. Casual wear",
+                    "ans": "b"
+                },
+                {
+                    "q": "How long did Ou Xuemei wait on the rooftop? a. 5 minutes b. 10 minutes c. 15 minutes d. 20 minutes",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Xia Qingqing's reaction to seeing Ou Xuemei? a. Happy b. Surprised c. Nervous d. Angry",
+                    "ans": "c"
+                },
+                {
+                    "q": "Has the relationship between Ou Xuemei and Teacher Bai been made public? a. Yes B. No",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did Ou Xuemei record the voice recordings of her adoptive father and Xia Qingqing? a. My foster father's phone b. My own phone c. Teacher Bai's phone d. The school's public computer",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did Ou Xuemei expose Xia Qingtian? a. Jealousy b. Revenge c. Fairness d. Protecting adoptive father",
+                    "ans": "b"
+                },
+                {
+                    "q": "What did Ou Xuemei do first after returning to the dormitory? a. Search for information about Xia Sunny Day b. Watch TV c. Tear up Xia Sunny Day's poster d. Call Teacher Bai",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did Ou Xuemei plan to harm Xia Qingqing? a. B. Assault her with a knife c. Drizzle sulfuric acid d. Kidnap her",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where are Teacher Bai and Ou Xuemei dating? a. School classroom b. School library c. School rooftop d. School cafeteria",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where does the clue for Ou Xuemei's discovery of the relationship between her adoptive father and Xia Qingqing come from? a. My foster father's computer b. My foster father's diary c. My foster father's phone d. My foster father's letters",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the evidence that Ou Xuemei suspects a relationship between Teacher Bai and Xia Qingqing? a. SMS records b. Social media posts c. Secretly taken photos d. Public records",
+                    "ans": "c"
+                },
+                {
+                    "q": "What does the adoptive father plan to give Xia Qingqing as a wedding gift? a. Car b. House c. Jewelry d. Half of the family property",
+                    "ans": "d"
+                },
+                {
+                    "q": "How does Ou Xuemei describe a sunny summer day? a. Gentle and kind b. Cunning and hypocritical c. Smart and witty d. Honest and upright",
+                    "ans": "b"
+                },
+                {
+                    "q": "How much property does Ou Xuemei's adoptive father plan to give Xia Qingqing as a dowry when they get married? a. All assets b. Half of assets c. One third of assets d. One fourth of assets",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the evidence that Ou Xuemei discovered the relationship between her adoptive father and Xia Qingqing? a. Letter b. Email c. Voice recording d. Photo",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the type of relationship between Ou Xuemei and Teacher Bai? a. Public couple b. Secret romance c. Limited to teachers and students d. Friends",
+                    "ans": "b"
+                },
+                {
+                    "q": "What substance did Ou Xuemei use to harm Xia Qing Angel in her plan? a. Sulfuric acid b. Potassium cyanide c. Arsenic d. Arsenic",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where did Ou Xuemei steal the harmful substance? a. Chemistry laboratory b. Biology laboratory c. Physics laboratory d. Geography laboratory",
+                    "ans": "a"
+                },
+                {
+                    "q": "What method did Ou Xuemei use to store substances that harm Xia Qingqing? a. Glass bottle b. Plastic bottle c. Metal box d. Ceramic jar",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where is the meeting place for Teacher Bai to meet with Sister Ou? a. School classroom b. School library c. School rooftop d. School cafeteria",
+                    "ans": "c"
+                },
+                {
+                    "q": "At which time did Ou Xuemei hear the news of Xia Qingqing falling from a building? a. 2:00-3:00 PM b. 3:00-4:00 PM c. 4:00-5:00 PM d. 5:00-6:00 PM",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the intimate photo of Ou Xuemei and her adoptive father placed? a. Living room b. Dining room c. Study d. Bedroom",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was Ou Xuemei's first reaction when she discovered about her adoptive father and Xia Qingqing? a. Tear up the poster of Xia Qingqing. b. Interrogate Teacher Bai. c. Record audio evidence. d. Post online",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is the age of Ou Xuemei? a. 15 years old b. 16 years old c. 17 years old d. 18 years old",
+                "What is the university where Ou Xuemei is located? a. N large b. M large c. S large d. L large",
+                "What company does Ou Xuemei's adoptive father own? a. The largest software company b. The largest trading company c. The largest film and television company d. The largest construction company",
+                "At what event did Ou Xuemei first meet Teacher Bai? a. Speech competition b. Sports meeting c. Newcomer recruitment site d. Graduation ceremony",
+                "When did Ou Xuemei become Teacher Bai's girlfriend? a. January 2, 2016 b. February 2, 2016 c. March 2, 2016 d. April 2, 2016",
+                "What equipment did Ou Xuemei use when she discovered the relationship between her foster father and Xia Qingqing? a. Tablet b. Personal computer c. Father's phone d. Father's computer",
+                "In which year and month did Ou Xuemei's adoptive father start contacting Xia Qingqing? a. September 2015 b. November 2015 c. October 2015 d. December 2015",
+                "What was the first thing that Ou Xuemei did when she returned to the dormitory? a. B. Search for Xia Qingqing on the computer. C. Call the adoptive father. D. Tear up Xia Qingqing's poster",
+                "What method does Ou Xuemei plan to use to harm Xia Qingqing? a. Concentrated sulfuric acid b. Knife c. Gun d. Rope",
+                "What clothes should Ou Xuemei wear to wait for Teacher Bai on the rooftop? a. Evening gown b. Princess dress c. Casual dress d. Sportswear",
+                "Why is Ou Xuemei being viewed by her adoptive father? a. Baby daughter b. Little princess c. Noble lady d. Treasure",
+                "What is the relationship between Ou Xuemei and Teacher Bai? a. Classmate b. friend c. teacher-student relationship d. colleague",
+                "Why does Ou Xuemei want to hurt Xia Qingqing? a. Jealousy b. revenge c. infatuation d. hatred",
+                "What important clue did Ou Xuemei discover for the first time when she returned home? a. Father's diary b. Father's letter c. Father's phone d. Father's computer",
+                "When did Ou Xuemei discover the connection between her adoptive father and Xia Qingqing? a. Weekends b. Workdays c. Holidays d. Holidays",
+                "When do Xia Qingqing and Ou Xuemei's adoptive father plan to get married? a. Soon b. Next month c. Next year d. Unknown",
+                "What is Ou Xuemei's evaluation of Xia Qingtian? a. Virtuous b. pure c. green tea bitch d. kind",
+                "How does Ou Xuemei plan to expose Xia Qingqing? a. B. Broadcast on social media at school c. Send anonymous letters through Moments d",
+                "Why does Ou Xuemei think her adoptive father would give up on Xia Qingqing? a. If she leaves the city b. If she changes her mind c. If she disfigures d. If she loses her reputation",
+                "What is Xia Qingqing's reaction when she sees Ou Xuemei? a. Happy b. Surprised c. Nervous d. Angry",
+                "At which school did Ou Xuemei meet Teacher Bai? a. N large b. M large c. S large d. L large",
+                "What was Ou Xuemei's reaction after discovering her foster father's relationship with Xia Qingqing? a. Calm b. Surprised c. Angry d. Happy",
+                "Where does the evidence for Ou Xuemei's discovery of her foster father's relationship with Xia Qingqing come from? a. Father's diary b. Father's computer c. Father's phone d. Father's letter",
+                "How was the relationship between Teacher Bai and Ou Xuemei made public? a. Teacher Bai publicly announced that b. Ou Xuemei told her classmates c. They were secretly filmed d. They have never made it public",
+                "How does Ou Xuemei describe her adoptive father? a. Greedy and cold b. Rude and impolite c. Elegant and enlightened d. Cunning and cunning",
+                "What method does Ou Xuemei plan to use to harm Xia Qingqing and prevent her adoptive father from marrying her? a. Plan to expose her true face b. Use concentrated sulfuric acid to disfigure c. Report her behavior to school d. Use social media to humiliate her",
+                "Why does Ou Xuemei want to publicly expose Xia Qingqing? a. Because she was fed up with Xia Qingqing. b. In retaliation. c. She believed that Xia Qingqing had deceived many people. d. She was angered by Xia Qingqing's behavior",
+                "What kind of clothes should Ou Xuemei wear to wait for Teacher Bai on the rooftop? a. Evening dress b. Princess dress c. Sportswear d. Casual wear",
+                "How long did Ou Xuemei wait on the rooftop? a. 5 minutes b. 10 minutes c. 15 minutes d. 20 minutes",
+                "What is Xia Qingqing's reaction to seeing Ou Xuemei? a. Happy b. Surprised c. Nervous d. Angry",
+                "Has the relationship between Ou Xuemei and Teacher Bai been made public? a. Yes B. No",
+                "Where did Ou Xuemei record the voice recordings of her adoptive father and Xia Qingqing? a. My foster father's phone b. My own phone c. Teacher Bai's phone d. The school's public computer",
+                "Why did Ou Xuemei expose Xia Qingtian? a. Jealousy b. Revenge c. Fairness d. Protecting adoptive father",
+                "What did Ou Xuemei do first after returning to the dormitory? a. Search for information about Xia Sunny Day b. Watch TV c. Tear up Xia Sunny Day's poster d. Call Teacher Bai",
+                "How did Ou Xuemei plan to harm Xia Qingqing? a. B. Assault her with a knife c. Drizzle sulfuric acid d. Kidnap her",
+                "Where are Teacher Bai and Ou Xuemei dating? a. School classroom b. School library c. School rooftop d. School cafeteria",
+                "Where does the clue for Ou Xuemei's discovery of the relationship between her adoptive father and Xia Qingqing come from? a. My foster father's computer b. My foster father's diary c. My foster father's phone d. My foster father's letters",
+                "What is the evidence that Ou Xuemei suspects a relationship between Teacher Bai and Xia Qingqing? a. SMS records b. Social media posts c. Secretly taken photos d. Public records",
+                "What does the adoptive father plan to give Xia Qingqing as a wedding gift? a. Car b. House c. Jewelry d. Half of the family property",
+                "How does Ou Xuemei describe a sunny summer day? a. Gentle and kind b. Cunning and hypocritical c. Smart and witty d. Honest and upright",
+                "How much property does Ou Xuemei's adoptive father plan to give Xia Qingqing as a dowry when they get married? a. All assets b. Half of assets c. One third of assets d. One fourth of assets",
+                "What is the evidence that Ou Xuemei discovered the relationship between her adoptive father and Xia Qingqing? a. Letter b. Email c. Voice recording d. Photo",
+                "What is the type of relationship between Ou Xuemei and Teacher Bai? a. Public couple b. Secret romance c. Limited to teachers and students d. Friends",
+                "What substance did Ou Xuemei use to harm Xia Qing Angel in her plan? a. Sulfuric acid b. Potassium cyanide c. Arsenic d. Arsenic",
+                "Where did Ou Xuemei steal the harmful substance? a. Chemistry laboratory b. Biology laboratory c. Physics laboratory d. Geography laboratory",
+                "What method did Ou Xuemei use to store substances that harm Xia Qingqing? a. Glass bottle b. Plastic bottle c. Metal box d. Ceramic jar",
+                "Where is the meeting place for Teacher Bai to meet with Sister Ou? a. School classroom b. School library c. School rooftop d. School cafeteria",
+                "At which time did Ou Xuemei hear the news of Xia Qingqing falling from a building? a. 2:00-3:00 PM b. 3:00-4:00 PM c. 4:00-5:00 PM d. 5:00-6:00 PM",
+                "Where is the intimate photo of Ou Xuemei and her adoptive father placed? a. Living room b. Dining room c. Study d. Bedroom",
+                "What was Ou Xuemei's first reaction when she discovered about her adoptive father and Xia Qingqing? a. Tear up the poster of Xia Qingqing. b. Interrogate Teacher Bai. c. Record audio evidence. d. Post online"
+            ],
+            "a": [
+                "d",
+                "b",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "d",
+                "a",
+                "b",
+                "b",
+                "c",
+                "a",
+                "c",
+                "a",
+                "a",
+                "c",
+                "a",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "d",
+                "c",
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "d",
+                "b",
+                "b",
+                "c",
+                "b",
+                "a",
+                "a",
+                "a",
+                "c",
+                "b",
+                "a",
+                "a"
+            ]
+        },
+        {
+            "name": "Senior Qiao",
+            "back": "I am Senior Qiao, 21 years old, a junior student in the finance department of M University. I have been the crown prince of Qiao's enterprise since I was born. My mother's health is not very good, so she only gave birth to me as a child. My father, mother, and even household servants and security guards",
+            "r_q": [
+                {
+                    "q": "Which university is Senior Qiao a student from? a. M University b. S University c. T University d. K University",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who is threatening Senior Qiao's inheritance rights? a. His cousin b. His illegitimate brother c. His friend d. His uncle",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who is the helper of Senior Qiao's cheating in the college entrance examination? a. Summer sunny day b. Fang Qianshao c. Qiao dad d. bastard brother",
+                    "ans": "a"
+                },
+                {
+                    "q": "In which way did Senior Qiao ultimately become the Assistant General Manager of Qiao's Enterprise? a. Normal competition b. Accidental illegitimate brother c. Recommendation by manager d. Appointment by will",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did Xia Qingqing refuse to accept Senior Qiao's money? a. She doesn't need money. B. She already has enough money. C. She hopes Senior Qiao will surrender. D. She's afraid of being held accountable",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the achievements of Senior Qiao's academic efforts? a. Top scorer b. Average level c. Slight progress d. Consistently poor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who was it that Senior Qiao pushed down the stairs? a. Summer sunny day b. illegitimate brother c. Fang Qianshao d. Joe's father",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Senior Qiao's father bring back his illegitimate child? a. 2005 b. 2010 c. 2012 d. 2015",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the reason why Senior Qiao attempted to kill Xia Qingqing? a. She refused his love. b. She knew the truth that he pushed his illegitimate child. c. She reported him to the police. d. She threatened to take away his inheritance rights",
+                    "ans": "b"
+                },
+                {
+                    "q": "What improper means did Senior Qiao use to get into M University? a. Change transcript b. Falsify identity c. Cheat d. Bribe examiner",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year did Senior Qiao enter M University? a. 2012 b. 2013 c. 2014 d. 2015",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Senior Qiao's mother pass away? a. 2005 b. 2010 c. 2012 d. 2015",
+                    "ans": "a"
+                },
+                {
+                    "q": "How did Senior Qiao pass the college entrance examination? a. Self effort b. Tutorial classes c. Tutoring d. Cheating",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who initially threatened Senior Qiao's inheritance rights? a. Summer sunny day b. Fang Qianshao c. bastard brother d. Joe's father",
+                    "ans": "c"
+                },
+                {
+                    "q": "What did Senior Qiao discover in his father's will? a. I am the sole heir. B. My illegitimate brother is the sole heir. C. The company will be sold. D. The company will be donated",
+                    "ans": "b"
+                },
+                {
+                    "q": "When is the final deadline proposed by Xia Qingqing to Senior Qiao? a. March 25th, 2016 b. March 30th, 2016 c. March 28th, 2016 d. April 1st, 2016",
+                    "ans": "c"
+                },
+                {
+                    "q": "How does Senior Qiao plan to create the illusion of Xia Qingqing committing suicide? a. Poison b. noose c. forged suicide note d. pre recorded video",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Senior Qiao become the Assistant General Manager of Qiao's Enterprise? a. July 2015 b. September 2015 c. January 2016 d. March 2016",
+                    "ans": "b"
+                },
+                {
+                    "q": "Did Xia Qingqing finally arrive at the agreed rooftop meeting on time? a. Yes b. No c. Information unknown d. Meeting cancelled",
+                    "ans": "b"
+                },
+                {
+                    "q": "Under what circumstances did Senior Qiao's illegitimate brother fall and become a vegetative state? a. Pushing down the stairs by Senior Qiao, b. Falling off the stairs by oneself, c. Injured during exercise, d. Car accident",
+                    "ans": "a"
+                },
+                {
+                    "q": "When did Senior Qiao's mother pass away? a. 2004 b. 2005 c. 2006 d. 2007",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why does Senior Qiao need to cheat to enter M University? a. Excellent academic performance b. Not good at studying c. Physical reasons d. Family pressure",
+                    "ans": "b"
+                },
+                {
+                    "q": "In which year did Senior Qiao push his illegitimate brother down the stairs? a. 2013 b. 2014 c. 2015 d. 2016",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Senior Qiao discover that the will designated illegitimate children to inherit the family business? a. 2014 b. 2015 c. 2016 d. 2017",
+                    "ans": "b"
+                },
+                {
+                    "q": "Xia Qingqing refused to accept Senior Qiao's money because she wanted him to do something? a. Invest in her project b. Surrender c. Leave the country d. Get married",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did Senior Qiao kill Xia Qingqing? a. Jealousy b. Revenge c. Protecting secrets d. Competitive pressure",
+                    "ans": "c"
+                },
+                {
+                    "q": "At what time does Xia Qingqing plan to expose Senior Qiao's crimes to the police? a. March 25th, 2016 b. March 28th, 2016 c. March 30th, 2016 d. April 1st, 2016",
+                    "ans": "b"
+                },
+                {
+                    "q": "When does Senior Qiao plan to push Xia Qingtian downstairs? a. March 25th, 2016 b. March 28th, 2016 c. April 1st, 2016 d. April 5th, 2016",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Senior Qiao's father decide to let his illegitimate brother share the inheritance rights? a. 2005 b. 2010 c. 2012 d. 2015",
+                    "ans": "b"
+                },
+                {
+                    "q": "What serious consequences did Senior Qiao's behavior ultimately lead to? a. Family reconciliation b. Arrested by the police c. Brother who had an illegitimate child turned into a vegetative state d. Expelled from school",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year did Senior Qiao's mother pass away? a. 2003 b. 2004 c. 2005 d. 2006",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year was Senior Qiao's illegitimate brother brought home? a. 2005 b. 2006 c. 2007 d. 2008",
+                    "ans": "a"
+                },
+                {
+                    "q": "Why does Senior Qiao need to cheat in the college entrance examination? a. Because he is not good at studying b. because he has a physical illness c. because he is good at art d. because he was forced to cheat",
+                    "ans": "a"
+                },
+                {
+                    "q": "In which year did Senior Qiao discover the will regarding inheritance rights? a. 2014 b. 2015 c. 2016 d. 2017",
+                    "ans": "b"
+                },
+                {
+                    "q": "What year did Senior Qiao push his illegitimate brother down the stairs? a. 2013 b. 2014 c. 2015 d. 2016",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why did Xia Qingqing refuse Senior Qiao's money? a. She wants more money. b. She's afraid of being held accountable. c. She hopes Senior Qiao will surrender. d. She already has enough money",
+                    "ans": "c"
+                },
+                {
+                    "q": "When does Senior Qiao plan to push Xia Qingqing off the rooftop? a. March 25th, 2016 b. March 28th, 2016 c. April 1st, 2016 d. April 5th, 2016",
+                    "ans": "b"
+                },
+                {
+                    "q": "On which day does Xia Qingqing plan to expose Senior Qiao's crimes to the police? a. March 25th, 2016 b. March 28th, 2016 c. March 30th, 2016 d. April 1st, 2016",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why did Senior Qiao decide to kill Xia Qingqing? a. Because she refused his money. b. Because she threatened to expose him. c. Because she betrayed him. d. Because he wanted to control everything",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Senior Qiao become the Assistant General Manager of Qiao's Enterprise? a. September 2014 b. July 2015 c. September 2015 d. January 2016",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year did Senior Qiao's mother pass away? a. 2003 b. 2004 c. 2005 d. 2006",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which year was Senior Qiao's illegitimate brother brought home? a. 2005 b. 2006 c. 2007 d. 2008",
+                    "ans": "a"
+                },
+                {
+                    "q": "Why does Senior Qiao need to cheat in the college entrance examination? a. Because he is not good at studying b. because he has a physical illness c. because he is good at art d. because he was forced to cheat",
+                    "ans": "a"
+                },
+                {
+                    "q": "In which year did Senior Qiao discover the will regarding inheritance rights? a. 2014 b. 2015 c. 2016 d. 2017",
+                    "ans": "b"
+                },
+                {
+                    "q": "What year did Senior Qiao push his illegitimate brother down the stairs? a. 2013 b. 2014 c. 2015 d. 2016",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why did Xia Qingqing refuse Senior Qiao's money? a. She wants more money. b. She's afraid of being held accountable. c. She hopes Senior Qiao will surrender. d. She already has enough money",
+                    "ans": "c"
+                },
+                {
+                    "q": "When does Senior Qiao plan to push Xia Qingqing off the rooftop? a. March 25th, 2016 b. March 28th, 2016 c. April 1st, 2016 d. April 5th, 2016",
+                    "ans": "b"
+                },
+                {
+                    "q": "On which day does Xia Qingqing plan to expose Senior Qiao's crimes to the police? a. March 25th, 2016 b. March 28th, 2016 c. March 30th, 2016 d. April 1st, 2016",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why did Senior Qiao decide to kill Xia Qingqing? a. Because she refused his money. b. Because she threatened to expose him. c. Because she betrayed him. d. Because he wanted to control everything",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Senior Qiao become the Assistant General Manager of Qiao's Enterprise? a. September 2014 b. July 2015 c. September 2015 d. January 2016",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Which university is Senior Qiao a student from? a. M University b. S University c. T University d. K University",
+                "Who is threatening Senior Qiao's inheritance rights? a. His cousin b. His illegitimate brother c. His friend d. His uncle",
+                "Who is the helper of Senior Qiao's cheating in the college entrance examination? a. Summer sunny day b. Fang Qianshao c. Qiao dad d. bastard brother",
+                "In which way did Senior Qiao ultimately become the Assistant General Manager of Qiao's Enterprise? a. Normal competition b. Accidental illegitimate brother c. Recommendation by manager d. Appointment by will",
+                "Why did Xia Qingqing refuse to accept Senior Qiao's money? a. She doesn't need money. B. She already has enough money. C. She hopes Senior Qiao will surrender. D. She's afraid of being held accountable",
+                "What are the achievements of Senior Qiao's academic efforts? a. Top scorer b. Average level c. Slight progress d. Consistently poor",
+                "Who was it that Senior Qiao pushed down the stairs? a. Summer sunny day b. illegitimate brother c. Fang Qianshao d. Joe's father",
+                "When did Senior Qiao's father bring back his illegitimate child? a. 2005 b. 2010 c. 2012 d. 2015",
+                "What is the reason why Senior Qiao attempted to kill Xia Qingqing? a. She refused his love. b. She knew the truth that he pushed his illegitimate child. c. She reported him to the police. d. She threatened to take away his inheritance rights",
+                "What improper means did Senior Qiao use to get into M University? a. Change transcript b. Falsify identity c. Cheat d. Bribe examiner",
+                "In which year did Senior Qiao enter M University? a. 2012 b. 2013 c. 2014 d. 2015",
+                "When did Senior Qiao's mother pass away? a. 2005 b. 2010 c. 2012 d. 2015",
+                "How did Senior Qiao pass the college entrance examination? a. Self effort b. Tutorial classes c. Tutoring d. Cheating",
+                "Who initially threatened Senior Qiao's inheritance rights? a. Summer sunny day b. Fang Qianshao c. bastard brother d. Joe's father",
+                "What did Senior Qiao discover in his father's will? a. I am the sole heir. B. My illegitimate brother is the sole heir. C. The company will be sold. D. The company will be donated",
+                "When is the final deadline proposed by Xia Qingqing to Senior Qiao? a. March 25th, 2016 b. March 30th, 2016 c. March 28th, 2016 d. April 1st, 2016",
+                "How does Senior Qiao plan to create the illusion of Xia Qingqing committing suicide? a. Poison b. noose c. forged suicide note d. pre recorded video",
+                "When did Senior Qiao become the Assistant General Manager of Qiao's Enterprise? a. July 2015 b. September 2015 c. January 2016 d. March 2016",
+                "Did Xia Qingqing finally arrive at the agreed rooftop meeting on time? a. Yes b. No c. Information unknown d. Meeting cancelled",
+                "Under what circumstances did Senior Qiao's illegitimate brother fall and become a vegetative state? a. Pushing down the stairs by Senior Qiao, b. Falling off the stairs by oneself, c. Injured during exercise, d. Car accident",
+                "When did Senior Qiao's mother pass away? a. 2004 b. 2005 c. 2006 d. 2007",
+                "Why does Senior Qiao need to cheat to enter M University? a. Excellent academic performance b. Not good at studying c. Physical reasons d. Family pressure",
+                "In which year did Senior Qiao push his illegitimate brother down the stairs? a. 2013 b. 2014 c. 2015 d. 2016",
+                "When did Senior Qiao discover that the will designated illegitimate children to inherit the family business? a. 2014 b. 2015 c. 2016 d. 2017",
+                "Xia Qingqing refused to accept Senior Qiao's money because she wanted him to do something? a. Invest in her project b. Surrender c. Leave the country d. Get married",
+                "Why did Senior Qiao kill Xia Qingqing? a. Jealousy b. Revenge c. Protecting secrets d. Competitive pressure",
+                "At what time does Xia Qingqing plan to expose Senior Qiao's crimes to the police? a. March 25th, 2016 b. March 28th, 2016 c. March 30th, 2016 d. April 1st, 2016",
+                "When does Senior Qiao plan to push Xia Qingtian downstairs? a. March 25th, 2016 b. March 28th, 2016 c. April 1st, 2016 d. April 5th, 2016",
+                "When did Senior Qiao's father decide to let his illegitimate brother share the inheritance rights? a. 2005 b. 2010 c. 2012 d. 2015",
+                "What serious consequences did Senior Qiao's behavior ultimately lead to? a. Family reconciliation b. Arrested by the police c. Brother who had an illegitimate child turned into a vegetative state d. Expelled from school",
+                "In which year did Senior Qiao's mother pass away? a. 2003 b. 2004 c. 2005 d. 2006",
+                "In which year was Senior Qiao's illegitimate brother brought home? a. 2005 b. 2006 c. 2007 d. 2008",
+                "Why does Senior Qiao need to cheat in the college entrance examination? a. Because he is not good at studying b. because he has a physical illness c. because he is good at art d. because he was forced to cheat",
+                "In which year did Senior Qiao discover the will regarding inheritance rights? a. 2014 b. 2015 c. 2016 d. 2017",
+                "What year did Senior Qiao push his illegitimate brother down the stairs? a. 2013 b. 2014 c. 2015 d. 2016",
+                "Why did Xia Qingqing refuse Senior Qiao's money? a. She wants more money. b. She's afraid of being held accountable. c. She hopes Senior Qiao will surrender. d. She already has enough money",
+                "When does Senior Qiao plan to push Xia Qingqing off the rooftop? a. March 25th, 2016 b. March 28th, 2016 c. April 1st, 2016 d. April 5th, 2016",
+                "On which day does Xia Qingqing plan to expose Senior Qiao's crimes to the police? a. March 25th, 2016 b. March 28th, 2016 c. March 30th, 2016 d. April 1st, 2016",
+                "Why did Senior Qiao decide to kill Xia Qingqing? a. Because she refused his money. b. Because she threatened to expose him. c. Because she betrayed him. d. Because he wanted to control everything",
+                "When did Senior Qiao become the Assistant General Manager of Qiao's Enterprise? a. September 2014 b. July 2015 c. September 2015 d. January 2016",
+                "In which year did Senior Qiao's mother pass away? a. 2003 b. 2004 c. 2005 d. 2006",
+                "In which year was Senior Qiao's illegitimate brother brought home? a. 2005 b. 2006 c. 2007 d. 2008",
+                "Why does Senior Qiao need to cheat in the college entrance examination? a. Because he is not good at studying b. because he has a physical illness c. because he is good at art d. because he was forced to cheat",
+                "In which year did Senior Qiao discover the will regarding inheritance rights? a. 2014 b. 2015 c. 2016 d. 2017",
+                "What year did Senior Qiao push his illegitimate brother down the stairs? a. 2013 b. 2014 c. 2015 d. 2016",
+                "Why did Xia Qingqing refuse Senior Qiao's money? a. She wants more money. b. She's afraid of being held accountable. c. She hopes Senior Qiao will surrender. d. She already has enough money",
+                "When does Senior Qiao plan to push Xia Qingqing off the rooftop? a. March 25th, 2016 b. March 28th, 2016 c. April 1st, 2016 d. April 5th, 2016",
+                "On which day does Xia Qingqing plan to expose Senior Qiao's crimes to the police? a. March 25th, 2016 b. March 28th, 2016 c. March 30th, 2016 d. April 1st, 2016",
+                "Why did Senior Qiao decide to kill Xia Qingqing? a. Because she refused his money. b. Because she threatened to expose him. c. Because she betrayed him. d. Because he wanted to control everything",
+                "When did Senior Qiao become the Assistant General Manager of Qiao's Enterprise? a. September 2014 b. July 2015 c. September 2015 d. January 2016"
+            ],
+            "a": [
+                "a",
+                "b",
+                "a",
+                "b",
+                "c",
+                "c",
+                "b",
+                "a",
+                "b",
+                "c",
+                "b",
+                "a",
+                "d",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "a",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c",
+                "a",
+                "a",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c",
+                "c",
+                "a",
+                "a",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "1. What is the cause of her death according to Xia Qingqing's autopsy report? a. Drug overdose b. Cardiac paralysis c. Cerebral hemorrhage d. Suicide by jumping off a building",
+            "What are the main symptoms of Xia Qingqing in the clinical diagnosis report? a. Pneumonia b. Hypertension c. Severe heart disease d. diabetes",
+            "What medications do I need to carry with me on a sunny summer day? a. Quick acting heart saving pills b. Antidepressants c. Painkillers d. Antibiotics",
+            "During her conversation with Ghost Sister, Xia Qingqing mentioned that she wanted to scare someone? a. Teacher Bai, Sister Gui, Sister Ou, Sister Xiao Hua",
+            "What was found on the juice table in Activity Room 601 of Activity Building? a. Pink powder b. Suspected yellow stain c. White powder d. Light yellow powder",
+            "How many years does the school flower of M University jump off a building and die? a. Two years b. One year c. Three years d. Four years",
+            "What are the days mentioned in Xia Qingqing's diary? a. April 1st, 2014 b. April 1st, 2013 c. April 1st, 2015 d. April 1st, 2016",
+            "Who does the woman's face mentioned in Teacher Bai's speech resemble? a. Ghost Sister b. Little Flower c. Summer Sunny Day d. European Sister",
+            "9. In the chat records with Ghost Sister discovered in Xia Qingqing's space, what did Xia Qingqing mention about going public? a. Teacher Bai's girlfriend is Xiaohua. B. Ou Xuemei looks very similar to Xiaohua. C. Ghost Xuejie once bullied Xiaohua. D. There is a curse in school. Every year, the school flower jumps off the building",
+            "What is Ghost Sister doing in the 2014 photo? a. Bullying a girl b. Attending graduation ceremony c. Studying in the library d. Competing at a sports meet",
+            "11. Which year is involved in the matter that Xia Qingqing expressed her desire to make public? a. 2012 b. 2013 c. 2014 d. 2015",
+            "12. Who does Xia Qingqing's chat record with Ghost Sister show that she wants to scare? a. Xiaohua b. Ou Xuemei c. Teacher Bai d. Senior Qiao",
+            "What is inside the medicine box found on the ground in Activity Room 601? a. B. Analgesics b. Vitamin C c. Cardiovascular and cerebrovascular drugs d. Medications for treating heart disease",
+            "In which year did Xiaohua jump off a building and die? a. 2012 b. 2013 c. 2014 d. 2015",
+            "15. What does Xia Qingqing want to publicly release to redeem herself? a. Teacher Bai's past b. His own mistakes c. Campus secrets d. Little Flower's truth",
+            "Who did Teacher Bai invite to the rooftop at 14:00? a. Ghost Sister b. Little Flower c. Summer Sunny Day d. Senior Qiao",
+            "Which two characters did Teacher Bai invite to the rooftop at 14:00? a. Ou Xuemei and Xia Qingqing b. Xia Qingqing and Xiaohua c. Gui Xuemei and Xiaohua d. Xiaohua and Ou Xuemei",
+            "What career did Teacher Bai choose later? a. Be a teacher in the hospital. B. Continue to be a teacher at the school you used to be in. C. Continue to be a teacher at the art gallery you used to be in. D. Continue to be a teacher in the piano room you used to be in",
+            "19. Which of the following things has Mr. Bai always wanted to investigate? a. Xia Qingqing's illness b. Reasons for Xiaohua's suicide and ruined appearance c. Students' grades d. Campus management",
+            "20. Who does Teacher Bai's 2014 friend circle show as his girlfriend? a. Xiaohua b. Ghost Sister c. Summer Sunny Day d. European Sister",
+            "21. Does Teacher Bai know who is involved in Xiaohua's disfigurement? a. Summer sunny day b. Ghost senior sister c. European senior sister d. Myself",
+            "22. Does Teacher Bai know about any health problems on a sunny summer day? a. Heart disease b. Diabetes c. Hypertension d. Asthma",
+            "What medication does the deceased need to carry with them? a. Antidepressants b. Quick acting heart saving pills c. Quick acting antidotes d. Medications for treating constipation",
+            "Why do you feel guilty on a sunny summer day? a. She accidentally injured Teacher Bai. b. She caused Xiaohua's disfigurement and suicide. c. She failed to complete her studies. d. She lost an important job",
+            "Why does Teacher Bai want to know the cause of Xiaohua's death? a. He is a police officer. B. He is Xiaohua's boyfriend. C. He is the principal of the school. D. He is Xiaohua's brother",
+            "What is the cause of death on a sunny summer day? a. Cardiac arrest b. Traffic accident c. Drug overdose d. Death due to excessive bleeding",
+            "What causes death on a sunny summer day? a. She suffered from severe heart disease and did not receive timely treatment. b. She exercised excessively. c. She was attacked. d. She ate expired food",
+            "What way does Xia Qingqing hope to redeem himself? a. By donating b. by revealing the truth c. by helping others d. by writing a book",
+            "How did Xiaohua end up? a. She changed her career. b. She moved abroad. c. She committed suicide. d. She started wearing masks",
+            "Why does Xia Qingqing feel scared when he sees Ou Xuemei on the rooftop? a. She thought Ou Xuemei would attack her. b. She thought Ou Xuemei was Xiaohua. c. She did something shameful to Ou Xuemei. d. At that time, Ou Xuemei was covered in blood",
+            "31. Who did Xia Qingqing think she saw when she saw Ou Xuemei? a. Ghost Sister B. Little Flower C. Ghost D. Teacher Bai",
+            "What is the reason why Teacher Bai stayed at school? a. Investigate the cause of death of Xia Qingqing b. Investigate the death of Xiao Hua c. Improve teaching quality d. Manage student activities",
+            "33. Does the killer know what health problems Xia Qingqing has? a. Visual problems b. Hearing loss c. Heart disease d. Brain intellectual disability",
+            "What is the reason for being scared on a sunny summer day? a. The threat of Ou Xuemei b. believes that she saw the dead little flower c. hears the little flower talking d. Ou Xuemei deliberately pretends to be a ghost to scare her",
+            "Why did Teacher Bai invite Xia Qingqing and Ou Xuemei to meet at the same time? a. Discuss a project for two people, b. Solve their three complex emotional problems, c. Expect to startle them on a sunny summer day, d. Arrange new courses",
+            "In Teacher Bai's opinion, which of the following situations could lead to Xia Qingqing's death? a. Excessive exercise b. Seeing gull junior sister c. Eating expired food d. Being in a high-pressure environment",
+            "37. How much does Teacher Bai think the death of Xiaohua is related to Xia Qingqing? a. General relationship b. No relationship c. Significant relationship d. Slight relationship",
+            "Teacher Bai knows about Xia Qingqing's physical problems, what impact does this have on his actions? a. He tried to avoid mentioning b. He attempted to provide assistance c. He did not take any action d. He used this information to startle and kill her",
+            "What is the relationship between Teacher Bai and Xiaohua? a. Boyfriend b. Friend c. Family member d. Unrelated",
+            "Under which circumstances is it most likely to die on a sunny summer day? a. During light exercise b. in a quiet state c. when strongly frightened d. when overeating",
+            "Which replaced medication did Xia Qingqing take that ultimately led to her death? a. Quick acting heart saving pills b. Vitamin D c. Vitamin C d. Antidepressants",
+            "What are the consequences of replacing the medicine for Xia Qingqing? a. B. healthier body b. no changes c. slight discomfort d. leading to death",
+            "What happened to Xia Qingqing's medicine that led to her death? a. Replaced with sugar pills b. Replaced with expired drugs c. Replaced with ineffective ingredients such as vitamins d. Replaced with another medication for treating the brain",
+            "Who may be involved in replacing the medicine for Xia Qingqing? a. Her doctor b. murderer c. her friends d. her family",
+            "What are the main reasons why summer sunny days have not received effective treatment? a. She ignored the symptoms b. She didn't take her medication on time c. Her medication was replaced by vitamin c. She chose the wrong treatment method",
+            "Why isn't Ou Xuemei Xiaohua? a. Xiaohua knows Sister Gui, but she didn't recognize her. b. Because she has never appeared on campus. c. Their names are different. d. Their family backgrounds are different",
+            "47. Why didn't Ouxue recognize Guixue? a. She lost her memory and didn't know her. b. She didn't know Ghost Sister in the first place. c. She deliberately pretended not to know Ghost Sister. d. Ghost Sister dressed up a little different from usual that day",
+            "Why is Ghost Sister surprised when she sees Ou Sister? a. She thought Ou Xuemei was resurrected by Xiaohua. b. She found Ou Xuemei dressed strangely. c. She thought Ou Xuemei was already dead. d. She thought Ou Xuemei shouldn't appear here",
+            "Where was the place where Xia Qingtian ran away in a panic? a. Ghost Sister's bedroom b. Bathroom c. Rooftop d. Teacher Bai's room"
+        ],
+        "key_ans": [
+            "b",
+            "c",
+            "a",
+            "d",
+            "c",
+            "a",
+            "a",
+            "d",
+            "c",
+            "a",
+            "c",
+            "a",
+            "b",
+            "c",
+            "d",
+            "c",
+            "a",
+            "b",
+            "b",
+            "a",
+            "a",
+            "a",
+            "b",
+            "b",
+            "b",
+            "a",
+            "a",
+            "b",
+            "c",
+            "b",
+            "b",
+            "b",
+            "c",
+            "b",
+            "c",
+            "b",
+            "c",
+            "d",
+            "a",
+            "c",
+            "c",
+            "d",
+            "c",
+            "b",
+            "c",
+            "a",
+            "b",
+            "a",
+            "c"
+        ],
+        "key_sc": [
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-4",
+            "p-4",
+            "p-4",
+            "p-4",
+            "p-4",
+            "p-5",
+            "p-6",
+            "p-6",
+            "p-6",
+            "p-6",
+            "p-6",
+            "g",
+            "g",
+            "g",
+            "ou"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "Why was the photo of Ghost Sister and Xia Qingqing torn in half? a. Because Xia Qingqing doesn't like this photo. b. Because their relationship deteriorated. c. Because the photo was accidentally damaged. d. Because it's part of a group photo",
+            "Why was the submission email in the mailbox of He Zhiqing's clue space returned? a. The content of the article does not meet the requirements. b. The email address is incorrect. c. It has exceeded the submission deadline. d. The email does not include necessary attachments",
+            "What is the score of the high school seniors' mock exam sandwiched in an old notebook? a. 276 points b. 300 points c. 250 points d. 280 points",
+            "Who else appears in high school graduation photos besides Xia Qingtian? a. Senior Qiao, Senior Ghost Sister, Senior Ou Sister, and Senior He Zhiqing",
+            "What is the title of the article signed by Xia Qingqing? a. The Happiness of Internet Celebrity School Flowers \"b.\" The Fall of Internet Celebrity School Flowers \"c.\" The Secret of Internet Celebrity School Flowers \"d.\" The Success of Internet Celebrity School Flowers \"",
+            "What is the question asked of He Zhiqing in the recording? a. His design is plagiarized. b. His article is original. c. His book is plagiarized. d. His homework is plagiarized",
+            "Where did you find Xia Qingqing's suicide note? a. Office b. Library c. 8th floor rooftop d. Her bedroom",
+            "What fragments were found in the garbage bin in the corner of the office? a. Glass fragments b. Ceramic fragments c. Vase fragments d. Plate fragments",
+            "9. Mobile phone photo shows who was designated in Joe's father's will to inherit the Joe's business? a. Senior Qiao, Junior Qiao, Sister Qiao, Private Qiao, Mother Qiao",
+            "Who is the general manager of HE Beauty Entertainment Company mentioned in the diary? a. Joe's father, B. Ghost's senior sister's father, C. Gull's father, D. He's infatuated father",
+            "What information is included in the student ID card found on the 8th floor rooftop? a. Summer Sunny Day, Class of 2013, Department of Chemistry b. Summer Sunny Day, Class of 2013, Department of Photography c. Summer Sunny Day, Class of 2014, Department of Photography d. Summer Sunny Day, Class of 2013, Department of Medicine",
+            "12. Who has a similar face to the woman in the picture in a friend circle? a. Ghost Sister b. Summer Sunny Day c. Ou Sister d. Ouyang Fang",
+            "13. What does the enlarged selfie display in the award PPT? a. A man holding a water cup and covering his face in Xia Qingqing. B. A woman holding a book and smiling face in Xia Qingqing. C. A woman suspected to be a gull student holding a glass bottle and covering her face in Xia Qingqing. D. A woman crying in Xia Qingqing's phone",
+            "What categories are included in various art trophies? a. B. Painting, music, sports, mathematics b. Painting, music, calligraphy, composition c. Painting, dance, science, history d. Painting, music, biology, geography",
+            "What is the date of the WeChat chat record between Xia Qingqing and Gui Xuejie? a. February 13, 2014 b. March 13, 2014 c. April 13, 2014 d. May 13, 2014",
+            "How much does Senior Qiao propose to Xia Qingqing in the text message? a. 500000 b. 1 million c. 1.5 million d. 2 million",
+            "When will Xia Qingqing threaten to disclose everything in a text message? a. Before the end of March b. Before the end of April c. Before the end of May d. Before the end of June",
+            "18. Does the phone photo show Senior Qiao arguing with someone in the hallway? a. Summer sunny day b. Ghost senior sister c. Qiao illegitimate student d. Ou junior sister",
+            "What beverage is on the table in activity room 19.601? a. Coffee b. Tea c. Freshly squeezed fruit juice d. Mineral water",
+            "What is inside the medicine box on the floor of activity room 20.601? a. Vitamin A b. Vitamin B c. Vitamin C d. Vitamin D",
+            "What is the amount of compensation for breach of contract in the advertising endorsement contract? a. 1 million b. 1.5 million c. 2 million d. 2.5 million"
+        ],
+        "key_ans": [
+            "b",
+            "a",
+            "a",
+            "a",
+            "b",
+            "a",
+            "c",
+            "c",
+            "c",
+            "c",
+            "b",
+            "c",
+            "c",
+            "b",
+            "b",
+            "b",
+            "a",
+            "c",
+            "c",
+            "c",
+            "c"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "What WeChat Moments did Teacher Bai post in 2014? a. Announce promotion information b. Introduce his girlfriend Xiaohua c. Discuss an academic conference d. Share a travel experience",
+            "2. What did Xia Qingqing say in the chat record with Ghost Sister that she wanted to do? a. Plan a gathering b. Publicize what happened back then c. Start a new project d. End their friendship",
+            "What was the name of a girl who died in a forum post in 2014? a. Small flower b. Small blue c. Small red d. Small green",
+            "Has the juice on the table in activity room 4.601 been opened? a. Yes B. No",
+            "Which day was circled on the Taiwanese calendar in October 2013? a. 28 b. 29 c. 30 d. 31",
+            "What problems does Xia Qingqing's clinical diagnosis report show? a. She needs a routine physical examination. b. She has mild asthma. c. Her heart disease has worsened significantly and she needs to carry quick acting heart rescue pills at all times. d. She has long-term stomach pain",
+            "What is the first sentence in the diary of a sunny summer day? a. The weather is nice today. B. I hate today's lunch. C. I must have done too many wrong things. D. My mood is very complicated",
+            "Who is the signature on the autopsy report of Xia Qingqing? a. A Province M City Public Security Bureau b. B Province N City Forensic Department c. C Province P City Health Department d. D Province Q City Police Bureau",
+            "When is the time for the corpse examination report on a sunny summer day? a. March 2, 2015 b. December 25, 2015 c. April 3, 2016 d. November 11, 2016",
+            "10. Why didn't Mr. Bai come on the day of the incident? a. Teacher Bai's PowerPoint presentation was delayed. B. Teacher Bai's meeting was delayed. C. Teacher Bai was sick. D. Teacher Bai's traffic was congested",
+            "What is the hometown of Xia Qingqing? a. Han b. Mongolian c. Hui d. Manchu",
+            "12. What is the profession of summer sunny days? a. Chemistry b. Physics c. Photography d. Biology",
+            "What is the ethnicity of the person who made the will in Senior Qiao's space? a. Han nationality b. Tibetan nationality c. Uyghur nationality d. Miao nationality",
+            "What is the QQ number displayed on the registration form of Ou Xuemei in Teacher Bai's space? a. 987654321 b. 123456789 c. 111222333 d. 555666777",
+            "Which bank sent her the text message for the transfer record found in the summer sunny space? a. Industrial and Commercial Bank of China b. Agricultural Bank of China c. Bank of China d. Construction Bank",
+            "16. Who sent the green part of the text message found in Senior Qiao's space? a. Xia Qingqing b. Ghost Sister c. Senior Qiao d. Teacher Bai",
+            "Where is the white powder on the juice found in the activity room located in the juice cup? a. Cup bottom b. Cup wall c. Cup lid d. Cup handle"
+        ],
+        "key_ans": [
+            "b",
+            "b",
+            "a",
+            "b",
+            "b",
+            "c",
+            "c",
+            "a",
+            "c",
+            "a",
+            "a",
+            "c",
+            "a",
+            "b",
+            "d",
+            "c",
+            "c"
+        ]
+    },
+    "ju_name": "XIAOHUA",
+    "task_nm": "The deceased was Xia Qingqing",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Ghost Sister",
+        "Ou Xuemei"
+    ],
+    "murder": "Teacher Bai",
+    "reason": "On February 1, 2014, Teacher Bai confessed his love to Xiaohua, and the two became a school couple after being together."
+}

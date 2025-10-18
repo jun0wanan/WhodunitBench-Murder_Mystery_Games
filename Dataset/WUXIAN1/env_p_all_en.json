@@ -1,0 +1,432 @@
+{
+    "key_clues_pool": {
+        "1-step": [
+            "The deceased drank the potion after 10:00 and died before 10:15.",
+            "Liu Qingqiu and Bai Jian don't remember the fourth weather anomaly",
+            "[Su Feng] I don't remember the third weather anomaly",
+            "I don't remember the second weather anomaly",
+            "In the testimony, Wang said that the butler was Ah Xu, who would believe that after the first weather anomaly, Ah Xu had a player behavior of covering his eyes and saying '800 standard soldiers run to the north slope'",
+            "Chutian can only be loaded into the game 1 minute before the second weather anomaly.",
+            "9: Half an hour after 30, Ah Xu was in the front courtyard living room"
+        ],
+        "2-step": [
+            "Ashu was loaded into the game 1 minute before the first weather anomaly.",
+            "Ashu didn't have time to go to the backyard and apply medicine, so the suspicion can be ruled out.",
+            "Su Feng was only loaded into the game after the third weather anomaly, so it can only be loaded 1 minute before the fourth weather anomaly.",
+            "The game 'Fang is North' was only loaded after the second weather anomaly, so it can only be loaded 1 minute before the third weather anomaly.",
+            "Liu Qingqiu and Bai Jian were only loaded into the game after the fourth weather anomaly, that is, Liu Qingqiu and Bai Jian were loaded into the game 1 minute before they felt unwell."
+        ],
+        "白笺": [
+            "Bai Jian is not in the kitchen from 9:30 to 10:00, which should be the time when the killer drugged him.",
+            "It takes half a quarter of an hour to walk from the backyard to the front yard"
+        ],
+        "苏风": [
+            "9: At 45 o'clock, Ashi was in the front yard",
+            "9: After 45, when Chu Tian came back from the backyard, he pointed to him who was there at the time and had time to medicate"
+        ],
+        "方是北": [
+            "10: At 00:00, Ashi received Fang Shibei in the front yard"
+        ]
+    },
+    "role-q": {},
+    "public_clue": "The new reasoning puzzle VR game \"Infinite Investigation Bureau\" developed by Xinfeng Technology has officially started internal testing and is now open for registration to the whole society. Players who pass the layers of dungeon tests in the beta and become the ultimate winner will receive huge bonuses. You are the lucky ones who have been selected among thousands of applicants and will begin your gaming journey today.",
+    "key_clues_questions": [
+        {
+            "q": "After what time did the deceased drink the potion? a. 9:55 b. 10:00 c. 10:05 d. 10:10",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "When did the deceased die before? a. 10:10 b. 10:15 c. 10:20 d. 10:25",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Which character doesn't remember the 4th weather anomaly? a. Liu Qingqiu and Fang are from the north b. Bai Jian and Su Feng c. Su Feng and Liu Qingqiu d. Liu Qingqiu and Bai Jian",
+            "ans": "d",
+            "source": "p-1"
+        },
+        {
+            "q": "Which character doesn't remember the third weather anomaly? a. Su Feng b. Fang is North c. Liu Qingqiu d. Chu Tian",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Which character doesn't remember the second weather anomaly? a. Su Feng b. Fang is from the north c. Bai Jian d. Chu Tian",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What behavior is butler Ashu believed to have done after the first weather anomaly? a. Cover your eyes and say '800 soldiers are heading south'. B. Cover your eyes and say '800 soldiers are heading north'. C. Shout loudly and say '800 soldiers are heading south'. D. Observe the sky",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "How many weather anomalies did Chutian load into the game one minute before? a. First b. Second c. Third d. Fourth",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "9: Where was Ashi when he was halfway through 30? a. Front reception room b. Backyard c. His room d. Garden",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "How many weather anomalies did Ashu load into the game one minute before? a. First b. Second c. Third d. Fourth",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "Why can Ah Xu rule out the possibility of being a suspect in drug abuse? a. He was not present during the weather anomaly. b. He didn't have time to go to the backyard to take the medicine. c. He didn't have the medicine. d. He was arrested at the time",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "How many weather anomalies did Su Feng load into the game after? a. First b. Second c. Third d. Fourth",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "How many weather anomalies did Fang Shibei load into the game after? a. First b. Second c. Third d. Fourth",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "How many weather anomalies did Liu Qingqiu and Bai Jian load into the game after? a. First b. Second c. Third d. Fourth",
+            "ans": "d",
+            "source": "p-2"
+        },
+        {
+            "q": "At which time is Bai Jian not in the kitchen? a. 9:00~9:30 b. 9:30~10:00 c. 10:00~10:30 d. 10:30~11:00",
+            "ans": "b",
+            "source": "b"
+        },
+        {
+            "q": "When should the killer administer the medicine at this time? a. 9:00~9:30 b. 10:00~10:30 c. 9:30~10:00 d. 10:30~11:00",
+            "ans": "c",
+            "source": "b"
+        },
+        {
+            "q": "How long does it take to walk from the backyard to the front yard? a. Fifteen minutes b. Half an hour c. Thirty minutes d. One hour",
+            "ans": "b",
+            "source": "b"
+        },
+        {
+            "q": "At 9:45, where was Ashi? a. Front yard b. Backyard c. Kitchen d. Reception room",
+            "ans": "a",
+            "source": "s"
+        },
+        {
+            "q": "9: Where did Chu Tian come back from after 45, implying that he had time to take the medicine before? a. Front yard b. Kitchen c. Backyard d. Reception room",
+            "ans": "c",
+            "source": "s"
+        },
+        {
+            "q": "At 10:00, where was Ashi doing? a. The reception party in the backyard is North B. The reception party in the front yard is North C. The reception party in the front yard is Su Feng D. The reception party in the backyard is Su Feng",
+            "ans": "b",
+            "source": "f"
+        }
+    ],
+    "role": [
+        {
+            "name": "Ashu",
+            "back": "Your name is Bai Xu, born in a small village near Jinyang City, along with other people in the village",
+            "r_q": [
+                {
+                    "q": "Who did Bai Xu play house with when he was a child? a. Neighbor's little girl b. His brother c. Village boy d. His sister",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Who did Bai Xu play house with when he was a child? a. Neighbor's little girl b. His brother c. Village boy d. His sister"
+            ],
+            "a": [
+                "a"
+            ]
+        },
+        {
+            "name": "White raft",
+            "back": "Your name is Bai Fu, born in a small village outside Jinyang City. You were born in the year of Jinyang University",
+            "r_q": [
+                {
+                    "q": "What is the name of Bai Fu's father? a. White picking b. White raft c. White Xu d. White Mountain",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is the name of Bai Fu's father? a. White picking b. White raft c. White Xu d. White Mountain"
+            ],
+            "a": [
+                "c"
+            ]
+        },
+        {
+            "name": "Liu Qingqiu",
+            "back": "Your name is Qing.",
+            "r_q": [
+                {
+                    "q": "What will 'Blue' leave for 'Qing' when 'Qing' can become a teacher? a. Weapons b. Waist tags c. Maps d. Letters",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What will 'Blue' leave for 'Qing' when 'Qing' can become a teacher? a. Weapons b. Waist tags c. Maps d. Letters"
+            ],
+            "a": [
+                "b"
+            ]
+        },
+        {
+            "name": "Fang is North",
+            "back": "Your name is Fang Shibei, the son of Fang Yishan, the magistrate of Jinyangcheng County,",
+            "r_q": [
+                {
+                    "q": "What is the position of Fang Yishan, the father of Fang Shibei? a. County Magistrate of Jinyang City b. County Magistrate of Xubin c. Chief Clerk d. Chief Clerk",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is the position of Fang Yishan, the father of Fang Shibei? a. County Magistrate of Jinyang City b. County Magistrate of Xubin c. Chief Clerk d. Chief Clerk"
+            ],
+            "a": [
+                "a"
+            ]
+        },
+        {
+            "name": "Chutian",
+            "back": "Your name is Chu Tian. You once had a close friend named Su Ye.",
+            "r_q": [
+                {
+                    "q": "Where was Yu originally sold into the city to be taken? a. Chu Mansion b. Qinglou c. Wangfu d. Temple",
+                    "ans": "b"
+                }
+            ],
+            "self": "Hello everyone, I am Chu Tian",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "Where was Yu originally sold into the city to be taken? a. Chu Mansion b. Qinglou c. Wangfu d. Temple"
+            ],
+            "a": [
+                "b"
+            ]
+        },
+        {
+            "name": "Su Feng",
+            "back": "You are Su Feng, who grew up in the Chu family of Jinyang City. Your adoptive father, Chu Tian, was a famous wealthy businessman in Jinyang.",
+            "r_q": [
+                {
+                    "q": "Who took Su Feng to be raised by the Chu government? a. Su Ye b. Chu Siyao c. Chu Tian d. Wang Shi",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Who took Su Feng to be raised by the Chu government? a. Su Ye b. Chu Siyao c. Chu Tian d. Wang Shi"
+            ],
+            "a": [
+                "c"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "After what time did the deceased drink the potion? a. 9:55 b. 10:00 c. 10:05 d. 10:10",
+            "When did the deceased die before? a. 10:10 b. 10:15 c. 10:20 d. 10:25",
+            "Which character doesn't remember the 4th weather anomaly? a. Liu Qingqiu and Fang are from the north b. Bai Jian and Su Feng c. Su Feng and Liu Qingqiu d. Liu Qingqiu and Bai Jian",
+            "Which character doesn't remember the third weather anomaly? a. Su Feng b. Fang is North c. Liu Qingqiu d. Chu Tian",
+            "Which character doesn't remember the second weather anomaly? a. Su Feng b. Fang is from the north c. Bai Jian d. Chu Tian",
+            "What behavior is butler Ashu believed to have done after the first weather anomaly? a. Cover your eyes and say '800 soldiers are heading south'. B. Cover your eyes and say '800 soldiers are heading north'. C. Shout loudly and say '800 soldiers are heading south'. D. Observe the sky",
+            "How many weather anomalies did Chutian load into the game one minute before? a. First b. Second c. Third d. Fourth",
+            "9: Where was Ashi when he was halfway through 30? a. Front reception room b. Backyard c. His room d. Garden",
+            "How many weather anomalies did Ashu load into the game one minute before? a. First b. Second c. Third d. Fourth",
+            "Why can Ah Xu rule out the possibility of being a suspect in drug abuse? a. He was not present during the weather anomaly. b. He didn't have time to go to the backyard to take the medicine. c. He didn't have the medicine. d. He was arrested at the time",
+            "How many weather anomalies did Su Feng load into the game after? a. First b. Second c. Third d. Fourth",
+            "How many weather anomalies did Fang Shibei load into the game after? a. First b. Second c. Third d. Fourth",
+            "How many weather anomalies did Liu Qingqiu and Bai Jian load into the game after? a. First b. Second c. Third d. Fourth",
+            "At which time is Bai Jian not in the kitchen? a. 9:00~9:30 b. 9:30~10:00 c. 10:00~10:30 d. 10:30~11:00",
+            "When should the killer administer the medicine at this time? a. 9:00~9:30 b. 10:00~10:30 c. 9:30~10:00 d. 10:30~11:00",
+            "How long does it take to walk from the backyard to the front yard? a. Fifteen minutes b. Half an hour c. Thirty minutes d. One hour",
+            "At 9:45, where was Ashi? a. Front yard b. Backyard c. Kitchen d. Reception room",
+            "9: Where did Chu Tian come back from after 45, implying that he had time to take the medicine before? a. Front yard b. Kitchen c. Backyard d. Reception room",
+            "At 10:00, where was Ashi doing? a. The reception party in the backyard is North B. The reception party in the front yard is North C. The reception party in the front yard is Su Feng D. The reception party in the backyard is Su Feng"
+        ],
+        "key_ans": [
+            "b",
+            "b",
+            "d",
+            "a",
+            "b",
+            "b",
+            "b",
+            "a",
+            "a",
+            "b",
+            "c",
+            "b",
+            "d",
+            "b",
+            "c",
+            "b",
+            "a",
+            "c",
+            "b"
+        ],
+        "key_sc": [
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "b",
+            "b",
+            "b",
+            "s",
+            "s",
+            "f"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "Who doesn't have a key to the herbal medicine warehouse in the master's house? a. Other members of the family b. Liu Guard c. Master d. Housekeeper",
+            "What state were Miss Er and Liu Daiwei found in? a. Argue b. hug c. talk d. take a walk",
+            "What reason did Wang say her daughter died today? a. Murdered b. Accidental c. Natural death d. Haunted",
+            "When did the third of the four weather anomalies mentioned by Wang occur? a. 7:45 b. 8:30 c. 10:30 d. 11:00",
+            "What was the butler's behavior after the first strange weather? a. Saying things like 'stupid', b. covering your eyes, c. moving away from the study, d. all behaviors of a and b",
+            "How many people in the herbal medicine warehouse have keys? a. Only the master b. Only the Liu guard c. Everyone in the house except for the Liu guard d. Only the butler and the master",
+            "How many times has the situation where Miss Er and Liu Daiwei were found on the ground been discovered by the Yu family? a. Once b. Two times c. Three times d. Four times",
+            "How many times did the strange weather phenomena mentioned by Wang occur? a. Once b. Two times c. Three times d. Four times",
+            "At what time did the second strange weather phenomenon mentioned by Wang occur? a. 7:45 b. 8:30 c. 10:30 d. 11:00",
+            "How many times did Wang witness the butler's abnormal behavior on the day of Zhongyuan Festival? a. Once b. Two times c. Three times d. Four times",
+            "What was the cause of Chu Siyao's death? a. Died from knife wounds, b. died from poisoning, c. accidentally fell, d. died naturally",
+            "What are the two toxic medicinal herbs mentioned in pharmacological books? a. Asarum and Resveratrol b. Ginseng and Astragalus c. Goji Berry and Angelica sinensis d. Dandelion and Licorice",
+            "What are the toxic medicinal herbs in kitchen Chinese medicine juice residue? a. Resveratrol and Asarum b. Ginseng and Astragalus c. Goji Berry and Angelica D. Dandelion and Licorice",
+            "When was the approximate time of Chu Siyao's death? a. 7:45 b. 8:30 c. 10:00 to 10:15 d. 11:00",
+            "What was found in Chu Siyao's room? a. Empty medicine bowl b. Full medicine bowl c. Books d. Diary",
+            "What was the cause of Chu Siyao's death? a. Died from knife wounds b. died naturally c. died from poisoning d. accidentally fell",
+            "What are the two toxic medicinal herbs mentioned in pharmacological books? a. Ginseng and Astragalus membranaceus b. Asarum and Resveratrol c. Goji berries and Angelica sinensis d. Dandelion and licorice",
+            "What are the toxic medicinal herbs in kitchen Chinese medicine juice residue? a. Goji berries and Angelica sinensis b. Dandelion and licorice c. Resveratrol and Asarum D. Ginseng and Astragalus membranaceus",
+            "When was the approximate time of Chu Siyao's death? a. 7:45 b. 8:30 c. 11:00 d. 10:00 to 10:15",
+            "What was found in Chu Siyao's room? a. Full medicine bowl b. Diary c. Empty medicine bowl d. Books",
+            "In the game, under what quantity relationship will the NPCs loaded by the player produce weather anomalies within a radius of 3 kilometers? a. There are more loaded NPCs than unloaded NPCs. b. There are fewer loaded NPCs than unloaded NPCs. c. The loaded NPCs are equal to the unloaded NPCs. d. There are more loaded NPCs than or equal to the unloaded NPCs",
+            "Will weather anomalies generated in the game be witnessed by other NPCs within the same range? a. Yes b. No c. Only at night d. Only witnessed by specific NPCs",
+            "What are the conditions under which the loaded NPC feels unwell? a. There are other players who have not loaded the game. b. The number of loaded NPCs is greater than the number of unloaded NPCs. c. The number of loaded NPCs is less than the number of unloaded NPCs. d. No conditions, randomly occurring",
+            "Is the physical discomfort of NPCs in the game necessarily caused by the player's loading? a. Yes b. No c. Only under specific conditions d. Only when NPC is not loaded",
+            "How would the game react if the number of loaded NPCs equals the number of unloaded NPCs? a. B. Weather anomalies occur. b. All NPCs feel unwell. c. No special reactions. d. The identities of all murderers are exposed",
+            "What character will each player randomly load in the game? a. Murderer or deceased b. Investigator or or deceased c. NPC or deceased d. NPC or murderer",
+            "How long does the weather anomaly generated in the game last? a. 1 minute b. 2 minutes c. 3 minutes d. 4 minutes",
+            "How long will the NPC state of discomfort start after loading? a. Immediately b. 1 minute later c. 2 minutes later d. 3 minutes later",
+            "How are weather anomalies triggered in the game? a. Specific player actions b. Interaction between NPCs c. Relationship between the number of loaded NPCs d. Random events",
+            "What is the presence of the murderer and investigator in the same instance in the game? a. Maybe only the murderer b. Maybe only the investigator c. Both the murderer and the investigator will definitely exist d. Both the murderer and the investigator may not exist",
+            "What will happen in the game if the number of loaded NPCs is less than or equal to the number of unloaded NPCs? a. NPC body discomfort b. Weather anomalies c. No impact d. Murderer identity exposed",
+            "What is the task of an investigator? a. Kill the 'deceased' b. Find the 'culprit' and restore the truth of the event c. Hide your identity d. Load all NPCs",
+            "If a player loads the game and the number of loaded NPCs in the instance is greater than the number of unloaded NPCs, what will happen to the loaded NPCs? a. Feeling unwell b. Weather anomalies c. Acquiring special abilities d. No response at all",
+            "What is the mission of the 'killer' in the game? a. Identify and identify the 'investigator' b. Kill the 'deceased' and hide their identity c. Load all NPCs d. Observe the actions of other players",
+            "How do players handle NPC memory after loading the game? a. Obtaining complete and coherent memory b. Obtaining fragmented memory, which may be missing c. Not acquiring any memory d. Automatically completing missing memories",
+            "What happens if an NPC that is not loaded by the player kills the 'dead' in the game? a. This NPC will be ignored. b. The NPC will definitely be loaded by the player and obtain the identity of 'killer'. c. The NPC will be changed to 'investigator'. d. The NPC will be automatically removed from the game",
+            "How does the NPC's movement change after the player loads it? a. Continue to act according to NPC settings. b. Act completely according to the player's will. c. Act randomly. d. No longer active",
+            "How is it considered if the 'killer' is not the only one with the highest ticket during game settlement? a. The murderer successfully escaped. b. The murderer was discovered. c. Re vote. d. The game ends immediately",
+            "What kind of point changes will investigators receive if they vote correctly for the 'killer'? a. Integral+1 b. Integral unchanged c. Integral+3 d. Integral -1",
+            "If the killer fails to escape, how will the points change? a. Integral+3 b. Integral+0 c. Integral -1 d. Integral+1",
+            "If the 'killer' fails to complete the task of killing the 'deceased', how will his points change? a. Integral+1 b. Integral unchanged c. Integral -1 d. Integral+3",
+            "What are the characteristics of players' 'game loading questions' in each instance of the game? a. Completely identical b. Completely different c. Randomly assigned d. Selected by player",
+            "How to adjust the game flow rate for all players in the game? a. Adjust according to the player's wishes b. to ensure that the plot progress of each player is completed as soon as possible c. keep constant d. adjust according to the game time",
+            "If the 'killer' fails to escape, what reward will be given to the 'investigator' who throws out the 'killer'? a. Extra points+1 b. Extra points+3 c. No extra points d. Extra points+2"
+        ],
+        "key_ans": [
+            "b",
+            "b",
+            "d",
+            "c",
+            "d",
+            "c",
+            "a",
+            "d",
+            "b",
+            "a",
+            "b",
+            "a",
+            "a",
+            "c",
+            "a",
+            "c",
+            "b",
+            "c",
+            "d",
+            "c",
+            "b",
+            "a",
+            "b",
+            "b",
+            "a",
+            "c",
+            "d",
+            "b",
+            "c",
+            "c",
+            "b",
+            "b",
+            "a",
+            "b",
+            "b",
+            "b",
+            "b",
+            "a",
+            "a",
+            "b",
+            "c",
+            "b",
+            "b",
+            "a"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "What buildings are on both sides of the kitchen in the Chu Mansion floor plan? a. Medicinal herb storage room and maid's room b. Master and Madam's main room c. Reception room and butler's room d. Lower servant's room and Miss's room",
+            "What is the middle of the main room and the side room of the second wife in the Chu Mansion floor plan? a. B. Kitchen c. Herbal Medicine Warehouse d. Inner Courtyard",
+            "Who are the rooms on both sides of the inner courtyard in the Chu Mansion floor plan? a. Master and Madam's main room b. Butler's room and reception room c. Miss's room and Miss's room d. Servant's room and maid's room",
+            "What rooms are there in the front yard of the Chu Mansion floor plan? a. Kitchen and herb storage room b. Housekeeper's room and servant's room c. Reception room, butler's room and servant's room d. Inner courtyard and backyard",
+            "How to enter the inner courtyard from the front courtyard in the Chu Mansion floor plan? a. Through the main entrance b. Through the second entrance c. Through the rear entrance d. Through the hallway",
+            "How to enter the backyard from the inner courtyard in the Chu Mansion floor plan? a. Through the kitchen b. Through the maid's room c. Through the hall d. Through the medicinal herb storage room",
+            "What are the two sides of the hall in the Chu Prefecture floor plan? a. Medicinal herb storage room and maid's room b. Miss's room and Second Miss's room c. Reception room and butler's room d. Master and Madam's main room and Second Madam's side room",
+            "How many courtyards are divided in the Chu Prefecture floor plan? a. Front, inner, and backyard b. Front, middle, and backyard c. Front gate, front, and inner courtyard d. Inner, middle, and backyard",
+            "What do you see on the left side as soon as you enter the gate in the Chu Mansion floor plan? a. Reception room b. Master and Madam's main room c. Servant's room d. Housekeeper's room",
+            "In the Chu Mansion floor plan, which courtyard is the Miss's room located in? a. Front yard b. Inner yard c. Backyard d. Middle yard"
+        ],
+        "key_ans": [
+            "a",
+            "a",
+            "c",
+            "c",
+            "b",
+            "c",
+            "d",
+            "a",
+            "c",
+            "b"
+        ]
+    },
+    "ju_name": "WUXIAN1",
+    "task_nm": "Please complete the following tasks using all the clues at hand",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Bai Jian",
+        "Su Feng",
+        "Fang is North",
+        "Chutian"
+    ],
+    "murder": "Chu Tian",
+    "reason": "Motive for committing the crime:"
+}

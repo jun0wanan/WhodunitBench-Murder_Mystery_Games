@@ -1,0 +1,2180 @@
+{
+    "key_clues_pool": {
+        "p": [
+            "405 Corridor - On the silk floor in front of the 405 guest room door, a small amount of blood was left, with traces of being wiped clean",
+            "The only scar on the body is located at the back of the head",
+            "A blood soaked cloth was found on the right hand of the corpse, apparently used to wipe the bloodstains from the wound",
+            "There are many folds on the back of the corpse's clothes, as well as some silk fabric residue",
+            "Tea Blossom's last words: At ten o'clock in the evening, after everyone dispersed, I arrived alone at the Sunday service. At eleven o'clock in the evening, after leaving Zhou Han, I went back to the fourth floor through the stairs and arrived at the door of Room 405. I opened the door and suddenly, a figure flashed out from behind the room door and hit me hard. I couldn't dodge at all and fell backwards",
+            "Incomplete inscription: Abandoned women who kill each other, your names will be recorded in the annals of the judgment chamber. The sleeping gods open their eyes and stare at the impending sin. The sacrificed ones cannot sleep. I will make her forget the pain and disaster. I see someone walking down a dead end, the vast sea of books is exhausted, and they stumble on the ground, shattering their skulls",
+            "A piece of paper was found in the mouth of the corpse, which could not be identified as the handwriting of the deceased. It read: \"If you have seen this paper, I may have already died. Here is my plan for Tea Blossom: as long as it is past midnight, the elevator on the odd numbered floor will be unusable. I will block the metal door leading to the staircase in the corridor area of the library, and Rose will be trapped between the elevator and the library, becoming a whole in a jar. I only need to hide in the library and wait for the opportunity to kill her. If I am unfortunately killed in reverse, this paper can also help you identify the murderer who killed me",
+            "According to the Witch's regulations, every morning at 10 o'clock is the agreed prayer time, and everyone should gather in Room 20 for one hour of prayer every day. After breakfast, the camellia still disappeared without a trace. We suggested going to the fourth floor together to confirm if she had not woken up or if the worst had already happened. Everyone took the elevator to the fourth floor and gathered around the door of Room 405. However, no matter how many people knocked on the door, no one in the room responded. Waiting was not a solution. Perhaps Camellia had already left? Everyone continued walking towards the staircase on the fourth floor, but unexpectedly, they were blocked by the sliding door leading to the 403 library area. When they tried to turn the door handle, they found that after pressing it down a little, it felt like they were stuck and unable to turn.",
+            "When midnight passes, the odd numbered elevator will be unusable, and the metal door next to the 307 library will be blocked again",
+            "On the evening of Sunday at 10 o'clock, the tea jasmine enters the building through the stairwell: the iris and rose enter the third floor through the stairwell; the hyacinth and the other shore flower enter the fifth floor through the stairwell; Poppies enter the sixth floor from the stairwell",
+            "All corridors are decorated the same, and there is no house number on the door"
+        ],
+        "2-step": [
+            "It can be determined that the deceased died due to a backward fall.",
+            "The murderer dragged the body from the door of Room 405 to Room 403 after the death of the deceased",
+            "The note in the corpse's mouth was not written by the deceased himself",
+            "Blocking the metal door next to the fourth floor library has nothing to do with the note stating that 'White Rose will be trapped between the elevator and the library'.",
+            "On the third floor, there are only irises living in 305 and white roses living in 309"
+        ],
+        "3-step": [
+            "White Rose, who lives in Room 309, was \"trapped between the elevator and the library\" as the note stated. Through analyzing the contents of the note, it is not difficult to see that the main reason for the perpetrator transferring the body and forging the note was to blame Bai Qiangwei, who lives in Room 309, for the death of Camellia.",
+            "The real plan of the killer should be to transfer the body to the entrance of Room 307 and block the metal door on the third floor;"
+        ],
+        "4-step": [
+            "The murderer killed Cha Mihua on the fourth floor, but thought he had killed someone on the third floor!",
+            "The murderer did not know that he had killed someone on the 4th floor at that time"
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            65
+        ]
+    },
+    "public_clue": "\n",
+    "key_clues_questions": [
+        {
+            "q": "Where were traces of blood stains wiped off found? a. 403 Library Front b. 405 Guest Room Front c. 307 Library Front d. Service Space Front",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Where is the only scar on the corpse located? a. Forehead b. Chest c. Back of head d. Abdomen",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the purpose of the blood soaked cloth found on the right hand of the corpse? a. Clean the floor b. Tie injuries c. Wipe off bloodstains from wounds d. Hide weapons",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What do the wrinkles and silk fabric residue on the back of the corpse clothes suggest? a. Dragged b. Fighting with people c. Slipping on oneself d. Tripping over objects",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "How long did Camellia stay on Sunday? a. 1 hour b. 2 hours c. 1.5 hours d. 2.5 hours",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the 'sleeping deity' mentioned in the incomplete inscription doing? a. Staring at sin b. Sleeping c. Issuing warnings d. Praying for the sacrificial offering",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "According to Camellia's plan, which floors' elevators will be unavailable after midnight? a. Single number layer b. Even number layer c. All layers d. Only the top layer",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Who is the expected target trapped between the elevator and the library? a. Iris b. Rose c. Hyacinth d. Other shore flower",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Why did everyone come to the door of Room 405? a. Participate in prayer b. Breakfast meeting c. Check the condition of camellias d. Meeting for discussion",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Why can't everyone enter through the sliding door in the 403 library area? a. Locked b. blocked c. broken d. occupied by someone",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Which floor did Camellia enter from the stairwell at night? a. Third floor b. Fourth floor c. Fifth floor d. Sixth floor",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "According to the inscription, what can the sacrificed person do? a. Sleep b. Escape c. Sleep d. Crying",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Who is the plan related to the prophecy of \"taking a dead end\" mentioned in the inscription? a. Camellia b. Rose c. Iris d. Papaver",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Where should everyone gather for prayer during prayer time? a. 20 worship rooms b. 405 guest rooms c. 403 library d. worship space",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "According to Cha Mihua's last words, how did she return to the fourth floor? a. Taking the elevator b. Climbing stairs c. Using a secret passage d. Being assisted by someone",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Where is Camellia expected to hide in the plan mentioned in the note in the corpse's mouth? a. 403 Library b. Weekday c. 307 Library d. 405 Guest Room",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What does it mean that all corridors have the same decoration? a. Unable to find exit b. unable to identify direction c. all rooms are the same d. unable to identify location by house number",
+            "ans": "d",
+            "source": "p-1"
+        },
+        {
+            "q": "According to the description of the situation, who is most likely to be the murderer? a. Iris b. Rose c. Hyacinth d. Poppy",
+            "ans": "Based on the provided information, it cannot be determined and further analysis is needed",
+            "source": "p-1"
+        },
+        {
+            "q": "Where is the most likely source of the silk fabric residue on the back of the corpse clothes? a. Captured by the murderer b. slid over the silk floor c. came into contact with silk sheets d. rubbed against other silk clothing",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What was the cause of death of the deceased? a. Stabbed b. Poisoned c. Head injury d. Falling backwards resulting in death",
+            "ans": "d",
+            "source": "p-2"
+        },
+        {
+            "q": "When did the perpetrator move the body from the entrance of Room 405? a. Before death b. Immediately after death c. After a period of time d. The body has not been moved",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "Who wrote the note in the corpse's mouth? a. The victim himself b. the murderer c. another witness d. cannot be determined",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the purpose of the metal door next to the fourth floor library being blocked? a. Trapped White Rose b. prevented anyone from entering c. unrelated to the description on the note d. protected the scene from destruction",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "On the third floor, which two residents' locations are known? a. Iris and self rose b. Iris and white rose c. Self rose and hyacinth d. Hyacinth and shore flower",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "According to new information, where is the most likely location where the deceased fell and died? a. B. In front of the door of room 405, c. In the library room 403, d. In the corridor leading to the stairs",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the most likely purpose of the killer moving the body? a. Mistakenly believing that the body still has life b. Attempting to conceal the cause of death c. Confusing the direction of the investigation d. Creating a fake crime scene",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "Who is most likely to be the true author of the note? a. Camellia b. Rose c. White Rose d. Murderer",
+            "ans": "d",
+            "source": "p-2"
+        },
+        {
+            "q": "What does blocking the metal door next to the fourth floor library mean? a. It's to execute the plan on the note. b. Attempting to prevent people from discovering the body. c. Irrelevant behavior. d. To confuse investigators",
+            "ans": "d",
+            "source": "p-2"
+        },
+        {
+            "q": "What are the residential locations of Iris and Rose on the third floor? a. 305 and 307 b. 305 and 309 c. 307 and 309 d. 301 and 305",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the actual impact of the metal door next to the fourth floor library being blocked? a. Blocked everyone from entering the library b. unrelated to the intended purpose c. prevented the white rose from escaping d. restricted people's movement range",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "At which time period is the murderer most likely to move the body? a. After the tea flowers leave the worship time, b. after the prayer time ends, c. after midnight, d. on the night before they are discovered",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the relationship between the note in the body's mouth and the actual situation? a. Described the real plan b. Was intended to mislead the investigation c. Recorded the deceased's last wishes d. Murderer's prank",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "What does the information about blocking the door and the note indicate? a. The killer has a well thought out plan. b. The plan in the note was not actually implemented. c. Someone attempted to help the deceased. d. There is an unknown conspirator",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "What impact does the act of moving a corpse have on the investigation? a. Increased the difficulty of finding the murderer b. No impact c. Accelerated the investigation progress d. Makes the investigation more focused",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "What impact does the method of death of the deceased have on the difficulty of identifying the perpetrator? a. Increased difficulty b. Reduced difficulty c. No impact d. Make the investigation direction more clear",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the consistency between the content of the note and the actual situation of the crime? a. Completely consistent b. There are some discrepancies c. Completely inconsistent d. There is too little information to determine",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "According to the new information, who is most likely to have killed the deceased? a. Iris b. White Rose c. Unknown Third Party d. Victims in their own plan",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the real intention behind blocking the door? a. Implement the plan on the note b. Protect someone from harm c. Confuse investigators d. Prevent the body from being discovered early",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "What impact does the actions of Iris and White Rose on the third floor have on the case? a. Key clues b. irrelevant c. provide important temporal information d. display potential motivations",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "Who is staying in Room 309? a. Iris b. Rose c. White Rose d. Camellia",
+            "ans": "c",
+            "source": "p-3"
+        },
+        {
+            "q": "What is the main reason for the killer? a. Wrong belief that the deceased still has life. b. Attempting to conceal the cause of death. c. Blaming the death of Camellia sinensis onto White Rose. d. Confusing the investigation direction of the case",
+            "ans": "c",
+            "source": "p-3"
+        },
+        {
+            "q": "What is the real plan of the murderer? a. Transfer the body to the entrance of Room 405. b. Transfer the body to the entrance of Room 403. c. Transfer the body to the entrance of Room 307. d. Keep the body in its original position",
+            "ans": "c",
+            "source": "p-3"
+        },
+        {
+            "q": "Why did the murderer block the metal door? a. Protecting the scene from destruction b. Preventing anyone from approaching c. Trapping White Rose d. Confusing investigators",
+            "ans": "d",
+            "source": "p-3"
+        },
+        {
+            "q": "Where is White Rose trapped? a. Between Room 405 and Library 403, b. between the elevator and the library, c. between the stairs and the library, d. in one's own room",
+            "ans": "b",
+            "source": "p-3"
+        },
+        {
+            "q": "What does the content of the note reveal? a. The deceased's last wishes b. Misguidance by the murderer c. The purpose of the murderer's framing d. New directions for investigation",
+            "ans": "c",
+            "source": "p-3"
+        },
+        {
+            "q": "What does the accommodation location of White Rose mean for the investigation of the case? a. Provide irrelevant information b. Key clues c. Display potential motives d. Evidence confirming the identity of the perpetrator",
+            "ans": "b",
+            "source": "p-3"
+        },
+        {
+            "q": "What is the main reason for the killer moving the body to a specific location? a. Blurring the truth of the case b. Paving the way for one's own escape plan c. Blaming specific individuals for the crime d. Hiding the true cause of death",
+            "ans": "c",
+            "source": "p-3"
+        },
+        {
+            "q": "Which target is associated with blocking the metal door? a. Creating misunderstandings b. Restricting the actions of specific individuals c. Destroying the original state of the crime scene d. Hiding the true escape route",
+            "ans": "a",
+            "source": "p-3"
+        },
+        {
+            "q": "Why does the murderer want to blame Bai Rose? a. Personal grudges b. Randomly selected targets c. Description in the note d. Detailed plan and layout",
+            "ans": "d",
+            "source": "p-3"
+        },
+        {
+            "q": "What is the ultimate goal of the murderer? a. Hidden identity b. Confusing the public c. Implementing complex revenge plans d. Shifting attention to White Rose",
+            "ans": "d",
+            "source": "p-3"
+        },
+        {
+            "q": "What is the reason for the inconsistency between the note and the actual action? a. The note is misleading. b. The plan behind the note failed. c. The killer changed the plan. d. Unknown external interference",
+            "ans": "c",
+            "source": "p-3"
+        },
+        {
+            "q": "What is the key step in the killer's plan? a. Leave a note b. Transfer the body c. Block the metal door d. Falsify evidence",
+            "ans": "b",
+            "source": "p-3"
+        },
+        {
+            "q": "What is the purpose of blocking the door in the case? a. Create escape routes b. Confuse investigators c. Implement complex plans d. Prevent being tracked",
+            "ans": "b",
+            "source": "p-3"
+        },
+        {
+            "q": "According to new evidence, who is most likely to be the murderer? a. Iris b. self rose c. white rose d. an unknown third party",
+            "ans": "d",
+            "source": "p-3"
+        },
+        {
+            "q": "What should be the focus of the case investigation? a. Confirm the time of death of the deceased b. Analyze the content of the note c. Investigate the activities of personnel between floors d. Determine the true target of the perpetrator",
+            "ans": "d",
+            "source": "p-3"
+        },
+        {
+            "q": "What is the difference between the plan on the note and the actual event that happened? a. The plan and event are exactly the same. b. There are slight differences. c. There are significant differences. d. It's completely two sets of plans",
+            "ans": "c",
+            "source": "p-3"
+        },
+        {
+            "q": "What is the purpose of the murderer forging the note? a. Pure misleading b. Determining the identity of the deceased c. Creating false criminal motives d. Blaming Bai Rose",
+            "ans": "d",
+            "source": "p-3"
+        },
+        {
+            "q": "What is the key evidence of the case? a. The location of the body b. The content of the note c. The fact that the metal door was blocked d. The real plan of the killer",
+            "ans": "d",
+            "source": "p-3"
+        },
+        {
+            "q": "What is the significance of White Rose's role in the case? a. The accomplice of the murderer b. Wrong suspect c. Key witness d. True victim",
+            "ans": "b",
+            "source": "p-3"
+        },
+        {
+            "q": "On which floor did the murderer mistakenly believe that he had killed Camellia? a. 2nd floor b. 3rd floor c. 4th floor d. 5th floor",
+            "ans": "b",
+            "source": "p-4"
+        },
+        {
+            "q": "On which floor did the murderer actually kill Camellia? a. 2nd floor b. 3rd floor c. 4th floor d. 5th floor",
+            "ans": "c",
+            "source": "p-4"
+        },
+        {
+            "q": "What does the perpetrator's misunderstanding of their floor mean for the investigation of the case? a. No impact b. Confused the real crime scene c. Provided key clues for investigation d. Showed that the perpetrator carefully planned the crime",
+            "ans": "b",
+            "source": "p-4"
+        },
+        {
+            "q": "What could be the consequences of the murderer's misunderstanding? a. Providing an alibi for oneself incorrectly b. Leaving criminal traces on the wrong floor c. Pointing to the wrong suspect d. All of the above answers",
+            "ans": "d",
+            "source": "p-4"
+        },
+        {
+            "q": "How can this misunderstanding help resolve the case? a. Provided logical errors for the perpetrator b. revealed their unfamiliarity with the building layout c. pointed out possible escape routes for the perpetrator d. increased psychological pressure on the perpetrator, which may have prompted them to make mistakes",
+            "ans": "b",
+            "source": "p-4"
+        }
+    ],
+    "role": [
+        {
+            "name": "White Rose",
+            "back": "\n趁人不注意，你迅速偷看了一眼手中的显示面板，上面显示着:“月曜日下午十二点三十分，白蔷薇个人任务，猎物特征“黑色”，实时积分:0\n你注意到自己的胸前，有一朵通过虚拟投影显示的白色蔷薇花。\n你握紧了法杖，不管你去哪里，都会随身携带它，斜眼看了看周围的女人，发现所有女人胸前似乎都有一朵花，但你却有些看不清那些花的品种与颜色，你决定一会儿再确认一下，想必自己的猎物胸前佩戴的花，应该就是黑色吧。\n气氛依旧保持着诡异的安静，直到一个慵懒女性的声音在你们耳边响起。声音不是来自身边的人，而是从房间里的一幅画像中传来，画中的女人身穿华丽的黑色礼服，头戴红色玫瑰花状发饰，一双猩红的眼睛隐于金色的头发之后..女人的语气慢条斯理，却令人不容人置疑。\n“吾乃权力与审判的魔女，你们的女王，贝莉朵!\n在一个隐藏于现实视野之外的幻想世界中，有一个名为静牢城的地方，它因依山而建而被众人称为山之城。这里居住的女性，被赋予了与生俱来的异能，她们被尊称为魔女，是这座城市的守护者和统治者。作为魔女中的最高荣誉，每十年便会选出一位新的“贝莉朵”作为女王，而成为贝莉朵的过程充满了残酷与挑战，只有通过了严苛的试炼并在“魔女集会”中胜出的人，才能够获得这一称号。\n魔女内部存在着两大派系：传承派和利己派。传承派主张将异能传授给他人，而利己派则认为每个魔女应依赖自身的天赋生存。这两大派系的对立已经持续了百年。今年的“魔女集会”流程的变化，使得每个派系都必须通过内部竞选来决定代表，这最终的较量将可能结束长久的分歧。\n你，原本是传承派的一员，但因为失去了自己的学生并深陷于悲痛之中，被传承派所抛弃。为了证明自己的能力，你决定伪装成利己派的魔女，参与这次的选拔。你来到了专为“魔女集会”搭建的“魔女屋”，这是一个你从未听闻过的地方。在这里，参与仪式的魔女们都会被赋予一个以花为名的代号，而你被称为“白蔷薇”。尽管你注意到了场中没有佩戴黑色花朵的女人，但花架上那些枯萎的黑玫瑰引起了你的好奇。\n\n你身处这座神秘的“魔女屋”中，随着罂粟花的提议，你和其他五位魔女开始了对这座建筑的初步探索。这栋未知的建筑布局复杂，走廊的设计让人难以判断方位，窗户的缺失更增添了几分神秘和不确定性。你们决定通过探索，来熟悉环境，并尽可能掌握先机。\n分头行动的决定让每位魔女都单独负责一层楼的探索，你被分配到了四楼。带着法杖，你艰难地爬上四楼，发现这里的布局与一楼截然不同——房间全都位于走廊的南侧，而北侧则是一面墙壁。这个发现让你意识到，“魔女屋”的每一层都可能有其独特的设计和谜题。\n四楼的走廊被八道金属推拉门分割成了九个区域，仅第一、第三、第五、第七和第九段区域的南侧设有房间。你给这些房间分别编号为401、403、405、407和409，其中包括三间客房、一间图书室和一间水房。客房门紧锁，你无法进入，但图书室和水房则对你敞开。整个四楼走廊上，和温室里一样，挂满了女王的画像，却没有任何一扇通向外界的窗户。\n这次独自的探索不仅让你更加熟悉了“魔女屋”的一部分布局，也加深了你对这座建筑背后隐藏的秘密和规则的好奇心。在规定的时间结束后，你和其他魔女会聚在温室，共享各自探索的信息，希望能从中找到成为下一任“贝莉朵”的关键。\n\n在你的探索过程中，你发现了一部有着特殊使用规则的电梯：该电梯零点至十二点只停靠双数楼层，十二点至二十四点只停靠单数楼层。这个发现让你意识到，“魔女屋”中不仅布局复杂，而且运作机制也颇为独特。正是下午时分，电梯不停靠你所在的双数楼层，这迫使你改变计划，继续步行探索。\n当你再次经过409客房时，一阵莫名的熟悉感触动了你，使你注意到了门上异常的白色粉末——脂粉。这个小小的发现让你心生疑窦，也许，你并不是这栋建筑中唯一的“猎人”。你的直觉告诉你，隐藏在409房间的可能是你们未曾见面的另一名竞争者。你的心中虽然涌现出种种猜测和计划，但你知道，首要任务是返回温室，与其他人汇报你的发现，然后再制定详细的行动计划。\n这段探索虽然疲惫且充满挑战，但你的发现无疑为这场竞争增加了更多的未知和刺激。你深知，每一次的发现和决策都可能直接影响到最终的结果。回到温室后，与其他魔女分享信息的同时，你也在思考下一步如何行动，以确保你能在这场残酷的竞争中存活下来，并且达成自己的目标。\n\n你们各自分享完探索的情报后，为了以防万一，从一楼到六楼完成了一次集体探索确认了每一层走廊的确都被八道金属推拉门分割成了九个区域，且每层楼的房间布局也都如大家所说，没有出入，而囊括了整个五楼与六楼的钟表房你们也亲自去观察了一番,也确认了有关巨大的西式表盘和悬空通道的描述基本无误。\n在此过程中，大家也分别确认了自己的客房位置，尾花住在305客房，你住在309客房，茶蘼花住在405客房，风信子住在501客房，彼岸花住在505客房，粟花住在601客房，并且大家的客房装饰都是同样简陋，并无差别。\n随着时间推移，大家都已逐渐筋疲力尽，大家约定好明早九点准时在餐厅集合，可在分别之前，一行六人突然意味深长地相互对视着，似乎大家都心知肚明，从现在开始每个人只能自求多福，没有人处在绝对安全的位置，当你瞄准猎物之时，你的背后一定还有另一双蠢蠢欲动的眼睛正在注视着你，残酷的猎杀游戏，已经拉开帷幕。\n晚上十点，你回到了自己的 309客房，当你靠近309的房门时，手中的显示屏便自动显示“已获得开门权限”，随后轻触房门，门便朝内自动打开，看来每一个人应该只有进出自己客房的专属权限，客房内的装饰相当简陋，两边墙上各挂有一幅女王的画像,另外两面墙上则挂着落地镜，正中间是一张圆形的床，房间内两个星对角线的角落是两个小房间，分别是左上角的厕所与右下角的浴室，客房里也没有窗户，看上去非常压抑，墙壁上绘有直直的线条花纹，由于房门并没有把手的缘故，关上门后，门便彷佛隐形了一般，融入了这些直线条的花纹中，只有当你再次走近房门时，手中的显示屏便会再次显示“已获得开门权限”\n你走到床前，床上摆放着一只泰迪熊玩偶，你将玩偶移到枕头旁，自己仰面躺在床上，望着天花板，没过多久，你清楚地听到从楼上不时传来窸塞窣窣的脚步声，这让你更加确定了楼上的 409 客房里一定有人，大概率就是你的猎物藏在里面，不过你隐隐感到一丝古怪，却又不知为何。你反复思考着该如何完成你的猎杀任务，对于丧失了异能客房，或者诱骗躲在里面的人出来。\n久久没有思考出方法的你，开始变得有些急躁，你在床上翻来覆去，突然!你听见从厕所里传来了一声细微的异响，你连忙走过去查看，发现马桶边的墙壁居然弹开了一道小门!你打开这个小门，里面是一个刚好可以容纳一人的小空间，小空间里贴着一张告示，上面写着，“嵌入式隐蔽传送舱，只存在于走廊两端尽头的房间中，传送通道仅连接相邻的上下两个房间，不会连通第三个房间，一个房间内最多只有一个通道，传送舱于每个火曜日的凌晨一点自动开放，每次仅开放十分钟。\n相邻的上下两个房间?难道说?你连忙进入传送舱，一阵抖动后，你能感觉到自己正在向上移动。也就几秒钟的功夫，门再次打开，出口在一间浴室里，你捡起一旁的花瓶，蹑手蹑脚地轻轻打开了浴室的门，你听到一丝酣睡的声音，借着显示屏微弱的光亮，你悄悄挪到了房间正中央的床前，果不其然，那个正在酣睡的女人胸前佩戴的正是一朵让你眼熟的黑色花朵!果然没错，这个传送舱恰好连接了你的房间与409的房间!\n你没有片刻犹豫，拿起花瓶直接对准这个女人的头部狠狠砸了下去，整个过程行云流水，那个女人甚至没有发出一声叫喊。\n就在这时，你突然听见从门口传来了一阵急速奔跑的声音，难道门口有人?是住在405的荼花吗?可自己已经没时间去确认门口的情况了，你甚至没有足够的时间来处理案发现场，为了避免十分钟后传送舱自动关闭，你将自己可能留下的所有痕迹小心拭后，便赶忙通过传送舱迅速回到了自己的客房。也算是幸运，你刚从传送舱里走出来，便听到“咔擦”一声，时间到了，传送舱的门已经关闭!你的显示屏突然亮了起来，你连忙查看，发现显示屏推送了一条阅后即焚的新消息，“白蔷薇第一次猎杀任务已完成猎物确认死亡。”还没等你缓过神来，紧接着你的实时积分也发生了改变，“实时积分:1分。”\n看来自己果然没有杀错人，你仔细盘算着，住在501的风信子与601的粟花可能也会发现这样的秘密传送通道，那么一旦409的尸体被人发现，住在309的自己，大概率会被锁定为杀害 409 房间女人的凶手，不过这也是没有办法的事情。你清楚其中的后果，在尸体被发现之后，自己只能更加小心行事了。\n一夜未眠的你，在早上八点就提前出门，你现在需要冷静，不能被其他人察觉出端倪，信步来到 305客房，你敲了敲房门，没多久，鸢尾花便从内打开了一条门，你注意到她在见到你时，眼神有些许恍惚，并没有第一时间表现出为你开门的意思，接着她快速瞥了一眼手中的显示屏，脸上浮现出疑惑的神情。你不禁思考着,她是在害怕我吗?为了避免误会，你连忙向她解释道“我平时都起得早，路过你客房，想确认下你起床了没有，你如果真这么害怕，那我先走就是了。”\n你正准备转身离去，鸢尾花才匆匆打开了门，向你解释说她只是还没睡醒，脑子有些迷糊，接着便直接走出客房与你同行。\n很快，你们两人通过楼梯间下到二楼，来到了209餐厅，为了不让鸢尾花察觉到你的异常，你刻意没再与她搭话，保持着一副无所谓的冷淡态度。快到九点时，风信子、彼岸花、罂粟花三人也一起来到了餐厅，唯独茶蘼花始终不见踪影。\n\n按照魔女的条例，每天早上十点都是约定的祷告时间，大家应该在207礼拜室集中，进行每天一小时的祷告。可用过早餐后，茶蘼花依旧不见踪影，大家提议，一起去四楼，确认一下她是不是还没有睡醒，还是说，最糟糕的情况已经发生了。\n众人乘坐电梯来到四楼，大家围聚在405客房门前，可无论众人如何拍打房门，房间内都没有人回应，这么干等着也不是办法，也许茶花已经出门了也说不定?众人继续向四楼楼梯间走去，可没想到，被通往403图书室区域的推拉门给堵住了，当大家尝试着转动门把手时，发现稍微按下去一点后，便像被卡住了一样，无法转动。\n罂粟花一脸不可思议地喃喃道:奇怪，走席上的金属门不是都没有锁吗，怎么会打不开呢?\n鸢尾花同样疑惑地说道:可是门把手确实无法转动!\n彼岸花不耐烦地挤到门前:打不开门，直接开不就行了。\n白蔷薇仔细检查了一下门把手:门把手看上去并没有被破坏的痕迹，既然打不开，没办法，只能撞开了。\n风信子点了点头:好!那咱们数个一二三，把门撞开吧! 这时，一个合成般的机械女声缓缓响起，“死者:荼花，尸体已被发现;死亡时间:月曜日晚上十一点零五分;死因:头骨破裂;请将尸体转移至五楼停尸间存放。”\n\n",
+            "r_q": [
+                {
+                    "q": "Which floors does the elevator stop at between midnight and noon in the Witch's House? a. Even numbered floors b. odd numbered floors c. all floors d. not in operation",
+                    "ans": "a"
+                },
+                {
+                    "q": "How many areas is the corridor on the fourth floor divided by several metal sliding doors? a. Seven regions b. Eight regions c. Nine regions d. Ten regions",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the abnormal substance found in room 409? a. Red pigment b. White powder c. Black ink d. Blue chalk",
+                    "ans": "b"
+                },
+                {
+                    "q": "What special facilities did White Rose discover during the exploration process? a. Hidden security door b. Hidden teleportation cabin c. Secret arsenal d. Hidden study room",
+                    "ans": "b"
+                },
+                {
+                    "q": "How long does the operation time of the teleportation cabin last? a. One hour per day b. Ten minutes per week c. Ten minutes per day d. One hour per week",
+                    "ans": "b"
+                },
+                {
+                    "q": "What item does White Rose use as a weapon? a. Glass cup b. Book c. Vase d. Light fixture",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which room was the deceased found? a. Room 405 b. Room 309 c. Room 409 d. Room 501",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the color of the flower worn on the deceased's chest? a. Red b. White c. Black d. Blue",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which two rooms are connected to the teleportation cabin? a. 309 and 409 b. 305 and 405 c. 501 and 601 d. 505 and 605",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Heart attack b. Skull rupture c. Poisoning d. Falling from a high place",
+                    "ans": "b"
+                },
+                {
+                    "q": "At which time of the day does the elevator only stop at odd numbered floors? a. Midnight to noon b. Morning to afternoon c. Noon to midnight d. Morning to evening",
+                    "ans": "c"
+                },
+                {
+                    "q": "What abnormal substances were discovered in the exploration of White Rose? a. Red pigment b. White powder c. Black ink d. Blue chalk",
+                    "ans": "b"
+                },
+                {
+                    "q": "What item did White Rose use to kill her prey? a. Staff b. Book c. Vase d. Glass cup",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which two rooms are connected to the channel of the teleportation cabin? a. 309 and 409 b. 309 and 501 c. 305 and 405 d. 501 and 601",
+                    "ans": "a"
+                },
+                {
+                    "q": "What information does White Rose's display screen show when approaching her own door? a. Locked target b. Obtained door opening permission c. System malfunction d. Warning signal",
+                    "ans": "b"
+                },
+                {
+                    "q": "When does the teleportation cabin automatically open? a. Every Monday at midnight b. Every Sunday at midnight c. Every Sunday at 1am d. The first day of each month",
+                    "ans": "c"
+                },
+                {
+                    "q": "How long does the teleportation cabin last for each opening? a. Five minutes b. Ten minutes c. Fifteen minutes d. Twenty minutes",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the real-time score for White Rose's first murder after discovering the body? a. 0 points b. 1 point c. 5 points d. 10 points",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the location where the deceased was found? a. Room b. Library c. Restaurant d. Toilet",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where should the body be transferred and stored? a. First floor lobby b. Basement c. Fifth floor morgue d. Roof",
+                    "ans": "c"
+                },
+                {
+                    "q": "What weapon did White Rose use in her first hunting mission? a. Staff b. Book c. Vase d. Glass cup",
+                    "ans": "c"
+                },
+                {
+                    "q": "What information does White Rose's display screen show when approaching the door? a. Locked target b. Obtained door opening permission c. System malfunction d. Warning signal",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which two rooms are connected to the teleportation cabin? a. 309 and 409 b. 305 and 405 c. 501 and 601 d. 505 and 605",
+                    "ans": "a"
+                },
+                {
+                    "q": "How long does the teleportation cabin last for each opening? a. Five minutes b. Ten minutes c. Fifteen minutes d. Twenty minutes",
+                    "ans": "b"
+                },
+                {
+                    "q": "What object hit the head of the deceased to death? a. Staff b. Book c. Vase d. Glass cup",
+                    "ans": "c"
+                },
+                {
+                    "q": "At which time of the day does the elevator only stop at odd numbered floors? a. Midnight to noon b. Morning to afternoon c. Noon to midnight d. Morning to evening",
+                    "ans": "c"
+                },
+                {
+                    "q": "What abnormal substances did White Rose discover during exploration? a. Red pigment b. White powder c. Black ink d. Blue chalk",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where should the body of the deceased be transferred and stored? a. First floor lobby b. Basement c. Fifth floor morgue d. Roof",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the room number for White Rose? a. 305 b. 309 c. 405 d. 501",
+                    "ans": "b"
+                },
+                {
+                    "q": "What decorations did White Rose find in the room? a. Teddy bear b. Vase c. Portrait d. Floor mirror",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which floors does the elevator stop at between midnight and noon in the Witch's House? a. Even numbered floors b. odd numbered floors c. all floors d. not in operation",
+                    "ans": "a"
+                },
+                {
+                    "q": "How many areas is the corridor on the fourth floor divided by several metal sliding doors? a. Seven regions b. Eight regions c. Nine regions d. Ten regions",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the abnormal substance found in room 409? a. Red pigment b. White powder c. Black ink d. Blue chalk",
+                    "ans": "b"
+                },
+                {
+                    "q": "At which time of the day does the elevator only stop at odd numbered floors? a. Midnight to noon b. Morning to afternoon c. Noon to midnight d. Morning to evening",
+                    "ans": "c"
+                },
+                {
+                    "q": "What abnormal substances did White Rose discover during exploration? a. Red pigment b. White powder c. Black ink d. Blue chalk",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the room number for White Rose? a. 305 b. 309 c. 405 d. 501",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which two rooms are connected to the teleportation cabin? a. 309 and 409 b. 305 and 405 c. 501 and 601 d. 505 and 605",
+                    "ans": "a"
+                },
+                {
+                    "q": "How long does the teleportation cabin last for each opening? a. Five minutes b. Ten minutes c. Fifteen minutes d. Twenty minutes",
+                    "ans": "b"
+                },
+                {
+                    "q": "What weapon did White Rose use in her first hunting mission? a. Staff b. Book c. Vase d. Glass cup",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where should the body be transferred and stored? a. First floor lobby b. Basement c. Fifth floor morgue d. Roof",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which day did Bai Rose's personal task take place? a. Monday b. Tuesday c. Wednesday d. Thursday",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the real-time starting point for White Rose's personal tasks? a. 0 points b. 1 point c. 5 points d. 10 points",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the color of the flower worn by the prey in the mission of White Rose? a. White b. Red c. Blue d. Black",
+                    "ans": "d"
+                },
+                {
+                    "q": "What are the operating rules for the elevator in the 'Witch's House'? a. All day non-stop. b. Only stops at even numbered floors from midnight to noon, and only stops at odd numbered floors from noon to midnight. c. Only stops at odd numbered floors from midnight to noon, and only stops at even numbered floors from noon to midnight. d. Only stops at even numbered floors throughout the day",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the first abnormal substance discovered by White Rose during the exploration process? a. Black ink b. Red pigment c. White powder d. Blue chalk",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the item used as a weapon in the exploration of White Rose? a. Staff b. Vase c. Glass cup d. Book",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which faction of witch does White Rose belong to? a. Inheritance faction b. Self interested faction c. Neutral faction d. Conservative faction",
+                    "ans": "a"
+                },
+                {
+                    "q": "How many areas is the corridor on the fourth floor divided into? a. Seven regions b. Eight regions c. Nine regions d. Ten regions",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the location where the deceased's flower was found? a. Guest room b. Library c. Restaurant d. Worship room",
+                    "ans": "b"
+                },
+                {
+                    "q": "When is the designated prayer time for each day? a. 9am b. 10am c. 1pm d. 3pm",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Which floors does the elevator stop at between midnight and noon in the Witch's House? a. Even numbered floors b. odd numbered floors c. all floors d. not in operation",
+                "How many areas is the corridor on the fourth floor divided by several metal sliding doors? a. Seven regions b. Eight regions c. Nine regions d. Ten regions",
+                "What is the abnormal substance found in room 409? a. Red pigment b. White powder c. Black ink d. Blue chalk",
+                "What special facilities did White Rose discover during the exploration process? a. Hidden security door b. Hidden teleportation cabin c. Secret arsenal d. Hidden study room",
+                "How long does the operation time of the teleportation cabin last? a. One hour per day b. Ten minutes per week c. Ten minutes per day d. One hour per week",
+                "What item does White Rose use as a weapon? a. Glass cup b. Book c. Vase d. Light fixture",
+                "In which room was the deceased found? a. Room 405 b. Room 309 c. Room 409 d. Room 501",
+                "What is the color of the flower worn on the deceased's chest? a. Red b. White c. Black d. Blue",
+                "Which two rooms are connected to the teleportation cabin? a. 309 and 409 b. 305 and 405 c. 501 and 601 d. 505 and 605",
+                "What was the cause of death of the deceased? a. Heart attack b. Skull rupture c. Poisoning d. Falling from a high place",
+                "At which time of the day does the elevator only stop at odd numbered floors? a. Midnight to noon b. Morning to afternoon c. Noon to midnight d. Morning to evening",
+                "What abnormal substances were discovered in the exploration of White Rose? a. Red pigment b. White powder c. Black ink d. Blue chalk",
+                "What item did White Rose use to kill her prey? a. Staff b. Book c. Vase d. Glass cup",
+                "Which two rooms are connected to the channel of the teleportation cabin? a. 309 and 409 b. 309 and 501 c. 305 and 405 d. 501 and 601",
+                "What information does White Rose's display screen show when approaching her own door? a. Locked target b. Obtained door opening permission c. System malfunction d. Warning signal",
+                "When does the teleportation cabin automatically open? a. Every Monday at midnight b. Every Sunday at midnight c. Every Sunday at 1am d. The first day of each month",
+                "How long does the teleportation cabin last for each opening? a. Five minutes b. Ten minutes c. Fifteen minutes d. Twenty minutes",
+                "What is the real-time score for White Rose's first murder after discovering the body? a. 0 points b. 1 point c. 5 points d. 10 points",
+                "Where was the location where the deceased was found? a. Room b. Library c. Restaurant d. Toilet",
+                "Where should the body be transferred and stored? a. First floor lobby b. Basement c. Fifth floor morgue d. Roof",
+                "What weapon did White Rose use in her first hunting mission? a. Staff b. Book c. Vase d. Glass cup",
+                "What information does White Rose's display screen show when approaching the door? a. Locked target b. Obtained door opening permission c. System malfunction d. Warning signal",
+                "Which two rooms are connected to the teleportation cabin? a. 309 and 409 b. 305 and 405 c. 501 and 601 d. 505 and 605",
+                "How long does the teleportation cabin last for each opening? a. Five minutes b. Ten minutes c. Fifteen minutes d. Twenty minutes",
+                "What object hit the head of the deceased to death? a. Staff b. Book c. Vase d. Glass cup",
+                "At which time of the day does the elevator only stop at odd numbered floors? a. Midnight to noon b. Morning to afternoon c. Noon to midnight d. Morning to evening",
+                "What abnormal substances did White Rose discover during exploration? a. Red pigment b. White powder c. Black ink d. Blue chalk",
+                "Where should the body of the deceased be transferred and stored? a. First floor lobby b. Basement c. Fifth floor morgue d. Roof",
+                "What is the room number for White Rose? a. 305 b. 309 c. 405 d. 501",
+                "What decorations did White Rose find in the room? a. Teddy bear b. Vase c. Portrait d. Floor mirror",
+                "Which floors does the elevator stop at between midnight and noon in the Witch's House? a. Even numbered floors b. odd numbered floors c. all floors d. not in operation",
+                "How many areas is the corridor on the fourth floor divided by several metal sliding doors? a. Seven regions b. Eight regions c. Nine regions d. Ten regions",
+                "What is the abnormal substance found in room 409? a. Red pigment b. White powder c. Black ink d. Blue chalk",
+                "At which time of the day does the elevator only stop at odd numbered floors? a. Midnight to noon b. Morning to afternoon c. Noon to midnight d. Morning to evening",
+                "What abnormal substances did White Rose discover during exploration? a. Red pigment b. White powder c. Black ink d. Blue chalk",
+                "What is the room number for White Rose? a. 305 b. 309 c. 405 d. 501",
+                "Which two rooms are connected to the teleportation cabin? a. 309 and 409 b. 305 and 405 c. 501 and 601 d. 505 and 605",
+                "How long does the teleportation cabin last for each opening? a. Five minutes b. Ten minutes c. Fifteen minutes d. Twenty minutes",
+                "What weapon did White Rose use in her first hunting mission? a. Staff b. Book c. Vase d. Glass cup",
+                "Where should the body be transferred and stored? a. First floor lobby b. Basement c. Fifth floor morgue d. Roof",
+                "On which day did Bai Rose's personal task take place? a. Monday b. Tuesday c. Wednesday d. Thursday",
+                "What is the real-time starting point for White Rose's personal tasks? a. 0 points b. 1 point c. 5 points d. 10 points",
+                "What is the color of the flower worn by the prey in the mission of White Rose? a. White b. Red c. Blue d. Black",
+                "What are the operating rules for the elevator in the 'Witch's House'? a. All day non-stop. b. Only stops at even numbered floors from midnight to noon, and only stops at odd numbered floors from noon to midnight. c. Only stops at odd numbered floors from midnight to noon, and only stops at even numbered floors from noon to midnight. d. Only stops at even numbered floors throughout the day",
+                "What was the first abnormal substance discovered by White Rose during the exploration process? a. Black ink b. Red pigment c. White powder d. Blue chalk",
+                "What is the item used as a weapon in the exploration of White Rose? a. Staff b. Vase c. Glass cup d. Book",
+                "Which faction of witch does White Rose belong to? a. Inheritance faction b. Self interested faction c. Neutral faction d. Conservative faction",
+                "How many areas is the corridor on the fourth floor divided into? a. Seven regions b. Eight regions c. Nine regions d. Ten regions",
+                "Where was the location where the deceased's flower was found? a. Guest room b. Library c. Restaurant d. Worship room",
+                "When is the designated prayer time for each day? a. 9am b. 10am c. 1pm d. 3pm"
+            ],
+            "a": [
+                "a",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "a",
+                "b",
+                "c",
+                "b",
+                "c",
+                "a",
+                "b",
+                "c",
+                "b",
+                "b",
+                "a",
+                "c",
+                "c",
+                "b",
+                "a",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "a",
+                "a",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "a",
+                "b",
+                "c",
+                "c",
+                "a",
+                "a",
+                "d",
+                "b",
+                "c",
+                "b",
+                "a",
+                "c",
+                "b",
+                "b"
+            ]
+        },
+        {
+            "name": "Red Spider Lily",
+            "back": " 你一遍又一遍地轻声默念着，恨不得将这些繁杂的规则印到脑子里，这是最后一道考验，距离成为“贝莉朵”，只差这最后一步了，你没有退路。\n趁人不注意，你迅速偷看了一眼手中的显示面板，上面显示着:“月曜日下午十二点三十分，彼岸花个人任务，猎物特征“紫色”，实时积分:03分。\n你注意到自己的胸前，有一朵通过虚拟投影显示的红色彼岸花。\n你握紧了法杖，不管你去哪里，都会随身携带它，斜眼看了看周围的女人，发现所有女人胸前似乎都有一朵花，但你却有些看不清那些花的品种与颜色，你决定一会儿再确认一下，想必自己的猎物胸前佩戴的花，应该就是紫色吧。\n气氛依旧保持着诡异的安静，直到一个慵懒女性的声音在你们耳边响起。声音不是来自身边的人，而是从房间里的一幅画像中传来，画中的女人身穿华丽的黑色礼服，头戴红色玫瑰花状发饰，一双猩红的眼睛隐于金色的头发之后...\n女人的语气慢条斯理，却令人不容人置疑。\n“吾乃权力与审判的魔女，你们的女王，贝莉朵!”\n在一个隐藏于现实视野之外的幻想世界中，有一个名为静牢城的地方，它因依山而建而被众人称为山之城。这里居住的女性，被赋予了与生俱来的异能，她们被尊称为魔女，是这座城市的守护者和统治者。作为魔女中的最高荣誉，每十年便会选出一位新的“贝莉朵”作为女王，而成为贝莉朵的过程充满了残酷与挑战，只有通过了严苛的试炼并在“魔女集会”中胜出的人，才能够获得这一称号。\n魔女内部存在着两大派系：传承派和利己派。传承派主张将异能传授给他人，而利己派则认为每个魔女应依赖自身的天赋生存。这两大派系的对立已经持续了百年。今年的“魔女集会”流程的变化，使得每个派系都必须通过内部竞选来决定代表，这最终的较量将可能结束长久的分歧。\n作为一名代表利己派参加“魔女集会”的魔女，你经历了一段既漫长又严苛的选拔过程，最终以“彼岸花”的身份站在了这个神秘且未知的“魔女屋”中。你的心中充满了对自由和探索的渴望，对于传承派强调的责任和传统，你始终持有不同的看法，认为个人的生活和选择应由自己来决定。\n你的这份坚持甚至与你的老师产生了激烈的冲突，她对你的想法表示强烈的不满和反对，甚至企图限制你的自由。这一系列的经历只让你更加坚定了自己的信念——活出真实的自我，追求个人的自由和梦想。\n在“魔女屋”中，你和其他五位魔女，各自代表着不同的花朵，被赋予了新的身份和面容。你们共同面对的，是一场残酷的竞争和未知的挑战。这座专为“魔女集会”而建的临时场所，充满了神秘和危险。发现花架上枯萎的黑玫瑰，你心中不由得生出一丝疑惑，这是否预示着某种未知的威胁或者暗藏的秘密。\n在罂粟花的组织下，你们一同开始了对“魔女屋”的初步探索，希望通过了解这个建筑的布局和机关，能够在接下来的竞争中占得先机。每个人的心中都或多或少藏着自己的秘密和计划，但在这个时刻，合作成为了你们共同的选择。\n这场游戏不仅是对魔力和智慧的考验，更是对你个人信念和追求的挑战。在“魔女屋”的每一步探索中，你都在寻找着成为下一任“贝莉朵”的可能性，同时，也在寻找属于自己的道路和真理。\n在你的探索中，你偶然发现了一个隐藏的房间，它带你进入了一间巨大而神秘的钟表屋。这个房间不仅具有惊人的高度，而且布局独特，中间的悬空通道增添了一份探险的刺激。西式的表盘与现实时间的完美同步，展示了这个房间不仅是隐秘的空间，也是精心设计的作品。\n你的发现让这场探险变得更加丰富和多元。尽管你没有能力探索房间的每一个角落，但这次经历无疑增加了对“魔女屋”神秘性的认识。特别是，那些断裂的木棍暗示着这个空间可能不仅仅是用于观赏的——它可能隐藏着更深的秘密或者陷阱。\n该电梯零点至十二点只停靠双数楼层，十二点至二十四点只停靠单数楼层。电梯的特殊规则再次提醒你，这座建筑中充满了未知的规则和机关，每一步都需要谨慎而行。你这次探险的经历，不仅是对“魔女屋”未知部分的一次勇敢探索，也是对自身能力和勇气的一次考验。\n最终，你安全返回到起点——温室，这个过程虽然艰难，但你所获得的信息和经验，将成为你在“魔女集会”中的宝贵资产。每一次探索不仅是对这座神秘建筑的认识，也是对自我能力的挑战和提升。在接下来的竞争中，这些经历可能成为你赢得胜利的关键。\n\n你们各自分享完探索的情报后，为了以防万一，从一楼到六楼完成了一次集体探索，确认了每一层走廊的确都被八道金属推拉门分割成了九个区域，且每层楼的房间布局也都如大家所说，没有出入，而囊括了整个五楼与六楼的钟表房你们也亲自去观察了一番,也确认了有关巨大的西式表盘和悬空通道的描述基本无误。\n在此过程中，大家也分别确认了自己的客房位置，鸢尾花住在305客房，白薇住在309客房，茶花住在405客房，风信子住在501客房，你住在505客房，罂花住在 601客房，并且大家的客房装饰都是同样简陋，并无差别。\n随着时间推移，大家都已逐渐筋疲力尽，大家约定好明早九点准时在餐厅集合，可在分别之前，一行六人突然意味深长地相互对视着，似乎大家都心知肚明，从现在开始，每个人只能自求多福，没有人处在绝对安全的位置，当你瞄准猎物之时，你的背后一定还有另一双蠢蠢欲动的眼睛正在注视着你，残酷的猎杀游戏，已经拉开帷幕。\n晚上十点，你回到了自己的 505客房，当你靠近505的房门时，手中的显示屏便自动显示“已获得开门权限”，随后轻触房门，门便朝内自动打开，看来每一个人应该只有进出自己客房的专属权限，客房内的装饰相当简陋，两边墙上各挂有一幅女王的画像,另外两面墙上则挂着落地镜，正中间是一张圆形的床，房间内两个呈对角线的角落是两个小房间，分别是左上角的厕所与右下角的浴室，客房里也没有窗户，看上去非常压抑，墙壁上绘有直直的线条花纹，由于房门并没有把手的缘故，关上门后，门便彷佛隐形了一般，融入了这些直线条的花纹中，只有当你再次走近房门时，手中的显示屏便会再次显示“已获得开门权限”\n晚上十一点，睡不着的你感到一丝口渴，便离开客房，来到503水房，水房内不仅有直出矿泉水的水龙头，还有许多清洁工具，类似拖车、抹布、扫帚之类的，你随手拿过一个杯子，打开水龙头，咕咚咕咚地喝了几大口。而这时你听见门外似乎传来了脚步声，你立刻警惕地走出水房，声音是从西侧传来，你小心地将金属门打开了一条缝，发现是风信子正站在 502区域的女王画像前，双手似乎还在摆弄着画像的画框。自己的猎物特征是“紫色”，猎物会是风信子吗?现在四周无人，也许正是一个完美的猎杀时刻?就在你犹豫之时，风信子已经向西离开了502区域，随后你听见了客房开门的声音，看来应该是回客房了。\n你只能暂时放弃刚才的想法，不过你仍有些疑惑，风信子大半夜不睡觉在干什么?你也轻手轻脚地来到502区域的画像前观察着，走里的女王画像全是一个样子的，画框也被钉死在了墙上，你东摸摸西摸摸，并没有发现什么异常，随后便回到了自己的客房，关上灯躺在了床上。\n火曜日零点刚过，在床上翻来覆去，正睡得迷迷糊糊的你再次听见从门外传来了一阵脚步声，听声音似乎是向着东侧走过去了，难道又是风信子?这女人大半夜事儿挺多啊，不过现在的你也懒得去管了。当你尝试着再次入睡时，却又睡不着了，也难怪，毕竟处在这么一个高压的环境下，能睡得着觉得反倒是奇人。精神上倍受折磨的同时，生理反应也没拉下，你的肚子不合时宜地传来了“咕咕噜”的声音\n没办法，昨天探索了大半天，连一口饭都没吃上，只能去二楼厨房找些东西垫垫肚子，由于已经过了零点，电梯现在只停靠在双数楼层，经过一阵思考，不管谁对你发起攻击，自己都有十足的信心反杀对方，因此胆大的你决定从楼梯间下到二楼。\n没想到经过 503水房时，你发现整个503区域的地都湿透了，你这才意识到，刚才自己在水房似乎忘记关闭水龙头了!你踩着飞溅的水花，冲进水房关闭了水龙头，这才避免了一场“水灾”。所幸的是每个区域的地毯都是分离开的单独一块，而502区域的地毯也遭了殃，靠近 503 的部分也被水打湿了一部分。\n处理完水房后，你从楼梯间下到二楼，来到209餐厅。在冰箱里，你找到了一些足以应急的面包，吃完后，你刚从厨房走出，脚下不知被什么东西绊了一下，向前扑倒狠狠地拌了一跤。你吃痛地站起身，回头检查了一下，这才发现餐厅房门与走之间，有一个小小的斜槛，而不注意观察的话根本发现不了，就是这个小斜将你绊倒了一下。零点三十分，不想爬楼梯的你乘坐电梯直达六楼，再从六楼的楼梯间下到五楼，回到了自己的客房，回房间时你注意观察了一下，自己的房门口也有这么一个小斜槛，看来每个房间应该都是这样的情况。这时你才发现自己随身佩戴的金色小球配饰不见了踪影，想来也许是刚才跌倒时落在二楼了。吃饱喝足的你，只觉得浑身疲乏，倒在床上便睡了过去。\n就在半梦半醒当中，一阵急促的奔跑声将你惊醒，你立刻警了起来，声音由远至近，彷佛已经来到了你的房间外，突然“砰”的一声，不知道什么东西猛地撞在了自己房间的墙上，发出了巨大的声响，难道有人在撞自己的门?你立刻翻身而起，面向声音传来的方向，做好了决一死战的准备，可脚步声又逐渐远去，而且听声音，似乎是一一拐的架势。\n黑暗中，你摸索着摸到了门边的落地镜，接着向一旁估摸着门的位置，但你发现自己打不开房门，电子显示屏也没有显示获得开门权限，你将耳朵贴在墙上，仔细确认没有任何声音传来后，这才摸着黑回到床上，之后便是一夜未眠。\n第二天早上接近八点四十时，按照昨天的约定，大家需要九点在209餐厅集合。你计划通过六楼的电梯直接下到二楼，路上还能顺便叫上风信子和罂粟花。\n你来到501风信子的客房前，敲响了门，风信子连忙为你打开了门，并且看上去也是正准备出门的样子，可没想到的是她在出门时也猛地摔了一跤，你连忙将她扶起，告诉她房门口有个小斜槛，让她下次小心。\n随后，你与风信子一同来到六楼，敲响了601的房门，没想到器粟花打开房门时，手里还拿着一个花瓶，一脸警惕的样子，你们一愣，随即告诉她只是希望一起同行去餐厅，罂粟花这才放下了手中的花瓶。\n很快，你们三人通过电梯下到二楼，来到了209餐厅，而尾花与白蔷薇已经先你们一步到达了餐厅，此时唯独茶蘼花始终不见踪影。\n按照魔女的条例，每天早上十点都是约定的祷告时间，大家应该在207礼拜室集中，进行每天一小时的祷告。可用过早餐后，茶蘼花依旧不见踪影，大家提议，一起去四楼，确认一下她是不是还没有睡醒，还是说，最糟糕的情况已经发生了。\n众人乘坐电梯来到四楼，大家围聚在405客房门前，可无论众人如何拍打房门，房间内都没有人回应，这么干等着也不是办法，也许茶花已经出门了也说不定?众人继续向四楼楼梯间走去，可没想到，被通往403图书室区域的推拉门给堵住了，当大家尝试着转动门把手时，发现稍微按下去一点后，便像被卡住了一样，无法转动。\n罂粟花一脸不可思议地喃喃道:奇怪，走席上的金属门不是都没有锁吗，怎么会打不开呢?\n鸢尾花同样疑惑地说道:可是门把手确实无法转动!\n彼岸花不耐烦地挤到门前:打不开门，直接开不就行了。\n白蔷薇仔细检查了一下门把手:门把手看上去并没有被破坏的痕迹，既然打不开，没办法，只能撞开了。\n风信子点了点头:好!那咱们数个一二三，把门撞开吧! 这时，一个合成般的机械女声缓缓响起，“死者:荼花，尸体已被发现;死亡时间:月曜日晚上十一点零五分;死因:头骨破裂;请将尸体转移至五楼停尸间存放。”\n\n",
+            "r_q": [
+                {
+                    "q": "In what activities must the witch who becomes' Belidol 'win in the city of Tranquil Prison? a. Witch Competition b. Witch Gathering c. Witch Race d. Witch Ball",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which faction does the Witch of the Other Shore Flower belong to? a. Inheritance faction b. Self interested faction c. Independent faction d. Peaceful faction",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the color characteristic of the prey of the Witch of the Other Shore in the text? a. Red b. Blue c. Purple d. Green",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which room number does the Witch of the Other Shore Flower live in? a. 405 b. 505 c. 601 d. 305",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which floors does the elevator stop at between midnight and midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "After midnight, where does the witch of the other shore flower go to drink water? a. 503 Water Room b. 502 Area c. 209 Restaurant d. 601 Room",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the cause of death stated in the information announcement regarding the discovery of the body of Tuhua? a. Poisoning b. stabbing c. skull rupture d. drowning",
+                    "ans": "c"
+                },
+                {
+                    "q": "During exploration, the Witch of the Other Shore Flower realized that she had lost something? a. Scepter b. Display panel c. Gold ball accessory d. Magic book",
+                    "ans": "c"
+                },
+                {
+                    "q": "At eleven o'clock in the evening, from which direction did the Witch of the Other Shore hear footsteps? a. North b. South c. East d. West",
+                    "ans": "d"
+                },
+                {
+                    "q": "What noise did the witch of the other shore flower wake up in the middle of the night? a. A loud bang b. Door bell c. Glass cracking sound d. High frequency screaming",
+                    "ans": "a"
+                },
+                {
+                    "q": "In the Witch Gathering, which activity is required to win in order to become Beryl? a. Witch Competition b. Witch Gathering c. Witch Race d. Witch Ball",
+                    "ans": "b"
+                },
+                {
+                    "q": "What faction does the Witch of the Other Shore Flower belong to? a. Inheritance faction b. Self interested faction c. Independent faction d. Peaceful faction",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the color characteristic of the prey of the Witch of the Other Shore Flower? a. Red b. Blue c. Purple d. Green",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the room number of the Witch of the Other Shore Flower? a. 405 b. 505 c. 601 d. 305",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which floors does the elevator stop at between midnight and midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where does the witch of the other shore flower go to drink water after midnight? a. 503 Water Room b. 502 Area c. 209 Restaurant d. 601 Room",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the cause of Tuhua's death? a. Poisoning b. stabbing c. skull rupture d. drowning",
+                    "ans": "c"
+                },
+                {
+                    "q": "What item did the Witch of the Other Shore Flower realize she had lost while exploring? a. Scepter b. Display panel c. Gold ball accessory d. Magic book",
+                    "ans": "c"
+                },
+                {
+                    "q": "At eleven o'clock in the evening, which direction did the Witch of the Other Shore hear footsteps coming from? a. North b. South c. East d. West",
+                    "ans": "d"
+                },
+                {
+                    "q": "What sound did the witch of the other shore flower wake up from? a. A loud bang b. Door bell c. Glass cracking sound d. High frequency screaming",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the final test to become 'Belidol'? a. Witch Race b. Witch Gathering c. Witch Competition d. Witch Ball",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which faction does the Witch of the Other Shore Flower belong to? a. Inheritance faction b. Self interested faction c. Independent faction d. Peaceful faction",
+                    "ans": "b"
+                },
+                {
+                    "q": "What color are the characteristics of the prey of the Witch of the Other Shore? a. Red b. Blue c. Purple d. Green",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the room number for the Witch of the Other Shore Flower? a. 405 b. 505 c. 601 d. 305",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where does the witch of the other shore flower go to drink water after midnight? a. 503 Water Room b. 502 Area c. 209 Restaurant d. 601 Room",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the cause of Tuhua's death? a. Poisoning b. stabbing c. skull rupture d. drowning",
+                    "ans": "c"
+                },
+                {
+                    "q": "The Witch of the Other Shore Flower realized that she had lost something? a. Scepter b. Display panel c. Gold ball accessory d. Magic book",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which direction did the footsteps heard by the Witch of the Other Shore Flower at eleven o'clock in the evening come from? a. North b. South c. East d. West",
+                    "ans": "d"
+                },
+                {
+                    "q": "What noise did the witch of the other shore flower wake up from in the middle of the night? a. A loud bang b. Door bell c. Glass cracking sound d. High frequency screaming",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where is the most likely place for the lost golden ball accessory of the Witch of the Other Shore Flower? a. 503 Water Room b. 502 Area c. 209 Restaurant d. Second Floor",
+                    "ans": "d"
+                },
+                {
+                    "q": "In which event do I need to win to become a \"Belidor\"? a. Witch Race b. Witch Competition c. Witch Gathering d. Witch Ball",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which faction does the Witch of the Other Shore Flower belong to? a. Inheritance faction b. Self interested faction c. Independent faction d. Peaceful faction",
+                    "ans": "b"
+                },
+                {
+                    "q": "What color are the prey characteristics of the Witch of the Other Shore Flower? a. Red b. Blue c. Purple d. Green",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which room number does the Witch of the Other Shore Flower live in? a. 405 b. 505 c. 601 d. 305",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which floors does the elevator stop at between midnight and midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "After midnight, where does the witch of the other shore flower go to drink water? a. 503 Water Room b. 502 Area c. 209 Restaurant d. 601 Room",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the cause of death stated in the information announcement regarding the discovery of the body of Tuhua? a. Poisoning b. stabbing c. skull rupture d. drowning",
+                    "ans": "c"
+                },
+                {
+                    "q": "During exploration, the Witch of the Other Shore Flower realized that she had lost something? a. Scepter b. Display panel c. Gold ball accessory d. Magic book",
+                    "ans": "c"
+                },
+                {
+                    "q": "At eleven o'clock in the evening, from which direction did the Witch of the Other Shore hear footsteps? a. North b. South c. East d. West",
+                    "ans": "d"
+                },
+                {
+                    "q": "What noise did the witch of the other shore flower wake up in the middle of the night? a. A loud bang b. Door bell c. Glass cracking sound d. High frequency screaming",
+                    "ans": "a"
+                },
+                {
+                    "q": "What color is the flower displayed in the virtual projection on the witch of the other shore flower? a. Red b. Blue c. Green d. Purple",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which witch's room in the text is 505? a. Other shore flower b. Iris c. White ivy d. Poppy flower",
+                    "ans": "a"
+                },
+                {
+                    "q": "What noise did the witch of the other shore flower wake up from? a. Door bell b. Glass cracking sound c. Bang sound d. High frequency screaming",
+                    "ans": "c"
+                },
+                {
+                    "q": "What disturbed the witch of the other shore flower in the middle of the night? a. Air conditioning malfunction b. Faucet not turned off c. Power interruption d. Window rupture",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the final test for the Witch of the Other Shore to become Belidol? a. Witch Race b. Witch Competition c. Witch Gathering d. Witch Ball",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which floors does the elevator mentioned in the article only stop after midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which faction does the Witch of the Other Shore Flower belong to? a. Inheritance faction b. Self interested faction c. Independent faction d. Peaceful faction",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which room's door in the text gets stuck and cannot be opened when pushed or pulled? a. 401 b. 403 c. 405 d. 407",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the most likely place for the lost golden ball accessory of the witch of the other shore flower in the text? a. 503 Water Room b. 502 Area c. Second Floor d. In Room",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the cause of death of Tuhua mentioned in the article? a. Poisoning b. stabbing c. skull rupture d. drowning",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "In what activities must the witch who becomes' Belidol 'win in the city of Tranquil Prison? a. Witch Competition b. Witch Gathering c. Witch Race d. Witch Ball",
+                "Which faction does the Witch of the Other Shore Flower belong to? a. Inheritance faction b. Self interested faction c. Independent faction d. Peaceful faction",
+                "What is the color characteristic of the prey of the Witch of the Other Shore in the text? a. Red b. Blue c. Purple d. Green",
+                "Which room number does the Witch of the Other Shore Flower live in? a. 405 b. 505 c. 601 d. 305",
+                "Which floors does the elevator stop at between midnight and midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                "After midnight, where does the witch of the other shore flower go to drink water? a. 503 Water Room b. 502 Area c. 209 Restaurant d. 601 Room",
+                "What was the cause of death stated in the information announcement regarding the discovery of the body of Tuhua? a. Poisoning b. stabbing c. skull rupture d. drowning",
+                "During exploration, the Witch of the Other Shore Flower realized that she had lost something? a. Scepter b. Display panel c. Gold ball accessory d. Magic book",
+                "At eleven o'clock in the evening, from which direction did the Witch of the Other Shore hear footsteps? a. North b. South c. East d. West",
+                "What noise did the witch of the other shore flower wake up in the middle of the night? a. A loud bang b. Door bell c. Glass cracking sound d. High frequency screaming",
+                "In the Witch Gathering, which activity is required to win in order to become Beryl? a. Witch Competition b. Witch Gathering c. Witch Race d. Witch Ball",
+                "What faction does the Witch of the Other Shore Flower belong to? a. Inheritance faction b. Self interested faction c. Independent faction d. Peaceful faction",
+                "What is the color characteristic of the prey of the Witch of the Other Shore Flower? a. Red b. Blue c. Purple d. Green",
+                "What is the room number of the Witch of the Other Shore Flower? a. 405 b. 505 c. 601 d. 305",
+                "Which floors does the elevator stop at between midnight and midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                "Where does the witch of the other shore flower go to drink water after midnight? a. 503 Water Room b. 502 Area c. 209 Restaurant d. 601 Room",
+                "What was the cause of Tuhua's death? a. Poisoning b. stabbing c. skull rupture d. drowning",
+                "What item did the Witch of the Other Shore Flower realize she had lost while exploring? a. Scepter b. Display panel c. Gold ball accessory d. Magic book",
+                "At eleven o'clock in the evening, which direction did the Witch of the Other Shore hear footsteps coming from? a. North b. South c. East d. West",
+                "What sound did the witch of the other shore flower wake up from? a. A loud bang b. Door bell c. Glass cracking sound d. High frequency screaming",
+                "What is the final test to become 'Belidol'? a. Witch Race b. Witch Gathering c. Witch Competition d. Witch Ball",
+                "Which faction does the Witch of the Other Shore Flower belong to? a. Inheritance faction b. Self interested faction c. Independent faction d. Peaceful faction",
+                "What color are the characteristics of the prey of the Witch of the Other Shore? a. Red b. Blue c. Purple d. Green",
+                "What is the room number for the Witch of the Other Shore Flower? a. 405 b. 505 c. 601 d. 305",
+                "Where does the witch of the other shore flower go to drink water after midnight? a. 503 Water Room b. 502 Area c. 209 Restaurant d. 601 Room",
+                "What was the cause of Tuhua's death? a. Poisoning b. stabbing c. skull rupture d. drowning",
+                "The Witch of the Other Shore Flower realized that she had lost something? a. Scepter b. Display panel c. Gold ball accessory d. Magic book",
+                "Which direction did the footsteps heard by the Witch of the Other Shore Flower at eleven o'clock in the evening come from? a. North b. South c. East d. West",
+                "What noise did the witch of the other shore flower wake up from in the middle of the night? a. A loud bang b. Door bell c. Glass cracking sound d. High frequency screaming",
+                "Where is the most likely place for the lost golden ball accessory of the Witch of the Other Shore Flower? a. 503 Water Room b. 502 Area c. 209 Restaurant d. Second Floor",
+                "In which event do I need to win to become a \"Belidor\"? a. Witch Race b. Witch Competition c. Witch Gathering d. Witch Ball",
+                "Which faction does the Witch of the Other Shore Flower belong to? a. Inheritance faction b. Self interested faction c. Independent faction d. Peaceful faction",
+                "What color are the prey characteristics of the Witch of the Other Shore Flower? a. Red b. Blue c. Purple d. Green",
+                "Which room number does the Witch of the Other Shore Flower live in? a. 405 b. 505 c. 601 d. 305",
+                "Which floors does the elevator stop at between midnight and midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                "After midnight, where does the witch of the other shore flower go to drink water? a. 503 Water Room b. 502 Area c. 209 Restaurant d. 601 Room",
+                "What was the cause of death stated in the information announcement regarding the discovery of the body of Tuhua? a. Poisoning b. stabbing c. skull rupture d. drowning",
+                "During exploration, the Witch of the Other Shore Flower realized that she had lost something? a. Scepter b. Display panel c. Gold ball accessory d. Magic book",
+                "At eleven o'clock in the evening, from which direction did the Witch of the Other Shore hear footsteps? a. North b. South c. East d. West",
+                "What noise did the witch of the other shore flower wake up in the middle of the night? a. A loud bang b. Door bell c. Glass cracking sound d. High frequency screaming",
+                "What color is the flower displayed in the virtual projection on the witch of the other shore flower? a. Red b. Blue c. Green d. Purple",
+                "Which witch's room in the text is 505? a. Other shore flower b. Iris c. White ivy d. Poppy flower",
+                "What noise did the witch of the other shore flower wake up from? a. Door bell b. Glass cracking sound c. Bang sound d. High frequency screaming",
+                "What disturbed the witch of the other shore flower in the middle of the night? a. Air conditioning malfunction b. Faucet not turned off c. Power interruption d. Window rupture",
+                "What is the final test for the Witch of the Other Shore to become Belidol? a. Witch Race b. Witch Competition c. Witch Gathering d. Witch Ball",
+                "Which floors does the elevator mentioned in the article only stop after midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                "Which faction does the Witch of the Other Shore Flower belong to? a. Inheritance faction b. Self interested faction c. Independent faction d. Peaceful faction",
+                "Which room's door in the text gets stuck and cannot be opened when pushed or pulled? a. 401 b. 403 c. 405 d. 407",
+                "Where is the most likely place for the lost golden ball accessory of the witch of the other shore flower in the text? a. 503 Water Room b. 502 Area c. Second Floor d. In Room",
+                "What is the cause of death of Tuhua mentioned in the article? a. Poisoning b. stabbing c. skull rupture d. drowning"
+            ],
+            "a": [
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "a",
+                "c",
+                "c",
+                "d",
+                "a",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "a",
+                "c",
+                "c",
+                "d",
+                "a",
+                "b",
+                "b",
+                "c",
+                "b",
+                "a",
+                "c",
+                "c",
+                "d",
+                "a",
+                "d",
+                "c",
+                "b",
+                "c",
+                "b",
+                "b",
+                "a",
+                "c",
+                "c",
+                "d",
+                "a",
+                "a",
+                "a",
+                "c",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c"
+            ]
+        },
+        {
+            "name": "Hyacinth",
+            "back": "你一遍又一遍地轻声默念着，恨不得将这些繁杂的规则印到脑子里，这是最后一道考验，距离成为“贝莉朵”，只差这最后一步了，你没有退路。\n趁人不注意，你迅速偷看了一眼手中的显示面板，上面显示着:“月曜日下午十二点三十分，风信子个人任务，猎物特征“红色”，实时积分:0分。”\n你注意到自己的胸前，有一朵通过虚拟投影显示的紫色风信子\n你握紧了法杖，不管你去哪里，都会随身携带它，斜眼看了看周围的女人，发现所有女人胸前似乎都有一朵花，但你却有些看不清那些花的品种与颜色，你决定一会儿再确认一下，想必自己的猎物胸前佩戴的花，应该就是红色吧。\n气氛依旧保持着诡异的安静，直到一个慵懒女性的声音在你们耳边响起。声音不是来自身边的人，而是从房间里的一幅画像中传来，画中的女人身穿华丽的黑色礼服，头戴红色玫瑰花状发饰，一双猩红的眼睛隐于金色的头发之后...\n女人的语气慢条斯理，却令人不容人置疑，你一遍又一遍地轻声默念着，恨不得将这些繁杂的规则印到脑子里，这是最后一道考验，距离成为“贝莉朵”，只差这最后一步了，你没有退路。\n趁人不注意，你迅速偷看了一眼手中的显示面板，上面显示着:“月曜日下午十二点三十分，风信子个人任务，猎物特征“红色”，实时积分:0分。”\n你注意到自己的胸前，有一朵通过虚拟投影显示的紫色风信子\n你握紧了法杖，不管你去哪里，都会随身携带它，斜眼看了看周围的女人，发现所有女人胸前似乎都有一朵花，但你却有些看不清那些花的品种与颜色，你决定一会儿再确认一下，想必自己的猎物胸前佩戴的花，应该就是红色吧。\n气氛依旧保持着诡异的安静，直到一个慵懒女性的声音在你们耳边响起。声音不是来自身边的人，而是从房间里的一幅画像中传来，画中的女人身穿华丽的黑色礼服，头戴红色玫瑰花状发饰，一双猩红的眼睛隐于金色的头发之后...\n女人的语气慢条斯理，却令人不容人置疑，\n在一个隐藏于现实视野之外的幻想世界中，有一个名为静牢城的地方，它因依山而建而被众人称为山之城。这里居住的女性，被赋予了与生俱来的异能，她们被尊称为魔女，是这座城市的守护者和统治者。作为魔女中的最高荣誉，每十年便会选出一位新的“贝莉朵”作为女王，而成为贝莉朵的过程充满了残酷与挑战，只有通过了严苛的试炼并在“魔女集会”中胜出的人，才能够获得这一称号。\n魔女内部存在着两大派系：传承派和利己派。传承派主张将异能传授给他人，而利己派则认为每个魔女应依赖自身的天赋生存。这两大派系的对立已经持续了百年。今年的“魔女集会”流程的变化，使得每个派系都必须通过内部竞选来决定代表，这最终的较量将可能结束长久的分歧。\n站在“魔女集会”这一残酷竞争的起点，你作为传承派的骄傲，携带着族群的希望和荣耀，进入了未知且充满挑战的“魔女屋”。传承派与利己派的根本分歧在于对魔女身份的理解和传承方式的差异。你坚信，通过教授和学习的方式传递魔法知识和技能，是保持魔女血脉和力量不断更新的唯一途径。对你而言，利己派的行为不仅是对传统的背离，更是对魔女未来的危险赌注。\n在“魔女屋”的黑漆房间中醒来，你和其他五位魔女的面容被临时改变，每个人都被赋予了一个以花为名的新身份。你成为了“风信子”，而这个代号背后，载着你对传承的坚持和对未来的希望。面对着枯萎的黑玫瑰和没有对应代号的女人，你心中涌现出一股不祥的预感，这是否意味着“魔女集会”中隐藏着未知的规则或是某种危险的信号？\n你深知，为了传承派的荣誉，也为了异世界的未来，你需要在这场集会中展现出色的智慧和力量。每一步都要小心翼翼，既要警惕可能潜藏在暗处的对手，也要准备好面对即将到来的各种挑战。在“魔女屋”这个充满谜团的地方，每一个细节都可能隐藏着关键的线索，而你必须利用你的智慧和能力，解开一个又一个谜题，确保自己能够在这场残酷的游戏中生存下来，为传承派赢得荣耀。\n\n“该电梯零点至十二点只停靠双数楼层，十二点至二十四点只停靠单数楼层”\n在这场充满紧张和神秘的“魔女集会”中，你，作为一名传承派的代表，肩负着重要的使命和期望。你们一行六人共同探索这座充满未知的“魔女屋”，每个人都被分配了不同的楼层来探索，希望通过这种方式能够更快地熟悉环境，并寻找可能的线索或优势。\n在五楼的探索过程中，你遇到了各种情况，从寻找房间的规律到遭遇封闭的门和缺乏窗户的走廊，每一步都充满挑战。特别是当你发现一间令人毛骨悚然的停尸房时，这不仅增加了探索的紧张感，也让你对“魔女屋”的目的和背后的故事产生了更多疑问。\n最让你感到不安的是，在电梯门附近发现的那股熟悉的铁锈味，以及随之而来的头痛和模糊的记忆，似乎在暗示着某些你曾经经历过但现在却记不清的事情。这种感觉让你深知，在“魔女屋”中，每一个细节都可能隐藏着关键的信息，甚至是过去的秘密。\n尽管你无法使用电梯直接离开五楼，但这次的探索无疑为你提供了宝贵的信息和经验。回到一楼的温室，与其他魔女分享探索结果将是你们下一步的计划。只有通过团队的智慧和力量，你们才可能揭开“魔女屋”背后的秘密，并在这场残酷的竞争中存活下来。\n面对接踵而至的挑战，你深知自己的责任重大。不仅要为传承派争光，也要确保自己能够在这场充满未知和危险的游戏中找到生存的道路。每一步都需谨慎，每一个决定都可能影响最终的结果。\n深呼吸了一口气，你踏入了这扇门，门后是一个全黑的空间，摸索着向前走了一米后又是一扇木门，打开这扇木门后，在你面前出现了一间巨大的房间，整个房间呈长方形，高度约有两层楼高，并且在你的上方，还有一个悬空在房间一半高度的小道紧靠着南侧墙壁，而在你刚才打开的木门正上方，还有着另一木门，连接着那条悬空通道，通道四周被木制围栏围了一圈，你一个人没有方法可以攀爬到上面去探索。房间的东侧墙上绘制了一幅巨大的西式表盘，有些生锈的金属指针在正常转动中，你将西式表盘与手中显示屏的时间做了对比，分毫不差，不过这时你才发现，显示屏上出现了一条不知什么时候收到的消息:“已获得开门权限”。除此之外，这里空空如也，你没再发现其余任何东西，便径直退出了钟表房。\n回到五楼走廊，根据显示屏显示的时间来看，由于此时正是下午，位于单数楼层的你便直接乘坐电梯回到了一楼，返回温室的路上你倒是觉得轻松了不少，和五楼的走廊一样，你反复推开了八道金属门后，才终于返回到了最初的温室。\n\n你们各自分享完探索的情报后，为了以防万一，从一楼到六楼完成了一次集体探索确认了每一层走廊的确都被八道金属推拉门分割成了九个区域，且每层楼的房间布局也都如大家所说，没有出入，而囊括了整个五楼与六楼的钟表房你们也亲自去观察了一番，也确认了有关巨大的西式表盘和悬空通道的描述基本无误。\n在此过程中，大家也分别确认了自己的客房位置，尾花住在305客房，白蔷薇住在 309客房，茶花住在405客房，你住在501客房，被岸花住在505客房，粟花在601客房，并且大家的客房装饰都是同样简陋，并无差别。你也明白了，由于刚才自已探索时路过了自己的客房，所以才会收到“已获得开门权限”的消息。\n随着时间推移，大家都已逐渐筋疲力尽，大家约定好明早九点准时在餐厅集合，可在分别之前，一行六人突然意味深长地相互对视着，似乎大家都心知肚明，从现在开始，每个人只能自求多福，没有人处在绝对安全的位置，当你瞄准猎物之时，你的背后一定还有另一双蠢蠢欲动的眼睛正在注视着你，残酷的猎杀游戏，已经拉开帷幕\n晚上十点，你回到了自己的501客房，当你靠近501的房门时，手中的显示屏便自动显示“已获得开门权限”，随后轻触房门，门便朝内自动打开，看来每一个人应该只有进出自己客房的专属权限，客房内的装饰相当简陋，两边墙上各挂有一幅女王的画像,另外两面墙上则挂着落地镜，正中间是一张圆形的床，房间内两个星对角线的角落是两个小房间，分别是左上角的厕所与右下角的浴室，客房里也没有窗户，看上去非常压抑墙壁上绘有直直的线条花纹，由于房门并没有把手的缘故，关上门后，门便彷佛隐形了一般，融入了这些直线条的花纹中，只有当你再次走近房门时，手中的显示屏便会再次显示“已获得开门权限”\n躺在床上的你，内心仔细盘算着，自己的猎物，到底是住在601的粟花?还是与自己住在同楼层505的彼岸花?思来想去无法入睡的你，起身来到女王的画像前，虔诚地闭上双眼开始祷告，你并不是一个可以做到杀人不眨眼的人，你甚至不清楚自己能否对猎物痛下杀手。\n正在握手祷告时，你听到了一阵细微的电流声，疑惑的你四处张望着，几经查，最后才确定了声音的源头来自这副画像，你取下画像，在背面发现了一个扩音器。你检查了房间里另外一幅画像，背后同样有一个扩音器，你有些纳闷，难道说女王是通过这些画像里的扩音器在与你们交流吗?可是以女王的能力来说，应该用不上这些科技的产物才对。\n你离开客房来到走廊，想要检查一下走廊上那些画像，确认是否都和客房里一样装上了扩音器，可是不知为何，走廊里的画像居然全部被钉死在了墙上，没办法取下来。\n回到客房后，你在床上翻来覆去，突然，你听见从厕所里传来了一声细微的异响，你走过去查看，发现马桶边的墙壁居然弹开了一道小门!你打开这个小门，里面是一个刚好可以容纳一人的小空间，空间里贴着一张告示，上面写着，“嵌入式隐蔽传送舱，只存在于走廊两端尽头的房间中，传送通道仅连接相邻的上下两个房间，不会连通第三个房间，一个房间内最多只有一个通道，传送舱于每个火曜日的凌晨一点自动开放，每次仅开放十分钟。”\n你进入传送舱，一阵抖动后，你能感觉到自己正在向上移动。也就几秒钟的功夫，门再次打开，出口在一间浴室里，浴室的镜柜里摆放的首饰，以及独特的香水味让你立刻分辨出，这里正是罂粟花所住的 601客房!\n你感到心跳一阵加速，显然，这个传送通道将你的房间与601的房间连在了一起，就像是密道一般!或许，现在就是直接杀死罂粟花的最好时刻?借着微弱的显示屏灯光，你轻声潜入屋内，没想到环视一圈，罂粟花居然并不在客房里，奇怪，这么晚了她会去什么地方?你暗自思忱着，不知为何，发现粟花不在房内，你竟长舒了一口气，转念一想，现在自己并不能完全确定，罂粟花与彼岸花这两朵红花，到底谁才是自己真正的猎物，贸然下手或许并非明智之举。\n你靠近房门，可却根本打不开门，看来电子显示屏果然只能打开自己客房的门，就在你准备原路返回时，冷不丁听见从屋外传来一阵急促的脚步声，慌乱之中你不慎撞倒了浴室里的一个花瓶，无暇顾及的你快速利用传送舱回到了自己的房间，也算是幸运，你刚从传送舱里出来，便听到一声“咔擦”的声响，传送舱的门重新关上，限时开启的十分钟已经到时间了。\n你平复了一下紧张的心情，一股异样在你的心头弥漫开来，似乎有什么地方不太对劲，但你却说不出来，也许是自己太紧张了吧，你这样安慰着自己，躺在床上沉沉睡去。\n当你再次醒来时，已经是早上的八点四十，按照昨天的约定，大家需要九点在 209餐厅集合，这时彼岸花敲响了你的房门，她告诉你打算通过六楼的电梯直接下到二楼，路上顺便叫上你和罂粟花。\n没想到你在刚出门时，不知怎的突然向前扑倒，把彼岸花一跳，连忙将你扶起。彼岸花连忙告诉你，房间与走廊之间，有一个小小的斜，不注意看根本发现不了，就是这个小斜槛将你绊了一下，嘱咐你下次小心一些。\n随后，你与彼岸花一同来到六楼，敲响了601的房门，没想到罂粟花打开房门时，手里还拿着一个花瓶，一脸警惕的样子。你们一愣，随即告诉她只是希望一起同行去餐厅，罂粟花这才放下了手中的花瓶。\n去餐厅的路上，你发现自己随身佩戴的金色小球配饰不见了踪影，想来也许是刚才跌倒时落在五楼了。很快，你们三人通过电梯下到二楼，来到了209餐厅，而鸢尾花与白蓄薇已经先你们一步到达了餐厅，此时唯独茶蘼花始终不见踪影。\n按照魔女的条例，每天早上十点都是约定的祷告时间，大家应该在207礼拜室集中，进行每天一小时的祷告。可用过早餐后，茶蘼花依旧不见踪影，大家提议，一起去四楼，确认一下她是不是还没有睡醒，还是说，最糟糕的情况已经发生了。\n众人乘坐电梯来到四楼，大家围聚在405客房门前，可无论众人如何拍打房门，房间内都没有人回应，这么干等着也不是办法，也许茶花已经出门了也说不定?众人继续向四楼楼梯间走去，可没想到，被通往403图书室区域的推拉门给堵住了，当大家尝试着转动门把手时，发现稍微按下去一点后，便像被卡住了一样，无法转动。\n罂粟花一脸不可思议地喃喃道:奇怪，走席上的金属门不是都没有锁吗，怎么会打不开呢?\n鸢尾花同样疑惑地说道:可是门把手确实无法转动!\n彼岸花不耐烦地挤到门前:打不开门，直接开不就行了。\n白蔷薇仔细检查了一下门把手:门把手看上去并没有被破坏的痕迹，既然打不开，没办法，只能撞开了。\n风信子点了点头:好!那咱们数个一二三，把门撞开吧! 这时，一个合成般的机械女声缓缓响起，“死者:荼花，尸体已被发现;死亡时间:月曜日晚上十一点零五分;死因:头骨破裂;请将尸体转移至五楼停尸间存放。”\n\n",
+            "r_q": [
+                {
+                    "q": "On which day at 1am, the teleportation cabin automatically opens and only opens for ten minutes each time? a. Fire Sunday b. Moon Sunday c. Water Sunday d. Gold Sunday",
+                    "ans": "a"
+                },
+                {
+                    "q": "What color is the prey characteristic in Feng Xinzi's personal mission? a. Blue b. Red c. Green d. Black",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which floor does the elevator only stop at from 12:00 to 24:00? a. Even numbered floors b. Odd numbered floors c. All floors d. No floors",
+                    "ans": "b"
+                },
+                {
+                    "q": "When Feng Xinzi woke up, he found himself in a guest room on which floor? a. Third floor b. Fourth floor c. Fifth floor d. Sixth floor",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many metal sliding doors divide the corridors of each floor into nine areas in the Witch's House? a. Six lanes b. Seven lanes c. Eight lanes d. Nine lanes",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which room number does poppy live in? a. 301 b. 501 c. 601 d. 701",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which day is the agreed daily prayer time in the Witch's House? a. Every day b. Once a week c. Only on weekends d. No specific time",
+                    "ans": "a"
+                },
+                {
+                    "q": "What does Feng Xinzi need to use to open the door for identity verification? a. Key b. Password c. Gesture recognition d. Display screen",
+                    "ans": "d"
+                },
+                {
+                    "q": "On which day and at which time was the deceased found? a. 11:05 pm on Sunday b. 11:05 pm on Fire c. 11:05 pm on Water d. 11:05 pm on Golden Sunday",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the name of the deceased found? a. Teaflower b. Iris c. White Rose d. Seaside Flower",
+                    "ans": "a"
+                },
+                {
+                    "q": "What title will a queen be chosen every ten years in the city of Jingzao? a. B, B, hyacinth, C, poppy, D, shore flower",
+                    "ans": "a"
+                },
+                {
+                    "q": "What are the two major factions within the witch? a. Inheritance and egoism b. Inheritance and innovation c. Egoism and conservatism d. Conservatism and innovation",
+                    "ans": "a"
+                },
+                {
+                    "q": "On which floor did Feng Xinzi wake up and find herself given a new identity? a. Third floor b. Fourth floor c. Fifth floor d. Sixth floor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which floors does the elevator only stop at from 12:00 to 24:00? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which room was found to have an embedded concealed teleportation pod? a. 501 b. 601 c. 701 d. 801",
+                    "ans": "b"
+                },
+                {
+                    "q": "When should witches gather for their daily prayers? a. 7am b. 9am c. 10am d. 11am",
+                    "ans": "c"
+                },
+                {
+                    "q": "According to the Witch's regulations, which room should prayer be held in? a. 207 Restaurant b. 209 Restaurant c. 207 Worship Room d. 209 Worship Room",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the room number for hyacinth? a. 501 b. 601 c. 701 d. 801",
+                    "ans": "a"
+                },
+                {
+                    "q": "What kind of disturbing room was found on the fifth floor? a. Morgue b. greenhouse c. library d. restaurant",
+                    "ans": "a"
+                },
+                {
+                    "q": "On which floor was the location where the deceased was found? a. Third floor b. Fourth floor c. Fifth floor d. Sixth floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the duration of each teleportation pod opening? a. 5 minutes b. 8 minutes c. 10 minutes d. 15 minutes",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which flower was named after Hyacinth in the Witch's House? a. Other shore flower b. poppy flower c. camellia flower d. hyacinth",
+                    "ans": "d"
+                },
+                {
+                    "q": "What floor is the guest room for hyacinth on? a. Third floor b. Fourth floor c. Fifth floor d. Sixth floor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the room number used for collective prayer in the Witch's House? a. 207 b. 209 c. 301 d. 501",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which floor does the elevator only stop at in the afternoon? a. Even numbered floors b. Odd numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many metal sliding doors divide the corridors of each floor into nine areas in the Witch's House? a. Five lanes b. Six lanes c. Seven lanes d. Eight lanes",
+                    "ans": "d"
+                },
+                {
+                    "q": "On which day does the teleportation pod in the Witch's House automatically open? a. Every day b. Once a week c. Only on weekends d. On Sundays",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the name of the deceased who was discovered? a. Teaflower b. Camellia c. Other shore flower d. White rose",
+                    "ans": "a"
+                },
+                {
+                    "q": "When was the time of death of the deceased at the Witch Gathering? a. 11:00pm on Sunday. b. 11:00pm on Sunday. c. 11:05pm on Sunday. d. 11:05pm on Sunday",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which floor and where should the body be stored? a. Fifth floor morgue b. Sixth floor morgue c. Fourth floor library d. Third floor restaurant",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which floor does the elevator stop at between midnight and noon? a. Even numbered floors b. Odd numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which flower was named after Hyacinth in the Witch's House? a. Poppy b. Other shore flower c. Hyacinth d. White rose",
+                    "ans": "c"
+                },
+                {
+                    "q": "When does the teleportation pod automatically open in the Witch's House? a. Every day at 1am b. Once a week c. Only on weekends d. On Sundays at 1am",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the room number for hyacinth? a. 301 b. 501 c. 601 d. 701",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which floor and room should the deceased's body be stored in? a. Fifth floor morgue b. Fourth floor library c. Sixth floor morgue d. Third floor restaurant",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the name of the deceased? a. Teaflower b. Iris c. White Rose d. Seaside Flower",
+                    "ans": "a"
+                },
+                {
+                    "q": "According to the rules, what time is the witch's collective prayer time every day? a. 7am b. 9am c. 10am d. 11am",
+                    "ans": "c"
+                },
+                {
+                    "q": "In the Witch's House, which floor does the elevator only stop at in the afternoon? a. Even numbered floors b. Odd numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "When was the time of death? a. 11:00pm on Sunday. b. 11:00pm on Sunday. c. 11:05pm on Sunday. d. 11:05pm on Sunday",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many metal sliding doors divide the hallway into nine areas in the Witch's House? a. Six lanes b. Seven lanes c. Eight lanes d. Nine lanes",
+                    "ans": "c"
+                },
+                {
+                    "q": "In the Witch's House, what color flowers are the characteristics of the prey for hyacinth's personal mission? a. Red b. Blue c. Green d. Yellow",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which floor does the elevator in the Witch's House only stop at between midnight and noon? a. Even numbered floors b. Odd numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "a"
+                },
+                {
+                    "q": "According to the Witch's regulations, which room should prayer be held in? a. 207 Restaurant b. 209 Restaurant c. 207 Worship Room d. 209 Worship Room",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the room number for hyacinth? a. 301 b. 501 c. 601 d. 701",
+                    "ans": "b"
+                },
+                {
+                    "q": "On which floor was the disturbing morgue discovered? a. Third floor b. Fourth floor c. Fifth floor d. Sixth floor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the name of the deceased? a. Teaflower b. Iris c. Other shore flower d. White rose",
+                    "ans": "a"
+                },
+                {
+                    "q": "On which day does the teleportation cabin automatically open? a. Every day b. On Sundays c. Only on weekends d. Once a week",
+                    "ans": "b"
+                },
+                {
+                    "q": "What faction does Hyacinth belong to in the Witch Gathering? a. Inheritors b. Egoists c. Conservatives d. Innovators",
+                    "ans": "a"
+                },
+                {
+                    "q": "On which day and at which time was the deceased found? a. 11:00pm on Sunday. b. 11:00pm on Sunday. c. 11:05pm on Sunday. d. 11:05pm on Sunday",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which floor and where should the body be stored? a. Fifth floor morgue b. Sixth floor morgue c. Fourth floor library d. Third floor restaurant",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "On which day at 1am, the teleportation cabin automatically opens and only opens for ten minutes each time? a. Fire Sunday b. Moon Sunday c. Water Sunday d. Gold Sunday",
+                "What color is the prey characteristic in Feng Xinzi's personal mission? a. Blue b. Red c. Green d. Black",
+                "Which floor does the elevator only stop at from 12:00 to 24:00? a. Even numbered floors b. Odd numbered floors c. All floors d. No floors",
+                "When Feng Xinzi woke up, he found himself in a guest room on which floor? a. Third floor b. Fourth floor c. Fifth floor d. Sixth floor",
+                "How many metal sliding doors divide the corridors of each floor into nine areas in the Witch's House? a. Six lanes b. Seven lanes c. Eight lanes d. Nine lanes",
+                "Which room number does poppy live in? a. 301 b. 501 c. 601 d. 701",
+                "Which day is the agreed daily prayer time in the Witch's House? a. Every day b. Once a week c. Only on weekends d. No specific time",
+                "What does Feng Xinzi need to use to open the door for identity verification? a. Key b. Password c. Gesture recognition d. Display screen",
+                "On which day and at which time was the deceased found? a. 11:05 pm on Sunday b. 11:05 pm on Fire c. 11:05 pm on Water d. 11:05 pm on Golden Sunday",
+                "What is the name of the deceased found? a. Teaflower b. Iris c. White Rose d. Seaside Flower",
+                "What title will a queen be chosen every ten years in the city of Jingzao? a. B, B, hyacinth, C, poppy, D, shore flower",
+                "What are the two major factions within the witch? a. Inheritance and egoism b. Inheritance and innovation c. Egoism and conservatism d. Conservatism and innovation",
+                "On which floor did Feng Xinzi wake up and find herself given a new identity? a. Third floor b. Fourth floor c. Fifth floor d. Sixth floor",
+                "Which floors does the elevator only stop at from 12:00 to 24:00? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                "Which room was found to have an embedded concealed teleportation pod? a. 501 b. 601 c. 701 d. 801",
+                "When should witches gather for their daily prayers? a. 7am b. 9am c. 10am d. 11am",
+                "According to the Witch's regulations, which room should prayer be held in? a. 207 Restaurant b. 209 Restaurant c. 207 Worship Room d. 209 Worship Room",
+                "What is the room number for hyacinth? a. 501 b. 601 c. 701 d. 801",
+                "What kind of disturbing room was found on the fifth floor? a. Morgue b. greenhouse c. library d. restaurant",
+                "On which floor was the location where the deceased was found? a. Third floor b. Fourth floor c. Fifth floor d. Sixth floor",
+                "What is the duration of each teleportation pod opening? a. 5 minutes b. 8 minutes c. 10 minutes d. 15 minutes",
+                "Which flower was named after Hyacinth in the Witch's House? a. Other shore flower b. poppy flower c. camellia flower d. hyacinth",
+                "What floor is the guest room for hyacinth on? a. Third floor b. Fourth floor c. Fifth floor d. Sixth floor",
+                "What is the room number used for collective prayer in the Witch's House? a. 207 b. 209 c. 301 d. 501",
+                "Which floor does the elevator only stop at in the afternoon? a. Even numbered floors b. Odd numbered floors c. All floors d. No stopping at any floor",
+                "How many metal sliding doors divide the corridors of each floor into nine areas in the Witch's House? a. Five lanes b. Six lanes c. Seven lanes d. Eight lanes",
+                "On which day does the teleportation pod in the Witch's House automatically open? a. Every day b. Once a week c. Only on weekends d. On Sundays",
+                "What is the name of the deceased who was discovered? a. Teaflower b. Camellia c. Other shore flower d. White rose",
+                "When was the time of death of the deceased at the Witch Gathering? a. 11:00pm on Sunday. b. 11:00pm on Sunday. c. 11:05pm on Sunday. d. 11:05pm on Sunday",
+                "On which floor and where should the body be stored? a. Fifth floor morgue b. Sixth floor morgue c. Fourth floor library d. Third floor restaurant",
+                "Which floor does the elevator stop at between midnight and noon? a. Even numbered floors b. Odd numbered floors c. All floors d. No stopping at any floor",
+                "Which flower was named after Hyacinth in the Witch's House? a. Poppy b. Other shore flower c. Hyacinth d. White rose",
+                "When does the teleportation pod automatically open in the Witch's House? a. Every day at 1am b. Once a week c. Only on weekends d. On Sundays at 1am",
+                "What is the room number for hyacinth? a. 301 b. 501 c. 601 d. 701",
+                "Which floor and room should the deceased's body be stored in? a. Fifth floor morgue b. Fourth floor library c. Sixth floor morgue d. Third floor restaurant",
+                "What is the name of the deceased? a. Teaflower b. Iris c. White Rose d. Seaside Flower",
+                "According to the rules, what time is the witch's collective prayer time every day? a. 7am b. 9am c. 10am d. 11am",
+                "In the Witch's House, which floor does the elevator only stop at in the afternoon? a. Even numbered floors b. Odd numbered floors c. All floors d. No stopping at any floor",
+                "When was the time of death? a. 11:00pm on Sunday. b. 11:00pm on Sunday. c. 11:05pm on Sunday. d. 11:05pm on Sunday",
+                "How many metal sliding doors divide the hallway into nine areas in the Witch's House? a. Six lanes b. Seven lanes c. Eight lanes d. Nine lanes",
+                "In the Witch's House, what color flowers are the characteristics of the prey for hyacinth's personal mission? a. Red b. Blue c. Green d. Yellow",
+                "Which floor does the elevator in the Witch's House only stop at between midnight and noon? a. Even numbered floors b. Odd numbered floors c. All floors d. No stopping at any floor",
+                "According to the Witch's regulations, which room should prayer be held in? a. 207 Restaurant b. 209 Restaurant c. 207 Worship Room d. 209 Worship Room",
+                "What is the room number for hyacinth? a. 301 b. 501 c. 601 d. 701",
+                "On which floor was the disturbing morgue discovered? a. Third floor b. Fourth floor c. Fifth floor d. Sixth floor",
+                "What is the name of the deceased? a. Teaflower b. Iris c. Other shore flower d. White rose",
+                "On which day does the teleportation cabin automatically open? a. Every day b. On Sundays c. Only on weekends d. Once a week",
+                "What faction does Hyacinth belong to in the Witch Gathering? a. Inheritors b. Egoists c. Conservatives d. Innovators",
+                "On which day and at which time was the deceased found? a. 11:00pm on Sunday. b. 11:00pm on Sunday. c. 11:05pm on Sunday. d. 11:05pm on Sunday",
+                "On which floor and where should the body be stored? a. Fifth floor morgue b. Sixth floor morgue c. Fourth floor library d. Third floor restaurant"
+            ],
+            "a": [
+                "a",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "a",
+                "d",
+                "a",
+                "a",
+                "a",
+                "a",
+                "c",
+                "a",
+                "b",
+                "c",
+                "c",
+                "a",
+                "a",
+                "b",
+                "c",
+                "d",
+                "c",
+                "a",
+                "b",
+                "d",
+                "d",
+                "a",
+                "c",
+                "a",
+                "a",
+                "c",
+                "d",
+                "b",
+                "a",
+                "a",
+                "c",
+                "b",
+                "c",
+                "c",
+                "a",
+                "a",
+                "c",
+                "b",
+                "c",
+                "a",
+                "b",
+                "a",
+                "c",
+                "a"
+            ]
+        },
+        {
+            "name": "poppy flowers",
+            "back": "\n你一遍又一遍地轻声默念着，恨不得将这些繁杂的规则印到脑子里，这是最后一道考验，距离成为“贝莉朵”，只差这最后一步了，你没有退路。\n趁人不注意，你迅速偷看了一眼手中的显示面板，上面显示着:\n“月曜日下午十二点三十分，罂粟花个人任务，猎物特征“黑色”，实时积分:0\n分。”\n你注意到自己的胸前，有一朵通过虚拟投影显示的红色罂粟花\n你握紧了法杖，不管你去哪里，都会随身携带它，斜眼看了看周围的女人，发现所有女人胸前似乎都有一朵花，但你却有些看不清那些花的品种与颜色，你决定一会儿再确认一下，想必自己的猎物胸前佩戴的花，应该就是黑色吧。\n气氛依旧保持着诡异的安静，直到一个慵懒女性的声音在你们耳边响起。声音不是来自身边的人，而是从房间里的一幅画像中传来，画中的女人身穿华丽的黑色礼服，头戴红色玫瑰花状发饰，一双猩红的眼睛隐于金色的头发之后...\n女人的语气慢条斯理，却令人不容人置疑\n“吾乃权力与审判的魔女，你们的女王，贝莉朵!”\n在这场充满紧张和不确定性的“魔女集会”中，你以罂粟花的代号身份活跃，背负着过去的痛苦和对未来的决心。你的心中虽然对传承派的理想有了动摇，但你仍然要在这个充满挑战的环境中寻找机会，为自己争取一个新的未来。\n电梯规则：“该电梯零点至十二点只停靠双数楼层，十二点至二十四点只停靠单数楼层”\n你负责探索的二楼，与一楼相比，并没有太多的装饰区别，但房间的布局却截然不同。在你的探索过程中，二楼的走廊显得异常漫长，而且房间的分布也极具规律。通过对走廊上的八道金属门的观察，你发现这些门将走廊分割成了九个区域，每隔一定距离就会出现一扇门，构成了一种独特的节奏。\n你为这些房间分别编号，发现除了一间上锁的房间（205）之外，其他的房间如碑文室（201）、仓库（203）、礼拜室（207）和餐厅（209）都可以自由进出。这些房间的功能各不相同，从存储宗教仪式用品的礼拜室到日常生活的餐厅，反映了“魔女屋”内部丰富的生活和文化层面。\n走廊北面挂满了女王的画像，这不仅是对现任“贝莉朵”权威的象征，也是对所有魔女的一种精神激励。然而，整个二楼和你所在的走廊都没有窗户，这种封闭的环境让人感到有些压抑，同时也增添了几分神秘感。\n你的探索不仅是对“魔女屋”布局的一次认知，也是对自己内心世界的一次探寻。每一扇门后都可能隐藏着新的线索或挑战，而你需要用自己的智慧和勇气去面对它们。在这场竞争中，每一点发现都可能成为最后胜利的关键。回到温室与其他魔女汇报你的发现，共同分析“魔女屋”的秘密，是你们接下来的计划。在这场不是你死就是我亡的竞争中，团结和智慧将是通往胜利的关键。\n在碑文室里，你发现了一块光秃秃的巨大岩壁，你却能在这块岩壁上感受到一股强大的魔力波动，这股力量似乎是女王布置下的，让你望而却步。\n在 209餐厅里，你同样发现了一些让你不得不在意的事，餐桌上摆放着许多残余食物的碗碟，饭菜都已经凉了，却并没有发霉的迹象，似乎是前不久还有人刚在这里吃过饭一样。\n来到走廊最东侧的你发现了一部电梯，电梯门上贴着一张告示，“该电梯零点至十二点只停靠双数楼层，十二点至二十四点只停靠单数楼层”\n根据显示屏显示的时间来看，由于此时正是下午，处于双数楼层的你无法使用电梯，无奈只能原路返回，返回的路上，再次拉开一道又一道的门，感觉有些吃力，后背也已出了一身细汗，好不容易才走回西侧的楼梯间，并通过楼梯返回到了一楼最初的温室里。\n\n你们各自分享完探索的情报后，为了以防万一，从一楼到六楼完成了一次集体探索确认了每一层走廊的确都被八道金属推拉门分割成了九个区域，且每层楼的房间布局也都如大家所说，没有出入，而囊括了整个五楼与六楼的钟表房你们也亲自去观察了一番，也确认了有关巨大的西式表盘和悬空通道的描述基本无误。\n不过，在你去到钟表房时，就猛地浑身一激灵，你总感觉钟表房让你十分熟悉，可自己实在想不起这是为什么，只能暂时作罢。\n在此过程中，大家也分别确认了自己的客房位置，鸢尾花住在 305客房，白薇住在309客房，茶花住在405客房，风信子住在501客房，被岸花住在505客房，你住在 601客房，并且大家的客房装饰都是同样简陋，并无差别。\n随着时间推移，大家都已逐渐筋疲力尽，大家约定好明早九点准时在餐厅集合，可在分别之前，一行六人突然意味深长地相互对视着，似乎大家都心知肚明，从现在开始，每个人只能自求多福，没有人处在绝对安全的位置，当你瞄准猎物之时，你的背后一定还有另一双蠢蠢欲动的眼睛正在注视着你，残酷的猎杀游戏，已经拉开帷幕。\n晚上十点，你回到了自己的601客房，当你靠近601的房门时，手中的显示屏便自动显示“已获得开门权限”，随后轻触房门，门便朝内自动打开，看来每一个人应该只有进出自己客房的专属权限，客房内的装饰相当简陋，两边墙上各挂有一幅女王的画像，另外两面墙上则挂着落地镜，正中间是一张圆形的床，房间内两个星对角线的角落是两个小房间，分别是左上角的厕所与右下角的浴室，客房里也没有窗户，看上去非常压抑，墙壁上绘有直直的线条花纹，由于房门并没有把手的缘故，关上门后，门便佛隐形了一般，融入了这些直线条的花纹中，只有当你再次走近房门时，手中的显示屏便会再次显示“已获得开门权限”。\n你将自己的首饰脱下放进浴室的镜柜中，接着躺回床上，你根本无法入睡，你又想起了下午在探索时，那个让你浑身猛一激灵的钟表屋，你决心再去钟表屋看看，试着能不能回忆起更多事情。\n凌晨零点，走出客房后，你一路向东来到六楼走廊尽头，打开电梯旁的门，进入后再打开一扇木门，来到了钟表房里的悬空通道上。铁锈味肆无忌惮地直冲你的脑门，头开始剧烈疼痛起来，你扶着墙壁缓慢蹲下，突然彷佛一道炸雷一般，一段景象一股脑地在你的脑海里回放了起来。\n你在水房中，身前是一个小推车，小推车上放着一块黑色的大金属箱，你打开了金属箱的顶盖，箱于里躺着一个昏速不醒的女人，且双手双脚都被防水胶带紧紧固定在了箱于侧面及底部!你并没有丝毫犹豫，社金属箱里注入了一半体积的水，淹及女人的购部，女于依旧没有醒来，似乎处于深度的昏速状态。接着你重新盖上顶盖，推着箱子离开水房，来到了电梯前，乘坐电梯来到六楼，打开六楼电梯旁的门，一股铁味扑面而来，接着打开第二扇本门，将推车推到了钟表房的基空通道上。\n你看了看面前的西式表盘，分针刚好指向了数字“3”的位置，正是时候，徐将推车推至小道尽头，用锯于锯断通道尽头的木制国栏，而被锯断的那一国栏，直接掉到了房问底部。放下锯子，徐接着拿出从仓库里拿走的强力磁铁，将磁铁吸附在分针上，随后将金属箱靠近磁铁，让箱于牢字吸附在分针上，再拿出一藏绳子，将箱子与分针住使其更加德固。\n完成这一切后，你对着箱于默默做出了新裤的手势，头也不回地离开了钟表屋\n你猛地长呼一口气，回过神来的你发现自己正靠着墙瘫坐，大滴的冷汗着脸滑落，刚才回想起来的一切是这么真实。\n“我...我做了什么?刚才这些，是真实发生的事情吗?是我做的事情吗?”你立刻起身望向表盘，仔细观察着时针与分针，并没有看到有箱子绑在上面。“是我想多了吗?还是发生幻觉了?”\n正想长舒一口气时，你站在通道尽头向下看去，那些断裂的木棍正静静地躺在房间底部，就好像是......被锯断掉落的围栏一般......你用力捂住自己的嘴巴，一个声音在你脑海里反复提醒着你，那些可怕的记忆，或许都是真实的。\n火曜日凌晨一点刚过，你失魂落魄，选似的离开了钟表房，路过609客房时，你彷佛听到从609传出了什么东西撞击的声音，回想着刚才的一切，恐惧让你立刻向前夺路而逃，经过 605客房时，你不慎伤了脚，侧身猛地撞在了客房门上，你坚持着站起来，一瘸一拐地继续向前小跑着，躲回了自己的601客房，此刻任何地方都不再安全。\n还没等你冷静下来，你听见从浴室传来一声清脆的声音，这让你的神经再次紧绷了起来，有人进入我的房间了?怎么可能?我又幻听了?紧接着，在你竖耳倾听时，从浴室又传来了一声细微的“咔擦”声响，千真万确，绝不可能听错，你小心翼翼地打开了浴室的门，可浴室里并没有其他人躲在里面，只是浴室角落的花瓶摔倒在了地上。\n或许真的是因为自己太紧张了，你拿着花瓶回到床上，而这一晚，你一夜未眠。\n第二天一早，听到有人敲响了你的房门，你警地拿上花瓶打开一条门缝，发现是风信子和彼岸花两人，她们见你手拿花瓶，还楞了一会儿，随即告诉你由于餐厅在209，她们打算通过六楼的电梯直接下到二楼，顺便在路上叫上你。你一看时间，的确快到九点了，便与她们一同随行。\n很快，你们三人通过电梯下到二楼，来到了209餐厅，而鸢尾花与白蔷薇已经先你们一步到达了餐厅，此时唯独茶花始终不见踪影。\n按照魔女的条例，每天早上十点都是约定的祷告时间，大家应该在207礼拜室集中，进行每天一小时的祷告。可用过早餐后，茶蘼花依旧不见踪影，大家提议，一起去四楼，确认一下她是不是还没有睡醒，还是说，最糟糕的情况已经发生了。\n众人乘坐电梯来到四楼，大家围聚在405客房门前，可无论众人如何拍打房门，房间内都没有人回应，这么干等着也不是办法，也许茶花已经出门了也说不定?众人继续向四楼楼梯间走去，可没想到，被通往403图书室区域的推拉门给堵住了，当大家尝试着转动门把手时，发现稍微按下去一点后，便像被卡住了一样，无法转动。\n罂粟花一脸不可思议地喃喃道:奇怪，走席上的金属门不是都没有锁吗，怎么会打不开呢?\n鸢尾花同样疑惑地说道:可是门把手确实无法转动!\n彼岸花不耐烦地挤到门前:打不开门，直接开不就行了。\n白蔷薇仔细检查了一下门把手:门把手看上去并没有被破坏的痕迹，既然打不开，没办法，只能撞开了。\n风信子点了点头:好!那咱们数个一二三，把门撞开吧! 这时，一个合成般的机械女声缓缓响起，“死者:荼花，尸体已被发现;死亡时间:月曜日晚上十一点零五分;死因:头骨破裂;请将尸体转移至五楼停尸间存放。”\n\n",
+            "r_q": [
+                {
+                    "q": "What role is the title of Beryl related to? a. Queen B. Witch C. Witch D. Goddess",
+                    "ans": "b"
+                },
+                {
+                    "q": "What color are the mission characteristics of poppy flowers? a. Red b. Black c. Green d. Blue",
+                    "ans": "b"
+                },
+                {
+                    "q": "What floor can the elevator stop at in the afternoon? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "a"
+                },
+                {
+                    "q": "What are the characteristics of Room 205? a. Locked b. Open c. No door d. Transparent",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which floors does the elevator stop at midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "When exploring the second floor, which rooms did the protagonist discover were accessible? a. 201、203、207、209 b. 201、205、207、209 c. 203、205、207、209 d. 205、207、209、211",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the confirmed prayer time for everyone every day? a. 9am b. 10am c. 12pm d. 2pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "On which floor of the morgue was the deceased's body found to be stored? a. Third floor b. Fourth floor c. Fifth floor d. Sixth floor",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the last time the protagonist went to the clock room? a. Midnight b. midnight c. 1am d. 2am",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which room number does poppy live in? a. 305 b. 405 c. 505 d. 601",
+                    "ans": "d"
+                },
+                {
+                    "q": "What operation did the protagonist perform at the end of the passage in the midnight clock room? a. Made a magic potion b. destroyed a mirror c. sawed off the fence d. lit a lamp",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the floors where the elevator stops at midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why can the protagonist enter Room 601? a. Found the key b. cracked the password c. used exclusive permissions d. knocked on the door but was opened by someone else",
+                    "ans": "c"
+                },
+                {
+                    "q": "What did the protagonist do to the body during his memories in the clock room? a. Put it in a metal box b. hide it in the wardrobe c. put it under the bed d. tie it to a chair",
+                    "ans": "a"
+                },
+                {
+                    "q": "What floor does the elevator stop at during the day? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "a"
+                },
+                {
+                    "q": "At what time was the body of the deceased found? a. 9pm b. 11:05pm c. 1am d. 12pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Heart attack b. Excessive blood loss c. Skull rupture d. Drug poisoning",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which room do poppies live in? a. 305 b. 405 c. 505 d. 601",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where does the protagonist leave after 1am? a. Clock room b. Restaurant c. Water room d. Guest room",
+                    "ans": "a"
+                },
+                {
+                    "q": "What could be the reason why camellias may not appear in the encountered problems? a. Taking a shower b. Sleeping c. Leaving the house d. The worst situation has occurred",
+                    "ans": "d"
+                },
+                {
+                    "q": "What kind of character is Beryl? a. Queen B. Witch C. Witch D. Goddess",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are the characteristic colors of poppy flowers as prey in missions? a. Red b. Black c. Green d. Blue",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the floor type where the elevator stops in the afternoon? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the status of room 205? a. Locked b. Open c. No door d. Transparent",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the type of floor on which the elevator stops at midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which rooms are accessible when exploring the second floor? a. 201、203、207、209 b. 201、205、207、209 c. 203、205、207、209 d. 205、207、209、211",
+                    "ans": "a"
+                },
+                {
+                    "q": "What time is the prayer time every day? a. 9am b. 10am c. 12pm d. 2pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "On which floor of the morgue was the deceased's body stored? a. Third floor b. Fourth floor c. Fifth floor d. Sixth floor",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the last time the protagonist went to the clock room? a. Midnight b. midnight c. 1am d. 2am",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which room number does poppy live in? a. 305 b. 405 c. 505 d. 601",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the operation performed by the protagonist at the end of the midnight clock room passage? a. Make magical potions. b. Destroy a mirror. c. Saw off a fence. d. Turn on a light",
+                    "ans": "c"
+                },
+                {
+                    "q": "How can the protagonist enter Room 601? a. Find the key b. Crack the password c. Use exclusive permissions d. Knock on the door is opened",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the way the protagonist handles the body in the clock room? a. Put it in a metal box b. hide it in the wardrobe c. put it under the bed d. tie it to a chair",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the type of floor on which the elevator stops during the day? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Heart disease b. Excessive blood loss c. Skull rupture d. Drug poisoning",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which floor did the poppy flower first stop in the elevator? a. Second floor b. Third floor c. Fourth floor d. Sixth floor",
+                    "ans": "d"
+                },
+                {
+                    "q": "At the end of the midnight clock room passage, what tool does the owner use to saw through the fence? a. Electric saw b. Hand saw c. Metal saw d. Chain saw",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which flower is displayed through virtual projection at the witch's gathering? a. Rose b. Lily c. Poppy d. Camellia",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of floor does the midnight elevator stop at in the Witch's House? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are the characteristics of the large rock wall discovered by the protagonist in the chapel? a. Luminous b. Transparent c. Heating d. Magic wave",
+                    "ans": "d"
+                },
+                {
+                    "q": "Which floors does the elevator found on the easternmost side of the corridor stop at midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did the voice come from in the witch's gathering? a. Television b. Broadcasting c. Portrait d. Mobile phone",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the last time the protagonist left the clock room in the witch's house? a. Midnight b. midnight c. 1am d. 2am",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the way for Poppy Flower to obtain access to Room 601? a. Manually enter password b. Automatically obtain permission c. Unlock with key d. Forcefully break in door",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of metal box is used by the protagonist in the operation of the midnight clock room? a. Aluminum alloy b. Copper c. Stainless steel d. Black metal",
+                    "ans": "d"
+                },
+                {
+                    "q": "What type of metal box does the protagonist use in the operation of the midnight clock room? a. Aluminum alloy b. Copper c. Stainless steel d. Black metal",
+                    "ans": "d"
+                },
+                {
+                    "q": "What type of floor does the midnight elevator stop at in the Witch's House? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which flower is displayed through virtual projection at the witch's gathering? a. Rose b. Lily c. Poppy d. Camellia",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which floor did the poppy flower first stop in the elevator? a. Second floor b. Third floor c. Fourth floor d. Sixth floor",
+                    "ans": "d"
+                },
+                {
+                    "q": "At the end of the midnight clock room passage, what tool does the owner use to saw through the fence? a. Electric saw b. Hand saw c. Metal saw d. Chain saw",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are the characteristics of the large rock wall discovered by the protagonist in the chapel? a. Luminous b. Transparent c. Heating d. Magic wave",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where did the voice come from in the witch's gathering? a. Television b. Broadcasting c. Portrait d. Mobile phone",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which floors does the elevator found on the easternmost side of the corridor stop at midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "When was the last time the protagonist left the clock room in the witch's house? a. Midnight b. midnight c. 1am d. 2am",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the way for Poppy Flower to obtain access to Room 601? a. Manually enter password b. Automatically obtain permission c. Unlock with key d. Forcefully break in door",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What role is the title of Beryl related to? a. Queen B. Witch C. Witch D. Goddess",
+                "What color are the mission characteristics of poppy flowers? a. Red b. Black c. Green d. Blue",
+                "What floor can the elevator stop at in the afternoon? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                "What are the characteristics of Room 205? a. Locked b. Open c. No door d. Transparent",
+                "Which floors does the elevator stop at midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                "When exploring the second floor, which rooms did the protagonist discover were accessible? a. 201、203、207、209 b. 201、205、207、209 c. 203、205、207、209 d. 205、207、209、211",
+                "What is the confirmed prayer time for everyone every day? a. 9am b. 10am c. 12pm d. 2pm",
+                "On which floor of the morgue was the deceased's body found to be stored? a. Third floor b. Fourth floor c. Fifth floor d. Sixth floor",
+                "When was the last time the protagonist went to the clock room? a. Midnight b. midnight c. 1am d. 2am",
+                "Which room number does poppy live in? a. 305 b. 405 c. 505 d. 601",
+                "What operation did the protagonist perform at the end of the passage in the midnight clock room? a. Made a magic potion b. destroyed a mirror c. sawed off the fence d. lit a lamp",
+                "What are the floors where the elevator stops at midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                "Why can the protagonist enter Room 601? a. Found the key b. cracked the password c. used exclusive permissions d. knocked on the door but was opened by someone else",
+                "What did the protagonist do to the body during his memories in the clock room? a. Put it in a metal box b. hide it in the wardrobe c. put it under the bed d. tie it to a chair",
+                "What floor does the elevator stop at during the day? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                "At what time was the body of the deceased found? a. 9pm b. 11:05pm c. 1am d. 12pm",
+                "What was the cause of death of the deceased? a. Heart attack b. Excessive blood loss c. Skull rupture d. Drug poisoning",
+                "Which room do poppies live in? a. 305 b. 405 c. 505 d. 601",
+                "Where does the protagonist leave after 1am? a. Clock room b. Restaurant c. Water room d. Guest room",
+                "What could be the reason why camellias may not appear in the encountered problems? a. Taking a shower b. Sleeping c. Leaving the house d. The worst situation has occurred",
+                "What kind of character is Beryl? a. Queen B. Witch C. Witch D. Goddess",
+                "What are the characteristic colors of poppy flowers as prey in missions? a. Red b. Black c. Green d. Blue",
+                "What is the floor type where the elevator stops in the afternoon? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                "What is the status of room 205? a. Locked b. Open c. No door d. Transparent",
+                "What is the type of floor on which the elevator stops at midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                "Which rooms are accessible when exploring the second floor? a. 201、203、207、209 b. 201、205、207、209 c. 203、205、207、209 d. 205、207、209、211",
+                "What time is the prayer time every day? a. 9am b. 10am c. 12pm d. 2pm",
+                "On which floor of the morgue was the deceased's body stored? a. Third floor b. Fourth floor c. Fifth floor d. Sixth floor",
+                "When was the last time the protagonist went to the clock room? a. Midnight b. midnight c. 1am d. 2am",
+                "Which room number does poppy live in? a. 305 b. 405 c. 505 d. 601",
+                "What is the operation performed by the protagonist at the end of the midnight clock room passage? a. Make magical potions. b. Destroy a mirror. c. Saw off a fence. d. Turn on a light",
+                "How can the protagonist enter Room 601? a. Find the key b. Crack the password c. Use exclusive permissions d. Knock on the door is opened",
+                "What is the way the protagonist handles the body in the clock room? a. Put it in a metal box b. hide it in the wardrobe c. put it under the bed d. tie it to a chair",
+                "What is the type of floor on which the elevator stops during the day? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                "What was the cause of death of the deceased? a. Heart disease b. Excessive blood loss c. Skull rupture d. Drug poisoning",
+                "On which floor did the poppy flower first stop in the elevator? a. Second floor b. Third floor c. Fourth floor d. Sixth floor",
+                "At the end of the midnight clock room passage, what tool does the owner use to saw through the fence? a. Electric saw b. Hand saw c. Metal saw d. Chain saw",
+                "Which flower is displayed through virtual projection at the witch's gathering? a. Rose b. Lily c. Poppy d. Camellia",
+                "What type of floor does the midnight elevator stop at in the Witch's House? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                "What are the characteristics of the large rock wall discovered by the protagonist in the chapel? a. Luminous b. Transparent c. Heating d. Magic wave",
+                "Which floors does the elevator found on the easternmost side of the corridor stop at midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                "Where did the voice come from in the witch's gathering? a. Television b. Broadcasting c. Portrait d. Mobile phone",
+                "When was the last time the protagonist left the clock room in the witch's house? a. Midnight b. midnight c. 1am d. 2am",
+                "What is the way for Poppy Flower to obtain access to Room 601? a. Manually enter password b. Automatically obtain permission c. Unlock with key d. Forcefully break in door",
+                "What type of metal box is used by the protagonist in the operation of the midnight clock room? a. Aluminum alloy b. Copper c. Stainless steel d. Black metal",
+                "What type of metal box does the protagonist use in the operation of the midnight clock room? a. Aluminum alloy b. Copper c. Stainless steel d. Black metal",
+                "What type of floor does the midnight elevator stop at in the Witch's House? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                "Which flower is displayed through virtual projection at the witch's gathering? a. Rose b. Lily c. Poppy d. Camellia",
+                "On which floor did the poppy flower first stop in the elevator? a. Second floor b. Third floor c. Fourth floor d. Sixth floor",
+                "At the end of the midnight clock room passage, what tool does the owner use to saw through the fence? a. Electric saw b. Hand saw c. Metal saw d. Chain saw",
+                "What are the characteristics of the large rock wall discovered by the protagonist in the chapel? a. Luminous b. Transparent c. Heating d. Magic wave",
+                "Where did the voice come from in the witch's gathering? a. Television b. Broadcasting c. Portrait d. Mobile phone",
+                "Which floors does the elevator found on the easternmost side of the corridor stop at midnight? a. Single numbered floors b. Even numbered floors c. All floors d. No stopping at any floor",
+                "When was the last time the protagonist left the clock room in the witch's house? a. Midnight b. midnight c. 1am d. 2am",
+                "What is the way for Poppy Flower to obtain access to Room 601? a. Manually enter password b. Automatically obtain permission c. Unlock with key d. Forcefully break in door"
+            ],
+            "a": [
+                "b",
+                "b",
+                "a",
+                "a",
+                "b",
+                "a",
+                "b",
+                "c",
+                "b",
+                "d",
+                "c",
+                "b",
+                "c",
+                "a",
+                "a",
+                "b",
+                "c",
+                "d",
+                "a",
+                "d",
+                "b",
+                "b",
+                "a",
+                "a",
+                "b",
+                "a",
+                "b",
+                "c",
+                "b",
+                "d",
+                "c",
+                "c",
+                "a",
+                "c",
+                "c",
+                "d",
+                "b",
+                "c",
+                "b",
+                "d",
+                "b",
+                "c",
+                "c",
+                "b",
+                "d",
+                "d",
+                "b",
+                "c",
+                "d",
+                "b",
+                "d",
+                "c",
+                "b",
+                "c",
+                "b"
+            ]
+        },
+        {
+            "name": "Iris",
+            "back": "You silently recite these complicated rules over and over again, wishing you could imprint them into your mind. This is the final test, and you are only one step away from becoming 'Belidol'. You have no way out.",
+            "r_q": [
+                {
+                    "q": "In which year's \"Witch Gathering\" were participants not individually registered, but representatives selected from within the two major factions? a. 2070 b. 2080 c. 2090 d. 2100",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the female protagonist's code name and corresponding flower in the story? a. Bai Wei b. Other shore flower c. Iris flower d. Camellia flower",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the special feature of Room 305 in the Witch's House? a. B. with windows b. without windows c. with balcony d. with fireplace",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why are women revered in the 'Quiet Prison City'? a. Queen B. Archbishop C. Witch D. Knight",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which floors does the elevator only stop between 12 pm and 24 pm in the story? a. Even numbered floors b. Odd numbered floors c. All floors d. No specific floors",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which floor is the female protagonist responsible for exploring during the rally? a. First floor b. Third floor c. Fifth floor d. Sixth floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who was the prey of the female protagonist in her first hunting mission? a. Bai Wei b. Camellia c. Hyacinth d. Bian An Hua",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many areas is the corridor divided into? a. Five regions b. Six regions c. Seven regions d. Nine regions",
+                    "ans": "d"
+                },
+                {
+                    "q": "In the text, which room is used to place the bodies of camellias? a. Room 305 b. 307 Library entrance c. 309 Room d. 601 Room",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who does the female protagonist plan to blame for the death of Camellia in the text? a. Bai Wei b. Bian An Hua c. Feng Xin Zi d. Poppy Flower",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which room in the witch's house is used as the protagonist's residence? a. Room 301 b. Room 303 c. Room 305 d. Room 307",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which floor did the female protagonist discover that the elevator only stops at odd numbered floors between 12:00 and 24:00? a. First floor b. Third floor c. Fifth floor d. Sixth floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "How does the female protagonist describe her emotional state in the text? a. Easy b. Nervous c. Exhausted d. Excited",
+                    "ans": "c"
+                },
+                {
+                    "q": "In the story, whose room is adjacent to Room 305 where the female protagonist resides? a. Bai Wei b. Camellia c. Hyacinth d. Bian An Hua",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are the characteristics of the prey on the female protagonist's first hunting mission? a. Yellow b. Red c. Purple d. White",
+                    "ans": "d"
+                },
+                {
+                    "q": "What method does the female protagonist use to make the death of Camellia appear to be the work of Bai Wei? a. Place false evidence b. Modify time records c. Falsify messages d. Wipe fingerprints",
+                    "ans": "a"
+                },
+                {
+                    "q": "In the entire incident, where did the female protagonist ultimately place the body of Camellia? a. Room 305 b. 307 Library entrance c. 309 Room d. 601 Room",
+                    "ans": "b"
+                },
+                {
+                    "q": "In the article, what is the real-time score of the female protagonist after completing the first hunting mission? a. 0 points b. 1 point c. 2 points d. 3 points",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the prop used by the female protagonist in the plan to move the body of the camellia flower? a. Wheelchair b. Stretcher c. Carpet d. Cart",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which floors do elevators only stop at from 0:00 to 12:00 in their usage rules? a. Even numbered floors b. Odd numbered floors c. All floors d. No specific floors",
+                    "ans": "a"
+                },
+                {
+                    "q": "What are the characteristics of the door and wall of Room 305 in the Witch's House when closed? a. Same color as the wall b. Same material as the wall c. Integrated with the wall d. Equipped with an automatic lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What caused the tense state described by the female protagonist in the text? a. Feeling unwell b. Hearing footsteps outside the door c. Unable to see in the dark d. Poor facilities inside the guest room",
+                    "ans": "b"
+                },
+                {
+                    "q": "According to the text description, how many areas is the corridor of the Witch's House divided into? a. Eight regions b. Nine regions c. Ten regions d. Eleven regions",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are the real-time points earned by the female protagonist throughout the entire event? a. 0 points b. 1 point c. 2 points d. 3 points",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the type of floor on which the elevator mentioned in the article stops between 12 pm and 24 pm? a. Even numbered floors b. Odd numbered floors c. All floors d. No specific floors",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the body of Camellia ultimately placed? a. Room 305 b. 307 Library entrance c. 309 Room d. 601 Room",
+                    "ans": "b"
+                },
+                {
+                    "q": "What method did the female protagonist use to create evidence that made the death of Cha Mi Hua look like it was done by Bai Wei? a. Place false evidence b. Modify time records c. Falsify messages d. Wipe fingerprints",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which floor of the witch's room layout has been confirmed to include a clock room and a suspended passage? a. Fifth and sixth floors b. Fourth and fifth floors c. Third and fourth floors d. Second and third floors",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which faction does the female protagonist represent? a. Inheritance faction b. Self interested faction c. Peace faction d. Independence faction",
+                    "ans": "b"
+                },
+                {
+                    "q": "According to the description in the article, what are the types of floors on which the elevator stops between midnight and midnight? a. Even numbered floors b. Odd numbered floors c. All floors d. No specific floors",
+                    "ans": "a"
+                },
+                {
+                    "q": "What method does the female protagonist use to confirm that her prey is characterized as \"white\"? a. Through identity recognition devices b. through handheld display panels c. through voice recognition d. through visual observation",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the special feature of Room 305 in the Witch's House? a. There is a balcony b. There are windows c. There are no windows d. There is a fireplace",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which faction does the female protagonist belong to? a. Inheritance faction b. Self interested faction c. Peace faction d. Independence faction",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are the different ways of participating in the \"Witch Gathering\" in 2090? a. Individual registration b. Random grouping c. Representative selection within the faction d. All members must participate",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which floor is the female protagonist responsible for in the exploration of the Witch's House? a. First floor b. Third floor c. Fifth floor d. Sixth floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which floors does the elevator only stop at between 12:00 and 24:00 in the Witch's House? a. Even numbered floors b. Odd numbered floors c. All floors d. No specific floors",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the result of the female protagonist's first hunting mission? a. Failed to complete task b. Successfully killed prey c. Game escaped d. Mistakenly killed others",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the \"Belidol\" mentioned in the story? a. A special item b. The location of the witch's gathering c. The witch's title d. A mysterious spell",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did the female protagonist handle the corpses of her prey? a. Buried in the garden b. Hidden at the entrance of the library c. Throwed into the lake d. Burning treatment",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many areas is the corridor divided into? a. Six regions b. Seven regions c. Eight regions d. Nine regions",
+                    "ans": "d"
+                }
+            ],
+            "self": "My name is Iris",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "In which year's \"Witch Gathering\" were participants not individually registered, but representatives selected from within the two major factions? a. 2070 b. 2080 c. 2090 d. 2100",
+                "What is the female protagonist's code name and corresponding flower in the story? a. Bai Wei b. Other shore flower c. Iris flower d. Camellia flower",
+                "What is the special feature of Room 305 in the Witch's House? a. B. with windows b. without windows c. with balcony d. with fireplace",
+                "Why are women revered in the 'Quiet Prison City'? a. Queen B. Archbishop C. Witch D. Knight",
+                "Which floors does the elevator only stop between 12 pm and 24 pm in the story? a. Even numbered floors b. Odd numbered floors c. All floors d. No specific floors",
+                "Which floor is the female protagonist responsible for exploring during the rally? a. First floor b. Third floor c. Fifth floor d. Sixth floor",
+                "Who was the prey of the female protagonist in her first hunting mission? a. Bai Wei b. Camellia c. Hyacinth d. Bian An Hua",
+                "How many areas is the corridor divided into? a. Five regions b. Six regions c. Seven regions d. Nine regions",
+                "In the text, which room is used to place the bodies of camellias? a. Room 305 b. 307 Library entrance c. 309 Room d. 601 Room",
+                "Who does the female protagonist plan to blame for the death of Camellia in the text? a. Bai Wei b. Bian An Hua c. Feng Xin Zi d. Poppy Flower",
+                "Which room in the witch's house is used as the protagonist's residence? a. Room 301 b. Room 303 c. Room 305 d. Room 307",
+                "On which floor did the female protagonist discover that the elevator only stops at odd numbered floors between 12:00 and 24:00? a. First floor b. Third floor c. Fifth floor d. Sixth floor",
+                "How does the female protagonist describe her emotional state in the text? a. Easy b. Nervous c. Exhausted d. Excited",
+                "In the story, whose room is adjacent to Room 305 where the female protagonist resides? a. Bai Wei b. Camellia c. Hyacinth d. Bian An Hua",
+                "What are the characteristics of the prey on the female protagonist's first hunting mission? a. Yellow b. Red c. Purple d. White",
+                "What method does the female protagonist use to make the death of Camellia appear to be the work of Bai Wei? a. Place false evidence b. Modify time records c. Falsify messages d. Wipe fingerprints",
+                "In the entire incident, where did the female protagonist ultimately place the body of Camellia? a. Room 305 b. 307 Library entrance c. 309 Room d. 601 Room",
+                "In the article, what is the real-time score of the female protagonist after completing the first hunting mission? a. 0 points b. 1 point c. 2 points d. 3 points",
+                "What is the prop used by the female protagonist in the plan to move the body of the camellia flower? a. Wheelchair b. Stretcher c. Carpet d. Cart",
+                "Which floors do elevators only stop at from 0:00 to 12:00 in their usage rules? a. Even numbered floors b. Odd numbered floors c. All floors d. No specific floors",
+                "What are the characteristics of the door and wall of Room 305 in the Witch's House when closed? a. Same color as the wall b. Same material as the wall c. Integrated with the wall d. Equipped with an automatic lock",
+                "What caused the tense state described by the female protagonist in the text? a. Feeling unwell b. Hearing footsteps outside the door c. Unable to see in the dark d. Poor facilities inside the guest room",
+                "According to the text description, how many areas is the corridor of the Witch's House divided into? a. Eight regions b. Nine regions c. Ten regions d. Eleven regions",
+                "What are the real-time points earned by the female protagonist throughout the entire event? a. 0 points b. 1 point c. 2 points d. 3 points",
+                "What is the type of floor on which the elevator mentioned in the article stops between 12 pm and 24 pm? a. Even numbered floors b. Odd numbered floors c. All floors d. No specific floors",
+                "Where was the body of Camellia ultimately placed? a. Room 305 b. 307 Library entrance c. 309 Room d. 601 Room",
+                "What method did the female protagonist use to create evidence that made the death of Cha Mi Hua look like it was done by Bai Wei? a. Place false evidence b. Modify time records c. Falsify messages d. Wipe fingerprints",
+                "Which floor of the witch's room layout has been confirmed to include a clock room and a suspended passage? a. Fifth and sixth floors b. Fourth and fifth floors c. Third and fourth floors d. Second and third floors",
+                "Which faction does the female protagonist represent? a. Inheritance faction b. Self interested faction c. Peace faction d. Independence faction",
+                "According to the description in the article, what are the types of floors on which the elevator stops between midnight and midnight? a. Even numbered floors b. Odd numbered floors c. All floors d. No specific floors",
+                "What method does the female protagonist use to confirm that her prey is characterized as \"white\"? a. Through identity recognition devices b. through handheld display panels c. through voice recognition d. through visual observation",
+                "What is the special feature of Room 305 in the Witch's House? a. There is a balcony b. There are windows c. There are no windows d. There is a fireplace",
+                "Which faction does the female protagonist belong to? a. Inheritance faction b. Self interested faction c. Peace faction d. Independence faction",
+                "What are the different ways of participating in the \"Witch Gathering\" in 2090? a. Individual registration b. Random grouping c. Representative selection within the faction d. All members must participate",
+                "Which floor is the female protagonist responsible for in the exploration of the Witch's House? a. First floor b. Third floor c. Fifth floor d. Sixth floor",
+                "Which floors does the elevator only stop at between 12:00 and 24:00 in the Witch's House? a. Even numbered floors b. Odd numbered floors c. All floors d. No specific floors",
+                "What was the result of the female protagonist's first hunting mission? a. Failed to complete task b. Successfully killed prey c. Game escaped d. Mistakenly killed others",
+                "What is the \"Belidol\" mentioned in the story? a. A special item b. The location of the witch's gathering c. The witch's title d. A mysterious spell",
+                "How did the female protagonist handle the corpses of her prey? a. Buried in the garden b. Hidden at the entrance of the library c. Throwed into the lake d. Burning treatment",
+                "How many areas is the corridor divided into? a. Six regions b. Seven regions c. Eight regions d. Nine regions"
+            ],
+            "a": [
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "d",
+                "b",
+                "a",
+                "c",
+                "b",
+                "c",
+                "b",
+                "d",
+                "a",
+                "b",
+                "b",
+                "c",
+                "a",
+                "c",
+                "b",
+                "b",
+                "b",
+                "b",
+                "b",
+                "a",
+                "a",
+                "b",
+                "a",
+                "b",
+                "c",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "b",
+                "d"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "Where were traces of blood stains wiped off found? a. 403 Library Front b. 405 Guest Room Front c. 307 Library Front d. Service Space Front",
+            "Where is the only scar on the corpse located? a. Forehead b. Chest c. Back of head d. Abdomen",
+            "What is the purpose of the blood soaked cloth found on the right hand of the corpse? a. Clean the floor b. Tie injuries c. Wipe off bloodstains from wounds d. Hide weapons",
+            "What do the wrinkles and silk fabric residue on the back of the corpse clothes suggest? a. Dragged b. Fighting with people c. Slipping on oneself d. Tripping over objects",
+            "How long did Camellia stay on Sunday? a. 1 hour b. 2 hours c. 1.5 hours d. 2.5 hours",
+            "What is the 'sleeping deity' mentioned in the incomplete inscription doing? a. Staring at sin b. Sleeping c. Issuing warnings d. Praying for the sacrificial offering",
+            "According to Camellia's plan, which floors' elevators will be unavailable after midnight? a. Single number layer b. Even number layer c. All layers d. Only the top layer",
+            "Who is the expected target trapped between the elevator and the library? a. Iris b. Rose c. Hyacinth d. Other shore flower",
+            "Why did everyone come to the door of Room 405? a. Participate in prayer b. Breakfast meeting c. Check the condition of camellias d. Meeting for discussion",
+            "Why can't everyone enter through the sliding door in the 403 library area? a. Locked b. blocked c. broken d. occupied by someone",
+            "Which floor did Camellia enter from the stairwell at night? a. Third floor b. Fourth floor c. Fifth floor d. Sixth floor",
+            "According to the inscription, what can the sacrificed person do? a. Sleep b. Escape c. Sleep d. Crying",
+            "Who is the plan related to the prophecy of \"taking a dead end\" mentioned in the inscription? a. Camellia b. Rose c. Iris d. Papaver",
+            "Where should everyone gather for prayer during prayer time? a. 20 worship rooms b. 405 guest rooms c. 403 library d. worship space",
+            "According to Cha Mihua's last words, how did she return to the fourth floor? a. Taking the elevator b. Climbing stairs c. Using a secret passage d. Being assisted by someone",
+            "Where is Camellia expected to hide in the plan mentioned in the note in the corpse's mouth? a. 403 Library b. Weekday c. 307 Library d. 405 Guest Room",
+            "What does it mean that all corridors have the same decoration? a. Unable to find exit b. unable to identify direction c. all rooms are the same d. unable to identify location by house number",
+            "According to the description of the situation, who is most likely to be the murderer? a. Iris b. Rose c. Hyacinth d. Poppy",
+            "Where is the most likely source of the silk fabric residue on the back of the corpse clothes? a. Captured by the murderer b. slid over the silk floor c. came into contact with silk sheets d. rubbed against other silk clothing",
+            "What was the cause of death of the deceased? a. Stabbed b. Poisoned c. Head injury d. Falling backwards resulting in death",
+            "When did the perpetrator move the body from the entrance of Room 405? a. Before death b. Immediately after death c. After a period of time d. The body has not been moved",
+            "Who wrote the note in the corpse's mouth? a. The victim himself b. the murderer c. another witness d. cannot be determined",
+            "What is the purpose of the metal door next to the fourth floor library being blocked? a. Trapped White Rose b. prevented anyone from entering c. unrelated to the description on the note d. protected the scene from destruction",
+            "On the third floor, which two residents' locations are known? a. Iris and self rose b. Iris and white rose c. Self rose and hyacinth d. Hyacinth and shore flower",
+            "According to new information, where is the most likely location where the deceased fell and died? a. B. In front of the door of room 405, c. In the library room 403, d. In the corridor leading to the stairs",
+            "What is the most likely purpose of the killer moving the body? a. Mistakenly believing that the body still has life b. Attempting to conceal the cause of death c. Confusing the direction of the investigation d. Creating a fake crime scene",
+            "Who is most likely to be the true author of the note? a. Camellia b. Rose c. White Rose d. Murderer",
+            "What does blocking the metal door next to the fourth floor library mean? a. It's to execute the plan on the note. b. Attempting to prevent people from discovering the body. c. Irrelevant behavior. d. To confuse investigators",
+            "What are the residential locations of Iris and Rose on the third floor? a. 305 and 307 b. 305 and 309 c. 307 and 309 d. 301 and 305",
+            "What is the actual impact of the metal door next to the fourth floor library being blocked? a. Blocked everyone from entering the library b. unrelated to the intended purpose c. prevented the white rose from escaping d. restricted people's movement range",
+            "At which time period is the murderer most likely to move the body? a. After the tea flowers leave the worship time, b. after the prayer time ends, c. after midnight, d. on the night before they are discovered",
+            "What is the relationship between the note in the body's mouth and the actual situation? a. Described the real plan b. Was intended to mislead the investigation c. Recorded the deceased's last wishes d. Murderer's prank",
+            "What does the information about blocking the door and the note indicate? a. The killer has a well thought out plan. b. The plan in the note was not actually implemented. c. Someone attempted to help the deceased. d. There is an unknown conspirator",
+            "What impact does the act of moving a corpse have on the investigation? a. Increased the difficulty of finding the murderer b. No impact c. Accelerated the investigation progress d. Makes the investigation more focused",
+            "What impact does the method of death of the deceased have on the difficulty of identifying the perpetrator? a. Increased difficulty b. Reduced difficulty c. No impact d. Make the investigation direction more clear",
+            "What is the consistency between the content of the note and the actual situation of the crime? a. Completely consistent b. There are some discrepancies c. Completely inconsistent d. There is too little information to determine",
+            "According to the new information, who is most likely to have killed the deceased? a. Iris b. White Rose c. Unknown Third Party d. Victims in their own plan",
+            "What is the real intention behind blocking the door? a. Implement the plan on the note b. Protect someone from harm c. Confuse investigators d. Prevent the body from being discovered early",
+            "What impact does the actions of Iris and White Rose on the third floor have on the case? a. Key clues b. irrelevant c. provide important temporal information d. display potential motivations",
+            "Who is staying in Room 309? a. Iris b. Rose c. White Rose d. Camellia",
+            "What is the main reason for the killer? a. Wrong belief that the deceased still has life. b. Attempting to conceal the cause of death. c. Blaming the death of Camellia sinensis onto White Rose. d. Confusing the investigation direction of the case",
+            "What is the real plan of the murderer? a. Transfer the body to the entrance of Room 405. b. Transfer the body to the entrance of Room 403. c. Transfer the body to the entrance of Room 307. d. Keep the body in its original position",
+            "Why did the murderer block the metal door? a. Protecting the scene from destruction b. Preventing anyone from approaching c. Trapping White Rose d. Confusing investigators",
+            "Where is White Rose trapped? a. Between Room 405 and Library 403, b. between the elevator and the library, c. between the stairs and the library, d. in one's own room",
+            "What does the content of the note reveal? a. The deceased's last wishes b. Misguidance by the murderer c. The purpose of the murderer's framing d. New directions for investigation",
+            "What does the accommodation location of White Rose mean for the investigation of the case? a. Provide irrelevant information b. Key clues c. Display potential motives d. Evidence confirming the identity of the perpetrator",
+            "What is the main reason for the killer moving the body to a specific location? a. Blurring the truth of the case b. Paving the way for one's own escape plan c. Blaming specific individuals for the crime d. Hiding the true cause of death",
+            "Which target is associated with blocking the metal door? a. Creating misunderstandings b. Restricting the actions of specific individuals c. Destroying the original state of the crime scene d. Hiding the true escape route",
+            "Why does the murderer want to blame Bai Rose? a. Personal grudges b. Randomly selected targets c. Description in the note d. Detailed plan and layout",
+            "What is the ultimate goal of the murderer? a. Hidden identity b. Confusing the public c. Implementing complex revenge plans d. Shifting attention to White Rose",
+            "What is the reason for the inconsistency between the note and the actual action? a. The note is misleading. b. The plan behind the note failed. c. The killer changed the plan. d. Unknown external interference",
+            "What is the key step in the killer's plan? a. Leave a note b. Transfer the body c. Block the metal door d. Falsify evidence",
+            "What is the purpose of blocking the door in the case? a. Create escape routes b. Confuse investigators c. Implement complex plans d. Prevent being tracked",
+            "According to new evidence, who is most likely to be the murderer? a. Iris b. self rose c. white rose d. an unknown third party",
+            "What should be the focus of the case investigation? a. Confirm the time of death of the deceased b. Analyze the content of the note c. Investigate the activities of personnel between floors d. Determine the true target of the perpetrator",
+            "What is the difference between the plan on the note and the actual event that happened? a. The plan and event are exactly the same. b. There are slight differences. c. There are significant differences. d. It's completely two sets of plans",
+            "What is the purpose of the murderer forging the note? a. Pure misleading b. Determining the identity of the deceased c. Creating false criminal motives d. Blaming Bai Rose",
+            "What is the key evidence of the case? a. The location of the body b. The content of the note c. The fact that the metal door was blocked d. The real plan of the killer",
+            "What is the significance of White Rose's role in the case? a. The accomplice of the murderer b. Wrong suspect c. Key witness d. True victim",
+            "On which floor did the murderer mistakenly believe that he had killed Camellia? a. 2nd floor b. 3rd floor c. 4th floor d. 5th floor",
+            "On which floor did the murderer actually kill Camellia? a. 2nd floor b. 3rd floor c. 4th floor d. 5th floor",
+            "What does the perpetrator's misunderstanding of their floor mean for the investigation of the case? a. No impact b. Confused the real crime scene c. Provided key clues for investigation d. Showed that the perpetrator carefully planned the crime",
+            "What could be the consequences of the murderer's misunderstanding? a. Providing an alibi for oneself incorrectly b. Leaving criminal traces on the wrong floor c. Pointing to the wrong suspect d. All of the above answers",
+            "How can this misunderstanding help resolve the case? a. Provided logical errors for the perpetrator b. revealed their unfamiliarity with the building layout c. pointed out possible escape routes for the perpetrator d. increased psychological pressure on the perpetrator, which may have prompted them to make mistakes"
+        ],
+        "key_ans": [
+            "b",
+            "c",
+            "c",
+            "b",
+            "a",
+            "a",
+            "a",
+            "b",
+            "c",
+            "b",
+            "b",
+            "c",
+            "a",
+            "a",
+            "b",
+            "c",
+            "d",
+            "Based on the provided information, it cannot be determined and further analysis is needed",
+            "b",
+            "d",
+            "b",
+            "b",
+            "c",
+            "b",
+            "b",
+            "c",
+            "d",
+            "d",
+            "b",
+            "b",
+            "c",
+            "b",
+            "b",
+            "a",
+            "a",
+            "c",
+            "c",
+            "c",
+            "c",
+            "c",
+            "c",
+            "c",
+            "d",
+            "b",
+            "c",
+            "b",
+            "c",
+            "a",
+            "d",
+            "d",
+            "c",
+            "b",
+            "b",
+            "d",
+            "d",
+            "c",
+            "d",
+            "d",
+            "b",
+            "b",
+            "c",
+            "b",
+            "d",
+            "b"
+        ],
+        "key_sc": [
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-4",
+            "p-4",
+            "p-4",
+            "p-4",
+            "p-4"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "Where is the only scar on the corpse located? a. Forehead b. Chest c. Back of head d. Abdomen",
+            "What is in the hands of the corpse? a. A blood soaked tissue b. A blood soaked cloth c. A blood soaked clothing d. A blood soaked hair",
+            "What are the features on the back of the clothes of the corpse? a. Blood stains b. Wrinkles and silk fabric residue c. Burn marks d. Dirt",
+            "What are the traces on the bed in Room 405? a. Not used b. Damaged c. Used d. Cleaned",
+            "What condition led to the exclusion of the bathroom vase in Room 405 as the weapon that caused the death of the deceased? a. The bottle is completely broken. b. There are bloodstains on the bottle. c. The bottle is intact. d. There are cracks on the bottle",
+            "What are the characteristics of metal sliding doors? a. The marks left by violent impact and obvious corrosion marks on the door lock b. The marks left by violent impact and obvious rust marks on the door lock c. Only the marks left by violent impact d. The marks left by violent impact and its lock have been pried",
+            "The note in the corpse's mouth said, 'Where will White Rose be trapped according to the plan?'? a. B. Between the elevator and the guest room c. Between the library and the elevator d. She won't be trapped!",
+            "Where is the bloodstain in front of Room 405? a. Position of the door center b. On the door handle c. On the silk carpet d. On the door seam",
+            "Where is the location of the attack on Camellia sinensis? a. B. Room 405 in front of the door c. Library d. Staircase",
+            "At what time will the elevator mentioned in the note become unusable? a. All day b. Only after midnight c. Only before midnight d. Random time",
+            "Where does the murder plan in the note involve blocking the door? a. Library b. Staircase door c. Guest room door d. Worship room",
+            "When did the attacker of Camellia appear? a. Ten o'clock b. Eleven o'clock c. Zero o'clock d. After zero o'clock",
+            "On which floor did the murder plan in the note mainly take place? a. Single numbered floor b. Even numbered floor c. All floors d. Underground floor",
+            "What does the intact condition of the vase in the bathroom of Room 405 imply? a. Never touched b. Someone carefully maintains c. Someone has investigated d. Cannot be determined",
+            "What impact may the content of the note have on the investigation? a. Not important b. Providing misleading c. Helping to identify the perpetrator d. Confirming the time of death",
+            "Who entered the third floor through the stairwell at 10 pm on a Sunday? a. Iris and white rose b. Teasa and hyacinth c. Hibiscus and poppy d. White rose and hyacinth",
+            "Which floor do the flowers from the other shore go to the stairwell at 0:10 on a fiery day? a. 2nd floor b. 5th floor c. 6th floor d. cannot be determined",
+            "What floor did the other shore flower go from the stairwell to at 12:33 on the scorching day? a. First floor b. Fifth floor c. Sixth floor d. Third floor",
+            "At eleven o'clock on a Sunday evening, which floor did Camellia enter from the stairwell? a. First floor b. Second floor c. Third floor d. Fourth floor",
+            "At 12:30 on the scorching day, which floor did the other shore flower use the elevator to exit from? a. Second floor b. Third floor c. Fourth floor d. Sixth floor"
+        ],
+        "key_ans": [
+            "c",
+            "b",
+            "b",
+            "c",
+            "c",
+            "c",
+            "c",
+            "c",
+            "b",
+            "b",
+            "b",
+            "b",
+            "a",
+            "a",
+            "c",
+            "a",
+            "b",
+            "b",
+            "d",
+            "d"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "How many clock rooms are there? a. One b. Two c. Three d. Four",
+            "On which side are the stairs distributed? a. Right b. Central c. Left d. Rear",
+            "What floor is the divination room on? a. Basement b. 1st floor c. 2nd floor d. 3rd floor",
+            "Which floors have completely unique rooms? a. 1st and 2nd floors b. 3rd and 4th floors c. 5th and 6th floors d. 4th and 5th floors",
+            "Which floors do not have guest rooms? a. 1st and 2nd floors b. 3rd and 4th floors c. 5th and 6th floors d. 4th and 5th floors",
+            "Which floors have clock rooms? a. 1st and 2nd floors b. 3rd and 4th floors c. 5th and 6th floors d. 4th and 5th floors",
+            "Which floors have completely consistent room distribution and types? a. 1st and 3rd floors b. 2nd and 5th floors c. 3rd and 6th floors d. 4th and 6th floors",
+            "What is the room next to the elevator that appears the most frequently? a. Restaurant b. Guest room c. Study d. Game room",
+            "What is the room next to the stairs that appears the least frequently? a. Room b. Restaurant c. Inscription Room and Greenhouse d. Library",
+            "Which room is the warehouse downstairs? a. 101 b. 202 c. 303 d. 404",
+            "What room is on the right side of the locked room? a. Room b. Restaurant c. Library d. Worship Room",
+            "How many guest rooms are there in total? a. 7 b. 8 c. 9 d. 11",
+            "How many water rooms are there in total? a. 2 b. 3 c. 4 d. 5",
+            "Which two floors have completely identical distribution of room types? a. 3rd and 5th floors b. 4th and 6th floors c. 2nd and 4th floors d. 5th and 7th floors",
+            "What floor is the restaurant on? a. 1st floor b. 2nd floor c. 3rd floor d. 4th floor"
+        ],
+        "key_ans": [
+            "b",
+            "c",
+            "b",
+            "a",
+            "a",
+            "c",
+            "d",
+            "b",
+            "c",
+            "c",
+            "d",
+            "d",
+            "c",
+            "b",
+            "b"
+        ]
+    },
+    "ju_name": "Monv",
+    "task_nm": "The deceased is",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Iris"
+    ],
+    "murder": "Iris",
+    "reason": "Motive for committing the crime:"
+}

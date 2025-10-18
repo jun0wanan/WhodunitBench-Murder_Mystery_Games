@@ -1,0 +1,2436 @@
+{
+    "key_clues_pool": {
+        "p": [
+            "The storage room upstairs houses various hotel supplies, decorative ornaments for film and television, as well as various film and television props including fake guns and spring crossbows.",
+            "Meditation of Eros \": In the painting, Eros is a strong and robust adult male, with the only difference being that he has four tails representing justice, fairness, compassion, and benevolence. Eros was completely naked, with distinct muscle lines. He sat cross legged, holding his head high and chest straight, with his hands crossed tightly, his arms down, and the back of his hand between his legs. His eyes were tightly closed, as if he was thinking something",
+            "The phone next to the deceased answered a call from an unfamiliar number at 3:21 pm on the day of the incident.",
+            "The only window in the room opens outward from the horizontal axis, and can only open up to 60 degrees.",
+            "Spring crossbow: A spring crossbow that can be fixed on any stick shaped object with a diameter of 6 centimeters and a length of 30 centimeters or less, and can shoot out 9 shots with great power",
+            "Webster heard the sound upstairs while delivering milk",
+            "The surveillance footage did not show any entry into the victim's room, so the perpetrator may not have killed the victim inside the room",
+            "The killer can kill outside the secret room, so they can avoid surveillance",
+            "The prop room upstairs is managed by Rolf, and only he can enter."
+        ],
+        "1-step": [
+            "There are secrets hidden in the painting",
+            "The killer may attract the deceased to probe through the window by phone",
+            "The deceased had poked their head out and looked up before their death",
+            "No one has entered the deceased's room",
+            "Make the deceased think that someone is going to tell her the answer in the painting through this line",
+            "The murderer may be upstairs",
+            "The killer shot from upstairs",
+            "The killer can shoot a screwdriver down from upstairs.",
+            "The murderer is committing the crime upstairs",
+            "The deceased's location is under the window"
+        ],
+        "2-step": [
+            "The deceased looked overhead through the window",
+            "The killer does not need to enter the victim's room, just need to have the victim look up from the window directly above the victim's room, and then use a spring crossbow to shoot the killer"
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            35
+        ]
+    },
+    "public_clue": "The sound heard by Webster while delivering milk from upstairs,",
+    "key_clues_questions": [
+        {
+            "q": "Which of the following is not included in the storage room upstairs? a. Hotel supplies b. Decorative ornaments for film and television c. Daily necessities d. Film and television props",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "How many tails does Eros have in the painting \"Meditation of Eros\"? a. 2 b. 3 c. 4 d. 5",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What do the tails of Eros represent? a. Justice, fairness, wisdom, strength b. Justice, fairness, compassion, benevolence and righteousness c. Bravery, justice, fairness, loyalty d. Hope, dreams, love, peace",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "What was the time on the day of the incident when the deceased's phone answered a call from an unfamiliar number? a. 2:21 PM b. 3:21 PM c. 4:21 PM d. 5:21 PM",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "How many degrees can the windows in the room be opened at most? a. 30 degrees b. 45 degrees c. 60 degrees d. 90 degrees",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What are the diameters and lengths of stick shaped objects that a spring crossbow can shoot? a. Diameter 5cm, length 25cm b. Diameter 6cm, length 30cm c. Diameter 7cm, length 35cm d. Diameter 8cm, length 40cm",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "Under what circumstances did Webster hear the sound from upstairs? a. When cleaning b. When delivering milk c. When repairing things d. When taking a walk",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "What does it mean that the surveillance did not record anyone entering the deceased's room? a. The killer used stealth technology. b. The killer used a secret passage. c. The killer did not kill the victim in the room. d. The monitoring equipment malfunctioned",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What is the reason why the murderer may choose to kill outside the secret room? a. To create suspense, to avoid surveillance, to conceal identity, and to test new weapons",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "Who manages the prop room upstairs? a. Rolf B. Webster C. deceased d. unknown person",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "Only who can enter the prop room upstairs? a. Anyone b. Rolf c. Relatives and friends of the deceased d. Hotel staff",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "What is the power of a spring crossbow? a. Small b. General c. Extremely large d. Insignificant",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What is the posture of Eros in the meditation of Eros? a. Sitting cross legged b. Standing c. Kneeling d. Lying prone",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "Does Eros wear any clothes in the painting? a. Yes b. No c. Wear only bottoms d. Wear only tops",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "What are the movie props stored in the upstairs storage room? a. Real gun b. Fake gun c. Live ammunition d. Rubber bullets",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "What was the call received by the phone next to the deceased on the day of the incident? a. Friends calling b. Family calling c. Unknown phone number calling d. Work phone number",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What is the axis of the window that opens outward? a. Vertical plane b. Horizontal plane c. Sloping plane d. Fixed and immovable",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "How did Webster become a witness who heard the sound upstairs? a. He lives upstairs. B. He is working upstairs. C. He heard it while delivering milk downstairs. D. He heard it over the phone",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "If the killer kills outside the secret room, what are they mainly trying to avoid? a. Discovered by the neighbor next door to the deceased b. Directly in contact with the deceased c. Discovered by surveillance footage d. Left fingerprints at the scene",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What types of items are mainly stored in the prop room upstairs? a. Personal items b. Cleaning utensils c. Film props and decorations d. Food and beverages",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What method did the killer use to attract the deceased to probe through the window? a. Phone b. Knocking on the window c. Shouting loudly d. Sending text messages",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What was the behavior of the deceased before their death? a. Look down b. Look up c. Look left d. Look right",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Which of the following is correct regarding the situation in the deceased's room? a. Multiple people entered and exited. b. Only the deceased entered and exited. c. No one entered. d. The perpetrator entered",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "How did the murderer make the deceased think he would tell her the secret in the painting? a. Phone b. Message c. Letter d. Direct conversation",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Where could the murderer be located? a. Upstairs b. Downstairs c. Inside the deceased's room d. Opposite building",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "How did the murderer kill the deceased? a. Pistol shooting b. Knife stabbing c. Shooting from upstairs d. Poisoning to death with poison",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What did the killer shoot from upstairs? a. Bullets b. Arrows c. Screwdrivers d. Stones",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Where was the deceased killed? a. On the bed b. On the chair c. Under the window d. At the door",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What did the killer use to induce the deceased to lean out of the window? a. Tell him the secret in the painting. b. The drone note outside the window. c. The neighbor's cries for help below the window. d. Pretend someone is knocking on the window",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What weapon did the murderer use to kill the deceased? a. Pistol b. Spring crossbow c. Long bow d. Stone throwing tool",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "Where was the location where the murderer killed the deceased? a. B. In the deceased's room b. Beside the deceased's room c. Across from the deceased's room d. Directly above the deceased's room",
+            "ans": "d",
+            "source": "p-2"
+        },
+        {
+            "q": "Why doesn't the murderer need to enter the deceased's room? a. He can control the deceased through the phone. B. He uses remote weapons. C. He has traps in the deceased's room. D. He observes the deceased through the window",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "How did the murderer make the deceased look up from the window? a. Using sound to attract b. Sending text messages to make him look up c. Mentioning things that the deceased is interested in on the phone d. Guiding through external light sources",
+            "ans": "c",
+            "source": "p-2"
+        }
+    ],
+    "role": [
+        {
+            "name": "rolf",
+            "back": "You're awake.",
+            "self": "My name is Rolf, I am 24 years old and I play the role of prop designer in this production team. My job mainly involves managing props and equipment for the production team, and occasionally assisting actors with dialogue. Regarding the case, what I want to say is that during the time of the incident, Joey and I were working on dialogue,",
+            "answer": "I don't know. I am not the murderer.",
+            "r_q": [
+                {
+                    "q": "How many people are considered innocent in the game Inside? a. 1 b. 2 c. 6 d. 7",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the theme of the Judge's game? a. Escape Room b. Murder Room c. Battle Royale d. Mystery Reasoning and Solving",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Rolf's age? a. 19 years old b. 22 years old c. 24 years old d. 25 years old",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which of the following is not included in the six cases in the game? a. Blood stained message b. Escape room c. Instantly disappearing perpetrator d. Curse of Eros' dismemberment",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Rolf react to the game of the judge? a. Excitement b. Fear c. Excitement but not understanding d. Feeling bored",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who first proposes to play the game according to the judge's request in the room? a. Muscle man b. Glasses wearing woman c. Faris d. Thomas",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Thomas' attitude towards games? a. Excitement b. Refusal c. Calmness d. Fear",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Rolf's profession? a. Actor b. Director c. Proprietor d. Screenwriter",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which floor is Rolf's room located? a. 26th floor b. 28th floor c. 29th floor d. 30th floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who did Rolf exchange lines with over the phone? a. Faris B. Thomas C. Joey D. Taylor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which of the following apartment floors was used by the crew of 'The Curse of Eros'? a. 25th floor b. 26th floor c. 29th floor d. 30th floor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which floor does the director live on in the crew? a. 26-27th floor b. 27-28th floor c. 26-28th floor d. 29th floor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Rolf's attitude towards the judge? a. Admiring b. Disgusting c. Understanding d. It doesn't matter",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the main story of 'The Curse of Eros' about? a. Detective solves a missing case b. Detective solves a murder case c. Exploration of a mysterious island d. Love story in a small town",
+                    "ans": "b"
+                },
+                {
+                    "q": "When was the last time Rolf saw the director? a. 2pm b. 2:30pm c. 3pm d. 3:30pm",
+                    "ans": "a"
+                },
+                {
+                    "q": "What time period is Rolf's alibi? a. 2:30 to 3:30 b. 3:30 to 3:30 c. 2:30 to 2:30 d. 2:30 to 4:00",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which floor is the apartment under the crew's package from? a. 25-28th floor b. 26-29th floor c. 27-30th floor d. 28-31st floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who is the famous detective in 'The Curse of Eros'? a. Palos B. Eros C. Fisher D. Rolf",
+                    "ans": "a"
+                },
+                {
+                    "q": "What does Rolf call others in the game? a. Partner b. Player c. Opponent d. Friend",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the wise saying of the judge? a. Everyone has secrets. B. No one is innocent. C. Justice always triumphs. D. There is always only one truth",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Rolf's room number? a. 2805 b. 2809 c. 2812 d. 2820",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Rolf's reason for believing that Joey may be the murderer? a. Her alibi b. She's very timid c. She seems to have hostility towards the director d. She knows the director very well",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who is a possible murderer mentioned in the game? a. Taylor B. Faris C. Joey D. Thomas",
+                    "ans": "c"
+                },
+                {
+                    "q": "Is Rolf left-handed or right-handed? a. Left handed b. Right handed c. Double handed d. Uncertain",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which character in the story is most looking forward to the start of the game? a. Thomas B. Taylor C. Webster D. Sarah",
+                    "ans": "c"
+                },
+                {
+                    "q": "What types of paintings did Rolf send to the director? a. Abstract painting b. Landscape painting c. Puzzle painting d. Portrait painting",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the ultimate goal of the game 'Inside'? a. Find the innocent person b. Escape from the secret room c. All players survive d. Expose all crimes",
+                    "ans": "a"
+                },
+                {
+                    "q": "How did Rolf help Joey with his lines? a. Video call b. Telephone c. Face to face d. Sending SMS",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is Rolf's room located under surveillance? a. Blind spot b. Central area c. Near entrance d. Near exit",
+                    "ans": "a"
+                },
+                {
+                    "q": "According to Rolf's observation, which character seems excited about the game? a. Faris B. Joey C. Thomas D. Webster",
+                    "ans": "d"
+                },
+                {
+                    "q": "Which floor to which floor did the production team of 'The Curse of Eros' occupy in the Verden apartment? a. 26th to 28th floors b. 26th to 29th floors c. 27th to 29th floors d. 25th to 28th floors",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the painting that director Fisher is most interested in hiding? a. A history b. a secret c. a clue d. a puzzle",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the last time director Fisher and Rolf met? a. 12:00 noon b. 2:00 pm c. 3:00 pm d. 4:00 pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where are Rolf and other players locked up in the game Inside? a. A factory b. A secret room c. A school d. A warehouse",
+                    "ans": "b"
+                },
+                {
+                    "q": "According to the story, who could be Rolf's potential killer? a. Taylor B. Thomas C. Joey D. Faris",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of punishment is the Fire of Judgment mentioned in the game? a. Physical punishment b. Psychological punishment c. Public humiliation d. Death",
+                    "ans": "d"
+                },
+                {
+                    "q": "What did Rolf and Joey do on the phone? a. Quarrel b. Discuss escape plan c. Discuss dialogue d. Share secrets",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is the director and female screenwriter on the set of 'The Curse of Eros'? a. Taylor B. Sara C. Joey D. Fisher",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the name of the detective in 'The Curse of Eros'? a. Palos B. Faris C. Rolf D. Webster",
+                    "ans": "a"
+                },
+                {
+                    "q": "What are Rolf's responsibilities on the set? a. Director b. Screenwriter c. Actor d. Proprietor",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is one of the principles of the Judge Game? a. Never deceive players. b. Everyone has secrets. c. Escapists gain freedom. d. Guilty is deserved",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Rolf's room number? a. 2805 b. 2809 c. 2812 d. 2820",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Rolf's opinion on the game of the judge? a. He thinks this is a good opportunity. B. He feels very scared. C. He feels a little excited. D. He wants to run away immediately",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many cases did the judge provide as clues in the game? a. 5 b. 6 c. 7 d. 8",
+                    "ans": "b"
+                },
+                {
+                    "q": "What did Rolf and Joey do after the incident? a. Avoiding surveillance b. Discussing the case over the phone c. Responding to dialogue d. Planning to escape",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did director Fei Xue die? a. B. Hall of Verden Hotel Apartments B. 28th floor of Verden Hotel Apartments C. Her own room D. Rolf's room",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why does Rolf think Joey might not be the murderer? a. Her alibi b. She has no motive c. She is a good friend of the director d. The surveillance footage did not record her",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the game objective claimed by the judge? a. Find the truth b. Punish the guilty c. Escape room d. Get to know each other",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Rolf's attitude at the beginning of the game? a. Nervous and uneasy b. Calm and composed c. Curious d. Extremely excited",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the common goal of players in the game Inside? a. Find the exit b. Trust each other c. Expose the identity of the judge d. Find the innocent person",
+                    "ans": "d"
+                }
+            ],
+            "m": 1,
+            "q": [
+                "How many people are considered innocent in the game Inside? a. 1 b. 2 c. 6 d. 7",
+                "What is the theme of the Judge's game? a. Escape Room b. Murder Room c. Battle Royale d. Mystery Reasoning and Solving",
+                "What is Rolf's age? a. 19 years old b. 22 years old c. 24 years old d. 25 years old",
+                "Which of the following is not included in the six cases in the game? a. Blood stained message b. Escape room c. Instantly disappearing perpetrator d. Curse of Eros' dismemberment",
+                "How did Rolf react to the game of the judge? a. Excitement b. Fear c. Excitement but not understanding d. Feeling bored",
+                "Who first proposes to play the game according to the judge's request in the room? a. Muscle man b. Glasses wearing woman c. Faris d. Thomas",
+                "What is Thomas' attitude towards games? a. Excitement b. Refusal c. Calmness d. Fear",
+                "What is Rolf's profession? a. Actor b. Director c. Proprietor d. Screenwriter",
+                "On which floor is Rolf's room located? a. 26th floor b. 28th floor c. 29th floor d. 30th floor",
+                "Who did Rolf exchange lines with over the phone? a. Faris B. Thomas C. Joey D. Taylor",
+                "Which of the following apartment floors was used by the crew of 'The Curse of Eros'? a. 25th floor b. 26th floor c. 29th floor d. 30th floor",
+                "Which floor does the director live on in the crew? a. 26-27th floor b. 27-28th floor c. 26-28th floor d. 29th floor",
+                "What is Rolf's attitude towards the judge? a. Admiring b. Disgusting c. Understanding d. It doesn't matter",
+                "What is the main story of 'The Curse of Eros' about? a. Detective solves a missing case b. Detective solves a murder case c. Exploration of a mysterious island d. Love story in a small town",
+                "When was the last time Rolf saw the director? a. 2pm b. 2:30pm c. 3pm d. 3:30pm",
+                "What time period is Rolf's alibi? a. 2:30 to 3:30 b. 3:30 to 3:30 c. 2:30 to 2:30 d. 2:30 to 4:00",
+                "Which floor is the apartment under the crew's package from? a. 25-28th floor b. 26-29th floor c. 27-30th floor d. 28-31st floor",
+                "Who is the famous detective in 'The Curse of Eros'? a. Palos B. Eros C. Fisher D. Rolf",
+                "What does Rolf call others in the game? a. Partner b. Player c. Opponent d. Friend",
+                "What is the wise saying of the judge? a. Everyone has secrets. B. No one is innocent. C. Justice always triumphs. D. There is always only one truth",
+                "What is Rolf's room number? a. 2805 b. 2809 c. 2812 d. 2820",
+                "What is Rolf's reason for believing that Joey may be the murderer? a. Her alibi b. She's very timid c. She seems to have hostility towards the director d. She knows the director very well",
+                "Who is a possible murderer mentioned in the game? a. Taylor B. Faris C. Joey D. Thomas",
+                "Is Rolf left-handed or right-handed? a. Left handed b. Right handed c. Double handed d. Uncertain",
+                "Which character in the story is most looking forward to the start of the game? a. Thomas B. Taylor C. Webster D. Sarah",
+                "What types of paintings did Rolf send to the director? a. Abstract painting b. Landscape painting c. Puzzle painting d. Portrait painting",
+                "What is the ultimate goal of the game 'Inside'? a. Find the innocent person b. Escape from the secret room c. All players survive d. Expose all crimes",
+                "How did Rolf help Joey with his lines? a. Video call b. Telephone c. Face to face d. Sending SMS",
+                "Where is Rolf's room located under surveillance? a. Blind spot b. Central area c. Near entrance d. Near exit",
+                "According to Rolf's observation, which character seems excited about the game? a. Faris B. Joey C. Thomas D. Webster",
+                "Which floor to which floor did the production team of 'The Curse of Eros' occupy in the Verden apartment? a. 26th to 28th floors b. 26th to 29th floors c. 27th to 29th floors d. 25th to 28th floors",
+                "What is the painting that director Fisher is most interested in hiding? a. A history b. a secret c. a clue d. a puzzle",
+                "What was the last time director Fisher and Rolf met? a. 12:00 noon b. 2:00 pm c. 3:00 pm d. 4:00 pm",
+                "Where are Rolf and other players locked up in the game Inside? a. A factory b. A secret room c. A school d. A warehouse",
+                "According to the story, who could be Rolf's potential killer? a. Taylor B. Thomas C. Joey D. Faris",
+                "What type of punishment is the Fire of Judgment mentioned in the game? a. Physical punishment b. Psychological punishment c. Public humiliation d. Death",
+                "What did Rolf and Joey do on the phone? a. Quarrel b. Discuss escape plan c. Discuss dialogue d. Share secrets",
+                "Who is the director and female screenwriter on the set of 'The Curse of Eros'? a. Taylor B. Sara C. Joey D. Fisher",
+                "What is the name of the detective in 'The Curse of Eros'? a. Palos B. Faris C. Rolf D. Webster",
+                "What are Rolf's responsibilities on the set? a. Director b. Screenwriter c. Actor d. Proprietor",
+                "What is one of the principles of the Judge Game? a. Never deceive players. b. Everyone has secrets. c. Escapists gain freedom. d. Guilty is deserved",
+                "What is Rolf's room number? a. 2805 b. 2809 c. 2812 d. 2820",
+                "What is Rolf's opinion on the game of the judge? a. He thinks this is a good opportunity. B. He feels very scared. C. He feels a little excited. D. He wants to run away immediately",
+                "How many cases did the judge provide as clues in the game? a. 5 b. 6 c. 7 d. 8",
+                "What did Rolf and Joey do after the incident? a. Avoiding surveillance b. Discussing the case over the phone c. Responding to dialogue d. Planning to escape",
+                "Where did director Fei Xue die? a. B. Hall of Verden Hotel Apartments B. 28th floor of Verden Hotel Apartments C. Her own room D. Rolf's room",
+                "Why does Rolf think Joey might not be the murderer? a. Her alibi b. She has no motive c. She is a good friend of the director d. The surveillance footage did not record her",
+                "What is the game objective claimed by the judge? a. Find the truth b. Punish the guilty c. Escape room d. Get to know each other",
+                "What was Rolf's attitude at the beginning of the game? a. Nervous and uneasy b. Calm and composed c. Curious d. Extremely excited",
+                "What is the common goal of players in the game Inside? a. Find the exit b. Trust each other c. Expose the identity of the judge d. Find the innocent person"
+            ],
+            "a": [
+                "a",
+                "b",
+                "c",
+                "b",
+                "c",
+                "b",
+                "a",
+                "c",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "a",
+                "b",
+                "b",
+                "a",
+                "b",
+                "b",
+                "b",
+                "b",
+                "c",
+                "b",
+                "c",
+                "c",
+                "a",
+                "b",
+                "a",
+                "d",
+                "b",
+                "d",
+                "b",
+                "b",
+                "c",
+                "d",
+                "c",
+                "d",
+                "a",
+                "d",
+                "a",
+                "b",
+                "c",
+                "b",
+                "c",
+                "c",
+                "d",
+                "b",
+                "c",
+                "d"
+            ]
+        },
+        {
+            "name": "Faris",
+            "back": "You're awake",
+            "r_q": [
+                {
+                    "q": "What role does Faris play in the game? a. Director b. Screenwriter c. Detective d. Murderer",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which floors of the Verden apartment did the crew of 'The Curse of Eros' take over? a. 25-28th floor b. 26-29th floor c. 24-27th floor d. 27-30th floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the body of the deceased found? a. Living room b. Bedroom c. Balcony d. Bathroom",
+                    "ans": "b"
+                },
+                {
+                    "q": "What caused the immediate death of the deceased? a. Poisoned to death b. suffocated c. dazzled d. beaten",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the Judge's Game called in the game? a. Survival games b. Death games c. Chamber of Secrets games d. Adventure games",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where does the plot of 'The Curse of Eros' mainly take place? a. Groster Town b. Wilden Hotel c. Alps d. London",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the occupation of the deceased Fisher? a. Actor b. Director c. Screenwriter d. Producer",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of person was not found in the surveillance footage at the crime scene? a. Dead b. Murderer c. Detective d. Witness",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who was the first to reject the judge's game rules at the beginning of the game? a. Muscle man b. Glasses wearing woman c. Faris d. Thomas",
+                    "ans": "a"
+                },
+                {
+                    "q": "At the beginning of the game, who suggested that everyone get to know each other? a. Faris B. Thomas C. Joey D. Sara",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which floors do the members of the cast of 'The Curse of Eros' mainly live on? a. 25-27th floor b. 26-28th floor c. 26-29th floor d. 27-30th floor",
+                    "ans": "c"
+                },
+                {
+                    "q": "In this secret room murder case, where was the victim's body found? a. Living room b. Bedroom c. Balcony d. Bathroom",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the cause of Fisher's immediate death? a. Poisoned to death b. suffocated c. dazzled d. beaten",
+                    "ans": "c"
+                },
+                {
+                    "q": "According to the game's settings, what will the judge call their game? a. Survival games b. Death games c. Chamber of Secrets games d. Adventure games",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the story background of 'The Curse of Eros' set? a. Groster Town b. Wilden Hotel c. Alps d. London",
+                    "ans": "a"
+                },
+                {
+                    "q": "What role did the deceased Fisher hold in 'The Curse of Eros'? a. Actor b. Director c. Screenwriter d. Producer",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of people's images were not recorded by the surveillance at the crime scene? a. Dead b. Murderer c. Detective d. Witness",
+                    "ans": "b"
+                },
+                {
+                    "q": "At the beginning of the game, who was the first to express their rejection of the Judge's game rules? a. Muscle man b. Glasses wearing woman c. Faris d. Thomas",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who suggested getting to know each other at the beginning of the game? a. Faris B. Thomas C. Joey D. Sara",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of door was the victim's room in the case? a. Wooden door b. Steel door c. Anti theft door d. Glass door",
+                    "ans": "c"
+                },
+                {
+                    "q": "What role does Faris play in this game? a. Director b. Screenwriter c. Detective d. Murderer",
+                    "ans": "c"
+                },
+                {
+                    "q": "How is the Judge's Inside game conducted? a. Live streaming b. Chamber of Secrets Challenge c. Virtual Reality d. Online Games",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the objective of the game claimed by the judge? a. Entertainment for the public b. Punishing criminals c. Promoting teamwork d. Reasoning training",
+                    "ans": "b"
+                },
+                {
+                    "q": "At which specific location was the body of the deceased found? a. Living room b. Bedroom c. Balcony d. Bathroom",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who discovered the deceased? a. Faris B. Thomas C. Joey D. Sara",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where does the plot of 'The Curse of Eros' mainly take place? a. Groster Town b. Wilden Hotel c. Alps d. London",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the condition of the windows at the crime scene? a. All closed b. All open c. Half open d. Completely destroyed",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Actor b. Director c. Screenwriter d. Producer",
+                    "ans": "b"
+                },
+                {
+                    "q": "What painting was found next to the body of the deceased Fisher? a. The Meditation of Eros \"b.\" The Night of Gloucester \"c.\" The Secret of Wilden \"d.\" Untitled \"",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which floors of the Verden apartment were booked by the production team as warehouses? a. 25-28th floor b. 26-29th floor c. 24-27th floor d. 29th floor",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the role of Faris in this game? a. Audience b. Murderer c. Detective d. Victim",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the ultimate goal of the Judge's Inside game? a. Entertainment b. Punishment c. Education d. Research",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the main occupation of the deceased Fisher? a. Actor b. Screenwriter c. Director d. Producer",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where does the plot of 'The Curse of Eros' take place? a. Groster Town b. Wilden Hotel c. Alps d. London",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was the location where the deceased's body was found? a. Living room b. Bedroom c. Bathroom d. Balcony",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which floors of the Verden apartment were occupied by the crew of 'The Curse of Eros'? a. 26-28th floor b. 26-29th floor c. 25-28th floor d. 27-30th floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of person's image is missing from the surveillance footage at the crime scene? a. Dead b. Murderer c. Detective d. Witness",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Poisoned to death b. stabbed to death c. beaten to death d. suffocated",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the painting found next to the body of the deceased Fisher? a. The Meditation of Eros \"b.\" The Night of Gloucester \"c.\" The Secret of Wilden \"d.\" Untitled \"",
+                    "ans": "a"
+                },
+                {
+                    "q": "At the beginning of the game, which character first expressed their rejection of the judge's rules? a. Faris B. Thomas C. Muscle man D. Glasses wearing woman",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Faris' profession? a. Director b. Screenwriter c. Detective d. Actor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the profession of the protagonist Palos in 'The Curse of Eros'? a. Doctor b. Police c. Detective d. Lawyer",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which floor of the Verden apartment almost became the warehouse for the production team? a. 25th floor b. 26th floor c. 28th floor d. 29th floor",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the state of death of the deceased Fisher when he was discovered? a. Poisoned to death b. suffocated c. stabbed to death d. beaten to death",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which deity do the people of Gloucester believe in in in the story of 'The Curse of Eros'? a. Antara b. Iris c. Eros d. Apollo",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the ultimate fate of the innocent in the game 'Inside'? a. Released b. Received bonus c. Punished by the flames of judgment d. Became a new judge",
+                    "ans": "c"
+                },
+                {
+                    "q": "What information is contained on the paper discovered by Faris? a. Game rules b. Personal information c. List of murderers d. Message from the judge",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where do the consecutive murders occur in the plot of 'The Curse of Eros'? a. Verden Hotel b. Gloucester Town c. Alps d. London",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the role of the deceased Fisher in 'The Curse of Eros'? a. Protagonist b. Director c. Victim d. Murderer",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of door is the deceased's room? a. Wooden door b. Steel door c. Anti theft door d. Glass door",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What role does Faris play in the game? a. Director b. Screenwriter c. Detective d. Murderer",
+                "Which floors of the Verden apartment did the crew of 'The Curse of Eros' take over? a. 25-28th floor b. 26-29th floor c. 24-27th floor d. 27-30th floor",
+                "Where was the body of the deceased found? a. Living room b. Bedroom c. Balcony d. Bathroom",
+                "What caused the immediate death of the deceased? a. Poisoned to death b. suffocated c. dazzled d. beaten",
+                "What is the Judge's Game called in the game? a. Survival games b. Death games c. Chamber of Secrets games d. Adventure games",
+                "Where does the plot of 'The Curse of Eros' mainly take place? a. Groster Town b. Wilden Hotel c. Alps d. London",
+                "What was the occupation of the deceased Fisher? a. Actor b. Director c. Screenwriter d. Producer",
+                "What type of person was not found in the surveillance footage at the crime scene? a. Dead b. Murderer c. Detective d. Witness",
+                "Who was the first to reject the judge's game rules at the beginning of the game? a. Muscle man b. Glasses wearing woman c. Faris d. Thomas",
+                "At the beginning of the game, who suggested that everyone get to know each other? a. Faris B. Thomas C. Joey D. Sara",
+                "Which floors do the members of the cast of 'The Curse of Eros' mainly live on? a. 25-27th floor b. 26-28th floor c. 26-29th floor d. 27-30th floor",
+                "In this secret room murder case, where was the victim's body found? a. Living room b. Bedroom c. Balcony d. Bathroom",
+                "What was the cause of Fisher's immediate death? a. Poisoned to death b. suffocated c. dazzled d. beaten",
+                "According to the game's settings, what will the judge call their game? a. Survival games b. Death games c. Chamber of Secrets games d. Adventure games",
+                "Where is the story background of 'The Curse of Eros' set? a. Groster Town b. Wilden Hotel c. Alps d. London",
+                "What role did the deceased Fisher hold in 'The Curse of Eros'? a. Actor b. Director c. Screenwriter d. Producer",
+                "What kind of people's images were not recorded by the surveillance at the crime scene? a. Dead b. Murderer c. Detective d. Witness",
+                "At the beginning of the game, who was the first to express their rejection of the Judge's game rules? a. Muscle man b. Glasses wearing woman c. Faris d. Thomas",
+                "Who suggested getting to know each other at the beginning of the game? a. Faris B. Thomas C. Joey D. Sara",
+                "What type of door was the victim's room in the case? a. Wooden door b. Steel door c. Anti theft door d. Glass door",
+                "What role does Faris play in this game? a. Director b. Screenwriter c. Detective d. Murderer",
+                "How is the Judge's Inside game conducted? a. Live streaming b. Chamber of Secrets Challenge c. Virtual Reality d. Online Games",
+                "What is the objective of the game claimed by the judge? a. Entertainment for the public b. Punishing criminals c. Promoting teamwork d. Reasoning training",
+                "At which specific location was the body of the deceased found? a. Living room b. Bedroom c. Balcony d. Bathroom",
+                "Who discovered the deceased? a. Faris B. Thomas C. Joey D. Sara",
+                "Where does the plot of 'The Curse of Eros' mainly take place? a. Groster Town b. Wilden Hotel c. Alps d. London",
+                "What is the condition of the windows at the crime scene? a. All closed b. All open c. Half open d. Completely destroyed",
+                "What was the profession of the deceased? a. Actor b. Director c. Screenwriter d. Producer",
+                "What painting was found next to the body of the deceased Fisher? a. The Meditation of Eros \"b.\" The Night of Gloucester \"c.\" The Secret of Wilden \"d.\" Untitled \"",
+                "Which floors of the Verden apartment were booked by the production team as warehouses? a. 25-28th floor b. 26-29th floor c. 24-27th floor d. 29th floor",
+                "What is the role of Faris in this game? a. Audience b. Murderer c. Detective d. Victim",
+                "What is the ultimate goal of the Judge's Inside game? a. Entertainment b. Punishment c. Education d. Research",
+                "What was the main occupation of the deceased Fisher? a. Actor b. Screenwriter c. Director d. Producer",
+                "Where does the plot of 'The Curse of Eros' take place? a. Groster Town b. Wilden Hotel c. Alps d. London",
+                "Where was the location where the deceased's body was found? a. Living room b. Bedroom c. Bathroom d. Balcony",
+                "Which floors of the Verden apartment were occupied by the crew of 'The Curse of Eros'? a. 26-28th floor b. 26-29th floor c. 25-28th floor d. 27-30th floor",
+                "What type of person's image is missing from the surveillance footage at the crime scene? a. Dead b. Murderer c. Detective d. Witness",
+                "What was the cause of death of the deceased? a. Poisoned to death b. stabbed to death c. beaten to death d. suffocated",
+                "What is the painting found next to the body of the deceased Fisher? a. The Meditation of Eros \"b.\" The Night of Gloucester \"c.\" The Secret of Wilden \"d.\" Untitled \"",
+                "At the beginning of the game, which character first expressed their rejection of the judge's rules? a. Faris B. Thomas C. Muscle man D. Glasses wearing woman",
+                "What is Faris' profession? a. Director b. Screenwriter c. Detective d. Actor",
+                "What is the profession of the protagonist Palos in 'The Curse of Eros'? a. Doctor b. Police c. Detective d. Lawyer",
+                "Which floor of the Verden apartment almost became the warehouse for the production team? a. 25th floor b. 26th floor c. 28th floor d. 29th floor",
+                "What was the state of death of the deceased Fisher when he was discovered? a. Poisoned to death b. suffocated c. stabbed to death d. beaten to death",
+                "Which deity do the people of Gloucester believe in in in the story of 'The Curse of Eros'? a. Antara b. Iris c. Eros d. Apollo",
+                "What is the ultimate fate of the innocent in the game 'Inside'? a. Released b. Received bonus c. Punished by the flames of judgment d. Became a new judge",
+                "What information is contained on the paper discovered by Faris? a. Game rules b. Personal information c. List of murderers d. Message from the judge",
+                "Where do the consecutive murders occur in the plot of 'The Curse of Eros'? a. Verden Hotel b. Gloucester Town c. Alps d. London",
+                "What is the role of the deceased Fisher in 'The Curse of Eros'? a. Protagonist b. Director c. Victim d. Murderer",
+                "What type of door is the deceased's room? a. Wooden door b. Steel door c. Anti theft door d. Glass door"
+            ],
+            "a": [
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "a",
+                "b",
+                "b",
+                "a",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "a",
+                "b",
+                "b",
+                "a",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "a",
+                "c",
+                "b",
+                "a",
+                "d",
+                "c",
+                "b",
+                "c",
+                "a",
+                "b",
+                "b",
+                "b",
+                "b",
+                "a",
+                "c",
+                "c",
+                "c",
+                "d",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c"
+            ]
+        },
+        {
+            "name": "Joey",
+            "back": "You wake up",
+            "r_q": [
+                {
+                    "q": "How many murder cases in the Chamber of Secrets mentioned by the judge in the game Inside? a. 4 b. 5 c. 6 d. 7",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the theme of the game? a. Escape Room b. Murder Room c. Battle Royale d. Survival Challenge",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Joey's profession? a. Actress b. Proprieter c. Female Screenwriter d. Director",
+                    "ans": "a"
+                },
+                {
+                    "q": "What does the term 'Fire of Judgment' refer to in the game 'The Judge'? a. Literal meaning of fire b. A metaphor c. Actual punishment d. A clue in the secret room",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the last time Joey saw the deceased? a. On the day of the crime b. One day before the crime c. Two days before the crime d. One week before the crime",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Joey's room number? a. 2803 b. 2804 c. 2805 d. 2806",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Joey enter the deceased's room? a. Use your own key. b. Knock on the door to enter. c. Break through the window. d. Use the spare key left for her by the deceased",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who did Joey talk to over the phone about the lines? a. Faris B. Thomas C. Rolf D. Webster",
+                    "ans": "c"
+                },
+                {
+                    "q": "What do participants need to find to win the game in Inside? a. Exit b. Secret of the Chamber c. Innocent Person d. Murderer",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Joey discover the body? a. 10am b. 12pm c. 3:30pm d. 8pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which floor to which floor did the production team of 'The Curse of Eros' occupy in the Verden apartment? a. 25th to 27th floors b. 26th to 28th floors c. 26th to 29th floors d. 27th to 30th floors",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which detective's story is told in 'The Curse of Eros'? a. Taylor B. Palos C. Rolf D. Faris",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are the consequences of the other option mentioned by Joey in the Judge game? a. Everyone can safely leave. b. The crimes of six people have been made public. c. Only the perpetrator has been punished. d. Everyone has been punished",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which character does Joey think is highly suspicious of? a. Milk delivery worker b. Security guard c. Rolf d. Faris",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was Joey's mood at the beginning of the game? a. Excitement b. Fear c. Calmness d. Curiosity",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the total number of people locked in a secret room in the game Inside? a. 5 b. 6 c. 7 d. 8",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which floor of the Verden Hotel apartment is the crime scene located? a. 26th floor b. 27th floor c. 28th floor d. 29th floor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the timing of Joey and Rolf's dialogue? a. 2pm to 2:30pm b. 2:30pm to 3:30pm c. 3:30pm to 3:30pm d. 3:30pm to 4:00pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Actor b. Director and screenwriter c. Proprietor d. Production assistant",
+                    "ans": "b"
+                },
+                {
+                    "q": "On which floors do the crew of 'The Curse of Eros' live? a. 25-26th floor b. 26-28th floor c. 27-29th floor d. 26-29th floor",
+                    "ans": "d"
+                },
+                {
+                    "q": "Which case is Joey considered related to? a. Blood stained messages b. A secret room without dead corners c. The perpetrator who disappeared instantly d. The curse of Eros' dismemberment",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why was Joey able to enter the deceased's room? a. She has a key. B. The door is not locked. C. She broke in. D. Someone let her in",
+                    "ans": "a"
+                },
+                {
+                    "q": "What did Joey do immediately after discovering the body? a. Call the police b. Search for clues c. Find other crew members d. Find security",
+                    "ans": "d"
+                },
+                {
+                    "q": "In Joey's testimony, she mentioned what habits Fisher had? a. Running every day b. Drinking milk every day c. Reading every day d. Writing a diary every day",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Joey's alibi on the afternoon of the incident? a. She's at the gym. B. She's at a crew meeting. C. She's on the phone with Rolf. D. She's shopping",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who does Joey think can prove her alibi as evidence? a. Faris B. Thomas C. Rolf D. Taylor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which of the descriptions about the crew of 'The Curse of Eros' is incorrect? a. Living on the 26th to 28th floors b. The 29th floor is used as a warehouse c. It tells the story of the famous detective Palos d. The director and screenwriter are male",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the importance of the milkman mentioned by Joey? a. He is the only outsider. b. He has the key to the crime room. c. He may have been the last person to see the victim. d. He may have been the murderer",
+                    "ans": "d"
+                },
+                {
+                    "q": "What would happen if an innocent person is found in the rules of the judge's game? a. Everyone will be released. b. The guilty will be punished. c. The innocent will be punished by the flames of judgment. d. The game will restart",
+                    "ans": "c"
+                },
+                {
+                    "q": "Joey feels innocent, what is her strategy? a. Hidden facts b. Searching for the real culprit c. Persuading others to surrender d. Escaping the scene",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why is the dialogue time between Joey and Rolf important to her? a. It proves her talent b. It is her alibi c. It showcases her professionalism d. It helps her remember the script",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the name of the case represented by Joey in the game Inside? a. Blood stained messages b. A secret room without dead corners c. The perpetrator who disappeared in an instant d. The final candlelight dinner",
+                    "ans": "b"
+                },
+                {
+                    "q": "On what occasion did Joey last see the deceased Fisher? a. At the crew gathering, b. in Fisher's room, c. at the filming location, d. on the phone",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of location is the story background of 'The Curse of Eros'? a. Metropolis b. Seaside town c. Distant island d. Gloucester town",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is Joey's role in the game? a. Detective b. Murderer c. Victim d. Spectator",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the game of the judge called? a. The Outside Game b. The Justice Game c. Inside d. The Escape Game",
+                    "ans": "c"
+                },
+                {
+                    "q": "What did Joey do as the first discoverer of the body? a. Take photos b. Attempt to resurrect the deceased c. Call the police d. Search for evidence",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the characteristics of the cast of 'The Curse of Eros'? a. Only female members b. live in the city center c. own multiple floors of the apartment d. have parties every night",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the purpose of the Judge's game? a. Entertainment for the public b. Punishing criminals c. Promoting justice d. Testing teamwork",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Joey's action on the day of the incident? a. Meet Rolf B. Stay alone in the room C. Talk to Rolf on the phone D. Go to the crew meeting",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who provided Joey's alibi? a. Faris B. Security C. Rolf D. Thomas",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the identity of the deceased Fisher? a. Actor b. Director and screenwriter c. Proprietor d. Producer",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which of the following is unrelated to the Chamber of Secrets case in the game? a. Blood lettered message b. Triple door c. Escape room d. Final candlelight dinner",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the basis for Joey's suspicion of being a milkman? a. He has the tools for committing the crime. b. He was the last person to see the victim. c. He has the key to enter the room. d. His behavior is suspicious",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is Joey's room located? a. Adjacent to the deceased's room b. Across from the deceased's room c. On the other end of the same floor d. Different floors",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the goal of all participants in the game 'Inside'? a. Find the real culprit b. Escape from the secret room c. Find the innocent person d. Solve all puzzles",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the location of the body discovery mentioned in Joey's testimony? a. Bathroom b. Studio c. Bedroom d. Living room",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who does the 'Fire of Judgment' mentioned in the game ultimately point to? a. Innocent b. Guilty c. All participants d. Winner of the game",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which of the following is incorrect about the cast of 'The Curse of Eros'? a. All members live in the same apartment. b. The crew owns the entire apartment building. c. The 29th floor is used as a warehouse. d. The crew has fixed rest days",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the end time of the dialogue between Joey and Rolf? a. 3:30pm b. 3pm c. 2pm d. 4pm",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was Joey's attitude towards the judge at the beginning of the game? a. Support b. Neutrality c. Concerns d. Oppose",
+                    "ans": "c"
+                },
+                {
+                    "q": "What happens in the game if the innocent person is not found? a. Everyone released b. Everyone's crimes made public c. Restart the game d. Everyone accepts punishment",
+                    "ans": "b"
+                },
+                {
+                    "q": "What case is Joey assigned in the game? a. Blood stained messages b. A secret room without dead corners c. The perpetrator who disappeared instantly d. The curse of Eros' dismemberment",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Joey's age? a. 19 years old b. 20 years old c. 21 years old d. 22 years old",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Joey's role in the cast of 'The Curse of Eros'? a. Director b. Screenwriter c. Propist d. Actor",
+                    "ans": "d"
+                },
+                {
+                    "q": "Which of the following is correct about the description of the judge? a. His identity has been revealed by the police. B. He is a recognized hero. C. He is admired by some young people. D. He advocates for extrajudicial sanctions",
+                    "ans": "c"
+                },
+                {
+                    "q": "How to determine the winner of the guilty and innocent in the game? a. By voting b. By escaping c. Finding the innocent d. Solving all puzzles",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the basis for Joey's mention of the importance of milkmen? a. He was a friend of the deceased. b. He may have been the last person to see the deceased. c. He discovered the body of the deceased. d. He had a motive to kill the deceased",
+                    "ans": "b"
+                },
+                {
+                    "q": "What methods did the judge use to make the participants forget the past? a. Drug b. Hypnosis c. Magic d. Unknown techniques",
+                    "ans": "d"
+                },
+                {
+                    "q": "What kind of item did Joey find on the deceased's body? a. Diary b. Screwdriver c. Key d. Mobile phone",
+                    "ans": "b"
+                },
+                {
+                    "q": "How would Joey describe his feelings when he discovered the body? a. Excitement b. Panic c. Calm d. Curiosity",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the ultimate goal of the game 'Inside'? a. Expose the truth b. Punish criminals c. Entertain the public d. Test participants",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the purpose of Joey and Rolf's phone call? a. Chat b. Discuss dialogue c. Discuss script d. Plan escape",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are the game rules mentioned by the judge? a. Each person has three chances. b. Find the innocent person. c. The last survivor wins. d. Solve all puzzles",
+                    "ans": "b"
+                },
+                {
+                    "q": "Joey mentioned that the deceased Fisher had any unique habits? a. Morning run b. Drinking milk c. Meditation d. Writing",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the filming location chosen by the crew of 'The Curse of Eros'? a. Verden Hotel Apartments b. City Center Theater c. Suburban Manor d. Seaside Cottage",
+                    "ans": "a"
+                },
+                {
+                    "q": "In the game, which witness does Joey think can prove her alibi? a. Security B. Faris C. Rolf D. Thomas",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the identity of the judge in the background of Inside game? a. Police b. Judge c. Criminal psychologist d. Unknown",
+                    "ans": "d"
+                },
+                {
+                    "q": "How long does Joey's alibi cover? a. 30 minutes b. 1 hour c. 1.5 hours d. 2 hours",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which of the six cases mentioned in the game caught Joey's attention the most? a. Blood stained messages b. A secret room without dead corners c. The perpetrator who disappeared instantly d. The curse of Eros' dismemberment",
+                    "ans": "b"
+                },
+                {
+                    "q": "After Joey discovered the deceased, who did she think was the most likely suspect? a. Delivery worker b. Other actors c. Director d. Security guard",
+                    "ans": "a"
+                },
+                {
+                    "q": "What happens if the guilty successfully find the innocent in the game Inside? a. Guilty gains freedom b. Innocent receives punishment c. Game ends d. Everyone is released",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was Fisher doing when Joey last saw him? a. Study a painting b. Write a script c. Shoot d. Drink milk",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "How many murder cases in the Chamber of Secrets mentioned by the judge in the game Inside? a. 4 b. 5 c. 6 d. 7",
+                "What is the theme of the game? a. Escape Room b. Murder Room c. Battle Royale d. Survival Challenge",
+                "What is Joey's profession? a. Actress b. Proprieter c. Female Screenwriter d. Director",
+                "What does the term 'Fire of Judgment' refer to in the game 'The Judge'? a. Literal meaning of fire b. A metaphor c. Actual punishment d. A clue in the secret room",
+                "When was the last time Joey saw the deceased? a. On the day of the crime b. One day before the crime c. Two days before the crime d. One week before the crime",
+                "What is Joey's room number? a. 2803 b. 2804 c. 2805 d. 2806",
+                "How did Joey enter the deceased's room? a. Use your own key. b. Knock on the door to enter. c. Break through the window. d. Use the spare key left for her by the deceased",
+                "Who did Joey talk to over the phone about the lines? a. Faris B. Thomas C. Rolf D. Webster",
+                "What do participants need to find to win the game in Inside? a. Exit b. Secret of the Chamber c. Innocent Person d. Murderer",
+                "When did Joey discover the body? a. 10am b. 12pm c. 3:30pm d. 8pm",
+                "Which floor to which floor did the production team of 'The Curse of Eros' occupy in the Verden apartment? a. 25th to 27th floors b. 26th to 28th floors c. 26th to 29th floors d. 27th to 30th floors",
+                "Which detective's story is told in 'The Curse of Eros'? a. Taylor B. Palos C. Rolf D. Faris",
+                "What are the consequences of the other option mentioned by Joey in the Judge game? a. Everyone can safely leave. b. The crimes of six people have been made public. c. Only the perpetrator has been punished. d. Everyone has been punished",
+                "Which character does Joey think is highly suspicious of? a. Milk delivery worker b. Security guard c. Rolf d. Faris",
+                "What was Joey's mood at the beginning of the game? a. Excitement b. Fear c. Calmness d. Curiosity",
+                "What is the total number of people locked in a secret room in the game Inside? a. 5 b. 6 c. 7 d. 8",
+                "On which floor of the Verden Hotel apartment is the crime scene located? a. 26th floor b. 27th floor c. 28th floor d. 29th floor",
+                "What is the timing of Joey and Rolf's dialogue? a. 2pm to 2:30pm b. 2:30pm to 3:30pm c. 3:30pm to 3:30pm d. 3:30pm to 4:00pm",
+                "What was the profession of the deceased? a. Actor b. Director and screenwriter c. Proprietor d. Production assistant",
+                "On which floors do the crew of 'The Curse of Eros' live? a. 25-26th floor b. 26-28th floor c. 27-29th floor d. 26-29th floor",
+                "Which case is Joey considered related to? a. Blood stained messages b. A secret room without dead corners c. The perpetrator who disappeared instantly d. The curse of Eros' dismemberment",
+                "Why was Joey able to enter the deceased's room? a. She has a key. B. The door is not locked. C. She broke in. D. Someone let her in",
+                "What did Joey do immediately after discovering the body? a. Call the police b. Search for clues c. Find other crew members d. Find security",
+                "In Joey's testimony, she mentioned what habits Fisher had? a. Running every day b. Drinking milk every day c. Reading every day d. Writing a diary every day",
+                "What was Joey's alibi on the afternoon of the incident? a. She's at the gym. B. She's at a crew meeting. C. She's on the phone with Rolf. D. She's shopping",
+                "Who does Joey think can prove her alibi as evidence? a. Faris B. Thomas C. Rolf D. Taylor",
+                "Which of the descriptions about the crew of 'The Curse of Eros' is incorrect? a. Living on the 26th to 28th floors b. The 29th floor is used as a warehouse c. It tells the story of the famous detective Palos d. The director and screenwriter are male",
+                "What is the importance of the milkman mentioned by Joey? a. He is the only outsider. b. He has the key to the crime room. c. He may have been the last person to see the victim. d. He may have been the murderer",
+                "What would happen if an innocent person is found in the rules of the judge's game? a. Everyone will be released. b. The guilty will be punished. c. The innocent will be punished by the flames of judgment. d. The game will restart",
+                "Joey feels innocent, what is her strategy? a. Hidden facts b. Searching for the real culprit c. Persuading others to surrender d. Escaping the scene",
+                "Why is the dialogue time between Joey and Rolf important to her? a. It proves her talent b. It is her alibi c. It showcases her professionalism d. It helps her remember the script",
+                "What is the name of the case represented by Joey in the game Inside? a. Blood stained messages b. A secret room without dead corners c. The perpetrator who disappeared in an instant d. The final candlelight dinner",
+                "On what occasion did Joey last see the deceased Fisher? a. At the crew gathering, b. in Fisher's room, c. at the filming location, d. on the phone",
+                "What type of location is the story background of 'The Curse of Eros'? a. Metropolis b. Seaside town c. Distant island d. Gloucester town",
+                "What is Joey's role in the game? a. Detective b. Murderer c. Victim d. Spectator",
+                "What is the game of the judge called? a. The Outside Game b. The Justice Game c. Inside d. The Escape Game",
+                "What did Joey do as the first discoverer of the body? a. Take photos b. Attempt to resurrect the deceased c. Call the police d. Search for evidence",
+                "What are the characteristics of the cast of 'The Curse of Eros'? a. Only female members b. live in the city center c. own multiple floors of the apartment d. have parties every night",
+                "What is the purpose of the Judge's game? a. Entertainment for the public b. Punishing criminals c. Promoting justice d. Testing teamwork",
+                "What was Joey's action on the day of the incident? a. Meet Rolf B. Stay alone in the room C. Talk to Rolf on the phone D. Go to the crew meeting",
+                "Who provided Joey's alibi? a. Faris B. Security C. Rolf D. Thomas",
+                "What is the identity of the deceased Fisher? a. Actor b. Director and screenwriter c. Proprietor d. Producer",
+                "Which of the following is unrelated to the Chamber of Secrets case in the game? a. Blood lettered message b. Triple door c. Escape room d. Final candlelight dinner",
+                "What is the basis for Joey's suspicion of being a milkman? a. He has the tools for committing the crime. b. He was the last person to see the victim. c. He has the key to enter the room. d. His behavior is suspicious",
+                "Where is Joey's room located? a. Adjacent to the deceased's room b. Across from the deceased's room c. On the other end of the same floor d. Different floors",
+                "What is the goal of all participants in the game 'Inside'? a. Find the real culprit b. Escape from the secret room c. Find the innocent person d. Solve all puzzles",
+                "Where was the location of the body discovery mentioned in Joey's testimony? a. Bathroom b. Studio c. Bedroom d. Living room",
+                "Who does the 'Fire of Judgment' mentioned in the game ultimately point to? a. Innocent b. Guilty c. All participants d. Winner of the game",
+                "Which of the following is incorrect about the cast of 'The Curse of Eros'? a. All members live in the same apartment. b. The crew owns the entire apartment building. c. The 29th floor is used as a warehouse. d. The crew has fixed rest days",
+                "What is the end time of the dialogue between Joey and Rolf? a. 3:30pm b. 3pm c. 2pm d. 4pm",
+                "What was Joey's attitude towards the judge at the beginning of the game? a. Support b. Neutrality c. Concerns d. Oppose",
+                "What happens in the game if the innocent person is not found? a. Everyone released b. Everyone's crimes made public c. Restart the game d. Everyone accepts punishment",
+                "What case is Joey assigned in the game? a. Blood stained messages b. A secret room without dead corners c. The perpetrator who disappeared instantly d. The curse of Eros' dismemberment",
+                "What is Joey's age? a. 19 years old b. 20 years old c. 21 years old d. 22 years old",
+                "What is Joey's role in the cast of 'The Curse of Eros'? a. Director b. Screenwriter c. Propist d. Actor",
+                "Which of the following is correct about the description of the judge? a. His identity has been revealed by the police. B. He is a recognized hero. C. He is admired by some young people. D. He advocates for extrajudicial sanctions",
+                "How to determine the winner of the guilty and innocent in the game? a. By voting b. By escaping c. Finding the innocent d. Solving all puzzles",
+                "What is the basis for Joey's mention of the importance of milkmen? a. He was a friend of the deceased. b. He may have been the last person to see the deceased. c. He discovered the body of the deceased. d. He had a motive to kill the deceased",
+                "What methods did the judge use to make the participants forget the past? a. Drug b. Hypnosis c. Magic d. Unknown techniques",
+                "What kind of item did Joey find on the deceased's body? a. Diary b. Screwdriver c. Key d. Mobile phone",
+                "How would Joey describe his feelings when he discovered the body? a. Excitement b. Panic c. Calm d. Curiosity",
+                "What is the ultimate goal of the game 'Inside'? a. Expose the truth b. Punish criminals c. Entertain the public d. Test participants",
+                "What is the purpose of Joey and Rolf's phone call? a. Chat b. Discuss dialogue c. Discuss script d. Plan escape",
+                "What are the game rules mentioned by the judge? a. Each person has three chances. b. Find the innocent person. c. The last survivor wins. d. Solve all puzzles",
+                "Joey mentioned that the deceased Fisher had any unique habits? a. Morning run b. Drinking milk c. Meditation d. Writing",
+                "Where was the filming location chosen by the crew of 'The Curse of Eros'? a. Verden Hotel Apartments b. City Center Theater c. Suburban Manor d. Seaside Cottage",
+                "In the game, which witness does Joey think can prove her alibi? a. Security B. Faris C. Rolf D. Thomas",
+                "What is the identity of the judge in the background of Inside game? a. Police b. Judge c. Criminal psychologist d. Unknown",
+                "How long does Joey's alibi cover? a. 30 minutes b. 1 hour c. 1.5 hours d. 2 hours",
+                "Which of the six cases mentioned in the game caught Joey's attention the most? a. Blood stained messages b. A secret room without dead corners c. The perpetrator who disappeared instantly d. The curse of Eros' dismemberment",
+                "After Joey discovered the deceased, who did she think was the most likely suspect? a. Delivery worker b. Other actors c. Director d. Security guard",
+                "What happens if the guilty successfully find the innocent in the game Inside? a. Guilty gains freedom b. Innocent receives punishment c. Game ends d. Everyone is released",
+                "What was Fisher doing when Joey last saw him? a. Study a painting b. Write a script c. Shoot d. Drink milk"
+            ],
+            "a": [
+                "c",
+                "b",
+                "a",
+                "c",
+                "b",
+                "b",
+                "d",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "a",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "d",
+                "b",
+                "a",
+                "d",
+                "b",
+                "c",
+                "c",
+                "d",
+                "d",
+                "c",
+                "b",
+                "b",
+                "b",
+                "b",
+                "d",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "a",
+                "c",
+                "b",
+                "a",
+                "b",
+                "a",
+                "c",
+                "b",
+                "b",
+                "c",
+                "d",
+                "c",
+                "c",
+                "b",
+                "d",
+                "b",
+                "b",
+                "a",
+                "b",
+                "b",
+                "b",
+                "a",
+                "c",
+                "d",
+                "b",
+                "b",
+                "a",
+                "a",
+                "a"
+            ]
+        },
+        {
+            "name": "Sara",
+            "back": "You wake up",
+            "r_q": [
+                {
+                    "q": "What is Sarah's role in the game? a. Murderer b. Detective c. Judge d. Victim",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who is the director and screenwriter of 'The Curse of Eros'? a. Taylor B. Sara C. Joey D. Fisher",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Taylor B. Joey C. Sarah D. Thomas",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the crime scene located? a. Room 2805, 28th floor, Verden Hotel Apartments b. Room 2905, 29th floor, Verden Hotel Apartments c. Room 2605, 26th floor, Verden Hotel Apartments d. Room 2705, 27th floor, Verden Hotel Apartments",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the occupation of the deceased Fisher? a. Actor b. Director and screenwriter c. Detective d. Doctor",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the reason why the case is called a 'blind room'? a. No weapons were found. b. No survivors were found. c. No suspicious individuals were detected during surveillance. d. No fingerprints were found at the scene",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the direct cause of the deceased's death? a. Screwdriver inserted into right eye b. Impact injury on the back of the head c. Falling from window d. Poisoning",
+                    "ans": "a"
+                },
+                {
+                    "q": "On which floors do the director and crew members live in the Verden apartment where the crew resides? a. 26-28th floor b. 25-27th floor c. 28-29th floor d. 27-29th floor",
+                    "ans": "a"
+                },
+                {
+                    "q": "What type of story background is the title of the drama 'The Curse of Eros'? a. Science fiction stories b. Historical legends c. Mystery dramas d. Love stories",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the type of door lock for the deceased's room? a. Password lock b. Fingerprint lock c. Anti theft door, automatically locks when closed d. Traditional key lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Sarah's role in the game? a. Murderer b. Detective c. Judge d. Victim",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the height of the deceased Fisher? a. 164CM b. 172CM c. 167CM d. 160CM",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which floors of the Verden apartment did the crew of 'The Curse of Eros' take over? a. 25-27th floor b. 26-28th floor c. 27-29th floor d. 28-30th floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the body of the deceased found? a. Next to the window b. In the center of the room c. In the bathroom d. At the entrance",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the occupation of the deceased Fisher? a. Director and screenwriter b. Actor c. Detective d. Doctor",
+                    "ans": "a"
+                },
+                {
+                    "q": "What items were involved with the deceased when they were found? a. Mobile phone b. Oil painting c. Key d. Monitoring equipment",
+                    "ans": "b"
+                },
+                {
+                    "q": "What individuals were recorded in the surveillance footage? a. Only deceased Fisher b. deceased Fisher and Joey c. deceased Fisher and Rolf d. deceased Fisher and Sarah",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of story background is the title of the drama 'The Curse of Eros'? a. Science fiction stories b. Historical legends c. Mystery dramas d. Love stories",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the type of door lock for the deceased's room? a. Password lock b. Fingerprint lock c. Anti theft door, automatically locks when closed d. Traditional key lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which floors do the director and crew members live in the Verden apartment where the crew resides? a. 26-28th floor b. 25-27th floor c. 28-29th floor d. 27-29th floor",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the theme of the game? a. Escape Room b. Survival Challenge c. Murder Room d. Treasure Search",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Sarah's identity in the game? a. Victim b. Murderer c. Detective d. Judge",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Sarah's age? a. 18 years old b. 20 years old c. 22 years old d. 25 years old",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the main content of 'The Curse of Eros'? a. Love story b. Science fiction adventure c. Serial murder d. Historical legend",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the voice of the judge in the game? a. Gentle and enticing b. Steady and majestic c. Weird and mysterious d. Humorous and witty",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the height of the deceased Fisher? a. 164CM b. 172CM c. 167CM d. 160CM",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Taylor B. Joey C. Thomas D. Sara",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of door was in the victim's room at the time of the crime? a. Password lock b. Fingerprint lock c. Anti theft door, automatically locks when closed d. Traditional key lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which floors do the crew members of the Verden Hotel Apartments live? a. 25-27th floor b. 26-28th floor c. 28-29th floor d. 27-29th floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the main concept of the judge in the game? a. Justice will prevail. b. No one is innocent. c. The right to survival. d. The strong are king",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Sarah's age as a detective? a. 18 years old b. 20 years old c. 22 years old d. 25 years old",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which floors of the Verden apartment were included in the production of 'The Curse of Eros'? a. 25-27th floor b. 26-28th floor c. 27-29th floor d. 28-30th floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the height of the deceased Fisher? a. 164CM b. 172CM c. 167CM d. 160CM",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was the body of the deceased found? a. Next to the window b. In the center of the room c. In the bathroom d. At the entrance",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which of the following items were not found around the deceased? a. Mobile phone b. Screwdriver c. Oil painting d. Key",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Director and screenwriter b. Actor c. Detective d. Doctor",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the type of door lock at the crime scene? a. Password lock b. Fingerprint lock c. Anti theft door, automatically locks when closed d. Traditional key lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "According to surveillance records, what is the reason why the case is referred to as the 'blind room without dead corners'? a. No monitoring equipment b. No suspicious personnel were found during monitoring c. Monitoring was manually turned off d. Monitoring equipment is damaged",
+                    "ans": "b"
+                },
+                {
+                    "q": "What role did the deceased Fisher play in the play? a. Detective b. Victim c. Murderer d. Director and screenwriter",
+                    "ans": "d"
+                },
+                {
+                    "q": "In Game Inside, how does the judge announce the start of the game? a. Text on the screen b. Live broadcast c. Voice message d. Paper note",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is the judge in the game? a. Taylor B. Sara C. Joey D. An unknown voice",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is Sarah's age as a detective? a. 18 years old b. 20 years old c. 22 years old d. 25 years old",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where does the story of 'The Curse of Eros' take place? a. Gloucester Town b. Verden City c. Los Angeles City d. Neubell City",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the occupation of the deceased Fisher? a. Actor b. Director and screenwriter c. Detective d. Doctor",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the surveillance situation at the Verden apartment at the time of the incident? a. Closed status b. Damaged c. Normal operation but no suspicious personnel d. Video recording lost",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Taylor B. Joey C. Sarah D. Thomas",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the method of death of the deceased Fisher? a. B. Heavy blow to the back of the head b. Screwdriver inserted into the right eye c. Poisoning d. Falling from a height",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which floors of the Verden apartment did the crew of 'The Curse of Eros' take over? a. 25-27th floor b. 26-28th floor c. 27-29th floor d. 28-30th floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "What does each player in the game represent? a. A profession b. A city c. A murder case in a secret room d. A special ability",
+                    "ans": "c"
+                },
+                {
+                    "q": "In the game, under what circumstances will the judge reveal the player's guilt? a. If the player refuses to surrender b. If the innocent are found c. If the guilty win d. If the innocent are not found",
+                    "ans": "d"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is Sarah's role in the game? a. Murderer b. Detective c. Judge d. Victim",
+                "Who is the director and screenwriter of 'The Curse of Eros'? a. Taylor B. Sara C. Joey D. Fisher",
+                "Who discovered the body of the deceased? a. Taylor B. Joey C. Sarah D. Thomas",
+                "Where is the crime scene located? a. Room 2805, 28th floor, Verden Hotel Apartments b. Room 2905, 29th floor, Verden Hotel Apartments c. Room 2605, 26th floor, Verden Hotel Apartments d. Room 2705, 27th floor, Verden Hotel Apartments",
+                "What was the occupation of the deceased Fisher? a. Actor b. Director and screenwriter c. Detective d. Doctor",
+                "What is the reason why the case is called a 'blind room'? a. No weapons were found. b. No survivors were found. c. No suspicious individuals were detected during surveillance. d. No fingerprints were found at the scene",
+                "What was the direct cause of the deceased's death? a. Screwdriver inserted into right eye b. Impact injury on the back of the head c. Falling from window d. Poisoning",
+                "On which floors do the director and crew members live in the Verden apartment where the crew resides? a. 26-28th floor b. 25-27th floor c. 28-29th floor d. 27-29th floor",
+                "What type of story background is the title of the drama 'The Curse of Eros'? a. Science fiction stories b. Historical legends c. Mystery dramas d. Love stories",
+                "What is the type of door lock for the deceased's room? a. Password lock b. Fingerprint lock c. Anti theft door, automatically locks when closed d. Traditional key lock",
+                "What is Sarah's role in the game? a. Murderer b. Detective c. Judge d. Victim",
+                "What is the height of the deceased Fisher? a. 164CM b. 172CM c. 167CM d. 160CM",
+                "Which floors of the Verden apartment did the crew of 'The Curse of Eros' take over? a. 25-27th floor b. 26-28th floor c. 27-29th floor d. 28-30th floor",
+                "Where was the body of the deceased found? a. Next to the window b. In the center of the room c. In the bathroom d. At the entrance",
+                "What was the occupation of the deceased Fisher? a. Director and screenwriter b. Actor c. Detective d. Doctor",
+                "What items were involved with the deceased when they were found? a. Mobile phone b. Oil painting c. Key d. Monitoring equipment",
+                "What individuals were recorded in the surveillance footage? a. Only deceased Fisher b. deceased Fisher and Joey c. deceased Fisher and Rolf d. deceased Fisher and Sarah",
+                "What type of story background is the title of the drama 'The Curse of Eros'? a. Science fiction stories b. Historical legends c. Mystery dramas d. Love stories",
+                "What is the type of door lock for the deceased's room? a. Password lock b. Fingerprint lock c. Anti theft door, automatically locks when closed d. Traditional key lock",
+                "On which floors do the director and crew members live in the Verden apartment where the crew resides? a. 26-28th floor b. 25-27th floor c. 28-29th floor d. 27-29th floor",
+                "What is the theme of the game? a. Escape Room b. Survival Challenge c. Murder Room d. Treasure Search",
+                "What is Sarah's identity in the game? a. Victim b. Murderer c. Detective d. Judge",
+                "What is Sarah's age? a. 18 years old b. 20 years old c. 22 years old d. 25 years old",
+                "What is the main content of 'The Curse of Eros'? a. Love story b. Science fiction adventure c. Serial murder d. Historical legend",
+                "What is the voice of the judge in the game? a. Gentle and enticing b. Steady and majestic c. Weird and mysterious d. Humorous and witty",
+                "What is the height of the deceased Fisher? a. 164CM b. 172CM c. 167CM d. 160CM",
+                "Who discovered the body of the deceased? a. Taylor B. Joey C. Thomas D. Sara",
+                "What type of door was in the victim's room at the time of the crime? a. Password lock b. Fingerprint lock c. Anti theft door, automatically locks when closed d. Traditional key lock",
+                "On which floors do the crew members of the Verden Hotel Apartments live? a. 25-27th floor b. 26-28th floor c. 28-29th floor d. 27-29th floor",
+                "What is the main concept of the judge in the game? a. Justice will prevail. b. No one is innocent. c. The right to survival. d. The strong are king",
+                "What is Sarah's age as a detective? a. 18 years old b. 20 years old c. 22 years old d. 25 years old",
+                "Which floors of the Verden apartment were included in the production of 'The Curse of Eros'? a. 25-27th floor b. 26-28th floor c. 27-29th floor d. 28-30th floor",
+                "What is the height of the deceased Fisher? a. 164CM b. 172CM c. 167CM d. 160CM",
+                "Where was the body of the deceased found? a. Next to the window b. In the center of the room c. In the bathroom d. At the entrance",
+                "Which of the following items were not found around the deceased? a. Mobile phone b. Screwdriver c. Oil painting d. Key",
+                "What was the profession of the deceased? a. Director and screenwriter b. Actor c. Detective d. Doctor",
+                "What is the type of door lock at the crime scene? a. Password lock b. Fingerprint lock c. Anti theft door, automatically locks when closed d. Traditional key lock",
+                "According to surveillance records, what is the reason why the case is referred to as the 'blind room without dead corners'? a. No monitoring equipment b. No suspicious personnel were found during monitoring c. Monitoring was manually turned off d. Monitoring equipment is damaged",
+                "What role did the deceased Fisher play in the play? a. Detective b. Victim c. Murderer d. Director and screenwriter",
+                "In Game Inside, how does the judge announce the start of the game? a. Text on the screen b. Live broadcast c. Voice message d. Paper note",
+                "Who is the judge in the game? a. Taylor B. Sara C. Joey D. An unknown voice",
+                "What is Sarah's age as a detective? a. 18 years old b. 20 years old c. 22 years old d. 25 years old",
+                "Where does the story of 'The Curse of Eros' take place? a. Gloucester Town b. Verden City c. Los Angeles City d. Neubell City",
+                "What was the occupation of the deceased Fisher? a. Actor b. Director and screenwriter c. Detective d. Doctor",
+                "What was the surveillance situation at the Verden apartment at the time of the incident? a. Closed status b. Damaged c. Normal operation but no suspicious personnel d. Video recording lost",
+                "Who discovered the body of the deceased? a. Taylor B. Joey C. Sarah D. Thomas",
+                "What was the method of death of the deceased Fisher? a. B. Heavy blow to the back of the head b. Screwdriver inserted into the right eye c. Poisoning d. Falling from a height",
+                "Which floors of the Verden apartment did the crew of 'The Curse of Eros' take over? a. 25-27th floor b. 26-28th floor c. 27-29th floor d. 28-30th floor",
+                "What does each player in the game represent? a. A profession b. A city c. A murder case in a secret room d. A special ability",
+                "In the game, under what circumstances will the judge reveal the player's guilt? a. If the player refuses to surrender b. If the innocent are found c. If the guilty win d. If the innocent are not found"
+            ],
+            "a": [
+                "b",
+                "d",
+                "b",
+                "a",
+                "b",
+                "c",
+                "a",
+                "a",
+                "c",
+                "c",
+                "b",
+                "a",
+                "b",
+                "a",
+                "a",
+                "b",
+                "b",
+                "c",
+                "c",
+                "a",
+                "c",
+                "c",
+                "a",
+                "c",
+                "c",
+                "a",
+                "b",
+                "c",
+                "b",
+                "b",
+                "a",
+                "b",
+                "a",
+                "a",
+                "d",
+                "a",
+                "c",
+                "b",
+                "d",
+                "c",
+                "d",
+                "a",
+                "a",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "d"
+            ]
+        },
+        {
+            "name": "Thomas",
+            "back": "You wake up",
+            "r_q": [
+                {
+                    "q": "Who discovered the body of the deceased in a murder case in a secret room? a. Taylor B. Sara C. Joey D. Faris",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the occupation of the deceased Fisher? a. Actor b. Screenwriter and director c. Musician d. Painter",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the state of death of the deceased when they were discovered? a. Hanging neck dead b. Firearm injury c. Screwdriver inserted into right eye d. Poison poisoning",
+                    "ans": "c"
+                },
+                {
+                    "q": "What floors did the crew occupy in the Verden Hotel Apartments? a. 26-28th floor b. 25-27th floor c. 27-29th floor d. 26-29th floor",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the background story of the production team's \"Curse of Eros\"? a. Gloucester Town b. Wilden City c. Las Vegas d. New York",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the situation displayed on the surveillance footage at the crime scene? a. No surveillance footage. b. Only the deceased and Joey. c. Multiple person activity. d. Only the deceased is alone",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is lying next to the body of the deceased in the case? a. A book b. A sculpture c. An oil painting d. A computer",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Eros in 'The Curse of Eros'? a. A detective b. A weapon c. A deity d. A location",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the obvious injuries to the deceased's body? a. Hand burned b. Abdominal knife wound c. Rear of head impact injury d. Leg gunshot wound",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the condition of the windows at the crime scene? a. Fully closed b. Half open and partially broken c. Fully open d. Intact and undamaged",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Thomas' profession? a. Detective b. Director c. Actor d. Screenwriter",
+                    "ans": "a"
+                },
+                {
+                    "q": "On which floor is the Verden Hotel Apartment located? a. 26th floor b. 28th floor c. 29th floor d. 30th floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the height of the deceased Fisher? a. 164CM b. 172CM c. 180CM d. 167CM",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the name of the upside down painting next to the deceased when they were found? a. B. Mourning of Eros b. Meditation of Eros c. Revenge of Eros d. Regret of Eros",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did the deceased's body sit? a. On the sofa b. On the floor c. By the wall under the window d. On the bed",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which two people were found in the surveillance? a. Faris and Rolf B. Joey and Thomas C. Taylor and Sarah D. The deceased and Joey",
+                    "ans": "d"
+                },
+                {
+                    "q": "In which small town does the story of 'The Curse of Eros' take place? a. Gloucester Town b. Wilden City c. Las Vegas d. New York",
+                    "ans": "a"
+                },
+                {
+                    "q": "What type of game is Judge's game called? a. Adventure games b. Horror games c. Death games d. Puzzle games",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was Rolf's first impression of Faris? a. Considerate b. wise c. well-developed limbs, simple mind d. cautious",
+                    "ans": "c"
+                },
+                {
+                    "q": "What could the phone next to the deceased's body be used for? a. Shoot b. Call c. Monitor d. Play music",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Thomas' age? a. 19 years old b. 20 years old c. 22 years old d. 25 years old",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many participants are there in the game 'The Judge'? a. 6 people b. 7 people c. 8 people d. 9 people",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Actor b. Director and screenwriter c. Detective d. Painter",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which floors of the Verden apartment did the crew of 'The Curse of Eros' take over? a. 25-27th floor b. 26-28th floor c. 26-29th floor d. 27-29th floor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the time when the deceased was discovered? a. Morning b. Noon c. Evening d. Early morning",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the name of the oil painting next to the deceased's body? a. B. Mourning of Eros b. Meditation of Eros c. Revenge of Eros d. Regret of Eros",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where does the story of 'The Curse of Eros' take place? a. Gloucester Town b. Wilden City c. Las Vegas d. New York",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the method of death of the deceased? a. Hanging neck dead b. Firearm injury c. Screwdriver inserted into right eye d. Poison poisoning",
+                    "ans": "c"
+                },
+                {
+                    "q": "In the case, which individuals were displayed on the surveillance footage? a. Only the deceased b. The deceased and Thomas c. The deceased and Joey d. Multiple person activities",
+                    "ans": "c"
+                },
+                {
+                    "q": "What other objects were there next to the deceased's body besides oil paintings? a. A book b. A sculpture c. A computer d. A mobile phone",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is Thomas' age in the game? a. 19 years old b. 20 years old c. 22 years old d. 25 years old",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which floor did the incident at the Verden Hotel Apartments occur? a. 26th floor b. 27th floor c. 28th floor d. 29th floor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the occupation of the deceased Fisher? a. Actor b. Director and screenwriter c. Detective d. Painter",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where does the story of 'The Curse of Eros' take place? a. Gloucester Town b. Wilden City c. Las Vegas d. New York",
+                    "ans": "a"
+                },
+                {
+                    "q": "In room games, in what form does the character known as the 'Judge' participate? a. On site host b. Telephone guidance c. Video playback d. Audio playback",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the oil painting next to the deceased's body? a. B. Mourning of Eros b. Meditation of Eros c. Revenge of Eros d. Regret of Eros",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did the deceased's body sit? a. On the sofa b. On the floor c. By the wall under the window d. On the bed",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did the case occur? a. Morning b. Noon c. Evening d. Early morning",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the theme of the game 'The Judge'? a. Treasure Hunt Game b. Survival Game c. Escape Room d. Murder in the Escape Room",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the cause of the deceased's death? a. Hanging neck dead b. Firearm injury c. Screwdriver inserted into right eye d. Poison poisoning",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of game is Judge's Inside game described as? a. Adventure game b. Escape room c. Death game d. Role playing",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Thomas' role in the Chamber of Secrets game? a. Director b. Detective c. Murderer d. Victim",
+                    "ans": "b"
+                },
+                {
+                    "q": "On which floor of the Verden Hotel Apartments did the case occur? a. 26th floor b. 27th floor c. 28th floor d. 29th floor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where does the plot of 'The Curse of Eros' mainly take place? a. Gloucester Town b. Wilden City c. Las Vegas d. New York",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the cause of death for the deceased Fisher? a. Hanging neck dead b. Firearm injury c. Screwdriver inserted into right eye d. Poison poisoning",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the name of the oil painting next to the deceased's body? a. B. Mourning of Eros b. Meditation of Eros c. Revenge of Eros d. Regret of Eros",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many people are shown in the surveillance video of the case? a. Only the deceased b. The deceased and Joey c. Multiple activities d. Only one suspicious person",
+                    "ans": "b"
+                },
+                {
+                    "q": "In the game 'The Judge', if the guilty successfully find the murderer and lock them up in the courtroom, what will they get? a. Release b. monetary reward c. a new identity d. legal immunity",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where did the deceased's body sit? a. On the sofa b. On the floor c. By the wall under the window d. On the bed",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which floors of the Verden Hotel apartment were occupied by the crew of 'The Curse of Eros'? a. 25-27th floor b. 26-28th floor c. 26-29th floor d. 27-29th floor",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Who discovered the body of the deceased in a murder case in a secret room? a. Taylor B. Sara C. Joey D. Faris",
+                "What was the occupation of the deceased Fisher? a. Actor b. Screenwriter and director c. Musician d. Painter",
+                "What was the state of death of the deceased when they were discovered? a. Hanging neck dead b. Firearm injury c. Screwdriver inserted into right eye d. Poison poisoning",
+                "What floors did the crew occupy in the Verden Hotel Apartments? a. 26-28th floor b. 25-27th floor c. 27-29th floor d. 26-29th floor",
+                "What is the background story of the production team's \"Curse of Eros\"? a. Gloucester Town b. Wilden City c. Las Vegas d. New York",
+                "What is the situation displayed on the surveillance footage at the crime scene? a. No surveillance footage. b. Only the deceased and Joey. c. Multiple person activity. d. Only the deceased is alone",
+                "What is lying next to the body of the deceased in the case? a. A book b. A sculpture c. An oil painting d. A computer",
+                "What is Eros in 'The Curse of Eros'? a. A detective b. A weapon c. A deity d. A location",
+                "What are the obvious injuries to the deceased's body? a. Hand burned b. Abdominal knife wound c. Rear of head impact injury d. Leg gunshot wound",
+                "What is the condition of the windows at the crime scene? a. Fully closed b. Half open and partially broken c. Fully open d. Intact and undamaged",
+                "What is Thomas' profession? a. Detective b. Director c. Actor d. Screenwriter",
+                "On which floor is the Verden Hotel Apartment located? a. 26th floor b. 28th floor c. 29th floor d. 30th floor",
+                "What is the height of the deceased Fisher? a. 164CM b. 172CM c. 180CM d. 167CM",
+                "What was the name of the upside down painting next to the deceased when they were found? a. B. Mourning of Eros b. Meditation of Eros c. Revenge of Eros d. Regret of Eros",
+                "Where did the deceased's body sit? a. On the sofa b. On the floor c. By the wall under the window d. On the bed",
+                "Which two people were found in the surveillance? a. Faris and Rolf B. Joey and Thomas C. Taylor and Sarah D. The deceased and Joey",
+                "In which small town does the story of 'The Curse of Eros' take place? a. Gloucester Town b. Wilden City c. Las Vegas d. New York",
+                "What type of game is Judge's game called? a. Adventure games b. Horror games c. Death games d. Puzzle games",
+                "What was Rolf's first impression of Faris? a. Considerate b. wise c. well-developed limbs, simple mind d. cautious",
+                "What could the phone next to the deceased's body be used for? a. Shoot b. Call c. Monitor d. Play music",
+                "What is Thomas' age? a. 19 years old b. 20 years old c. 22 years old d. 25 years old",
+                "How many participants are there in the game 'The Judge'? a. 6 people b. 7 people c. 8 people d. 9 people",
+                "What was the profession of the deceased? a. Actor b. Director and screenwriter c. Detective d. Painter",
+                "Which floors of the Verden apartment did the crew of 'The Curse of Eros' take over? a. 25-27th floor b. 26-28th floor c. 26-29th floor d. 27-29th floor",
+                "What was the time when the deceased was discovered? a. Morning b. Noon c. Evening d. Early morning",
+                "What is the name of the oil painting next to the deceased's body? a. B. Mourning of Eros b. Meditation of Eros c. Revenge of Eros d. Regret of Eros",
+                "Where does the story of 'The Curse of Eros' take place? a. Gloucester Town b. Wilden City c. Las Vegas d. New York",
+                "What was the method of death of the deceased? a. Hanging neck dead b. Firearm injury c. Screwdriver inserted into right eye d. Poison poisoning",
+                "In the case, which individuals were displayed on the surveillance footage? a. Only the deceased b. The deceased and Thomas c. The deceased and Joey d. Multiple person activities",
+                "What other objects were there next to the deceased's body besides oil paintings? a. A book b. A sculpture c. A computer d. A mobile phone",
+                "What is Thomas' age in the game? a. 19 years old b. 20 years old c. 22 years old d. 25 years old",
+                "On which floor did the incident at the Verden Hotel Apartments occur? a. 26th floor b. 27th floor c. 28th floor d. 29th floor",
+                "What was the occupation of the deceased Fisher? a. Actor b. Director and screenwriter c. Detective d. Painter",
+                "Where does the story of 'The Curse of Eros' take place? a. Gloucester Town b. Wilden City c. Las Vegas d. New York",
+                "In room games, in what form does the character known as the 'Judge' participate? a. On site host b. Telephone guidance c. Video playback d. Audio playback",
+                "What is the oil painting next to the deceased's body? a. B. Mourning of Eros b. Meditation of Eros c. Revenge of Eros d. Regret of Eros",
+                "Where did the deceased's body sit? a. On the sofa b. On the floor c. By the wall under the window d. On the bed",
+                "When did the case occur? a. Morning b. Noon c. Evening d. Early morning",
+                "What is the theme of the game 'The Judge'? a. Treasure Hunt Game b. Survival Game c. Escape Room d. Murder in the Escape Room",
+                "What was the cause of the deceased's death? a. Hanging neck dead b. Firearm injury c. Screwdriver inserted into right eye d. Poison poisoning",
+                "What type of game is Judge's Inside game described as? a. Adventure game b. Escape room c. Death game d. Role playing",
+                "What is Thomas' role in the Chamber of Secrets game? a. Director b. Detective c. Murderer d. Victim",
+                "On which floor of the Verden Hotel Apartments did the case occur? a. 26th floor b. 27th floor c. 28th floor d. 29th floor",
+                "Where does the plot of 'The Curse of Eros' mainly take place? a. Gloucester Town b. Wilden City c. Las Vegas d. New York",
+                "What was the cause of death for the deceased Fisher? a. Hanging neck dead b. Firearm injury c. Screwdriver inserted into right eye d. Poison poisoning",
+                "What is the name of the oil painting next to the deceased's body? a. B. Mourning of Eros b. Meditation of Eros c. Revenge of Eros d. Regret of Eros",
+                "How many people are shown in the surveillance video of the case? a. Only the deceased b. The deceased and Joey c. Multiple activities d. Only one suspicious person",
+                "In the game 'The Judge', if the guilty successfully find the murderer and lock them up in the courtroom, what will they get? a. Release b. monetary reward c. a new identity d. legal immunity",
+                "Where did the deceased's body sit? a. On the sofa b. On the floor c. By the wall under the window d. On the bed",
+                "Which floors of the Verden Hotel apartment were occupied by the crew of 'The Curse of Eros'? a. 25-27th floor b. 26-28th floor c. 26-29th floor d. 27-29th floor"
+            ],
+            "a": [
+                "c",
+                "b",
+                "c",
+                "a",
+                "a",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "a",
+                "b",
+                "a",
+                "b",
+                "c",
+                "d",
+                "a",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "d",
+                "b",
+                "a",
+                "c",
+                "c",
+                "d",
+                "c",
+                "c",
+                "b",
+                "a",
+                "d",
+                "b",
+                "c",
+                "d",
+                "d",
+                "c",
+                "c",
+                "b",
+                "c",
+                "a",
+                "c",
+                "b",
+                "b",
+                "a",
+                "c",
+                "c"
+            ]
+        },
+        {
+            "name": "Webster",
+            "back": "You're awake.",
+            "r_q": [
+                {
+                    "q": "What is Webster's profession? a. Proprietor b. Director c. Milk deliveryman d. Actor",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many people are trapped in the secret room at the beginning of the game? a. 5 people b. 6 people c. 7 people d. 8 people",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which of the following is not included in the locked room murder case mentioned by the judge? a. Blood stained message b. Silent confession c. Instantly disappearing perpetrator d. Curse of Eros' dismemberment",
+                    "ans": "b"
+                },
+                {
+                    "q": "According to the plot, which character is the director? a. Taylor B. Joey C. Sarah D. Fisher",
+                    "ans": "d"
+                },
+                {
+                    "q": "When does Webster deliver milk? a. 3:05 PM b. 3:10 PM c. 2:55 PM d. 2:45 PM",
+                    "ans": "b"
+                },
+                {
+                    "q": "What does the green indicator light on the milk storage box represent? a. The bottle has been put in b. The bottle has been taken away by the customer c. The storage box is empty d. The storage box is faulty",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who does Webster suspect could be the murderer? a. Taylor B. Joey C. Rolf D. Sara",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which floors of the Verden apartment were used by the crew of 'The Curse of Eros'? a. 26-28th floor b. 26-29th floor c. 27-29th floor d. 25-28th floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is director Fisher's attitude towards working hours? a. I like to be disturbed. B. I don't mind occasional visitors. C. I don't like to be disturbed during working hours. D. I am very welcome to anyone to visit anytime",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the background story of the production team's \"Curse of Eros\"? a. Modern city b. Ancient castle c. Gloucester town d. Distant planet",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Webster's age? a. 18 years old b. 20 years old c. 22 years old d. 25 years old",
+                    "ans": "b"
+                },
+                {
+                    "q": "In the game 'Inside', how many rooms represent a murder case in a locked room? a. 4 b. 5 c. 6 d. 7",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the sound used by the judge in the game? a. Natural b. Mechanical variability c. Ghostly d. Mood swings",
+                    "ans": "b"
+                },
+                {
+                    "q": "Webster, do you remember the judge's status in the past few months? a. More active b. Completely disappeared c. Silent d. Irritable and restless",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which of the suspects is the youngest? a. Faris B. Thomas C. Sara D. Rolf",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which of the following is included in the principles of the judge? a. Will not deceive players b. Every player has a chance to win c. Only one survivor d. Conviction without evidence",
+                    "ans": "a"
+                },
+                {
+                    "q": "According to the plot, Webster gave milk to the crew because? a. By chance b. Director Fisher's special request c. Hotel cooperation arrangement d. Personal interests",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who does Webster think could be the murderer? a. Faris B. Sara C. Rolf D. Joey",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which floor do the crew of 'The Curse of Eros' live? a. 26-28th floor b. 25-27th floor c. 28-29th floor d. 26-29th floor",
+                    "ans": "a"
+                },
+                {
+                    "q": "When did Webster hear the sound from upstairs? a. 2:55pm b. 3:05pm c. 3:10pm d. 3:15pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is the deity worshipped by the residents of Gloucester town in the episode 'The Curse of Eros'? a. Hermes b. Eros c. Zeus d. Apollo",
+                    "ans": "b"
+                },
+                {
+                    "q": "What sound processing method did the judge use in the game? a. Natural b. Mechanical variability c. Ghostly d. Mood swings",
+                    "ans": "b"
+                },
+                {
+                    "q": "According to the principles of the judge, what did he promise in the game? a. Every player has a chance to win. b. Will not deceive players. c. Only one survivor. d. Convicts without evidence",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the reason why Webster sent milk to the crew? a. By chance b. Special requests from the director c. Hotel collaboration arrangements d. Personal interests",
+                    "ans": "b"
+                },
+                {
+                    "q": "Webster suspects who might be the murderer? a. Taylor B. Joey C. Rolf D. Faris",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Webster hear the sound from upstairs? a. Room 2805 b. Room 2905 c. Lobby d. Shooting location",
+                    "ans": "b"
+                },
+                {
+                    "q": "What does the green indicator light on the milk storage box indicate when it lights up? a. The bottle has been put in b. The bottle has been taken away by the customer c. The storage box is empty d. The storage box is faulty",
+                    "ans": "b"
+                },
+                {
+                    "q": "According to the game rules, what will the judge do if the innocent person is not found? a. Punish the innocent b. Publish the crimes of the guilty c. Publicize the crimes of all players to the public d. Release all players",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which floors of the Verden apartment were used by the crew of 'The Curse of Eros'? a. 26-28th floor b. 26-29th floor c. 27-29th floor d. 25-28th floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which item in the game 'Inside' is not one of the themes of the Chamber of Secrets case? a. Blood stained messages b. A secret room without dead corners c. The perpetrator who disappeared instantly d. The final secret letter",
+                    "ans": "d"
+                },
+                {
+                    "q": "What type of drama is' The Curse of Eros'? a. Comedy b. Reasoning c. Horror d. Science Fiction",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who often gets angry on set in the Verden Hotel Apartments? a. Webster B. Taylor C. Fisher D. Joey",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Webster leave after putting the milk into the storage box? a. Immediately leave after insertion. b. Leave after seeing the green indicator light on. c. Leave after seeing the red indicator light on. d. Did not leave",
+                    "ans": "b"
+                },
+                {
+                    "q": "In the game Inside, how does the judge announce the start of the game? a. TV news b. Text on screen c. Speaker announcement d. Voice after changing tone",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where does Webster think the noise is suspicious? a. Room 2805 b. Room 2905 c. Lobby d. Shooting location",
+                    "ans": "b"
+                },
+                {
+                    "q": "What will happen if players do not follow the rules in the game \"Inside\" of the Judge? a. Being pardoned b. Publicly convicted c. Directly released d. No impact",
+                    "ans": "b"
+                },
+                {
+                    "q": "What floors were included in the production of \"The Curse of Eros\" at the Verden Hotel Apartments? a. 26-28th floor b. 26-29th floor c. 27-29th floor d. 25-28th floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who does Webster think could be the murderer? a. Taylor B. Joey C. Rolf D. Faris",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the god worshipped by the people in the town of Gloucester? a. Hermes b. Eros c. Zeus d. Apollo",
+                    "ans": "b"
+                },
+                {
+                    "q": "In the game Inside, what would happen if a guilty person found an innocent person and locked them up in the courtroom? a. The guilty are released. b. All players are punished. c. The game continues. d. The innocent are released",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Webster's role in the Judge Game? a. Murderer b. Innocent c. Observer d. Judge",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the filming location of 'The Curse of Eros'? a. Grost Town b. Wilden Apartments c. Eros Church d. Grost Forest",
+                    "ans": "b"
+                },
+                {
+                    "q": "What happens in the game \"Inside\" of the Judge if the innocent person is not found? a. The judge will reveal everyone's guilt. b. All players will be released. c. The game will restart. d. Innocent individuals will be released",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Webster's attitude towards the game of judges? a. Panic b. Expectation c. Completely indifferent d. Deep fear",
+                    "ans": "b"
+                },
+                {
+                    "q": "What methods does the judge use to make players forget the past? a. Drug b. Hypnosis c. High tech equipment d. Not disclosed",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the type of drama series' The Curse of Eros'? a. Comedy b. Reasoning c. Love d. Science Fiction",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Webster's job? a. Milk deliveryman b. Director c. Screenwriter d. Proprietor",
+                    "ans": "a"
+                },
+                {
+                    "q": "What does the judge promise the players? a. Will not harm them b. Will provide generous rewards c. Will not deceive players d. Will make them become stars",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why does Webster think Rolf is suspicious? a. Because he looks strange. b. Because he was at the scene at the time of the crime. c. Because he manages the warehouse above the crime scene. d. Because he has a motive for committing the crime",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Webster deliver the milk and when did he hear the sound upstairs? a. 3:05 PM b. 3:10 PM c. 2:55 PM d. 3:15 PM",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is Webster's profession? a. Proprietor b. Director c. Milk deliveryman d. Actor",
+                "How many people are trapped in the secret room at the beginning of the game? a. 5 people b. 6 people c. 7 people d. 8 people",
+                "Which of the following is not included in the locked room murder case mentioned by the judge? a. Blood stained message b. Silent confession c. Instantly disappearing perpetrator d. Curse of Eros' dismemberment",
+                "According to the plot, which character is the director? a. Taylor B. Joey C. Sarah D. Fisher",
+                "When does Webster deliver milk? a. 3:05 PM b. 3:10 PM c. 2:55 PM d. 2:45 PM",
+                "What does the green indicator light on the milk storage box represent? a. The bottle has been put in b. The bottle has been taken away by the customer c. The storage box is empty d. The storage box is faulty",
+                "Who does Webster suspect could be the murderer? a. Taylor B. Joey C. Rolf D. Sara",
+                "Which floors of the Verden apartment were used by the crew of 'The Curse of Eros'? a. 26-28th floor b. 26-29th floor c. 27-29th floor d. 25-28th floor",
+                "What is director Fisher's attitude towards working hours? a. I like to be disturbed. B. I don't mind occasional visitors. C. I don't like to be disturbed during working hours. D. I am very welcome to anyone to visit anytime",
+                "What is the background story of the production team's \"Curse of Eros\"? a. Modern city b. Ancient castle c. Gloucester town d. Distant planet",
+                "What is Webster's age? a. 18 years old b. 20 years old c. 22 years old d. 25 years old",
+                "In the game 'Inside', how many rooms represent a murder case in a locked room? a. 4 b. 5 c. 6 d. 7",
+                "What is the sound used by the judge in the game? a. Natural b. Mechanical variability c. Ghostly d. Mood swings",
+                "Webster, do you remember the judge's status in the past few months? a. More active b. Completely disappeared c. Silent d. Irritable and restless",
+                "Which of the suspects is the youngest? a. Faris B. Thomas C. Sara D. Rolf",
+                "Which of the following is included in the principles of the judge? a. Will not deceive players b. Every player has a chance to win c. Only one survivor d. Conviction without evidence",
+                "According to the plot, Webster gave milk to the crew because? a. By chance b. Director Fisher's special request c. Hotel cooperation arrangement d. Personal interests",
+                "Who does Webster think could be the murderer? a. Faris B. Sara C. Rolf D. Joey",
+                "On which floor do the crew of 'The Curse of Eros' live? a. 26-28th floor b. 25-27th floor c. 28-29th floor d. 26-29th floor",
+                "When did Webster hear the sound from upstairs? a. 2:55pm b. 3:05pm c. 3:10pm d. 3:15pm",
+                "Who is the deity worshipped by the residents of Gloucester town in the episode 'The Curse of Eros'? a. Hermes b. Eros c. Zeus d. Apollo",
+                "What sound processing method did the judge use in the game? a. Natural b. Mechanical variability c. Ghostly d. Mood swings",
+                "According to the principles of the judge, what did he promise in the game? a. Every player has a chance to win. b. Will not deceive players. c. Only one survivor. d. Convicts without evidence",
+                "What is the reason why Webster sent milk to the crew? a. By chance b. Special requests from the director c. Hotel collaboration arrangements d. Personal interests",
+                "Webster suspects who might be the murderer? a. Taylor B. Joey C. Rolf D. Faris",
+                "Where did Webster hear the sound from upstairs? a. Room 2805 b. Room 2905 c. Lobby d. Shooting location",
+                "What does the green indicator light on the milk storage box indicate when it lights up? a. The bottle has been put in b. The bottle has been taken away by the customer c. The storage box is empty d. The storage box is faulty",
+                "According to the game rules, what will the judge do if the innocent person is not found? a. Punish the innocent b. Publish the crimes of the guilty c. Publicize the crimes of all players to the public d. Release all players",
+                "Which floors of the Verden apartment were used by the crew of 'The Curse of Eros'? a. 26-28th floor b. 26-29th floor c. 27-29th floor d. 25-28th floor",
+                "Which item in the game 'Inside' is not one of the themes of the Chamber of Secrets case? a. Blood stained messages b. A secret room without dead corners c. The perpetrator who disappeared instantly d. The final secret letter",
+                "What type of drama is' The Curse of Eros'? a. Comedy b. Reasoning c. Horror d. Science Fiction",
+                "Who often gets angry on set in the Verden Hotel Apartments? a. Webster B. Taylor C. Fisher D. Joey",
+                "When did Webster leave after putting the milk into the storage box? a. Immediately leave after insertion. b. Leave after seeing the green indicator light on. c. Leave after seeing the red indicator light on. d. Did not leave",
+                "In the game Inside, how does the judge announce the start of the game? a. TV news b. Text on screen c. Speaker announcement d. Voice after changing tone",
+                "Where does Webster think the noise is suspicious? a. Room 2805 b. Room 2905 c. Lobby d. Shooting location",
+                "What will happen if players do not follow the rules in the game \"Inside\" of the Judge? a. Being pardoned b. Publicly convicted c. Directly released d. No impact",
+                "What floors were included in the production of \"The Curse of Eros\" at the Verden Hotel Apartments? a. 26-28th floor b. 26-29th floor c. 27-29th floor d. 25-28th floor",
+                "Who does Webster think could be the murderer? a. Taylor B. Joey C. Rolf D. Faris",
+                "What is the god worshipped by the people in the town of Gloucester? a. Hermes b. Eros c. Zeus d. Apollo",
+                "In the game Inside, what would happen if a guilty person found an innocent person and locked them up in the courtroom? a. The guilty are released. b. All players are punished. c. The game continues. d. The innocent are released",
+                "What is Webster's role in the Judge Game? a. Murderer b. Innocent c. Observer d. Judge",
+                "Where was the filming location of 'The Curse of Eros'? a. Grost Town b. Wilden Apartments c. Eros Church d. Grost Forest",
+                "What happens in the game \"Inside\" of the Judge if the innocent person is not found? a. The judge will reveal everyone's guilt. b. All players will be released. c. The game will restart. d. Innocent individuals will be released",
+                "What is Webster's attitude towards the game of judges? a. Panic b. Expectation c. Completely indifferent d. Deep fear",
+                "What methods does the judge use to make players forget the past? a. Drug b. Hypnosis c. High tech equipment d. Not disclosed",
+                "What is the type of drama series' The Curse of Eros'? a. Comedy b. Reasoning c. Love d. Science Fiction",
+                "What is Webster's job? a. Milk deliveryman b. Director c. Screenwriter d. Proprietor",
+                "What does the judge promise the players? a. Will not harm them b. Will provide generous rewards c. Will not deceive players d. Will make them become stars",
+                "Why does Webster think Rolf is suspicious? a. Because he looks strange. b. Because he was at the scene at the time of the crime. c. Because he manages the warehouse above the crime scene. d. Because he has a motive for committing the crime",
+                "When did Webster deliver the milk and when did he hear the sound upstairs? a. 3:05 PM b. 3:10 PM c. 2:55 PM d. 3:15 PM"
+            ],
+            "a": [
+                "c",
+                "c",
+                "b",
+                "d",
+                "b",
+                "b",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c",
+                "c",
+                "a",
+                "b",
+                "c",
+                "a",
+                "c",
+                "b",
+                "b",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "d",
+                "b",
+                "c",
+                "b",
+                "d",
+                "b",
+                "b",
+                "b",
+                "c",
+                "b",
+                "a",
+                "b",
+                "b",
+                "a",
+                "b",
+                "d",
+                "b",
+                "a",
+                "c",
+                "c",
+                "b"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "Which of the following is not included in the storage room upstairs? a. Hotel supplies b. Decorative ornaments for film and television c. Daily necessities d. Film and television props",
+            "How many tails does Eros have in the painting \"Meditation of Eros\"? a. 2 b. 3 c. 4 d. 5",
+            "What do the tails of Eros represent? a. Justice, fairness, wisdom, strength b. Justice, fairness, compassion, benevolence and righteousness c. Bravery, justice, fairness, loyalty d. Hope, dreams, love, peace",
+            "What was the time on the day of the incident when the deceased's phone answered a call from an unfamiliar number? a. 2:21 PM b. 3:21 PM c. 4:21 PM d. 5:21 PM",
+            "How many degrees can the windows in the room be opened at most? a. 30 degrees b. 45 degrees c. 60 degrees d. 90 degrees",
+            "What are the diameters and lengths of stick shaped objects that a spring crossbow can shoot? a. Diameter 5cm, length 25cm b. Diameter 6cm, length 30cm c. Diameter 7cm, length 35cm d. Diameter 8cm, length 40cm",
+            "Under what circumstances did Webster hear the sound from upstairs? a. When cleaning b. When delivering milk c. When repairing things d. When taking a walk",
+            "What does it mean that the surveillance did not record anyone entering the deceased's room? a. The killer used stealth technology. b. The killer used a secret passage. c. The killer did not kill the victim in the room. d. The monitoring equipment malfunctioned",
+            "What is the reason why the murderer may choose to kill outside the secret room? a. To create suspense, to avoid surveillance, to conceal identity, and to test new weapons",
+            "Who manages the prop room upstairs? a. Rolf B. Webster C. deceased d. unknown person",
+            "Only who can enter the prop room upstairs? a. Anyone b. Rolf c. Relatives and friends of the deceased d. Hotel staff",
+            "What is the power of a spring crossbow? a. Small b. General c. Extremely large d. Insignificant",
+            "What is the posture of Eros in the meditation of Eros? a. Sitting cross legged b. Standing c. Kneeling d. Lying prone",
+            "Does Eros wear any clothes in the painting? a. Yes b. No c. Wear only bottoms d. Wear only tops",
+            "What are the movie props stored in the upstairs storage room? a. Real gun b. Fake gun c. Live ammunition d. Rubber bullets",
+            "What was the call received by the phone next to the deceased on the day of the incident? a. Friends calling b. Family calling c. Unknown phone number calling d. Work phone number",
+            "What is the axis of the window that opens outward? a. Vertical plane b. Horizontal plane c. Sloping plane d. Fixed and immovable",
+            "How did Webster become a witness who heard the sound upstairs? a. He lives upstairs. B. He is working upstairs. C. He heard it while delivering milk downstairs. D. He heard it over the phone",
+            "If the killer kills outside the secret room, what are they mainly trying to avoid? a. Discovered by the neighbor next door to the deceased b. Directly in contact with the deceased c. Discovered by surveillance footage d. Left fingerprints at the scene",
+            "What types of items are mainly stored in the prop room upstairs? a. Personal items b. Cleaning utensils c. Film props and decorations d. Food and beverages",
+            "What method did the killer use to attract the deceased to probe through the window? a. Phone b. Knocking on the window c. Shouting loudly d. Sending text messages",
+            "What was the behavior of the deceased before their death? a. Look down b. Look up c. Look left d. Look right",
+            "Which of the following is correct regarding the situation in the deceased's room? a. Multiple people entered and exited. b. Only the deceased entered and exited. c. No one entered. d. The perpetrator entered",
+            "How did the murderer make the deceased think he would tell her the secret in the painting? a. Phone b. Message c. Letter d. Direct conversation",
+            "Where could the murderer be located? a. Upstairs b. Downstairs c. Inside the deceased's room d. Opposite building",
+            "How did the murderer kill the deceased? a. Pistol shooting b. Knife stabbing c. Shooting from upstairs d. Poisoning to death with poison",
+            "What did the killer shoot from upstairs? a. Bullets b. Arrows c. Screwdrivers d. Stones",
+            "Where was the deceased killed? a. On the bed b. On the chair c. Under the window d. At the door",
+            "What did the killer use to induce the deceased to lean out of the window? a. Tell him the secret in the painting. b. The drone note outside the window. c. The neighbor's cries for help below the window. d. Pretend someone is knocking on the window",
+            "What weapon did the murderer use to kill the deceased? a. Pistol b. Spring crossbow c. Long bow d. Stone throwing tool",
+            "Where was the location where the murderer killed the deceased? a. B. In the deceased's room b. Beside the deceased's room c. Across from the deceased's room d. Directly above the deceased's room",
+            "Why doesn't the murderer need to enter the deceased's room? a. He can control the deceased through the phone. B. He uses remote weapons. C. He has traps in the deceased's room. D. He observes the deceased through the window",
+            "How did the murderer make the deceased look up from the window? a. Using sound to attract b. Sending text messages to make him look up c. Mentioning things that the deceased is interested in on the phone d. Guiding through external light sources"
+        ],
+        "key_ans": [
+            "c",
+            "c",
+            "b",
+            "b",
+            "c",
+            "b",
+            "b",
+            "c",
+            "b",
+            "a",
+            "b",
+            "c",
+            "a",
+            "b",
+            "b",
+            "c",
+            "b",
+            "c",
+            "c",
+            "c",
+            "a",
+            "b",
+            "c",
+            "a",
+            "a",
+            "c",
+            "c",
+            "c",
+            "a",
+            "b",
+            "d",
+            "b",
+            "c"
+        ],
+        "key_sc": [
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "Which of the following items are usually not included in the storage room? a. Hotel supplies b. Decorative ornaments for film and television c. Film and television props d. Food",
+            "Which of the following is not an example of a movie prop? a. Fake gun b. Spring knife c. Real firearm d. Background cloth",
+            "Which of the following items are usually not included in the storage room? a. Hotel supplies b. Decorative ornaments for film and television c. Film and television props d. Food",
+            "Which of the following is not an example of a movie prop? a. Fake gun b. Spring knife c. Real firearm d. Background cloth",
+            "The phone next to the deceased answered a call on the day of the incident. At what time was the call answered? a. 2:21 PM b. 3:21 PM c. 4:21 PM d. 5:21 PM",
+            "What type of number did the phone next to the deceased answer? a. Familiar friend number b. Family member number c. Unknown number d. Company number",
+            "In the meditation of Eros, how many tails does Eros have? a. 1 b. 2 c. 3 d. 4",
+            "What do the tails of Eros represent in the painting? a. Justice, fairness, compassion, benevolence and righteousness b. Strength, speed, wisdom, courage c. Hope, dreams, perseverance, love d. Wealth, fame, power, happiness",
+            "At what time was the last time the deceased was captured by surveillance footage coming out of their room? a. 14:03 b. 14:27 c. 15:11 d. 15:30",
+            "What is the house number of the deceased's room? a. 2803 b. 2804 c. 2805 d. 2806",
+            "Is Rolf's room within surveillance range? a. Yes B. No",
+            "What did Webster do at the door of the deceased's room? a. Knock on the door b. Leave a note c. Put in milk d. Attach a warning label",
+            "Which room did Joey come from? a. 2803 b. 2804 c. 2805 d. 2806",
+            "Who discovered the deceased? a. Rolf B. Webster C. Joey D. Security",
+            "What does this monitoring indicate? a. At the time of the deceased's death, no suspicious individuals appeared, indicating that it was a secret room. b. From last night until today, multiple suspicious individuals have approached the deceased's room. c. The deceased had had contact with a suspicious person before leaving the house. d. The death of the deceased was not related to external personnel, but entirely caused by natural reasons.",
+            "Why did Alice initially feel scared? a. Because she witnessed Mr. Robin being killed with her own eyes. b. Because she thought she would be killed. c. Because there was a power outage. d. Because of Mr. Palos' appearance",
+            "Why does Mr. Robin think he can protect himself and Alice in the dark? a. He is good at martial arts. B. He carries a handgun. C. He has night vision ability. D. He has prepared safety measures in advance",
+            "How did Mr. Palos discover the key evidence in the case? a. Through surveillance video b. Through Alice's description c. Discovered the fluorescent powder on Alice's head d. Found clues from Mr. Robin's belongings",
+            "What is Mr. Robin's real plan? a. Protecting Alice from harm b. Collaborating with the murderer to kill Alice c. Facing the murderer alone d. Escaping the scene",
+            "Why was Mr. Robin ultimately killed? a. Because he accidentally injured himself. b. Because the murderer betrayed him. c. Because he protected Alice. d. Because the police intervened in a timely manner",
+            "What is Alice's mood at the end of the story? a. Sad but fortunate to have survived b. Full of hatred towards Mr. Robin c. Desperate and feeling betrayed d. Grateful for Mr. Palos' help",
+            "What is the maximum diameter of the object that can be shot by a spring crossbow? a. 3 cm b. 4 cm c. 5 cm d. 6 cm",
+            "What is the maximum length of items that can be shot by a spring crossbow? a. 20cm b. 25cm c. 30cm d. 35cm",
+            "What are the characteristics of a spring crossbow? a. Long range but low power b. Can only shoot objects of specific materials c. Extremely powerful d. Complex use",
+            "What kind of items do spring crossbows have shooting restrictions on? a. Any shape of object b. Stick shaped object c. Ball shaped object d. Plate shaped object",
+            "What is the size of the fixed stick shaped object used in the spring crossbow? a. Diameter not exceeding 6 cm, length not exceeding 20 cm b. Diameter not exceeding 5 cm, length not exceeding 25 cm c. Diameter not exceeding 6 cm, length not exceeding 30 cm d. Diameter not exceeding 4 cm, length not exceeding 15 cm",
+            "What is the maximum diameter of the fixed stick shaped object used in spring crossbows? a. 3 cm b. 4 cm c. 5 cm d. 6 cm",
+            "What is the maximum length of a fixed stick like object used in a spring crossbow? a. 15cm b. 20cm c. 25cm d. 30cm"
+        ],
+        "key_ans": [
+            "d",
+            "c",
+            "d",
+            "c",
+            "b",
+            "c",
+            "d",
+            "a",
+            "b",
+            "c",
+            "b",
+            "c",
+            "b",
+            "c",
+            "a",
+            "b",
+            "b",
+            "c",
+            "b",
+            "b",
+            "c",
+            "d",
+            "c",
+            "c",
+            "b",
+            "c",
+            "d",
+            "d"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "What items are on the computer desk used for film review? a. Film and television materials and bottled milk b. Keyboard and mouse set and monitor c. Document materials and desk lamp d. All items of a and b",
+            "How was the door of the deceased's room locked? a. Need to lock with a key b. Automatically lock after closing the door c. Use password lock d. Use biometric technology",
+            "What are the items on the ground next to the deceased? a. A mobile phone b. A screwdriver c. A book d. A mobile phone and a screwdriver",
+            "What is the condition on the oil painting \"Meditation of Eros\"? a. There is a small amount of blood. b. It is intact. c. It has been torn. d. It has been burned",
+            "What was the clothing worn by the deceased? a. A black suit b. A white shirt and jeans c. A dark long sleeved T-shirt and casual pants d. Sleepwear and slippers",
+            "What's on the bedside table in the bedroom? a. Desk lamp and some books b. Document materials and milk c. Film and television materials and mobile phone d. Keyboard and mouse set and monitor",
+            "What is the reason for the comfortable temperature in the deceased's room? a. There is a fireplace in the room. b. The hotel provides air conditioning and heating. c. The windows are tightly closed to prevent cold air from entering. d. Electric heating is used",
+            "What caused the injury to the deceased's right eye? a. Glass shards b. Screwdriver c. Shot d. Blunt object",
+            "What clues is most likely to be provided by the phone next to the deceased? a. Call records b. SMS c. Application data d. All of the above",
+            "Who has the spare key for the anti-theft door in the deceased's room? a. Dead person b. Miss Joey c. Security guard d. Hotel front desk",
+            "What is the condition of the window behind the deceased at the scene? a. Fully closed b. Locked but not closed c. Slightly opened and broken d. Fully opened",
+            "What kind of evidence is there at the scene indicating that the deceased was attacked? a. Blood stains b. Fluorescent powder c. Fingerprint d. DNA sample",
+            "According to the on-site layout map, where was the deceased found at the numbered location? a. 1 b. 2 c. 3 d. 6",
+            "Where did the deceased die in the room? a. Near the door b. In the bathroom c. By the window and table d. On the bed",
+            "What is there near the deceased? a. Only mobile phone b. Only drawing c. Drawing and mobile phone d. Books and desk lamp",
+            "What is the position marked as 4 in the room layout diagram? a. Desk b. Bed c. Sofa d. Window",
+            "What is the position marked as 5 in the room layout diagram? a. Computer desk b. TV c. Drawing d. Wardrobe",
+            "What is the location marked as 1 in the room layout diagram? a. Desk b. Bed c. Sofa d. Window",
+            "What is the position marked as 6 in the room layout diagram? a. Desk b. Bed c. Dead person d. Computer desk",
+            "What is the location marked as 7 in the room layout diagram? a. Desk b. Window c. Drawing d. Computer desk"
+        ],
+        "key_ans": [
+            "d",
+            "b",
+            "d",
+            "a",
+            "c",
+            "a",
+            "b",
+            "b",
+            "d",
+            "b",
+            "c",
+            "a",
+            "d",
+            "c",
+            "c",
+            "b",
+            "a",
+            "d",
+            "c",
+            "b"
+        ]
+    },
+    "ju_name": "DI7MI2",
+    "task_nm": "Please complete the following tasks using all the clues at hand",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "rolf"
+    ],
+    "murder": "rolf",
+    "reason": "Motive for committing the crime:"
+}

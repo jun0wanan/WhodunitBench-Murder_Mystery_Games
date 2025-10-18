@@ -1,0 +1,277 @@
+{
+    "key_clues_pool": {
+        "1-step": [
+            "Tanaka Yusuke, Takeuchi Hiromi, and Ninomiya Jiuri have memories of physical discomfort, so they each recorded it 1 minute before feeling unwell.",
+            "From the perspective of Yutaka Tanaka, \"Asahi Mama\" has experienced two physical discomforts, while \"Ninomiya Hisahide\" only remembers the second time, so she did not experience the first physical discomfort.",
+            "Among the other three, only Tomoko Miyazaki remembers all three weather anomalies, so only Tomoko Miyazaki can load the game 1 minute before the first one.",
+            "Except for Tomoko Miyazaki, only Kazuki Yabu remembers the second weather anomaly, so only Kazuki Yabu can be loaded into the game 1 minute before the second weather anomaly.",
+            "I don't remember the second weather anomaly, he can only load it 1 minute before the third weather anomaly",
+            "Ninomiya Jiuri believes that Nishimura Hyun was killed for molesting a \"student\", and Yabe Kazuichi is a security guard, ruling out suspicion",
+            "The time when the perpetrator committed the crime was at 18:10 on Thursday, and from 18:00 to 20:30 on Thursday evening. Yutaka Tanaka and Hiromi Takeuchi were not at school, so suspicion has been ruled out"
+        ],
+        "2-step": [
+            "The culprit is either Masatoshi Ninomiya or Tomoko Miyazaki",
+            "It won't be Miyazaki Tomoko who was hit by the Second Palace Nine Days"
+        ],
+        "宫崎智子": [
+            "When Miyazaki Tomoko left the cafeteria, she saw Ninomiya Hisahide walking towards the teaching building, indicating that even if she went to the small study room, she was still behind Ninomiya Hisahide"
+        ],
+        "田中佑": [
+            "The perspective of Yutaka Tanaka can prove that one can indeed see the teaching building from the cafeteria"
+        ]
+    },
+    "role-q": {},
+    "public_clue": "The new reasoning puzzle VR game \"Infinite Investigation Bureau\" developed by Xinfeng Technology has officially started internal testing and is now open for registration to the whole society. Players who pass the layers of dungeon tests in the beta and become the ultimate winner will receive huge bonuses. You are the lucky ones who have been selected among thousands of applicants and will begin your gaming journey today.",
+    "key_clues_questions": [
+        {
+            "q": "Which character was loaded into the game 1 minute before the first weather anomaly? a. Miyazaki Tomoko b. Ninomiya 9th c. Yabuka 1st d. Tanaka Yuki",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Who remembers the second weather anomaly and loading it into the game one minute before the weather anomaly? a. Miyazaki Tomoko b. Ninomiya 9th c. Yabuka 1st d. Ninomiya Masataka",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Er Gong Zhengtuo doesn't remember which weather anomaly? a. First b. Second c. Third",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Who broke through the murderer and committed the crime at 18:10 on Thursday? a. Yutaka Tanaka b. Hiromi Takeuchi c. Hisashi Ninomiya d. Tomoko Miyazaki",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Which characters are not at school from 18:00 to 20:30 on Thursday night, so are they excluded from suspicion? a. Tanaka Yusuke and Takeuchi Hiromi b. Tanaka Yusuke and Ninomiya Jiuri c. Takeuchi Hiromi and Ninomiya Jiuri d. Tanaka Yusuke and Ninomiya Masataka",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "According to the information, who is more likely to be the culprit? a. Ninomiya Masataka b. Miyazaki Tomoko c. Ninomiya Hisashi d. Ninomiya Masataka and Miyazaki Tomoko can choose one, but it was not Miyazaki Tomoko who was hit by Ninomiya Hisashi",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "What was the position and movement of Tomoko Miyazaki when she saw Ninomiya walking towards the teaching building? a. Leave the cafeteria and go to the teaching building. b. Inside the cafeteria. c. Go to the library. d. After leaving the cafeteria, go to the small study room, but after the 9th day of the Second Palace",
+            "ans": "d",
+            "source": "g"
+        },
+        {
+            "q": "From Tanaka Yuki's perspective, where can you see from the cafeteria? a. Teaching building b. Library c. Sports field d. Small self-study room",
+            "ans": "a",
+            "source": "t"
+        }
+    ],
+    "role": [
+        {
+            "name": "Ergong Zhengtuo",
+            "back": "Kyoto and Ancient High School, Part 1",
+            "r_q": [
+                {
+                    "q": "What time and place did you agree to meet? a. 18:00 in the aerobics room b. 18:00 in the self-study room c. 18:00 in the cafeteria d. 18:00 in the math classroom",
+                    "ans": "b"
+                }
+            ],
+            "self": "Hello everyone, I am Masatoshi Ninomiya",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "What time and place did you agree to meet? a. 18:00 in the aerobics room b. 18:00 in the self-study room c. 18:00 in the cafeteria d. 18:00 in the math classroom"
+            ],
+            "a": [
+                "b"
+            ]
+        },
+        {
+            "name": "Tomoko Miyazaki",
+            "back": "Kyoto and Ancient High School, Part 1",
+            "r_q": [
+                {
+                    "q": "Where did Kazuo Yabe smell a slight smell of blood? a. Aerobics room b. Small self-study room c. Playground d. All classrooms in the school",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Where did Kazuo Yabe smell a slight smell of blood? a. Aerobics room b. Small self-study room c. Playground d. All classrooms in the school"
+            ],
+            "a": [
+                "b"
+            ]
+        },
+        {
+            "name": "Yutaka Tanaka",
+            "back": "Kyoto and Ancient High School, Part 1",
+            "r_q": [
+                {
+                    "q": "Who are you having dinner with in the cafeteria on Thursday at 12:30? a. Teacher Nishio, b. Yuki Tanaka, c. Asahi's mother, d. Tomoko Miyazaki",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Who are you having dinner with in the cafeteria on Thursday at 12:30? a. Teacher Nishio, b. Yuki Tanaka, c. Asahi's mother, d. Tomoko Miyazaki"
+            ],
+            "a": [
+                "c"
+            ]
+        },
+        {
+            "name": "Hiromi Takeuchi",
+            "back": "Kyoto and Ancient High School. Part 1",
+            "r_q": [
+                {
+                    "q": "14: Who did you come to the aerobics studio with on time? a. Tomoko Miyazaki b. Teacher Ninomiya c. Yutaka Tanaka d. Alone",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "14: Who did you come to the aerobics studio with on time? a. Tomoko Miyazaki b. Teacher Ninomiya c. Yutaka Tanaka d. Alone"
+            ],
+            "a": [
+                "c"
+            ]
+        },
+        {
+            "name": "Yabu Kazuki",
+            "back": "Kyoto and Ancient High School, Part 1",
+            "r_q": [
+                {
+                    "q": "Where did you see Teacher Ninomiya on Thursday at 18:10? a. Aerobics studio b. Teaching building c. Entrance to small study room d. Off campus",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Where did you see Teacher Ninomiya on Thursday at 18:10? a. Aerobics studio b. Teaching building c. Entrance to small study room d. Off campus"
+            ],
+            "a": [
+                "c"
+            ]
+        },
+        {
+            "name": "Second Palace Nine Days",
+            "back": "Kyoto and Ancient High School, Part 1",
+            "r_q": [
+                {
+                    "q": "When will the club activities end? a. 14:00 b. 17:00 c. 18:00 d. 20:00",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "When will the club activities end? a. 14:00 b. 17:00 c. 18:00 d. 20:00"
+            ],
+            "a": [
+                "b"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "Which character was loaded into the game 1 minute before the first weather anomaly? a. Miyazaki Tomoko b. Ninomiya 9th c. Yabuka 1st d. Tanaka Yuki",
+            "Who remembers the second weather anomaly and loading it into the game one minute before the weather anomaly? a. Miyazaki Tomoko b. Ninomiya 9th c. Yabuka 1st d. Ninomiya Masataka",
+            "Er Gong Zhengtuo doesn't remember which weather anomaly? a. First b. Second c. Third",
+            "Who broke through the murderer and committed the crime at 18:10 on Thursday? a. Yutaka Tanaka b. Hiromi Takeuchi c. Hisashi Ninomiya d. Tomoko Miyazaki",
+            "Which characters are not at school from 18:00 to 20:30 on Thursday night, so are they excluded from suspicion? a. Tanaka Yusuke and Takeuchi Hiromi b. Tanaka Yusuke and Ninomiya Jiuri c. Takeuchi Hiromi and Ninomiya Jiuri d. Tanaka Yusuke and Ninomiya Masataka",
+            "According to the information, who is more likely to be the culprit? a. Ninomiya Masataka b. Miyazaki Tomoko c. Ninomiya Hisashi d. Ninomiya Masataka and Miyazaki Tomoko can choose one, but it was not Miyazaki Tomoko who was hit by Ninomiya Hisashi",
+            "What was the position and movement of Tomoko Miyazaki when she saw Ninomiya walking towards the teaching building? a. Leave the cafeteria and go to the teaching building. b. Inside the cafeteria. c. Go to the library. d. After leaving the cafeteria, go to the small study room, but after the 9th day of the Second Palace",
+            "From Tanaka Yuki's perspective, where can you see from the cafeteria? a. Teaching building b. Library c. Sports field d. Small self-study room"
+        ],
+        "key_ans": [
+            "a",
+            "c",
+            "b",
+            "c",
+            "a",
+            "a",
+            "d",
+            "a"
+        ],
+        "key_sc": [
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "g",
+            "t"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "In the game, under what quantity relationship will the NPCs loaded by the player produce weather anomalies within a radius of 3 kilometers? a. There are more loaded NPCs than unloaded NPCs. b. There are fewer loaded NPCs than unloaded NPCs. c. The loaded NPCs are equal to the unloaded NPCs. d. There are more loaded NPCs than or equal to the unloaded NPCs",
+            "Will weather anomalies generated in the game be witnessed by other NPCs within the same range? a. Yes b. No c. Only at night d. Only witnessed by specific NPCs",
+            "What are the conditions under which the loaded NPC feels unwell? a. There are other players who have not loaded the game. b. The number of loaded NPCs is greater than the number of unloaded NPCs. c. The number of loaded NPCs is less than the number of unloaded NPCs. d. No conditions, randomly occurring",
+            "Is the physical discomfort of NPCs in the game necessarily caused by the player's loading? a. Yes b. No c. Only under specific conditions d. Only when NPC is not loaded",
+            "How would the game react if the number of loaded NPCs equals the number of unloaded NPCs? a. B. Weather anomalies occur. b. All NPCs feel unwell. c. No special reactions. d. The identities of all murderers are exposed",
+            "What character will each player randomly load in the game? a. Murderer or deceased b. Investigator or or deceased c. NPC or deceased d. NPC or murderer",
+            "How long does the weather anomaly generated in the game last? a. 1 minute b. 2 minutes c. 3 minutes d. 4 minutes",
+            "How long will the NPC state of discomfort start after loading? a. Immediately b. 1 minute later c. 2 minutes later d. 3 minutes later",
+            "How are weather anomalies triggered in the game? a. Specific player actions b. Interaction between NPCs c. Relationship between the number of loaded NPCs d. Random events",
+            "What is the presence of the murderer and investigator in the same instance in the game? a. Maybe only the murderer b. Maybe only the investigator c. Both the murderer and the investigator will definitely exist d. Both the murderer and the investigator may not exist",
+            "What will happen in the game if the number of loaded NPCs is less than or equal to the number of unloaded NPCs? a. NPC body discomfort b. Weather anomalies c. No impact d. Murderer identity exposed",
+            "What is the task of an investigator? a. Kill the 'deceased' b. Find the 'culprit' and restore the truth of the event c. Hide your identity d. Load all NPCs",
+            "If a player loads the game and the number of loaded NPCs in the instance is greater than the number of unloaded NPCs, what will happen to the loaded NPCs? a. Feeling unwell b. Weather anomalies c. Acquiring special abilities d. No response at all",
+            "What is the mission of the 'killer' in the game? a. Identify and identify the 'investigator' b. Kill the 'deceased' and hide their identity c. Load all NPCs d. Observe the actions of other players",
+            "How do players handle NPC memory after loading the game? a. Obtaining complete and coherent memory b. Obtaining fragmented memory, which may be missing c. Not acquiring any memory d. Automatically completing missing memories",
+            "What happens if an NPC that is not loaded by the player kills the 'dead' in the game? a. This NPC will be ignored. b. The NPC will definitely be loaded by the player and obtain the identity of 'killer'. c. The NPC will be changed to 'investigator'. d. The NPC will be automatically removed from the game",
+            "How does the NPC's movement change after the player loads it? a. Continue to act according to NPC settings. b. Act completely according to the player's will. c. Act randomly. d. No longer active",
+            "How is it considered if the 'killer' is not the only one with the highest ticket during game settlement? a. The murderer successfully escaped. b. The murderer was discovered. c. Re vote. d. The game ends immediately",
+            "What kind of point changes will investigators receive if they vote correctly for the 'killer'? a. Integral+1 b. Integral unchanged c. Integral+3 d. Integral -1",
+            "If the killer fails to escape, how will the points change? a. Integral+3 b. Integral+0 c. Integral -1 d. Integral+1",
+            "If the 'killer' fails to complete the task of killing the 'deceased', how will his points change? a. Integral+1 b. Integral unchanged c. Integral -1 d. Integral+3",
+            "What are the characteristics of players' 'game loading questions' in each instance of the game? a. Completely identical b. Completely different c. Randomly assigned d. Selected by player",
+            "How to adjust the game flow rate for all players in the game? a. Adjust according to the player's wishes b. to ensure that the plot progress of each player is completed as soon as possible c. keep constant d. adjust according to the game time",
+            "If the 'killer' fails to escape, what reward will be given to the 'investigator' who throws out the 'killer'? a. Extra points+1 b. Extra points+3 c. No extra points d. Extra points+2"
+        ],
+        "key_ans": [
+            "b",
+            "a",
+            "b",
+            "b",
+            "a",
+            "c",
+            "d",
+            "b",
+            "c",
+            "c",
+            "b",
+            "b",
+            "a",
+            "b",
+            "b",
+            "b",
+            "b",
+            "a",
+            "a",
+            "b",
+            "c",
+            "b",
+            "b",
+            "a"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "How to adjust the game flow rate for all players in the game? a. Adjust according to the player's wishes b. to ensure that the plot progress of each player is completed as soon as possible c. keep constant d. adjust according to the game time",
+            "If the 'killer' fails to escape, what reward will be given to the 'investigator' who throws out the 'killer'? a. Extra points+1 b. Extra points+3 c. No extra points d. Extra points+2"
+        ],
+        "key_ans": [
+            "b",
+            "a"
+        ]
+    },
+    "ju_name": "WUXIAN4",
+    "task_nm": "The deceased is Makoto Nishio",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Ergong Zhengtuo"
+    ],
+    "murder": "Ergong Zhengtuo",
+    "reason": "Motive for committing the crime:"
+}

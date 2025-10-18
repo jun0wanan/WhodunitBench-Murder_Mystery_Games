@@ -1,0 +1,273 @@
+{
+    "key_clues_pool": {
+        "p": [
+            "The evidence found in Bai Zhuangyuan's space shows that he is looking for ways to repay his debts quickly",
+            "The evidence found in Zhenji Grocery Store shows that the borrower borrowed 10,000 yuan from Mr. Zhen and returned it as soon as possible. One month later, on October 7, 1998, he needs to repay a total of 200,000 yuan with principal and interest. If the repayment is delayed, the interest will be calculated at a daily interest rate of 10%. The IOU of Bai Zhuangyuan on September 7, 1998 has different handwritings in the first and last sentences.",
+            "The evidence found in Zhenji Grocery Store shows that there are still many beer bottles here. There are many beer bottles on the table. Some beer bottles have fallen over. There are also a few beer and water stains on the ground at the feet of the deceased.",
+            "The evidence found in Bai Zhuangyuan's space shows that he is starting a business",
+            "The evidence found in Zhenji Grocery Store Blood stains There is a wet bloody piece in the grass outside the grocery store",
+            "The evidence found in Zhenji Grocery Store There is a very wet raincoat under the counter.",
+            "The evidence found in Bai Zhuangyuan's space shows that Bai Zhuangyuan has some water stains on his cuffs, mud spots on his trouser legs, and mud on the soles of his shoes.",
+            "The evidence found in Sa Ba Wang's space is a set of wet clothes with mud on them.",
+            "Only those who have been to the game hall can get ice cubes",
+            "The people who have been to the game hall are Bai Zhuangyuan from the play, Sa Ba Wang who works in the game hall, and the Ghost Girl who came to the game hall at 21:45."
+        ],
+        "1-step": [
+            "Bai Zhuangyuan owes money and can't pay it back.",
+            "Bai Zhuangyuan owes Boss Zhen 50,000 yuan but it became 200,000 yuan a month later.",
+            "Bai Zhuangyuan may have used the money to start a business",
+            "Bai Zhuangyuan has been to a grocery store",
+            "The people who can get the ice cubes in the freezer of the game hall are Bai Zhuangyuan from the play, Sa Bawang who works in the game hall, and the Ghost Girl who came to the game hall at 21:45."
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            15
+        ]
+    },
+    "public_clue": "\nThere are a lot of ice cubes in the cabinets in the game room\n",
+    "key_clues_questions": [
+        {
+            "q": "What information did Bai Zhuangyuan search for in his space? a. How to pay off debts quickly b. How to start a successful business c. How to avoid legal liability d. How to manage time",
+            "ans": "a",
+            "source": "p-1"
+            },
+            {
+            "q": "What unusual details does Bai Zhuangyuan's IOU show? a. The IOU date is wrong b. The handwriting is inconsistent c. The loan amount is too low d. The interest rate is abnormally high",
+            "ans": "b",
+            "source": "p-1"
+            },
+            {
+            "q": "What is the situation at Zhenji Grocery Store? a. Clean and traceless b. There are many beer bottles scattered c. All items are neat d. Only food residues",
+            "ans": "b",
+            "source": "p-1"
+            },
+            {
+            "q": "Besides looking for ways to pay off debts quickly, what else is Bai Zhuangyuan doing? a. Traveling b. Starting a business c. Learning new skills d. Looking for a new job",
+            "ans": "b",
+            "source": "p-1"
+            },
+            {
+            "q": "What is the abnormal evidence found outside Zhenji Grocery Store? a. Dropped wallet b. Wet cloth with blood c. Lost mobile phone d. Broken bag",
+            "ans": "b",
+            "source": "p-1"
+            },
+            {
+            "q": "What is hidden under the counter in Zhenji Grocery Store? a. Keys b. Money c. Raincoat d. Documents",
+            "ans": "c",
+            "source": "p-1"
+            },
+            {
+            "q": "What are the traces on Bai Zhuangyuan's clothes? a. Blood and ink b. Water stains and mud spots c. Oil stains and brush marks d. Ink and grass stains",
+            "ans": "b",
+            "source": "p-1"
+            },
+            {
+            "q": "What evidence was found in Sa Bawang's space? a. A set of clean clothes b. A set of soaked clothes c. Newly bought shoes d. A lost watch",
+            "ans": "b",
+            "source": "p-1"
+            },
+            {
+            "q": "How can I get ice cubes in the game hall? a. Buy game coins b. Become a VIP member c. Go to the game hall d. Win the game in the game hall",
+            "ans": "c",
+            "source": "p-1"
+            },
+            {
+            "q": "Who has been to the game hall? a. Bai Zhuangyuan and Sa Bawang b. Ghost Girl and Sa Bawang c. Bai Zhuangyuan, Sa Bawang and Ghost Girl d. Bai Zhuangyuan and Ghost Girl",
+            "ans": "c",
+            "source": "p-1"
+            },
+            {
+            "q": "Why can't Bai Zhuangyuan pay back the money he borrowed? a. He spent the money on traveling b. He lost the money c. He failed in investment d. The amount of debt increased rapidly",
+            "ans": "d",
+            "source": "p-2"
+            },
+            {
+            "q": "How much money did Bai Zhuangyuan initially borrow from Boss Zhen? a. 5,000 yuan b. 10,000 yuan c. 50,000 yuan d. 100,000 yuan",
+            "ans": "c",
+            "source": "p-2"
+            },
+            {
+            "q": "What did Bai Zhuangyuan do with the borrowed money? a. Gambling b. Starting a business c. Buying luxury goods d. Repaying other debts",
+            "ans": "b",
+            "source": "p-2"
+            },
+            {
+            "q": "Why did Bai Zhuangyuan go to the grocery store? a. Shopping b. Paying back the money c. Meeting friends d. Unknown reasons",
+            "ans": "d",
+            "source": "p-2"
+            },
+            {
+            "q": "Who can get ice cubes in the game hall? a. Bai Zhuangyuan, Sa Bawang, Ghost Girl b. Boss Zhen, Bai Zhuangyuan, Sa Bawang c. Ghost Girl, Boss Zhen, Bai Zhuangyuan d. Sa Bawang, Ghost Girl, Boss Zhen",
+            "ans": "a",
+            "source": "p-2"
+            }
+    ],
+    "role": [
+        {
+            "name": "Cai Wenhua",
+            "back": "\nI am Cai Wenhua, 40 years old, now the owner of a bookstore in M Town. As for how I ended up here, that's a long story...\nIn 1975, I went to the countryside and met a simple village girl named Xiaofang. In January 1980, I received notice to return home. I’ll never forget that innocent night before leaving—we shared a brief romantic encounter. I had a pair of heirloom jade pendants shaped like cabbages. I gave her one and kept the other, vowing in my heart to return and marry her! In 1985, I returned to the village only to hear that Xiaofang had gone to look for me a month after I left, and no one ever saw her again. I traveled the world but never found her. I was heartbroken.\n[Heirloom jade cabbage pendant in my possession]\n[Photos—souvenir shots taken at famous landmarks around the world]\nOver the years, I’ve seen many places and met many people. Only two things still matter in my life:\nOne is listening to the late-night 11 PM show on FM250 radio station called \"The Voice of Music,\" hearing stories of human life in the songs and the helplessness of callers;\nThe other is killing people. Since 1990, I have killed three wicked people who were denounced on the radio. Under a pseudonym, I published three suspense novels, then used methods from the books to execute them.\nSince then, the lightning symbol became my signature mark. The pen and umbrella I carry always have it. Readers loved my books but had no idea the murders were real! The most powerful works are soaked in blood!\n[Recorder by the bed—turned on, it’s tuned to FM250]\n[Three mystery novel manuscripts—\"Midnight Train,\" \"The Sky We Can’t Reach Again,\" \"Night at the Museum\"—all ending with: You think the real killer was him/her?]\n[News report—Since 1990, three homicides occurred nationwide, all marked by lightning symbols, suspected to be the work of a mysterious killer known as 'Lightning Man']\nHalf a year ago, on April 1st, I heard a girl’s story on the radio. She lived in M Town. After her mother passed away, she lived with her abusive father. She used music to escape the pain, hoping to grow up and leave the toxic home. I don’t know why, but her story pierced my heart. I decided to kill that utterly vile father.\n[Notebook entry about four people, including a girl from M Town—suffering from domestic violence but still full of dreams and love for life. Dated 1998/4/1]\nOn July 5th, I arrived in M Town from H City to find her. I randomly picked a spot and opened a bookstore across from a grocery store.\n[Boat ticket—H City → M Town, dated 1998/7/5, fare: 50 yuan]\n[Bookstore business license—registered on 1998/7/15]\nIn July, a flood occurred. Out of goodwill, I donated 10,000 yuan to N Town, and they sent me a thank-you letter.\n[Thank-you letter from N Town, dated 1998/8/10]\nThis town is very closed-off. A new bookstore caught attention quickly. Many people came to buy books and asked me about the outside world. A boy named Sa Bawang often told me he wanted to become like Chen Haonan, and asked how much it cost to go to Hong Kong. I casually told him around 5,000 yuan.\nThe grocery shop owner Zhen invited me to eat and drink. He was crude and uncultured. I couldn’t imagine how such a man could have such an angelic daughter—the Ghost Girl. Strangely, she resembled Xiaofang, even having the same mole on her left cheek. She often came to my store and affectionately called me “Uncle Cai.” She loved singing, so I gave her a walkman, many music-related books, and wrote her encouraging words, suggesting she pursue studies in a music conservatory. The first time I heard her voice, I knew—she was the girl from the radio, the one I was looking for, and Zhen was the man I had come to kill.\nIn August, I began writing my fourth novel, plotting the murder method.\nThree days ago, on October 2nd, the girl came as usual to read in my shop. I noticed fresh bruises on her hand, confirming my target.\nEverything went according to plan—except one thing. While chatting, I noticed she wore a jade cabbage pendant identical to the one I gave Xiaofang. I asked who gave it to her. She said it was her mother's keepsake. I was speechless. It's 1998, and she’s 18. I asked her birthday—it’s in October. I left in January. If her mother was Xiaofang, then by the timeline... could she be my daughter? Suffering under Zhen’s roof all these years? I decided to finish my novel the day after tomorrow, then kill Zhen.\nThe day before the incident, the girl didn’t come to read, and I felt worried.\nDay of the crime (October 5, 1998)\nIt was drizzling all day and the bookstore was quiet. At 18:00, Zhen invited me to dinner at his house. The girl was there. During dinner, I saw more bruises on her arm. My heart ached.\nAt 18:30, I went home after dinner and read for a while.\nAround 22:00, the rain grew heavier, distracting me. I closed my book, planning to do as in my novel: go to Zhen’s shop at 22:30, get him drunk, then kill him with my umbrella handle.\n[Brand-new manuscript—\"Please Answer 1998,\" last page reads: At 22:30 I went to Zhen’s house, got him drunk, then knocked him out with my umbrella handle, completing the final act, leaving unnoticed.]\nAt 22:14, I grabbed my umbrella and left early.\nAt 22:15, I arrived at Zhen’s store and found him slumped over the table, motionless, reeking of alcohol.\n[Umbrella—My store’s umbrella with a lightning symbol. It rained today; the umbrella was wet, and there were puddles on the ground.]\nI went closer and confirmed—Zhen had no pulse. He was dead. How? Someone killed him before me? Who beat me to it? I had to leave quickly. I returned to the bookstore, planning to stay two more days, then leave. I wanted to ask the lovely Ghost Girl—my daughter—if she would leave with me for a new life.\nAt 22:35, I heard loud noise from the grocery shop. I couldn't help but check who acted before me. Just as I arrived, a detective stopped me...\n",
+            "r_q": [
+              {
+                "q": "When was Zhen found dead? a. 18:00 b. 22:14 c. 22:15 d. 22:30",
+                "ans": "c"
+              }
+            ],
+            "m": 0,
+            "q": [
+              "When was Zhen found dead? a. 18:00 b. 22:14 c. 22:15 d. 22:30"
+            ],
+            "a": [
+              "c"
+            ]
+        },
+        {
+            "name": "Sa Bawang",
+            "back": "\nI am Sa Bawang, 19 years old. Since childhood, I've often been involved in group fights and bullying classmates. Everyone sees me as a local thug.\nMy father frequently beat my mother. On May 1st last year (1997), during one of those violent episodes, I was so enraged that I accidentally stabbed my father. Because of that, I was sent to a detention center. Later, my mother, traumatized by the event, left this world forever.\n[A detention notice (City B) 1997]\nAfter my mother passed away, I left City B, hoping to start anew somewhere else.\n[A strange code and a photo with mom tucked in the envelope]\nIn September last year (1997), I came to M Town. I knew nothing about the place. Just when I was feeling lost about how to live, I met a sweet and gentle girl at the street garden. I fell for her at first sight. Her name is Ghost Girl.\nLater, I found a job at Zhen's Game Arcade, and coincidentally, Ghost Girl was the arcade owner's daughter. They lived in the nearby Zhen's Grocery Store. My main job every day was:\nUnlocking arcade machines and collecting and organizing game tokens. [Arcade machine keys at the counter]\nGhost Girl was a carefree girl, but she often had bruises. She said they were from accidental falls. But I recognized those bruises well — I'd seen the same on my mother. Though she never said anything, I knew they were caused by Mr. Zhen.\nGhost Girl loved music. She often listened to FM250 “Voice of Music” and would call in to share her feelings. I frequently wrote in and requested songs for her. Every time she heard a song the next day, she’d happily share it with me. She didn’t know I was the one sending the songs, but seeing her smile made me happy.\n[Envelope sent by Sa Bawang to the Voice of Music show]\nI thought, if she could receive a gift from the show, she’d be overjoyed. It would really lift her spirits! So I sent her favorite music tapes and posters, along with words of encouragement, to the show, asking them to pass it on to her.\n[Blank paper matching the encouraging notes found in her room]\nThree months ago (July), I went to see Ghost Girl. I climbed a tree and was about to call her when I saw Mr. Zhen hitting and scolding her. What could I do?! How could I stop him?! In a panic, I rushed back to the arcade and smashed a machine, then shouted for Mr. Zhen outside the store. He came out angrily.\nWhen he saw the broken arcade machine, he blamed me and deducted my wages. I used this trick several times to lure Mr. Zhen out when he was hurting Ghost Girl.\n[Account book: +250 each month, three months ago +100, two months ago +50, last month +10]\nMr. Zhen became suspicious and figured out I was sabotaging on purpose — and he was right.\nIn July, Cai Wenhua came to M Town. He was well-traveled and told many stories about Hong Kong. I started dreaming of taking Ghost Girl there to live. He said 5,000 yuan was enough for two people to go!\nI began saving money and told Ghost Girl I wanted to take her somewhere better. Seeing the hopeful smile on her face strengthened my resolve.\nOne day in August, I visited her but found both Mr. Zhen and Ghost Girl gone. Just then, the mailman came and delivered a letter addressed to her — it was an acceptance letter from Mango Music Academy. I’m just a thug, planning to go to Hong Kong and live like a street hustler. If she goes to the academy, we may never meet again… I didn’t want her to leave me. So I hid the letter under a shelf in the store.\nOn October 4th, Mr. Zhen came to my rental room. He had discovered I was the one damaging the machines and demanded compensation. I was just counting my Hong Kong travel fund, and he snatched the money from me.\n[Account book showed 4,000+ remaining; now the money box is empty]\nMy hope of taking Ghost Girl away was crushed by Mr. Zhen! If he kept abusing her, she’d end up like my mom — gone forever... I couldn’t let that happen!\nI had to get rid of that demon and take back my money to escape with Ghost Girl from this sorrowful place.\nOn the day of the incident (October 5, 1998):\nIt rained lightly all day, no customers at the arcade.\n19:45, Miss Beauty’s son Bai Zhuangyuan came to play games.\n21:10, I wanted to see Ghost Girl, so I asked Bai Zhuangyuan to watch the arcade and left.\n21:15, I climbed a small tree in the park and saw her unconscious on the floor — must’ve been knocked out by Mr. Zhen again. I decided tonight was the night I would kill him.\n21:20, I ran back to my room but couldn’t find a weapon. I eventually grabbed a wooden ornament from the table to use to bash him.\n21:35, I reached the grocery store but saw Ghost Girl inside — not the right time. I decided to wait until she left.\n24:45, I returned home, put the ornament back on the table. My clothes were soaked from the rain and tree-climbing, so I changed and put on a raincoat.\n[Table covered in dust, the ornament showed signs of movement. Wet muddy clothes were found.]\n21:55, I went back to the arcade. Only Bai Zhuangyuan was there. I stuffed the raincoat under the counter.\n22:00, I played games with him until 22:30, when we heard the news that Mr. Zhen had been murdered. The rain had already stopped by then.",
+            "r_q": [
+              {
+                "q": "What is Zhe Yan's age at Wuluo Manor? a. 25 years b. 30 years c. 35 years d. 40 years",
+                "ans": "b"
+              }
+            ],
+            "m": 0,
+            "q": [
+              "What is Zhe Yan's age at Wuluo Manor? a. 25 years b. 30 years c. 35 years d. 40 years"
+            ],
+            "a": [
+              "b"
+            ]
+        },    
+        {
+            "name": "Ghost Girl",
+            "back": "I am the Ghost Girl, 18 years old. I love singing, and my biggest dream is to become a superstar like the Youthful Pretty Girls.\nI grew up in a home full of violence. My father—Mr. Zhen—was cold toward my mother and me. Whenever I failed an exam or got into trouble, he would beat me harshly.\nWhen I was 8 years old (1988), my gentle mother Xiaofang passed away. Since then, my father treated me even worse.\nI always carry my mom's only photo and her jade pendant shaped like a cabbage. When she was alive, she celebrated my birthday every year on October 15. Since her death, I've never celebrated again. [A woman’s photo and a cabbage-shaped jade pendant]\nOne night in June 1995 (when I was 15), my father came home late and drunk. As soon as he saw me, he smashed a bottle over my head. I didn’t even know what I had done wrong. I passed out from the beating. After that, he refused to pay for my schooling and forced me to work in the grocery store to 'pay back' the money he spent raising me.\nSince then, my life has been filled with beatings and labor. [Clue: Scars of various ages on the girl’s body]\nIn September last year (1997), I met Sa Bawang in the town square. He worked in my dad’s arcade. Although he looked fierce, he was kind, and I felt at ease with him. We became good friends.\nMy room is on the second floor of the grocery store. Sa Bawang often climbed a small tree outside my window to throw paper airplanes at me and chat. He often said he would take me away from here. [Clues: A first-aid kit in the desk drawer with bandages and plasters; lots of paper airplanes signed by Sa Bawang]\nThrough hard times, the music of Little Tigers and Youthful Pretty Girls was my biggest comfort. I loved singing—it gave me strength.\nI often listened to the FM250 radio show “Voice of Music.” Whenever I felt wronged after being beaten by my father, I secretly called the station to talk. They sent me music tapes and encouraging notes, which became my emotional lifeline. [Clues: A sticky note saying 'Voice of Music' FM250, Hotline: 010-250250250; music tapes and notes with encouragement]\nIn July this year (1998), a bookstore opened across from the grocery store. The owner, Mr. Cai Wenhua, was very friendly. I often visited to read and chat. When he learned about my love for music, he gave me music textbooks and a Walkman. He suggested I apply to a music academy, giving me a new direction for my dreams.\nI believed that if I got into music school, I could finally escape my abusive father and the suffocating grocery store and realize my dreams. [Clues: Books signed by Cai Wenhua and a Walkman; Music Academy entrance ticket—July 1998]\nIn August 1998, I didn’t receive an admission letter but instead heard the devastating news that Little Tigers had disbanded. I lost hope in life. I began keeping a diary. I often wrote, 'If dad died, wouldn’t my life be better...?' [Clue: A diary hidden in her pillow: “August, still no letter… If dad died, would my life get better?”]\nOn the day of the incident (October 5, 1998), it rained all day.\n18:00 - Mr. Cai came over for dinner with dad and me. He and my dad got along well and often ate together. I never understood why such a gentle man like Uncle Cai would be friends with my dad???\n18:30 - Uncle Cai left. I went upstairs to listen to music and immerse myself in that world.\n19:30 - Dad called me to work in the grocery store, then went out drinking. While tidying up, I found an acceptance letter from Mango Music Academy under the display shelf.\nThat’s when I realized I had been accepted! Dad had hidden the letter because he didn’t want to let me go. He wanted to crush my dreams and drain my youth! Now that I had the letter, I decided to escape and start a new life. [Clue: Acceptance letter in the Ghost Girl’s bag]\nI returned to my room, packed my bags, smashed my piggy bank, and put the coins in my backpack.\n21:00 - Dad came home and called me downstairs, but I didn’t hear him while packing. He came upstairs drunk, saw me packing, and got furious. He beat me unconscious with an umbrella. [Clues: A shattered piggy bank; a damaged Walkman; backpack with clothes]\n21:35 - I woke up and found Dad passed out on the counter surrounded by empty bottles. I realized it was the perfect chance to escape. I grabbed my backpack upstairs and saw Dad's wallet in my room—probably dropped while he was beating me. Since I needed money to leave and study, I put the wallet in my bag, took snacks from the store, grabbed an umbrella, and slipped out the back door. [Clue: Mr. Zhen’s wallet is with the Ghost Girl]\n21:45 - I went to the arcade to say goodbye to Sa Bawang, but only Bai Zhuangyuan was there. I waited 5 minutes. Since Sa wasn’t back, I left a note at the counter saying I'd wait for him at the park.\n21:50 - I left the arcade and waited for Sa Bawang at the park.\n22:30 - A detective brought me back to the grocery store and told me my father was dead.",
+            "r_q": [
+              {
+                "q": "Why did the Ghost Girl decide to leave home? a. Her father passed out drunk and gave her a chance to run away b. She received an acceptance letter from Mango Music Academy c. She was knocked unconscious by her father with an umbrella d. Her father got furious after discovering her packing",
+                "ans": "a"
+              }
+            ],
+            "m": 0,
+            "q": [
+              "Why did the Ghost Girl decide to leave home? a. Her father passed out drunk and gave her a chance to run away b. She received an acceptance letter from Mango Music Academy c. She was knocked unconscious by her father with an umbrella d. Her father got furious after discovering her packing"
+            ],
+            "a": [
+              "a"
+            ]
+        },    
+        {
+            "name": "Ou Meiren",
+            "back": "\nI am Ou Meiren, 38 years old, the owner of a video store. Twenty years ago, I married Lao Bai, and soon after our marriage, we had the fruit of our love — Xiao Bai (Bai Zhuangyuan). Lao Bai's family was well-off, and together we opened a video store, living a simple and happy life. I thought I was the happiest woman in the world, but reality dealt me a heavy blow.\nWhen our child was three, Lao Bai suddenly decided to go into business with all our family savings. At first, he sent money home monthly, but after a few months, all contact ceased. Boss Zhen, who went out with him, returned to M Town, saying that Lao Bai was captivated by the outside world and didn’t want to come back. From then on, I lived alone with my son...\n[Clue: Marriage certificate in the drawer]\nLao Bai’s departure was a huge blow to me. But I had to be strong for our lives. Over the years, I carried the burden alone, running the video store by myself. My son was sensible and studied hard. As a mother, I only hoped he would succeed and not let me down. I deeply hated the irresponsible Lao Bai, forbade my son from asking about him, and banned him from going into business. I threw away all of Lao Bai’s belongings and even tore our only family photo in half.\nIn 1995, my son made me proud and was admitted to Peking University through his hard work.\n[Clue: Photo in the frame — I'm holding a 2-year-old Bai Bai, part of the photo torn off]\nBoss Zhen was Lao Bai’s sworn brother. After Lao Bai left, he occasionally sent men to help me with heavy tasks and often came to support my business. At first, I was grateful, thinking he was helping us out of brotherhood. But in 1988, after his wife passed away, he started to make inappropriate advances toward me — utterly shameless.\nOn September 20, 1998, Boss Zhen suddenly came to my store, claiming my son owed him 200,000 yuan, due soon. He demanded to sleep with me in exchange for clearing the debt or else my son wouldn’t graduate. I couldn’t believe my son would borrow money from him. But Boss Zhen showed me an IOU, and I was left speechless and collapsed in despair. He smirked and said, \"If you want to protect your son, it depends on whether you cooperate.\"\n[Clue: Copy of Bai Zhuangyuan’s 200,000 yuan IOU with repayment date of October 7]\nAfter Boss Zhen left, I immediately called my son at school to question him. He said he would explain everything during National Day holiday as it was hard to explain over the phone.\n[Clue: Call record between me and my son]\nOn October 1, 1998, my son finally returned. The moment I saw him, I burst into tears. He then confessed the real reason for the loan: he wanted to start a business and pursue his dream. Though angry and thinking he was like Lao Bai, always chasing unrealistic things, I also saw his confidence and determination. After much thought, I decided not to blame him. I prepared to mortgage the video store and our house to repay the debt.\nOn the day of the incident (October 5, 1998), it rained lightly all day.\nAround 18:40, I brought the mortgage contracts to negotiate with Boss Zhen. Unexpectedly, he claimed these assets couldn’t cover the 200,000 yuan, and unless I slept with him, the debt would only grow. Outraged by his shameless words, we argued fiercely. He tried to assault me, but I resisted and managed to escape the store.\n[Clue: Strangulation marks on my neck from resisting the assault]\n19:00 — I ran home crying and hugged my son at the door. He kept asking what happened. I hesitated but eventually told him everything, including Boss Zhen’s disgusting conditions and actions. Enraged, my son stormed off. I had no energy to stop him and sat there sobbing.\n20:00 — After a long silence, an idea came to me. I decided to steal back the IOU.\n20:10 — I snuck into the grocery store, searching everywhere for the IOU but found nothing. Then in a drawer corner, I saw a familiar ring — wasn’t this Lao Bai’s ring? I suddenly heard footsteps and fled with the ring.\n20:30 — Back home, I examined the ring carefully. Why did Boss Zhen have Lao Bai’s ring? I noticed dried blood in the ring’s groove. Could something bad have happened to Lao Bai? He had sent us money during the first few months, but after that, he disappeared. Could he have been harmed back then? If the ring was with Zhen, he must’ve been behind it!\n[Clue: Lao Bai’s wedding ring with dried blood in the groove]\n22:15 — Staring at the bricks in front of my house, I had a terrifying thought. Remembering everything that happened today, I lost control of my emotions. I hated Boss Zhen — his treachery, his lust. I picked up a wet brick from the rain and put it in my bag, heading for the grocery store.\n[Clue: Wet bricks in front of the video store]\n22:25 — Just as I entered the store, a local resident stopped me and said Boss Zhen was dead and the police had already been called.\n[Clue: Brick in my bag]\n",
+            "r_q": [
+              {
+                "q": "Why did the female protagonist decide to bring a brick to the grocery store?\na. To take revenge, driven by uncontrollable anger toward Boss Zhen\nb. To sell the brick to the grocery store\nc. She picked it up casually in front of the video store without meaning to\nd. To help with the store’s renovation using the brick",
+                "ans": "a"
+              }
+            ],
+            "m": 0,
+            "q": [
+              "Why did the female protagonist decide to bring a brick to the grocery store?\na. To take revenge, driven by uncontrollable anger toward Boss Zhen\nb. To sell the brick to the grocery store\nc. She picked it up casually in front of the video store without meaning to\nd. To help with the store’s renovation using the brick"
+            ],
+            "a": [
+              "a"
+            ]
+        },
+        {
+            "name": "Bai Zhuangyuan",
+            "back": "\nIn 1995, Bai Zhuangyuan was admitted to Peking University.\nIn 1998, he planned to start a business and created 'Ali Baibai'. The startup required 100,000 yuan, but his mother, Ou Meiren, had strictly forbidden him from doing business since childhood.\nIn desperation, Bai borrowed 50,000 yuan from Boss Zhen and, together with his friends, gathered the needed 100,000. On September 20, 1998, Bai received a call from his mother and learned that Boss Zhen had told her about the loan. To keep her from worrying, Bai told her he would explain everything during the National Day holiday.\nOn October 5, 1998 (the day of the incident), Bai found out that ever since he borrowed the money, Boss Zhen had been constantly harassing his mother. He also discovered that Zhen had altered the IOU by adding a sentence: 'Bai Zhuangyuan must repay 200,000 yuan with interest in one month; if overdue, interest will be calculated at a daily rate of 10%'.\nBai went to a game arcade to vent his anger. The more he thought about it, the angrier he became, and he decided to kill Boss Zhen.\nAt 19:00, Bai went to the video store to find his mother and learned again that Boss Zhen had been pestering her and even proposed that she marry him to settle the debt. At 19:10, Bai rushed to Zhen’s grocery store intending to beat him up but ended up being beaten instead. He also confirmed that Zhen had altered the IOU and was threatened to repay the money the next day. Bai was then kicked out of the store.\nAt 19:30, Bai returned home and searched online for 'how to repay debts quickly'. He came across a post about 'T7 venting method'.\nAt 19:45, he went to the arcade again to play games and decided to kill Boss Zhen.\nAt 21:10, Sa Bawang left the arcade due to an emergency. After he left, Bai searched the arcade for a 'murder weapon', took a large ice block used for shaved ice from the freezer, wrapped it in a cloth, took an umbrella, and left through the back door toward the grocery store, thus avoiding Sa Bawang on his way back.\nAt 21:20, Bai arrived at the grocery store and found Boss Zhen drunk and passed out at the counter. Bai smashed his head with the ice block, which melted and left water stains on Bai’s sleeve and on the floor near Zhen’s feet.\nAfter confirming Zhen was dead, Bai fled the scene, discarding the ice block and cloth in nearby bushes. The ice melted, leaving no trace.\nAt 21:30, Bai returned to the arcade, playing games while waiting for the body to be discovered. At 21:45, Ghost Girl came to the arcade, stayed a few minutes, and left.\nAt 21:55, Sa Bawang returned, and Bai invited him to play games together.\nAt 22:30, Bai heard the news of Boss Zhen's death.\n",
+            "r_q": [
+              {
+                "q": "Why did Bai Zhuangyuan choose an ice block as the murder weapon? a. Ice melts after the murder, leaving no trace b. Ice was the only available item c. Ice can cause severe injury d. Ice reduces the noise of the killing",
+                "ans": "a"
+              }
+            ],
+            "self": "\nHello everyone, I am Bai Zhuangyuan\n",
+            "answer": "\nI don't know. I'm not the murderer.\n",
+            "m": 1,
+            "q": [
+              "Why did Bai Zhuangyuan choose an ice block as the murder weapon? a. Ice melts after the murder, leaving no trace b. Ice was the only available item c. Ice can cause severe injury d. Ice reduces the noise of the killing"
+            ],
+            "a": [
+              "a"
+            ]
+          }          
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "What information did Bai Zhuangyuan search for in his space? a. How to pay off debts quickly b. How to start a business successfully c. How to avoid legal liability d. How to manage time",
+            "What abnormal details does Bai Zhuangyuan's IOU show? a. The IOU date is wrong b. The handwriting is inconsistent c. The loan amount is too low d. The interest rate is abnormally high",
+            "What is the situation at the Zhenji Grocery Store? a. Clean and traceless b. There are many beer bottles scattered c. All items are neat d. Only food residues",
+            "Besides looking for ways to pay off debts quickly, what else is Bai Zhuangyuan doing? a. Travel b. Start a business c. Learn new skills d. Find a new job",
+            "What is the abnormal evidence found outside Zhenji Grocery Store? a. Dropped wallet b. Wet cloth with blood c. Lost mobile phone d. Damaged bag",
+            "What is hidden under the counter inside Zhenji Grocery Store? a. Keys b. Money c. Raincoat d. Documents",
+            "What traces are there on Bai Zhuangyuan's clothes? a. Blood and ink b. Water and mud c. Oil and brush marks d. Ink and grass stains",
+            "What evidence was found in Sa Bawang's space? a. A clean set of clothes b. A wet set of clothes c. Newly purchased shoes d. A lost watch",
+            "How can I get ice cubes in the game hall? a. Buy game coins b. Become a VIP member c. Go to the game hall d. Win a game in the game hall",
+            "Who has been to the game hall? a. Bai Zhuangyuan and Sa Bawang b. Ghost Girl and Sa Bawang c. Bai Zhuangyuan, Sa Bawang and Ghost Girl d. Bai Zhuangyuan and Ghost Girl",
+            "Why can't Bai Zhuangyuan pay back the money he borrowed? a. He spent the money on traveling b. He lost the money c. He failed in investment d. The amount of debt increased rapidly",
+            "How much money did Bai Zhuangyuan initially borrow from Boss Zhen? a. 5,000 yuan b. 10,000 yuan c. 50,000 yuan d. 100,000 yuan",
+            "What did Bai Zhuangyuan do with the borrowed money? a. Gambling b. Starting a business c. Buying luxury goods d. Repaying other debts",
+            "Why did Bai Zhuangyuan go to the grocery store? a. Shopping b. Paying back debts c. Meeting friends d. Unknown reasons",
+            "Who can get ice cubes in the game hall? a. Bai Zhuangyuan, Sa Bawang, Ghost Girl b. Boss Zhen, Bai Zhuangyuan, Sa Bawang c. Ghost Girl, Boss Zhen, Bai Zhuangyuan d. Sa Bawang, Ghost Girl, Boss Zhen"
+        ],
+        "key_ans": [
+            "a",
+            "b",
+            "b",
+            "b",
+            "b",
+            "c",
+            "b",
+            "b",
+            "c",
+            "c",
+            "d",
+            "c",
+            "b",
+            "d",
+            "a"
+        ],
+        "key_sc": [
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "How old was Ran Zheyan at Wuluo Manor? a. 25 years old b. 30 years old c. 35 years old d. 40 years old"
+        ],
+        "key_ans": [
+            "b"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "How old was Ran Zheyan at Wuluo Manor? a. 25 years old b. 30 years old c. 35 years old d. 40 years old"
+        ],
+        "key_ans": [
+            "b"
+        ]
+    },
+    "ju_name": "1988",
+    "task_nm": "Please complete the following tasks using only the clues at hand:\n1. Deduce who the murderer is.\n2. Deduce the method of the crime, including how the locked room was created and how the murderer could have an alibi.\n3. Deduce the motive of the murderer.\n4. If there were no suspects entering the room and the victim was alone at the time of death, you must solve the mystery of the locked room — how the murderer killed the victim.\n5. Remember, you can only reason based on the clues provided. You cannot assume things not supported by the clues, such as the existence of secret passages if not mentioned.",
+    "task_m": "Please complete the following tasks using only the clues at hand:\n1. Conceal the fact that you are part of the murderer’s side.\n2. Use the available clues to defend yourself.",
+    "key_role": [
+        "Bai Zhuangyuan"
+    ],
+    "murder": "Bai Zhuangyuan",
+    "reason": "\nMotive:\nIn 1995, Bai Zhuangyuan was admitted to Peking University.\nIn 1998, he planned to start a business and created 'Ali Self'. To do so, he needed an initial capital of 100,000 yuan. However, his mother, Oumeiren, had strictly forbidden him from going into business. In desperation, Bai Zhuangyuan borrowed 50,000 yuan from Boss Zhen and raised the rest with help from friends.\nOn September 20, 1998, Bai Zhuangyuan received a call from his mother and found out that Boss Zhen had informed her about the loan. Not wanting his mother to worry, he told her he would explain everything during the National Day holiday.\nOn October 5, 1998 (the day of the incident), Bai Zhuangyuan found out that ever since the loan was made, Boss Zhen had been harassing his mother and had even altered the IOU to add: \"Within one month, Bai Zhuangyuan must repay 200,000 yuan including interest. If delayed, a 10% daily interest will be applied.\" Enraged, Bai Zhuangyuan went to a game arcade to vent his anger. The more he thought about it, the angrier he got, and eventually decided to kill Boss Zhen.\n\nMethod:\nBai Zhuangyuan used a cloth-wrapped block of ice to kill Boss Zhen. The ice, having the property of melting, left no murder weapon behind."
+}

@@ -1,0 +1,276 @@
+{
+    "key_clues_pool": {
+        "1-step": [
+            "The deceased Emma was electrocuted",
+            "Charles has seen a generator before"
+        ],
+        "2-step": [
+            "People who know about the existence of the generator include Elizabeth, Earl, and Charles"
+        ],
+        "伊丽莎白": [
+            "When Il went, the restaurant's generator had no ring"
+        ],
+        "伊尔": [
+            "Jess went to the restaurant at night with a fishing hook in hand",
+            "When Elizabeth went, the restaurant's generator didn't have a ring. Charles had a long iron fishing hook"
+        ],
+        "杰斯": [
+            "Charles has a long iron fishing hook",
+            "Charles will go to the restaurant to deliver fish"
+        ],
+        "诺里": [
+            "Charles left with both hands in his pockets, and by this time, the restaurant's generator had already been damaged",
+            "The vines are at a certain distance from the generator, so they cannot form conductivity."
+        ]
+    },
+    "role-q": {},
+    "public_clue": "(1) The deceased touched the vine themselves, and the vine was at a certain distance from the generator, so the vine did not conduct electricity, which is why they touched it themselves..",
+    "key_clues_questions": [
+        {
+            "q": "How did Emma die? a. Assassinated b. electrocuted c. poisoned d. suffocated",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Who has ever seen a generator? a. Jess B. Elizabeth C. Charles D. Norris",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Who knows about the existence of generators? a. Elizabeth, Earl, and Charles B. Elizabeth, Jess, and Nori C. Charles, Nori, and Jess D. Jess, Earl, and Nori",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "Where is Jess going at night and what is he carrying? a. Bar, bow and arrow b. Restaurant, fish hook c. Pier, knife d. Office, documents",
+            "ans": "b",
+            "source": "y"
+        },
+        {
+            "q": "What did Elizabeth notice when she arrived at the restaurant? a. The generator is very new. B. The generator has a fault. C. The generator does not have a ring. D. The generator is too noisy",
+            "ans": "c",
+            "source": "y"
+        },
+        {
+            "q": "What kind of fishing hook does Charles have? a. Wooden small fish hook b. Plastic folding fish hook c. Steel automatic fish hook d. Iron long fish hook",
+            "ans": "d",
+            "source": "y"
+        },
+        {
+            "q": "What material is Charles' fishing hook made of? a. Wood b. Plastic c. Iron d. Steel",
+            "ans": "c",
+            "source": "c"
+        },
+        {
+            "q": "Why did Charles go to the restaurant? a. Sending fish b. having dinner c. attending parties d. meeting friends",
+            "ans": "a",
+            "source": "c"
+        },
+        {
+            "q": "What was Charles' posture when he left the restaurant? a. Waving goodbye b. Putting hands in pockets c. Running away d. Dragging your feet",
+            "ans": "b",
+            "source": "n-2"
+        },
+        {
+            "q": "Why can't vines conduct electricity? a. Too far from the generator b. The vines are dry c. The vines are covered d. The vines themselves are non-conductive",
+            "ans": "a",
+            "source": "n-2"
+        },
+        {
+            "q": "What problems did Il find when he arrived at the restaurant? a. The generator is undergoing maintenance. b. The generator does not have a ring. c. The generator is too noisy. d. The generator has completely stopped working",
+            "ans": "b",
+            "source": "l"
+        },
+        {
+            "q": "What was the condition of the restaurant's generator when Charles left? a. Intact b. Under repair c. Damaged d. Running",
+            "ans": "c",
+            "source": "c"
+        },
+        {
+            "q": "What is the impact of vines on generators? a. Can conduct electricity b. Cannot conduct electricity c. Can provide energy d. Can cool down",
+            "ans": "b",
+            "source": "c"
+        }
+    ],
+    "role": [
+        {
+            "name": "ilyushin",
+            "back": "This is really unbelievable. Someone wants to kill you. It must be some kind doctor with high medical skills who cured you. The yellow hat said you had a big hole in your chest that was punctured and bleeding profusely, but when you woke up from your room, you didn't feel any pain at all.",
+            "r_q": [
+                {
+                    "q": "What did you find in the farthest corner of the wasteland? a. Sapling b. cross c. statue d. yellow hat",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What did you find in the farthest corner of the wasteland? a. Sapling b. cross c. statue d. yellow hat"
+            ],
+            "a": [
+                "c"
+            ]
+        },
+        {
+            "name": "Charles",
+            "back": "Your mother, Skuka, and Emma do indeed have a close relationship. But what exactly happened in the town of Innsmouth, the riots publicized in the news, and what is the truth behind them? These are the answers you are looking for.",
+            "r_q": [
+                {
+                    "q": "What else did you cut in Skuka's box? a. Yellow hat mask b. Long iron hook c. Fish d. Reef powder",
+                    "ans": "d"
+                }
+            ],
+            "self": "Hello everyone, I am Charles",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "What else did you cut in Skuka's box? a. Yellow hat mask b. Long iron hook c. Fish d. Reef powder"
+            ],
+            "a": [
+                "d"
+            ]
+        },
+        {
+            "name": "Jess",
+            "back": "Around 2am, the food you bought from the restaurant disappeared instantly.",
+            "r_q": [
+                {
+                    "q": "What tool does Charles use to hook a fish and open its belly? a. Short knife b. Long iron hook c. Fishing rod d. Hand",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What tool does Charles use to hook a fish and open its belly? a. Short knife b. Long iron hook c. Fishing rod d. Hand"
+            ],
+            "a": [
+                "b"
+            ]
+        },
+        {
+            "name": "Norrie",
+            "back": "Norris Norton Diary: Time unknown",
+            "r_q": [
+                {
+                    "q": "What did you see Belgium doing on the farm? a. Watch over his eggs. B. Say hello to you. C. Lie in bed. D. Go to the restaurant",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What did you see Belgium doing on the farm? a. Watch over his eggs. B. Say hello to you. C. Lie in bed. D. Go to the restaurant"
+            ],
+            "a": [
+                "a"
+            ]
+        },
+        {
+            "name": "Elizabeth",
+            "back": "Your head is dizzy, yet you don't remember what happened yesterday, including how you left and how you came back, but you did get up from bed again. The parchment paper you used to keep track of things is missing. It should have fallen off yesterday when you fell on the dock. It not only records the coordinates of the town of Lorraine, but also the value of many of your expensive collectibles, including the former queen's necklace worth £ 200000 and many expensive jewelry pieces. It's really sad. There aren't many things you carry with you in your bag, such as some change of clothes, a newspaper purchased on the day of departure, and a plaster statue made by Will.",
+            "r_q": [
+                {
+                    "q": "Who took you out of the restaurant and wrapped you in a cloak to bring you back to the dormitory? a. Yellow Hat B. Will C. Norris D. Emma",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Who took you out of the restaurant and wrapped you in a cloak to bring you back to the dormitory? a. Yellow Hat B. Will C. Norris D. Emma"
+            ],
+            "a": [
+                "c"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "How did Emma die? a. Assassinated b. electrocuted c. poisoned d. suffocated",
+            "Who has ever seen a generator? a. Jess B. Elizabeth C. Charles D. Norris",
+            "Who knows about the existence of generators? a. Elizabeth, Earl, and Charles B. Elizabeth, Jess, and Nori C. Charles, Nori, and Jess D. Jess, Earl, and Nori",
+            "Where is Jess going at night and what is he carrying? a. Bar, bow and arrow b. Restaurant, fish hook c. Pier, knife d. Office, documents",
+            "What did Elizabeth notice when she arrived at the restaurant? a. The generator is very new. B. The generator has a fault. C. The generator does not have a ring. D. The generator is too noisy",
+            "What kind of fishing hook does Charles have? a. Wooden small fish hook b. Plastic folding fish hook c. Steel automatic fish hook d. Iron long fish hook",
+            "What material is Charles' fishing hook made of? a. Wood b. Plastic c. Iron d. Steel",
+            "Why did Charles go to the restaurant? a. Sending fish b. having dinner c. attending parties d. meeting friends",
+            "What was Charles' posture when he left the restaurant? a. Waving goodbye b. Putting hands in pockets c. Running away d. Dragging your feet",
+            "Why can't vines conduct electricity? a. Too far from the generator b. The vines are dry c. The vines are covered d. The vines themselves are non-conductive",
+            "What problems did Il find when he arrived at the restaurant? a. The generator is undergoing maintenance. b. The generator does not have a ring. c. The generator is too noisy. d. The generator has completely stopped working",
+            "What was the condition of the restaurant's generator when Charles left? a. Intact b. Under repair c. Damaged d. Running",
+            "What is the impact of vines on generators? a. Can conduct electricity b. Cannot conduct electricity c. Can provide energy d. Can cool down"
+        ],
+        "key_ans": [
+            "b",
+            "c",
+            "a",
+            "b",
+            "c",
+            "d",
+            "c",
+            "a",
+            "b",
+            "a",
+            "b",
+            "c",
+            "b"
+        ],
+        "key_sc": [
+            "p-1",
+            "p-1",
+            "p-2",
+            "y",
+            "y",
+            "y",
+            "c",
+            "c",
+            "n-2",
+            "n-2",
+            "l",
+            "c",
+            "c"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "Where was the body of the deceased found? a. Living room b. Dining room c. Bedroom d. Kitchen",
+            "What were the injuries to the deceased's chest to abdomen? a. The skin was cut from the rectum to the stomach and then dissected. b. There were gunshot wounds in the abdomen. c. Multiple stab wounds. d. No external injuries",
+            "What injuries did the deceased have on their hands? a. No injuries on both hands. b. Both hands have been chopped off. c. There are brown burns on the tiger's mouth. d. Both hands have frostbite",
+            "What are the characteristics of the deceased's hair tips? a. There are slight burn marks on the hair tips. b. The hair tips are dyed. c. The hair tips are moldy. d. The hair tips are cut short",
+            "What was the cause of death of the deceased? a. Poisoning death b. being chopped off c. drowning death d. unknown",
+            "Who was invited to the 1895 technology conference? a. Mr. Charles B. Mr. John C. Mr. Alexander D. Ms. Mary",
+            "What was the purpose of the exhibition mentioned in the invitation letter for the 1895 technology conference? a. Display paintings b. Display design inventions c. Hold concerts d. Hold dances",
+            "What impact may these inventions have on the invitation letter? a. The entire society b. The entire era c. Specific industries d. Specific regions"
+        ],
+        "key_ans": [
+            "b",
+            "a",
+            "c",
+            "a",
+            "d",
+            "a",
+            "b",
+            "b"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "What is on the restaurant floor plan? a. Kitchen and dining cabinet b. Table and chairs c. Pool and counter d. Lounge and bar counter",
+            "What shape is there in front of the dining cabinet in the restaurant floor plan? a. Round b. Triangle c. Rectangular d. Square",
+            "In the plan view of bow, arrow, and harpoon, which side does the bow and arrow point towards? a. Right b. Front c. Rear d. Left"
+        ],
+        "key_ans": [
+            "a",
+            "c",
+            "d"
+        ]
+    },
+    "ju_name": "ZYYS2",
+    "task_nm": "The deceased is Emma",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Elizabeth",
+        "Jess",
+        "Norrie",
+        "Yi'er"
+    ],
+    "murder": "Charles",
+    "reason": "Motive for committing the crime:"
+}

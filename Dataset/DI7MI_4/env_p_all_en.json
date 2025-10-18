@@ -1,0 +1,2142 @@
+{
+    "key_clues_pool": {
+        "1-step": [
+            "The killer did not let the wheelchair pass over the lit candle",
+            "The murderer cannot change the house number",
+            "The killer locked the iron mesh door with the key on the victim's neck through the grid, and then pushed the wheelchair to the wall through the grid",
+            "The murderer cannot light candles from a distance",
+            "The power is on the first floor, so when the killer uses the mechanism to turn off the power, the administrator cannot immediately restart the power.",
+            "The killer must control the power to turn off in order to complete the trick"
+        ],
+        "2-step": [
+            "After the killer turned off the power, the hallway was pitch black. The killer used a flashlight on his phone to help the witnesses illuminate. At this moment, the killer was actually at the door of his room, but because the phone was in the killer's hand, she could adjust the angle of the light freely, making it impossible for the witnesses to see the house number.",
+            "The killer placed the cat at the entrance of the room for two purposes: 1. Make witnesses think this is the victim's room. 2. Because the cat is at the entrance, the automatic water dispenser used by pets is also located at the entrance, so it will not violate the rules. The automatic water dispenser is designed to allow witnesses to extinguish candles.",
+            "The killer scattered a large amount of draft paper around the burning candles in order to increase the feeling of \"a fire is about to break out here\" and give the witnesses a strong psychological suggestion that a fire is about to happen. This prompted him to use the automatic water dispenser on the ground to extinguish the burning candles"
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            65
+        ]
+    },
+    "public_clue": "\n",
+    "key_clues_questions": [
+        {
+            "q": "How did the murderer use the key on the victim's neck? a. Lock the iron mesh door b. Open the safe c. Start the vehicle d. Open the handcuffs",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "How did the killer move the wheelchair? a. Push the wheelchair to the wall through the grid b. Let the deceased drive it themselves c. Use a remote control device d. Operate it through a robotic arm",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Did the killer let a wheelchair pass over the lit candle? a. Yes B. No",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Can the murderer light candles from a distance? a. Can b. Can't",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "On which floor is the power supply located? a. Basement b. Second floor c. First floor d. Roof",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the purpose of the killer turning off the power? a. Creating chaos b. Completing trickery c. Destroying evidence d. Escaping the scene",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Why can't the administrator restart the power immediately? a. The power supply is on the first floor, too far away. b. The power supply is damaged. c. The mechanism control is missing. d. The restart password is missing",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Why did the killer use a flashlight to help the witness illuminate? a. Let witnesses find their room b. Hide the real room number c. Find lost items d. To provide extra security",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the purpose of the killer placing the cat at the entrance of the room? a. Make the witness mistake it for the deceased's room b. Make the witness mistake that the killer has just passed by c. Make the witness mistake that the deceased is still alive d. Avoid cats interfering with the crime",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the reason why the killer scattered a large amount of draft paper around the burning candle? a. Creating the illusion of a fire b. Cleaning up unnecessary scratch paper c. Decorating the room d. Preventing candles from directly touching the floor",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the purpose of the murderer placing the automatic water dispenser at the entrance of the room? a. Make witnesses mistakenly believe it belongs to the deceased's pet supplies. b. Provide water source for cats. c. Enable witnesses to use it to extinguish candles. d. Add decoration to the room",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "Why did the murderer choose to use a flashlight at the door of the room? a. To avoid exposing one's position, b. to prevent witnesses from seeing the house number, c. to search for dropped items, d. to check if the door lock is secure",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "Why did the witness use an automatic water dispenser to extinguish candles? a. Because the draft paper created the illusion that a fire was about to happen. b. Because the killer instructed him to do so. c. Because the candle was close to the pet and could cause a fire. d. Because the candle had too much smoke",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the main purpose of the murderer spreading draft paper? a. Create chaos b. Provide burning materials c. Strengthen psychological cues of fire occurrence d. Hide valuable clues",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "What effects did the killer achieve by using the cat at the entrance of the room? a. Guiding witnesses' attention b. Misleading witnesses' understanding of the room owner c. Making witnesses feel at ease d. Increasing chaos at the crime scene",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "Why did the killer turn off the power? a. To prevent the security system from working, b. to make the deceased unable to see the way, c. to create panic, d. to create darkness",
+            "ans": "d",
+            "source": "p-2"
+        },
+        {
+            "q": "How did the killer use a flashlight to help witnesses? a. Lighting b. Sending signals c. Recording d. Taking photos",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "What role did the automatic water dispenser play in the trickery? a. Used for cleaning floors b. Used for giving cats water c. Used for extinguishing candles d. Used for making noise",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the purpose of the murderer scattering the draft paper? a. Creating a feeling of impending fire b. Used to create visual barriers c. Used to cover up traces d. Used to tell others secrets",
+            "ans": "a",
+            "source": "p-2"
+        }
+    ],
+    "role": [
+        {
+            "name": "rolf",
+            "back": "You're awake.",
+            "r_q": [
+                {
+                    "q": "What type of clothing is Rolf wearing in the game? a. Sportswear b. Formal c. Prison uniform d. Casual attire",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many rooms in the game represent a murder case in a secret room? a. 4 b. 5 c. 6 d. 7",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the last time Rolf saw the deceased? a. 7:15am b. 3pm c. 10pm d. 12pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "According to Rolf's testimony, how was Ms. Malp's room door opened? a. Pry lock b. Break through window c. Use key d. Electronic password",
+                    "ans": "c"
+                },
+                {
+                    "q": "What tools did Rolf and Joey use to break open the iron mesh door? a. Aluminum alloy ladder b. Wooden stick c. Stone d. Hammer",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Rolf's profession? a. Animal Adoption Center Administrator b. Doctor c. Lawyer d. Police",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who says no one is innocent in the game? a. Rolf B. Thomas C. Taylor D. Judge",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who is the number of innocent people declared by the judge in the game? a. 1 b. 2 c. 3 d. 4",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where did Rolf mention he kept the keys? a. Third floor storage room b. Front desk on the first floor c. Basement d. Roof",
+                    "ans": "a"
+                },
+                {
+                    "q": "When did Rolf and Joey discover that Ms. Marple had died? a. 7:15am b. 3pm c. 10pm d. 12pm",
+                    "ans": "a"
+                },
+                {
+                    "q": "What type of clothing is Rolf wearing in the game? a. Sportswear b. Formal c. Prison uniform d. Casual attire",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is Rolf's workplace? a. City center shopping mall b. Local elementary school c. Animal adoption center d. Community library",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did Rolf enter Ms. Marple's room? a. Pry the door b. Break through the window c. Use a key d. Electronic password",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the last time Rolf saw Ms. Malp? a. 7:15am b. 3pm c. 10pm d. 12pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "What tool did Rolf and Joey use to break open the iron mesh door? a. Aluminum alloy ladder b. Wooden stick c. Stone d. Hammer",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which part of Ms. Marple's body was treated when she was discovered? a. Eyes b. Mouth c. Hands d. Feet",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who says no one is innocent in the game? a. Rolf B. Thomas C. Taylor D. Judge",
+                    "ans": "d"
+                },
+                {
+                    "q": "How many rooms in the game represent a murder case in a secret room? a. 4 b. 5 c. 6 d. 7",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Rolf mention he kept the keys? a. Third floor storage room b. Front desk on the first floor c. Basement d. Roof",
+                    "ans": "a"
+                },
+                {
+                    "q": "At what time did Rolf and Joey discover that Ms. Marple had died? a. 7:15am b. 3pm c. 10pm d. 12pm",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where did the judge in the game organize the escape room game? a. City Square b. Abandoned Hospital c. Chamber of Secrets d. Suburban Forest",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Rolf's profession in the game? a. Animal Adoption Center Administrator b. Doctor c. Lawyer d. Police",
+                    "ans": "a"
+                },
+                {
+                    "q": "How was Ms. Marple's body discovered in the game? a. Lying in bed b. Sitting in a wheelchair c. Lying on the floor d. Sitting on the sofa",
+                    "ans": "b"
+                },
+                {
+                    "q": "Rolf mentioned, where is the key he keeps in custody? a. Third floor storage room b. Front desk on the first floor c. Basement d. Roof",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the theme of the game? a. Ghost House Adventure b. Escape Room c. Murder Room d. Indiana Jones",
+                    "ans": "c"
+                },
+                {
+                    "q": "How is the iron mesh door opened in the game? a. Use key b. Use a stone to break open c. Use a hammer d. Use a ladder to break open",
+                    "ans": "d"
+                },
+                {
+                    "q": "How many rooms represent different murder cases in the game? a. 4 b. 5 c. 6 d. 7",
+                    "ans": "c"
+                },
+                {
+                    "q": "What tools did Rolf and Joey use to break open the iron mesh door? a. Aluminum alloy ladder b. Wooden stick c. Stone d. Hammer",
+                    "ans": "a"
+                },
+                {
+                    "q": "When was the last time Rolf saw the deceased? a. 7:15am b. 3pm c. 10pm d. 12pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Rolf and Joey discover that Ms. Marple had died? a. 7:15am b. 3pm c. 10pm d. 12pm",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Rolf's profession in the game? a. Animal Adoption Center Administrator b. Doctor c. Lawyer d. Police",
+                    "ans": "a"
+                },
+                {
+                    "q": "How many rooms are there in the Chamber of Secrets murder case mentioned by the 'Judge' in the game? a. 4 b. 5 c. 6 d. 7",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the last time Rolf saw Ms. Malp? a. 7:15am b. 3pm c. 10pm d. 12pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did Ms. Marple handle her mouth? a. Sew B. Seal with tape c. No treatment d. Cut off",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where did Rolf mention he kept the keys? a. Third floor storage room b. Front desk on the first floor c. Basement d. Roof",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where is the Chamber of Secrets game organized by the judges in the game? a. City Square b. Abandoned Hospital c. Chamber of Secrets d. Suburban Forest",
+                    "ans": "c"
+                },
+                {
+                    "q": "What tool did Rolf and Joey use to break open the iron mesh door? a. Aluminum alloy ladder b. Wooden stick c. Stone d. Hammer",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was Ms. Marple's body found sitting? a. Wheelchair b. Sofa c. Floor d. Bed",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was hanging around Ms. Marple's neck when she died? a. Key b. Necklace c. Label d. Symbol",
+                    "ans": "a"
+                },
+                {
+                    "q": "How did Rolf solve the possible fire caused by candles? a. Use water b. Use a fire extinguisher c. Cover with a blanket d. Let it extinguish naturally",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Rolf's profession in the game? a. Animal Adoption Center Administrator b. Doctor c. Lawyer d. Police",
+                    "ans": "a"
+                },
+                {
+                    "q": "What type of clothing is Rolf wearing in the game? a. Sportswear b. Formal c. Prison uniform d. Casual attire",
+                    "ans": "c"
+                },
+                {
+                    "q": "What tools did Rolf and Joey use to break open the iron mesh door? a. Aluminum alloy ladder b. Wooden stick c. Stone d. Hammer",
+                    "ans": "a"
+                },
+                {
+                    "q": "How was Ms. Marple's mouth handled? a. Sew B. Seal with tape c. No treatment d. Cut off",
+                    "ans": "a"
+                },
+                {
+                    "q": "When was the last time Rolf saw Ms. Malp? a. 7:15am b. 3pm c. 10pm d. 12pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Rolf mention he kept the keys? a. Third floor storage room b. Front desk on the first floor c. Basement d. Roof",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was Ms. Marple's body found sitting? a. Wheelchair b. Sofa c. Floor d. Bed",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where did the judge in the game organize the escape room game? a. City Square b. Abandoned Hospital c. Chamber of Secrets d. Suburban Forest",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who says no one is innocent in the game? a. Rolf B. Thomas C. Taylor D. Judge",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the theme of the game? a. Ghost House Adventure b. Escape Room c. Murder Room d. Indiana Jones",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What type of clothing is Rolf wearing in the game? a. Sportswear b. Formal c. Prison uniform d. Casual attire",
+                "How many rooms in the game represent a murder case in a secret room? a. 4 b. 5 c. 6 d. 7",
+                "When was the last time Rolf saw the deceased? a. 7:15am b. 3pm c. 10pm d. 12pm",
+                "According to Rolf's testimony, how was Ms. Malp's room door opened? a. Pry lock b. Break through window c. Use key d. Electronic password",
+                "What tools did Rolf and Joey use to break open the iron mesh door? a. Aluminum alloy ladder b. Wooden stick c. Stone d. Hammer",
+                "What is Rolf's profession? a. Animal Adoption Center Administrator b. Doctor c. Lawyer d. Police",
+                "Who says no one is innocent in the game? a. Rolf B. Thomas C. Taylor D. Judge",
+                "Who is the number of innocent people declared by the judge in the game? a. 1 b. 2 c. 3 d. 4",
+                "Where did Rolf mention he kept the keys? a. Third floor storage room b. Front desk on the first floor c. Basement d. Roof",
+                "When did Rolf and Joey discover that Ms. Marple had died? a. 7:15am b. 3pm c. 10pm d. 12pm",
+                "What type of clothing is Rolf wearing in the game? a. Sportswear b. Formal c. Prison uniform d. Casual attire",
+                "Where is Rolf's workplace? a. City center shopping mall b. Local elementary school c. Animal adoption center d. Community library",
+                "How did Rolf enter Ms. Marple's room? a. Pry the door b. Break through the window c. Use a key d. Electronic password",
+                "When was the last time Rolf saw Ms. Malp? a. 7:15am b. 3pm c. 10pm d. 12pm",
+                "What tool did Rolf and Joey use to break open the iron mesh door? a. Aluminum alloy ladder b. Wooden stick c. Stone d. Hammer",
+                "Which part of Ms. Marple's body was treated when she was discovered? a. Eyes b. Mouth c. Hands d. Feet",
+                "Who says no one is innocent in the game? a. Rolf B. Thomas C. Taylor D. Judge",
+                "How many rooms in the game represent a murder case in a secret room? a. 4 b. 5 c. 6 d. 7",
+                "Where did Rolf mention he kept the keys? a. Third floor storage room b. Front desk on the first floor c. Basement d. Roof",
+                "At what time did Rolf and Joey discover that Ms. Marple had died? a. 7:15am b. 3pm c. 10pm d. 12pm",
+                "Where did the judge in the game organize the escape room game? a. City Square b. Abandoned Hospital c. Chamber of Secrets d. Suburban Forest",
+                "What is Rolf's profession in the game? a. Animal Adoption Center Administrator b. Doctor c. Lawyer d. Police",
+                "How was Ms. Marple's body discovered in the game? a. Lying in bed b. Sitting in a wheelchair c. Lying on the floor d. Sitting on the sofa",
+                "Rolf mentioned, where is the key he keeps in custody? a. Third floor storage room b. Front desk on the first floor c. Basement d. Roof",
+                "What is the theme of the game? a. Ghost House Adventure b. Escape Room c. Murder Room d. Indiana Jones",
+                "How is the iron mesh door opened in the game? a. Use key b. Use a stone to break open c. Use a hammer d. Use a ladder to break open",
+                "How many rooms represent different murder cases in the game? a. 4 b. 5 c. 6 d. 7",
+                "What tools did Rolf and Joey use to break open the iron mesh door? a. Aluminum alloy ladder b. Wooden stick c. Stone d. Hammer",
+                "When was the last time Rolf saw the deceased? a. 7:15am b. 3pm c. 10pm d. 12pm",
+                "When did Rolf and Joey discover that Ms. Marple had died? a. 7:15am b. 3pm c. 10pm d. 12pm",
+                "What is Rolf's profession in the game? a. Animal Adoption Center Administrator b. Doctor c. Lawyer d. Police",
+                "How many rooms are there in the Chamber of Secrets murder case mentioned by the 'Judge' in the game? a. 4 b. 5 c. 6 d. 7",
+                "When was the last time Rolf saw Ms. Malp? a. 7:15am b. 3pm c. 10pm d. 12pm",
+                "How did Ms. Marple handle her mouth? a. Sew B. Seal with tape c. No treatment d. Cut off",
+                "Where did Rolf mention he kept the keys? a. Third floor storage room b. Front desk on the first floor c. Basement d. Roof",
+                "Where is the Chamber of Secrets game organized by the judges in the game? a. City Square b. Abandoned Hospital c. Chamber of Secrets d. Suburban Forest",
+                "What tool did Rolf and Joey use to break open the iron mesh door? a. Aluminum alloy ladder b. Wooden stick c. Stone d. Hammer",
+                "Where was Ms. Marple's body found sitting? a. Wheelchair b. Sofa c. Floor d. Bed",
+                "What was hanging around Ms. Marple's neck when she died? a. Key b. Necklace c. Label d. Symbol",
+                "How did Rolf solve the possible fire caused by candles? a. Use water b. Use a fire extinguisher c. Cover with a blanket d. Let it extinguish naturally",
+                "What is Rolf's profession in the game? a. Animal Adoption Center Administrator b. Doctor c. Lawyer d. Police",
+                "What type of clothing is Rolf wearing in the game? a. Sportswear b. Formal c. Prison uniform d. Casual attire",
+                "What tools did Rolf and Joey use to break open the iron mesh door? a. Aluminum alloy ladder b. Wooden stick c. Stone d. Hammer",
+                "How was Ms. Marple's mouth handled? a. Sew B. Seal with tape c. No treatment d. Cut off",
+                "When was the last time Rolf saw Ms. Malp? a. 7:15am b. 3pm c. 10pm d. 12pm",
+                "Where did Rolf mention he kept the keys? a. Third floor storage room b. Front desk on the first floor c. Basement d. Roof",
+                "Where was Ms. Marple's body found sitting? a. Wheelchair b. Sofa c. Floor d. Bed",
+                "Where did the judge in the game organize the escape room game? a. City Square b. Abandoned Hospital c. Chamber of Secrets d. Suburban Forest",
+                "Who says no one is innocent in the game? a. Rolf B. Thomas C. Taylor D. Judge",
+                "What is the theme of the game? a. Ghost House Adventure b. Escape Room c. Murder Room d. Indiana Jones"
+            ],
+            "a": [
+                "c",
+                "c",
+                "c",
+                "c",
+                "a",
+                "a",
+                "d",
+                "a",
+                "a",
+                "a",
+                "c",
+                "c",
+                "c",
+                "c",
+                "a",
+                "b",
+                "d",
+                "c",
+                "a",
+                "a",
+                "c",
+                "a",
+                "b",
+                "a",
+                "c",
+                "d",
+                "c",
+                "a",
+                "c",
+                "a",
+                "a",
+                "c",
+                "c",
+                "a",
+                "a",
+                "c",
+                "a",
+                "a",
+                "a",
+                "a",
+                "a",
+                "c",
+                "a",
+                "a",
+                "c",
+                "a",
+                "a",
+                "c",
+                "d",
+                "c"
+            ]
+        },
+        {
+            "name": "Faris",
+            "back": "You wake up",
+            "r_q": [
+                {
+                    "q": "What is the room number of the deceased in the animal adoption center? a. 108 b. 209 c. 305 d. 401",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Animal administrator b. Mystery novelist c. Private detective d. Doctor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Taylor and Thomas B. Taylor and Faris C. Miss Joey and Rolfe D. Miss Joey and Webster",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Paper knife stabbing b. Explosion injury c. Shooting d. Cyanide poisoning",
+                    "ans": "d"
+                },
+                {
+                    "q": "What material is the door of the deceased's room made of? a. Steel door b. Solid wood door c. Glass door d. Plastic door",
+                    "ans": "b"
+                },
+                {
+                    "q": "What material door is there in the room? a. Steel door b. Solid wood door c. Iron mesh door d. Glass door",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the odor in the deceased's mouth? a. Vanilla flavor b. Bitter almond flavor c. Lemon flavor d. Mint flavor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the location of the room door key? a. B. In the hands of the deceased b. In the mouth of the deceased c. On the table of the deceased d. In the bag of the deceased",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the key to the iron mesh door hung? a. Administrator Rolf's office b. Miss Joey's office c. The deceased's chest d. The deceased's mouth",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of injury does the final state of death of the deceased indicate? a. Stabbing b. Cyanide poisoning c. Flame burns d. Falling injuries",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the crime scene located? a. Municipal Government Building b. Central Library c. Animal Home Animal Adoption Center d. City Center Park",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who was the assistant of the deceased? a. Taylor B. Thomas C. Miss Joey D. Rolf",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the door of the deceased's room? a. Iron door b. Glass door c. Solid wood door d. Plastic door",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did the deceased sit? a. Floor b. Chair c. Wheelchair d. Sofa",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Explosion injury b. Shooting c. Cyanide poisoning d. Stabbing injury",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is responsible for keeping the spare key to the room? a. Taylor B. Thomas C. Miss Joey D. Administrator Rolf",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the strange smell in the deceased's mouth? a. Vanilla flavor b. Bitter almond flavor c. Lemon flavor d. Mint flavor",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was in a burning state when the witness discovered the body? a. Document b. Candlelight c. Clothing d. Wood",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the only key to the iron mesh door hanging? a. B. In the hands of the deceased b. In the mouth of the deceased c. On the chest of the deceased d. In the bag of the deceased",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was detected in the water cup on the table? a. Cyanide b. Alcohol c. Arsenic d. Iodine",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the room number of the 'Animal Home' animal adoption center where the crime occurred? a. 108 b. 209 c. 305 d. 401",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the occupation of the deceased Malp? a. Animal administrator b. Mystery novelist c. Private detective d. Doctor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who were the two individuals who discovered the body of the deceased? a. Taylor and Thomas B. Taylor and Faris C. Miss Joey and Rolfe D. Miss Joey and Webster",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Paper knife stabbing b. Explosion injury c. Shooting d. Cyanide poisoning",
+                    "ans": "d"
+                },
+                {
+                    "q": "What material is the door of the deceased's room made of? a. Steel door b. Solid wood door c. Glass door d. Plastic door",
+                    "ans": "b"
+                },
+                {
+                    "q": "What material door is there in the room? a. Steel door b. Solid wood door c. Iron mesh door d. Glass door",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the odor in the deceased's mouth? a. Vanilla flavor b. Bitter almond flavor c. Lemon flavor d. Mint flavor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the location of the room door key? a. B. In the hands of the deceased b. In the mouth of the deceased c. On the table of the deceased d. In the bag of the deceased",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the key to the iron mesh door hung? a. Administrator Rolf's office b. Miss Joey's office c. The deceased's chest d. The deceased's mouth",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of injury does the final state of death of the deceased indicate? a. Stabbing b. Cyanide poisoning c. Flame burns d. Falling injuries",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the room number of the 'Animal Home' animal adoption center where the crime occurred? a. 108 b. 209 c. 305 d. 401",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Animal administrator b. Mystery novelist c. Private detective d. Doctor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who were the two individuals who discovered the body of the deceased? a. Taylor and Thomas B. Taylor and Faris C. Miss Joey and Rolfe D. Miss Joey and Webster",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Paper knife stabbing b. Explosion injury c. Shooting d. Cyanide poisoning",
+                    "ans": "d"
+                },
+                {
+                    "q": "What material is the door of the deceased's room made of? a. Steel door b. Solid wood door c. Glass door d. Plastic door",
+                    "ans": "b"
+                },
+                {
+                    "q": "What material door is there in the room? a. Steel door b. Solid wood door c. Iron mesh door d. Glass door",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the odor in the deceased's mouth? a. Vanilla flavor b. Bitter almond flavor c. Lemon flavor d. Mint flavor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the location of the room door key? a. B. In the hands of the deceased b. In the mouth of the deceased c. On the table of the deceased d. In the bag of the deceased",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the key to the iron mesh door hung? a. Administrator Rolf's office b. Miss Joey's office c. The deceased's chest d. The deceased's mouth",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of injury does the final state of death of the deceased indicate? a. Stabbing b. Cyanide poisoning c. Flame burns d. Falling injuries",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the occupation of the deceased Malp? a. Animal administrator b. Mystery novelist c. Private detective d. Doctor",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the room number of the 'Animal Home' animal adoption center where the crime occurred? a. 108 b. 209 c. 305 d. 401",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who were the two individuals who discovered the body of the deceased? a. Taylor and Thomas B. Taylor and Faris C. Miss Joey and Rolfe D. Miss Joey and Webster",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did the deceased sit? a. Floor b. Chair c. Wheelchair d. Sofa",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Explosion injury b. Shooting c. Cyanide poisoning d. Stabbing injury",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is responsible for keeping the spare key to the room? a. Taylor B. Thomas C. Miss Joey D. Administrator Rolf",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the strange smell in the deceased's mouth? a. Vanilla flavor b. Bitter almond flavor c. Lemon flavor d. Mint flavor",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was in a burning state when the witness discovered the body? a. Document b. Candlelight c. Clothing d. Wood",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the only key to the iron mesh door hanging? a. B. In the hands of the deceased b. In the mouth of the deceased c. On the chest of the deceased d. In the bag of the deceased",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was detected in the water cup on the table? a. Cyanide b. Alcohol c. Arsenic d. Iodine",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is the room number of the deceased in the animal adoption center? a. 108 b. 209 c. 305 d. 401",
+                "What was the profession of the deceased? a. Animal administrator b. Mystery novelist c. Private detective d. Doctor",
+                "Who discovered the body of the deceased? a. Taylor and Thomas B. Taylor and Faris C. Miss Joey and Rolfe D. Miss Joey and Webster",
+                "What was the cause of death of the deceased? a. Paper knife stabbing b. Explosion injury c. Shooting d. Cyanide poisoning",
+                "What material is the door of the deceased's room made of? a. Steel door b. Solid wood door c. Glass door d. Plastic door",
+                "What material door is there in the room? a. Steel door b. Solid wood door c. Iron mesh door d. Glass door",
+                "What is the odor in the deceased's mouth? a. Vanilla flavor b. Bitter almond flavor c. Lemon flavor d. Mint flavor",
+                "Where is the location of the room door key? a. B. In the hands of the deceased b. In the mouth of the deceased c. On the table of the deceased d. In the bag of the deceased",
+                "Where is the key to the iron mesh door hung? a. Administrator Rolf's office b. Miss Joey's office c. The deceased's chest d. The deceased's mouth",
+                "What type of injury does the final state of death of the deceased indicate? a. Stabbing b. Cyanide poisoning c. Flame burns d. Falling injuries",
+                "Where is the crime scene located? a. Municipal Government Building b. Central Library c. Animal Home Animal Adoption Center d. City Center Park",
+                "Who was the assistant of the deceased? a. Taylor B. Thomas C. Miss Joey D. Rolf",
+                "What is the door of the deceased's room? a. Iron door b. Glass door c. Solid wood door d. Plastic door",
+                "Where did the deceased sit? a. Floor b. Chair c. Wheelchair d. Sofa",
+                "What was the cause of death of the deceased? a. Explosion injury b. Shooting c. Cyanide poisoning d. Stabbing injury",
+                "Who is responsible for keeping the spare key to the room? a. Taylor B. Thomas C. Miss Joey D. Administrator Rolf",
+                "What is the strange smell in the deceased's mouth? a. Vanilla flavor b. Bitter almond flavor c. Lemon flavor d. Mint flavor",
+                "What was in a burning state when the witness discovered the body? a. Document b. Candlelight c. Clothing d. Wood",
+                "Where is the only key to the iron mesh door hanging? a. B. In the hands of the deceased b. In the mouth of the deceased c. On the chest of the deceased d. In the bag of the deceased",
+                "What was detected in the water cup on the table? a. Cyanide b. Alcohol c. Arsenic d. Iodine",
+                "What is the room number of the 'Animal Home' animal adoption center where the crime occurred? a. 108 b. 209 c. 305 d. 401",
+                "What was the occupation of the deceased Malp? a. Animal administrator b. Mystery novelist c. Private detective d. Doctor",
+                "Who were the two individuals who discovered the body of the deceased? a. Taylor and Thomas B. Taylor and Faris C. Miss Joey and Rolfe D. Miss Joey and Webster",
+                "What was the cause of death of the deceased? a. Paper knife stabbing b. Explosion injury c. Shooting d. Cyanide poisoning",
+                "What material is the door of the deceased's room made of? a. Steel door b. Solid wood door c. Glass door d. Plastic door",
+                "What material door is there in the room? a. Steel door b. Solid wood door c. Iron mesh door d. Glass door",
+                "What is the odor in the deceased's mouth? a. Vanilla flavor b. Bitter almond flavor c. Lemon flavor d. Mint flavor",
+                "Where is the location of the room door key? a. B. In the hands of the deceased b. In the mouth of the deceased c. On the table of the deceased d. In the bag of the deceased",
+                "Where is the key to the iron mesh door hung? a. Administrator Rolf's office b. Miss Joey's office c. The deceased's chest d. The deceased's mouth",
+                "What type of injury does the final state of death of the deceased indicate? a. Stabbing b. Cyanide poisoning c. Flame burns d. Falling injuries",
+                "What is the room number of the 'Animal Home' animal adoption center where the crime occurred? a. 108 b. 209 c. 305 d. 401",
+                "What was the profession of the deceased? a. Animal administrator b. Mystery novelist c. Private detective d. Doctor",
+                "Who were the two individuals who discovered the body of the deceased? a. Taylor and Thomas B. Taylor and Faris C. Miss Joey and Rolfe D. Miss Joey and Webster",
+                "What was the cause of death of the deceased? a. Paper knife stabbing b. Explosion injury c. Shooting d. Cyanide poisoning",
+                "What material is the door of the deceased's room made of? a. Steel door b. Solid wood door c. Glass door d. Plastic door",
+                "What material door is there in the room? a. Steel door b. Solid wood door c. Iron mesh door d. Glass door",
+                "What is the odor in the deceased's mouth? a. Vanilla flavor b. Bitter almond flavor c. Lemon flavor d. Mint flavor",
+                "Where is the location of the room door key? a. B. In the hands of the deceased b. In the mouth of the deceased c. On the table of the deceased d. In the bag of the deceased",
+                "Where is the key to the iron mesh door hung? a. Administrator Rolf's office b. Miss Joey's office c. The deceased's chest d. The deceased's mouth",
+                "What type of injury does the final state of death of the deceased indicate? a. Stabbing b. Cyanide poisoning c. Flame burns d. Falling injuries",
+                "What was the occupation of the deceased Malp? a. Animal administrator b. Mystery novelist c. Private detective d. Doctor",
+                "What is the room number of the 'Animal Home' animal adoption center where the crime occurred? a. 108 b. 209 c. 305 d. 401",
+                "Who were the two individuals who discovered the body of the deceased? a. Taylor and Thomas B. Taylor and Faris C. Miss Joey and Rolfe D. Miss Joey and Webster",
+                "Where did the deceased sit? a. Floor b. Chair c. Wheelchair d. Sofa",
+                "What was the cause of death of the deceased? a. Explosion injury b. Shooting c. Cyanide poisoning d. Stabbing injury",
+                "Who is responsible for keeping the spare key to the room? a. Taylor B. Thomas C. Miss Joey D. Administrator Rolf",
+                "What is the strange smell in the deceased's mouth? a. Vanilla flavor b. Bitter almond flavor c. Lemon flavor d. Mint flavor",
+                "What was in a burning state when the witness discovered the body? a. Document b. Candlelight c. Clothing d. Wood",
+                "Where is the only key to the iron mesh door hanging? a. B. In the hands of the deceased b. In the mouth of the deceased c. On the chest of the deceased d. In the bag of the deceased",
+                "What was detected in the water cup on the table? a. Cyanide b. Alcohol c. Arsenic d. Iodine"
+            ],
+            "a": [
+                "b",
+                "b",
+                "c",
+                "d",
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "d",
+                "b",
+                "b",
+                "c",
+                "a",
+                "b",
+                "b",
+                "c",
+                "d",
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "d",
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "d",
+                "b",
+                "b",
+                "c",
+                "a"
+            ]
+        },
+        {
+            "name": "Joey",
+            "back": "You wake up",
+            "r_q": [
+                {
+                    "q": "In the game of 'Judge', what would happen if the guilty person found the culprit of each murder and locked the innocent person into the courtroom? a. The guilty will be released. b. The innocent will be released. c. Everyone will be released. d. Everyone will be punished",
+                    "ans": "a"
+                },
+                {
+                    "q": "What words are displayed on the screen of the room in the Judge game? a. Game start b. Judge c. Escape room d. Death game",
+                    "ans": "b"
+                },
+                {
+                    "q": "When was the last time Joey saw Ms. Marple? a. 9pm b. 10pm c. 10:30pm d. 11pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "What kind of clothes did the judge change for the participants in the game? a. Formal attire b. Casual attire c. Prison attire d. Banquet attire",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who ultimately discovered Ms. Marple's body? a. Taylor B. Thomas C. Joey D. Faris",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the game name claimed by the judge? a. Battle Royale b. Chamber Murder c. Inside Games d. Final Judgment",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why is the voice of the judge described? a. Gentle b. Weird and mysterious c. Majestic d. Humorous",
+                    "ans": "b"
+                },
+                {
+                    "q": "How was Ms. Marple's room door discovered? a. Open b. Damaged c. Locked d. No door",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Joey's workplace called? a. Animal Home Animal Adoption Center b. City Center Library c. Municipal Hospital d. Private Clinic",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the cause of death for Ms. Marple? a. Natural death b. Jumping off a building to commit suicide c. Being killed d. Death from illness",
+                    "ans": "c"
+                },
+                {
+                    "q": "In the game, what type of room are participants locked in? a. Detective Agency b. Family Residence c. Chamber of Secrets d. Office",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of clothing is each participant wearing in the game? a. Formal attire b. Casual attire c. Prison attire d. Banquet attire",
+                    "ans": "c"
+                },
+                {
+                    "q": "How do judges convey information in the game? a. Phone b. Display screen c. Radio d. Paper strip",
+                    "ans": "b"
+                },
+                {
+                    "q": "What does the judge use to describe the theme of the game? a. Chamber Murder b. Battle Royale c. Detective Reasoning d. Survival Challenge",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Joey's profession in the game? a. Library administrator b. Animal adoption center staff c. Hospital nurse d. Private detective",
+                    "ans": "b"
+                },
+                {
+                    "q": "What does the judge in the game call his way of judging? a. Voice of Justice b. Supreme c. Inside Game d. Ultimate Judgment",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the words displayed on the screen in the room? a. Game start b. Judge c. Escape room d. Death game",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Joey discover the body? a. Knocking on the door, no response. b. Suddenly feeling uneasy. c. There is an odor emanating. d. Hearing a sound",
+                    "ans": "a"
+                },
+                {
+                    "q": "When was the last time Joey saw Ms. Marple? a. 9pm b. 10pm c. 10:30pm d. 11pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death for Ms. Marple? a. Natural death b. Jumping off a building to commit suicide c. Being killed d. Death from illness",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the way Joey discovers Ms. Marple's body in the game 'Judge'? a. She heard a sound. b. She smelled a strange odor. c. She suddenly felt uneasy. d. No one answered the room and the phone was not answered",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the condition of Ms. Marple's room door when it was discovered? a. Open b. Damaged c. Locked d. No door",
+                    "ans": "c"
+                },
+                {
+                    "q": "In the game, what is the judge's way of judging? a. Voice of Justice b. Supreme c. Inside Game d. Ultimate Judgment",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the last time Joey saw Ms. Marple? a. 9pm b. 10pm c. 10:30pm d. 11pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "In the game of 'Judge', what would happen if the guilty person found the culprit of each murder and locked the innocent person into the courtroom? a. The guilty will be released. b. The innocent will be released. c. Everyone will be released. d. Everyone will be punished",
+                    "ans": "a"
+                },
+                {
+                    "q": "How do the judges in the game convey information? a. Phone b. Display screen c. Radio d. Paper strip",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Joey's profession in the game? a. Library administrator b. Animal adoption center staff c. Hospital nurse d. Private detective",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the cause of death for Ms. Marple? a. Natural death b. Jumping off a building to commit suicide c. Being killed d. Death from illness",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why is the voice of the judge described? a. Gentle b. Weird and mysterious c. Majestic d. Humorous",
+                    "ans": "b"
+                },
+                {
+                    "q": "What words are displayed on the screen of the room in the Judge game? a. Game start b. Judge c. Escape room d. Death game",
+                    "ans": "b"
+                },
+                {
+                    "q": "What kind of environment is Joey trapped in in the Judge game? a. Spacious meeting room b. Closed secret room c. Open public space d. Office with ample lighting",
+                    "ans": "b"
+                },
+                {
+                    "q": "What three characters appear on the screen at the beginning of the game? a. Start game b. Judge c. Escape room d. Death game",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of clothing is Joey considered to be wearing in the game? a. Formal attire b. Casual attire c. Prison attire d. Banquet attire",
+                    "ans": "c"
+                },
+                {
+                    "q": "Under what circumstances did Joey discover Ms. Marple's body? a. Knocking on the door, no response. b. The room emits a strange odor. c. Seeing bloodstains. d. Hearing cries for help",
+                    "ans": "a"
+                },
+                {
+                    "q": "In the game of judges, what would happen if the guilty successfully find the innocent and lock them up in the courtroom? a. The guilty will be released. b. The innocent will be released. c. Everyone will be released. d. Everyone will be punished",
+                    "ans": "a"
+                },
+                {
+                    "q": "In the game, how does the judge convey information to the participants? a. Phone b. Display screen c. Radio d. Paper strip",
+                    "ans": "b"
+                },
+                {
+                    "q": "When was the last time Joey saw Ms. Marple? a. 9pm b. 10pm c. 10:30pm d. 11pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why was Ms. Malp's cause of death determined? a. Natural death b. Jumping off a building to commit suicide c. Being killed d. Death from illness",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the judge's way of describing their judgment in the game? a. Voice of Justice b. Supreme c. Inside Game d. Ultimate Judgment",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the words displayed on the screen of the room in the Judge's game? a. Game start b. Judge c. Escape room d. Death game",
+                    "ans": "b"
+                },
+                {
+                    "q": "When was the last time Joey saw Ms. Marple in the game 'Judge'? a. 9pm b. 10pm c. 10:30pm d. 11pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Joey's profession? a. Library administrator b. Animal adoption center staff c. Hospital nurse d. Private detective",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the voice of the judge described in the game 'Judge'? a. Gentle b. Weird and mysterious c. Majestic d. Humorous",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of clothing is Joey wearing in the 'Judge' game? a. Formal attire b. Casual attire c. Prison attire d. Banquet attire",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why does the judge refer to his method of judgment in the game? a. Voice of Justice b. Supreme c. Inside Game d. Ultimate Judgment",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the state of the door when Joey discovered Ms. Marple's body? a. Open b. Damaged c. Locked d. No door",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the words displayed on the screen in the Judge game? a. Game start b. Judge c. Escape room d. Death game",
+                    "ans": "b"
+                },
+                {
+                    "q": "In the game, how does the judge convey information? a. Phone b. Display screen c. Radio d. Paper strip",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the cause of death for Ms. Marple? a. Natural death b. Jumping off a building to commit suicide c. Being killed d. Death from illness",
+                    "ans": "c"
+                },
+                {
+                    "q": "What happens in the 'Judge' game if the innocent person is not found? a. The innocent will be released. b. The guilty will be released. c. Everyone will be released. d. Everyone will be punished",
+                    "ans": "d"
+                }
+            ],
+            "self": "My name is Joey, I'm 21 years old this year",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "In the game of 'Judge', what would happen if the guilty person found the culprit of each murder and locked the innocent person into the courtroom? a. The guilty will be released. b. The innocent will be released. c. Everyone will be released. d. Everyone will be punished",
+                "What words are displayed on the screen of the room in the Judge game? a. Game start b. Judge c. Escape room d. Death game",
+                "When was the last time Joey saw Ms. Marple? a. 9pm b. 10pm c. 10:30pm d. 11pm",
+                "What kind of clothes did the judge change for the participants in the game? a. Formal attire b. Casual attire c. Prison attire d. Banquet attire",
+                "Who ultimately discovered Ms. Marple's body? a. Taylor B. Thomas C. Joey D. Faris",
+                "What is the game name claimed by the judge? a. Battle Royale b. Chamber Murder c. Inside Games d. Final Judgment",
+                "Why is the voice of the judge described? a. Gentle b. Weird and mysterious c. Majestic d. Humorous",
+                "How was Ms. Marple's room door discovered? a. Open b. Damaged c. Locked d. No door",
+                "What is Joey's workplace called? a. Animal Home Animal Adoption Center b. City Center Library c. Municipal Hospital d. Private Clinic",
+                "What was the cause of death for Ms. Marple? a. Natural death b. Jumping off a building to commit suicide c. Being killed d. Death from illness",
+                "In the game, what type of room are participants locked in? a. Detective Agency b. Family Residence c. Chamber of Secrets d. Office",
+                "What type of clothing is each participant wearing in the game? a. Formal attire b. Casual attire c. Prison attire d. Banquet attire",
+                "How do judges convey information in the game? a. Phone b. Display screen c. Radio d. Paper strip",
+                "What does the judge use to describe the theme of the game? a. Chamber Murder b. Battle Royale c. Detective Reasoning d. Survival Challenge",
+                "What is Joey's profession in the game? a. Library administrator b. Animal adoption center staff c. Hospital nurse d. Private detective",
+                "What does the judge in the game call his way of judging? a. Voice of Justice b. Supreme c. Inside Game d. Ultimate Judgment",
+                "What are the words displayed on the screen in the room? a. Game start b. Judge c. Escape room d. Death game",
+                "How did Joey discover the body? a. Knocking on the door, no response. b. Suddenly feeling uneasy. c. There is an odor emanating. d. Hearing a sound",
+                "When was the last time Joey saw Ms. Marple? a. 9pm b. 10pm c. 10:30pm d. 11pm",
+                "What was the cause of death for Ms. Marple? a. Natural death b. Jumping off a building to commit suicide c. Being killed d. Death from illness",
+                "What is the way Joey discovers Ms. Marple's body in the game 'Judge'? a. She heard a sound. b. She smelled a strange odor. c. She suddenly felt uneasy. d. No one answered the room and the phone was not answered",
+                "What was the condition of Ms. Marple's room door when it was discovered? a. Open b. Damaged c. Locked d. No door",
+                "In the game, what is the judge's way of judging? a. Voice of Justice b. Supreme c. Inside Game d. Ultimate Judgment",
+                "When was the last time Joey saw Ms. Marple? a. 9pm b. 10pm c. 10:30pm d. 11pm",
+                "In the game of 'Judge', what would happen if the guilty person found the culprit of each murder and locked the innocent person into the courtroom? a. The guilty will be released. b. The innocent will be released. c. Everyone will be released. d. Everyone will be punished",
+                "How do the judges in the game convey information? a. Phone b. Display screen c. Radio d. Paper strip",
+                "What is Joey's profession in the game? a. Library administrator b. Animal adoption center staff c. Hospital nurse d. Private detective",
+                "What was the cause of death for Ms. Marple? a. Natural death b. Jumping off a building to commit suicide c. Being killed d. Death from illness",
+                "Why is the voice of the judge described? a. Gentle b. Weird and mysterious c. Majestic d. Humorous",
+                "What words are displayed on the screen of the room in the Judge game? a. Game start b. Judge c. Escape room d. Death game",
+                "What kind of environment is Joey trapped in in the Judge game? a. Spacious meeting room b. Closed secret room c. Open public space d. Office with ample lighting",
+                "What three characters appear on the screen at the beginning of the game? a. Start game b. Judge c. Escape room d. Death game",
+                "What type of clothing is Joey considered to be wearing in the game? a. Formal attire b. Casual attire c. Prison attire d. Banquet attire",
+                "Under what circumstances did Joey discover Ms. Marple's body? a. Knocking on the door, no response. b. The room emits a strange odor. c. Seeing bloodstains. d. Hearing cries for help",
+                "In the game of judges, what would happen if the guilty successfully find the innocent and lock them up in the courtroom? a. The guilty will be released. b. The innocent will be released. c. Everyone will be released. d. Everyone will be punished",
+                "In the game, how does the judge convey information to the participants? a. Phone b. Display screen c. Radio d. Paper strip",
+                "When was the last time Joey saw Ms. Marple? a. 9pm b. 10pm c. 10:30pm d. 11pm",
+                "Why was Ms. Malp's cause of death determined? a. Natural death b. Jumping off a building to commit suicide c. Being killed d. Death from illness",
+                "What is the judge's way of describing their judgment in the game? a. Voice of Justice b. Supreme c. Inside Game d. Ultimate Judgment",
+                "What are the words displayed on the screen of the room in the Judge's game? a. Game start b. Judge c. Escape room d. Death game",
+                "When was the last time Joey saw Ms. Marple in the game 'Judge'? a. 9pm b. 10pm c. 10:30pm d. 11pm",
+                "What is Joey's profession? a. Library administrator b. Animal adoption center staff c. Hospital nurse d. Private detective",
+                "What is the voice of the judge described in the game 'Judge'? a. Gentle b. Weird and mysterious c. Majestic d. Humorous",
+                "What type of clothing is Joey wearing in the 'Judge' game? a. Formal attire b. Casual attire c. Prison attire d. Banquet attire",
+                "Why does the judge refer to his method of judgment in the game? a. Voice of Justice b. Supreme c. Inside Game d. Ultimate Judgment",
+                "What was the state of the door when Joey discovered Ms. Marple's body? a. Open b. Damaged c. Locked d. No door",
+                "What are the words displayed on the screen in the Judge game? a. Game start b. Judge c. Escape room d. Death game",
+                "In the game, how does the judge convey information? a. Phone b. Display screen c. Radio d. Paper strip",
+                "What was the cause of death for Ms. Marple? a. Natural death b. Jumping off a building to commit suicide c. Being killed d. Death from illness",
+                "What happens in the 'Judge' game if the innocent person is not found? a. The innocent will be released. b. The guilty will be released. c. Everyone will be released. d. Everyone will be punished"
+            ],
+            "a": [
+                "a",
+                "b",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "a",
+                "c",
+                "c",
+                "c",
+                "b",
+                "a",
+                "b",
+                "c",
+                "b",
+                "a",
+                "c",
+                "c",
+                "d",
+                "c",
+                "c",
+                "c",
+                "a",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "b",
+                "c",
+                "a",
+                "a",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "d"
+            ]
+        },
+        {
+            "name": "Sara",
+            "back": "You wake up",
+            "r_q": [
+                {
+                    "q": "What is Sarah's age? a. 18 years old b. 20 years old c. 22 years old d. 25 years old",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the state of the deceased when they were discovered? a. Head injury b. Poisoning death c. Stabbing injury d. Natural death",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the crime scene? a. Zoo b. Park c. Animal Adoption Center d. Residential Area",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Taylor and Joey B. Faris and Sarah C. Joey and Rolf D. Thomas and Webster",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many ways can the door of the deceased's room be locked? a. One b. Two c. Three d. Four",
+                    "ans": "b"
+                },
+                {
+                    "q": "Did you find any burn marks on the wheelchair of the deceased? a. Yes B. No",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was placed around the corpse? a. Books b. Toys c. Flowers d. Candles",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the cause of the deceased's death? a. Falling b. stabbing c. cyanide poisoning d. suffocation",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many doors were locked at the crime scene? a. One fan b. Two fans c. Three fans d. Four fans",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of locked room murder case is the case classified as? a. No blind spots room b. Bloodline message c. Instantly disappearing perpetrator d. Triple room",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is Sarah's profession? a. Lawyer b. Detective c. Doctor d. Teacher",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Malp's profession? a. Lawyer b. Detective c. Mystery novelist d. Teacher",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who was the assistant of the deceased? a. Faris B. Thomas C. Joey D. Sara",
+                    "ans": "c"
+                },
+                {
+                    "q": "What items were placed next to the deceased's wheelchair? a. Books b. Toys c. Flowers d. Candles",
+                    "ans": "d"
+                },
+                {
+                    "q": "How can the door of the deceased's room be locked? a. Password lock b. Key or internal lock c. Fingerprint recognition d. Remote control",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who kept the spare key to the room door? a. Faris B. Joey C. Sara D. Rolf",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the height of the deceased? a. 162CM b. 165CM c. 167CM d. 169CM",
+                    "ans": "d"
+                },
+                {
+                    "q": "Is there any burn mark on the wheelchair when the deceased was found? a. Yes B. No",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the location of the key to the iron mesh door in the room? a. B. In the deceased's pocket b. In the deceased's hand c. Hanging on the deceased's chest d. At the administrator's office",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Falling b. stabbing c. cyanide poisoning d. suffocation",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Animal Adoption Center Administrator b. Mystery Novelist c. Detective d. Assistant",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the location where the deceased was found? a. Animal Home Animal Adoption Center b. Park c. Residential Area d. Commercial Center",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who was the assistant of the deceased? a. Taylor B. Joey C. Rolf D. Faris",
+                    "ans": "b"
+                },
+                {
+                    "q": "How can the door of the room be locked? a. Key or lock directly from the inside b. Password lock c. Fingerprint recognition d. Remote control",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where is the key to the iron mesh door hung? a. B. In the deceased's pocket b. In the deceased's hand c. Hanging on the deceased's chest d. At the administrator's office",
+                    "ans": "c"
+                },
+                {
+                    "q": "What items were placed around the body of the deceased? a. Books b. Toys c. Flowers d. Candles",
+                    "ans": "d"
+                },
+                {
+                    "q": "What were the main causes of death for the deceased? a. Falling b. stabbing c. cyanide poisoning d. suffocation",
+                    "ans": "c"
+                },
+                {
+                    "q": "Are there any burn marks on the wheelchair of the deceased? a. Yes B. No",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of locked room murder case is the crime scene classified as? a. No blind spots room b. Bloodline message c. Instantly disappearing perpetrator d. Triple room",
+                    "ans": "d"
+                },
+                {
+                    "q": "What keys are kept by the administrator? a. Spare key for room door b. Key for iron mesh door c. Key for main entrance of animal adoption center d. Key for medicine storage room",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Sarah's profession? a. Lawyer b. Detective c. Doctor d. Teacher",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Malp's age? a. 48 years old b. 50 years old c. 52 years old d. 54 years old",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who found Marple's body? a. Faris B. Thomas C. Joey and Rolfe D. Joey and Taylor",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which room was Marple's body found? a. Room 206 b. Room 209 c. Room 301 d. Room 310",
+                    "ans": "b"
+                },
+                {
+                    "q": "What items were placed around the body of the deceased? a. Books b. Toys c. Flowers d. Candles",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the cause of Malp's death? a. Falling b. stabbing c. cyanide poisoning d. suffocation",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the only key to the iron mesh door hanging? a. B. In the deceased's pocket b. In the deceased's hand c. Hanging on the deceased's chest d. At the administrator's office",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who kept the spare key to the room door? a. Faris B. Joey C. Sara D. Rolf",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the state of the candles near Marple's body when they were found? a. Extinguished b. Burning c. Not lit d. No candles",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of locked room murder case is the crime scene? a. No blind spots room b. Bloodline message c. Instantly disappearing perpetrator d. Triple room",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is Sarah's role in the game? a. Judge b. Assistant c. Detective d. Victim",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the specific room number for the Animal Home Animal Adoption Center? a. Room 201 b. Room 205 c. Room 209 d. Room 210",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the profession of the deceased Malp? a. Teacher b. Mystery novelist c. Lawyer d. Assistant",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the type of secret room in the case? a. B. Bloodline message b. Unbounded secret room c. Instantly disappearing perpetrator d. Triple secret room",
+                    "ans": "d"
+                },
+                {
+                    "q": "What kind of items were placed around the wheelchair of the deceased? a. Books b. Toys c. Flowers d. Candles",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where is the key to the iron mesh door placed? a. B. In the deceased's pocket b. In the deceased's hand c. Hanging on the deceased's chest d. At the administrator's office",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the ultimate cause of death for the deceased? a. Falling b. stabbing c. cyanide poisoning d. suffocation",
+                    "ans": "c"
+                },
+                {
+                    "q": "Are there burn marks on the deceased's wheelchair? a. Yes B. No",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who keeps the spare key for the room door? a. Faris B. Joey C. Sara D. Rolf",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who was the person who discovered the body of the deceased? a. Taylor and Joey B. Faris and Sarah C. Joey and Rolf D. Thomas and Webster",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is Sarah's age? a. 18 years old b. 20 years old c. 22 years old d. 25 years old",
+                "What was the state of the deceased when they were discovered? a. Head injury b. Poisoning death c. Stabbing injury d. Natural death",
+                "Where is the crime scene? a. Zoo b. Park c. Animal Adoption Center d. Residential Area",
+                "Who discovered the body of the deceased? a. Taylor and Joey B. Faris and Sarah C. Joey and Rolf D. Thomas and Webster",
+                "How many ways can the door of the deceased's room be locked? a. One b. Two c. Three d. Four",
+                "Did you find any burn marks on the wheelchair of the deceased? a. Yes B. No",
+                "What was placed around the corpse? a. Books b. Toys c. Flowers d. Candles",
+                "What was the cause of the deceased's death? a. Falling b. stabbing c. cyanide poisoning d. suffocation",
+                "How many doors were locked at the crime scene? a. One fan b. Two fans c. Three fans d. Four fans",
+                "What type of locked room murder case is the case classified as? a. No blind spots room b. Bloodline message c. Instantly disappearing perpetrator d. Triple room",
+                "What is Sarah's profession? a. Lawyer b. Detective c. Doctor d. Teacher",
+                "What is Malp's profession? a. Lawyer b. Detective c. Mystery novelist d. Teacher",
+                "Who was the assistant of the deceased? a. Faris B. Thomas C. Joey D. Sara",
+                "What items were placed next to the deceased's wheelchair? a. Books b. Toys c. Flowers d. Candles",
+                "How can the door of the deceased's room be locked? a. Password lock b. Key or internal lock c. Fingerprint recognition d. Remote control",
+                "Who kept the spare key to the room door? a. Faris B. Joey C. Sara D. Rolf",
+                "What is the height of the deceased? a. 162CM b. 165CM c. 167CM d. 169CM",
+                "Is there any burn mark on the wheelchair when the deceased was found? a. Yes B. No",
+                "Where is the location of the key to the iron mesh door in the room? a. B. In the deceased's pocket b. In the deceased's hand c. Hanging on the deceased's chest d. At the administrator's office",
+                "What was the cause of death of the deceased? a. Falling b. stabbing c. cyanide poisoning d. suffocation",
+                "What was the profession of the deceased? a. Animal Adoption Center Administrator b. Mystery Novelist c. Detective d. Assistant",
+                "Where was the location where the deceased was found? a. Animal Home Animal Adoption Center b. Park c. Residential Area d. Commercial Center",
+                "Who was the assistant of the deceased? a. Taylor B. Joey C. Rolf D. Faris",
+                "How can the door of the room be locked? a. Key or lock directly from the inside b. Password lock c. Fingerprint recognition d. Remote control",
+                "Where is the key to the iron mesh door hung? a. B. In the deceased's pocket b. In the deceased's hand c. Hanging on the deceased's chest d. At the administrator's office",
+                "What items were placed around the body of the deceased? a. Books b. Toys c. Flowers d. Candles",
+                "What were the main causes of death for the deceased? a. Falling b. stabbing c. cyanide poisoning d. suffocation",
+                "Are there any burn marks on the wheelchair of the deceased? a. Yes B. No",
+                "What type of locked room murder case is the crime scene classified as? a. No blind spots room b. Bloodline message c. Instantly disappearing perpetrator d. Triple room",
+                "What keys are kept by the administrator? a. Spare key for room door b. Key for iron mesh door c. Key for main entrance of animal adoption center d. Key for medicine storage room",
+                "What is Sarah's profession? a. Lawyer b. Detective c. Doctor d. Teacher",
+                "What is Malp's age? a. 48 years old b. 50 years old c. 52 years old d. 54 years old",
+                "Who found Marple's body? a. Faris B. Thomas C. Joey and Rolfe D. Joey and Taylor",
+                "In which room was Marple's body found? a. Room 206 b. Room 209 c. Room 301 d. Room 310",
+                "What items were placed around the body of the deceased? a. Books b. Toys c. Flowers d. Candles",
+                "What was the cause of Malp's death? a. Falling b. stabbing c. cyanide poisoning d. suffocation",
+                "Where is the only key to the iron mesh door hanging? a. B. In the deceased's pocket b. In the deceased's hand c. Hanging on the deceased's chest d. At the administrator's office",
+                "Who kept the spare key to the room door? a. Faris B. Joey C. Sara D. Rolf",
+                "What was the state of the candles near Marple's body when they were found? a. Extinguished b. Burning c. Not lit d. No candles",
+                "What type of locked room murder case is the crime scene? a. No blind spots room b. Bloodline message c. Instantly disappearing perpetrator d. Triple room",
+                "What is Sarah's role in the game? a. Judge b. Assistant c. Detective d. Victim",
+                "What is the specific room number for the Animal Home Animal Adoption Center? a. Room 201 b. Room 205 c. Room 209 d. Room 210",
+                "What was the profession of the deceased Malp? a. Teacher b. Mystery novelist c. Lawyer d. Assistant",
+                "What is the type of secret room in the case? a. B. Bloodline message b. Unbounded secret room c. Instantly disappearing perpetrator d. Triple secret room",
+                "What kind of items were placed around the wheelchair of the deceased? a. Books b. Toys c. Flowers d. Candles",
+                "Where is the key to the iron mesh door placed? a. B. In the deceased's pocket b. In the deceased's hand c. Hanging on the deceased's chest d. At the administrator's office",
+                "What was the ultimate cause of death for the deceased? a. Falling b. stabbing c. cyanide poisoning d. suffocation",
+                "Are there burn marks on the deceased's wheelchair? a. Yes B. No",
+                "Who keeps the spare key for the room door? a. Faris B. Joey C. Sara D. Rolf",
+                "Who was the person who discovered the body of the deceased? a. Taylor and Joey B. Faris and Sarah C. Joey and Rolf D. Thomas and Webster"
+            ],
+            "a": [
+                "a",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "d",
+                "c",
+                "b",
+                "d",
+                "b",
+                "c",
+                "c",
+                "d",
+                "b",
+                "d",
+                "d",
+                "b",
+                "c",
+                "c",
+                "b",
+                "a",
+                "b",
+                "a",
+                "c",
+                "d",
+                "c",
+                "b",
+                "d",
+                "a",
+                "b",
+                "c",
+                "c",
+                "b",
+                "d",
+                "c",
+                "c",
+                "d",
+                "b",
+                "d",
+                "c",
+                "c",
+                "b",
+                "d",
+                "d",
+                "c",
+                "c",
+                "b",
+                "d",
+                "c"
+            ]
+        },
+        {
+            "name": "Thomas",
+            "back": "You're awake",
+            "r_q": [
+                {
+                    "q": "What is Thomas' profession in the game? a. Doctor b. Detective c. Lawyer d. Teacher",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the height of the deceased? a. 167CM b. 172CM c. 169CM d. 163CM",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who was the first to discover the body when the case occurred? a. Faris B. Thomas C. Joey D. Sara",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the victim found sitting on at the crime scene? a. Chair b. Floor c. Sofa d. Wheelchair",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where was the key to the room door when the deceased was found? a. In the deceased's pocket b. In the deceased's mouth c. In the deceased's hand d. On the deceased's table",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the crime scene located? a. Animal Home b. Coffee Shop c. Library d. Restaurant",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Stabbing b. falling c. cyanide poisoning d. suffocation",
+                    "ans": "c"
+                },
+                {
+                    "q": "What keys does Administrator Rolf keep? a. Room door key b. Safe deposit box key c. Garage door key d. Spare room key",
+                    "ans": "d"
+                },
+                {
+                    "q": "When the body was found, were there any burn marks on the wheelchair? a. Yes B. No",
+                    "ans": "b"
+                },
+                {
+                    "q": "According to the rules, the goal of the game is to find the killer of how many people? a. 5 b. 6 c. 7 d. 8",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Thomas' age? a. 20 years old b. 22 years old c. 25 years old d. 30 years old",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Thomas' role in the game? a. Criminal b. Detective c. Victim d. Judge",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which two people were the first to discover the case that occurred in Animal House? a. Taylor and Rolf B. Thomas and Faris C. Faris and Sara D. Joey and Rolf",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the result of the \"Fire of Judgment\" mentioned in the game of Judges? a. Escape b. Remembrance c. Punishment d. Amnesty",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Lawyer b. Teacher c. Mystery novelist d. Doctor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the consequences for those who are locked up in the courtroom according to the game rules? a. Received rewards b. Obtained freedom c. Punished d. Declared innocent",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where can I find the key to the iron mesh door? a. In Rolf's hand b. In Faris' hand c. Hanging on the deceased's chest d. In Joey's hand",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was Thomas' responsibility at the time of the incident? a. Protecting witnesses b. Finding the culprit c. Guarding the exit d. Organizing discussions",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the weight of the deceased Malp? a. 45KG b. 48KG c. 49KG d. 52KG",
+                    "ans": "c"
+                },
+                {
+                    "q": "According to the description on site, which method of death corresponds to the discovery situation? a. Stabbing b. falling c. cyanide poisoning d. suffocation",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Thomas' profession in the game? a. Doctor b. Detective c. Lawyer d. Teacher",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who was the first to discover the body when the case occurred? a. Faris B. Thomas C. Joey D. Sara",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Stabbing b. falling c. cyanide poisoning d. suffocation",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the victim found sitting on at the crime scene? a. Chair b. Floor c. Sofa d. Wheelchair",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where was the key to the room door when the deceased was found? a. In the deceased's pocket b. In the deceased's mouth c. In the deceased's hand d. On the deceased's table",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the crime scene located? a. Animal Home b. Coffee Shop c. Library d. Restaurant",
+                    "ans": "a"
+                },
+                {
+                    "q": "What keys does Administrator Rolf keep? a. Room door key b. Safe deposit box key c. Garage door key d. Spare room key",
+                    "ans": "d"
+                },
+                {
+                    "q": "When the body was found, were there any burn marks on the wheelchair? a. Yes B. No",
+                    "ans": "b"
+                },
+                {
+                    "q": "According to the rules, the goal of the game is to find the killer of how many people? a. 5 b. 6 c. 7 d. 8",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where can I find the key to the iron mesh door? a. In Rolf's hand b. In Faris' hand c. Hanging on the deceased's chest d. In Joey's hand",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the theme of the Judge's game? a. Escape Room b. Murder Game c. Murder Room d. Survival Challenge",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many people in the game are guilty? a. 5 b. 6 c. 7 d. 8",
+                    "ans": "b"
+                },
+                {
+                    "q": "According to the game rules, what would happen if the innocent were not discovered? a. Received rewards b. Obtained freedom c. Killed d. Crimes made public",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is Thomas' height? a. 172CM b. 176CM c. 180CM d. 184CM",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of place is the \"Animal House\" where the crime occurred? a. Restaurant b. Library c. Animal Adoption Center d. Coffee Shop",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the occupation of the deceased Malp? a. Doctor b. Lawyer c. Mystery novelist d. Teacher",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the deceased sitting on in the case? a. Floor b. Chair c. Sofa d. Wheelchair",
+                    "ans": "d"
+                },
+                {
+                    "q": "What did the deceased hide in their mouth? a. Paper b. Key c. Poison d. Clues",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where can I find the key to the iron mesh door? a. B. in the hands of the deceased, C. in the hands of Rolf, C. hanging on the chest of the deceased, D. in the hands of Thomas",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Stabbing b. suffocation c. falling from a building d. cyanide poisoning",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is Thomas' age? a. 20 years old b. 22 years old c. 25 years old d. 30 years old",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many rooms in the Judge's game represent the Chamber of Secrets murder case? a. 4 b. 5 c. 6 d. 7",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the occupation of the deceased Malp? a. Doctor b. Lawyer c. Mystery novelist d. Teacher",
+                    "ans": "c"
+                },
+                {
+                    "q": "At the crime scene, where was the body of the deceased found sitting? a. Floor b. Chair c. Sofa d. Wheelchair",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the reason for the death of the deceased Malp? a. Stabbing b. falling c. cyanide poisoning d. suffocation",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the crime scene? a. Animal Home b. Coffee Shop c. Library d. Restaurant",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who discovered the body of the deceased Malp? a. Faris and Sara B. Thomas and Joey C. Joey and Rolf D. Faris and Thomas",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the key to the iron mesh door found? a. In Rolf's hand b. In Faris' hand c. Hanging on the deceased's chest d. In Joey's hand",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the key to the room door found? a. In the deceased's pocket b. In the deceased's mouth c. In the deceased's hand d. On the deceased's table",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the height of the deceased? a. 167CM b. 172CM c. 169CM d. 163CM",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is Thomas' profession in the game? a. Doctor b. Detective c. Lawyer d. Teacher",
+                "What is the height of the deceased? a. 167CM b. 172CM c. 169CM d. 163CM",
+                "Who was the first to discover the body when the case occurred? a. Faris B. Thomas C. Joey D. Sara",
+                "What was the victim found sitting on at the crime scene? a. Chair b. Floor c. Sofa d. Wheelchair",
+                "Where was the key to the room door when the deceased was found? a. In the deceased's pocket b. In the deceased's mouth c. In the deceased's hand d. On the deceased's table",
+                "Where is the crime scene located? a. Animal Home b. Coffee Shop c. Library d. Restaurant",
+                "What was the cause of death of the deceased? a. Stabbing b. falling c. cyanide poisoning d. suffocation",
+                "What keys does Administrator Rolf keep? a. Room door key b. Safe deposit box key c. Garage door key d. Spare room key",
+                "When the body was found, were there any burn marks on the wheelchair? a. Yes B. No",
+                "According to the rules, the goal of the game is to find the killer of how many people? a. 5 b. 6 c. 7 d. 8",
+                "What is Thomas' age? a. 20 years old b. 22 years old c. 25 years old d. 30 years old",
+                "What is Thomas' role in the game? a. Criminal b. Detective c. Victim d. Judge",
+                "Which two people were the first to discover the case that occurred in Animal House? a. Taylor and Rolf B. Thomas and Faris C. Faris and Sara D. Joey and Rolf",
+                "What is the result of the \"Fire of Judgment\" mentioned in the game of Judges? a. Escape b. Remembrance c. Punishment d. Amnesty",
+                "What was the profession of the deceased? a. Lawyer b. Teacher c. Mystery novelist d. Doctor",
+                "What are the consequences for those who are locked up in the courtroom according to the game rules? a. Received rewards b. Obtained freedom c. Punished d. Declared innocent",
+                "Where can I find the key to the iron mesh door? a. In Rolf's hand b. In Faris' hand c. Hanging on the deceased's chest d. In Joey's hand",
+                "What was Thomas' responsibility at the time of the incident? a. Protecting witnesses b. Finding the culprit c. Guarding the exit d. Organizing discussions",
+                "What is the weight of the deceased Malp? a. 45KG b. 48KG c. 49KG d. 52KG",
+                "According to the description on site, which method of death corresponds to the discovery situation? a. Stabbing b. falling c. cyanide poisoning d. suffocation",
+                "What is Thomas' profession in the game? a. Doctor b. Detective c. Lawyer d. Teacher",
+                "Who was the first to discover the body when the case occurred? a. Faris B. Thomas C. Joey D. Sara",
+                "What was the cause of death of the deceased? a. Stabbing b. falling c. cyanide poisoning d. suffocation",
+                "What was the victim found sitting on at the crime scene? a. Chair b. Floor c. Sofa d. Wheelchair",
+                "Where was the key to the room door when the deceased was found? a. In the deceased's pocket b. In the deceased's mouth c. In the deceased's hand d. On the deceased's table",
+                "Where is the crime scene located? a. Animal Home b. Coffee Shop c. Library d. Restaurant",
+                "What keys does Administrator Rolf keep? a. Room door key b. Safe deposit box key c. Garage door key d. Spare room key",
+                "When the body was found, were there any burn marks on the wheelchair? a. Yes B. No",
+                "According to the rules, the goal of the game is to find the killer of how many people? a. 5 b. 6 c. 7 d. 8",
+                "Where can I find the key to the iron mesh door? a. In Rolf's hand b. In Faris' hand c. Hanging on the deceased's chest d. In Joey's hand",
+                "What is the theme of the Judge's game? a. Escape Room b. Murder Game c. Murder Room d. Survival Challenge",
+                "How many people in the game are guilty? a. 5 b. 6 c. 7 d. 8",
+                "According to the game rules, what would happen if the innocent were not discovered? a. Received rewards b. Obtained freedom c. Killed d. Crimes made public",
+                "What is Thomas' height? a. 172CM b. 176CM c. 180CM d. 184CM",
+                "What type of place is the \"Animal House\" where the crime occurred? a. Restaurant b. Library c. Animal Adoption Center d. Coffee Shop",
+                "What is the occupation of the deceased Malp? a. Doctor b. Lawyer c. Mystery novelist d. Teacher",
+                "What is the deceased sitting on in the case? a. Floor b. Chair c. Sofa d. Wheelchair",
+                "What did the deceased hide in their mouth? a. Paper b. Key c. Poison d. Clues",
+                "Where can I find the key to the iron mesh door? a. B. in the hands of the deceased, C. in the hands of Rolf, C. hanging on the chest of the deceased, D. in the hands of Thomas",
+                "What was the cause of death of the deceased? a. Stabbing b. suffocation c. falling from a building d. cyanide poisoning",
+                "What is Thomas' age? a. 20 years old b. 22 years old c. 25 years old d. 30 years old",
+                "How many rooms in the Judge's game represent the Chamber of Secrets murder case? a. 4 b. 5 c. 6 d. 7",
+                "What was the occupation of the deceased Malp? a. Doctor b. Lawyer c. Mystery novelist d. Teacher",
+                "At the crime scene, where was the body of the deceased found sitting? a. Floor b. Chair c. Sofa d. Wheelchair",
+                "What was the reason for the death of the deceased Malp? a. Stabbing b. falling c. cyanide poisoning d. suffocation",
+                "Where was the crime scene? a. Animal Home b. Coffee Shop c. Library d. Restaurant",
+                "Who discovered the body of the deceased Malp? a. Faris and Sara B. Thomas and Joey C. Joey and Rolf D. Faris and Thomas",
+                "Where was the key to the iron mesh door found? a. In Rolf's hand b. In Faris' hand c. Hanging on the deceased's chest d. In Joey's hand",
+                "Where was the key to the room door found? a. In the deceased's pocket b. In the deceased's mouth c. In the deceased's hand d. On the deceased's table",
+                "What is the height of the deceased? a. 167CM b. 172CM c. 169CM d. 163CM"
+            ],
+            "a": [
+                "b",
+                "c",
+                "c",
+                "d",
+                "b",
+                "a",
+                "c",
+                "d",
+                "b",
+                "b",
+                "b",
+                "b",
+                "d",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "d",
+                "b",
+                "a",
+                "d",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "d",
+                "b",
+                "c",
+                "c",
+                "d",
+                "b",
+                "c",
+                "d",
+                "b",
+                "c",
+                "c",
+                "d",
+                "c",
+                "a",
+                "c",
+                "c",
+                "b",
+                "c"
+            ]
+        },
+        {
+            "name": "Webster",
+            "back": "You're awake.",
+            "r_q": [
+                {
+                    "q": "What animals does Webster's adoption center primarily adopt? a. Cat and dog b. Rabbit and bird c. Cat and rabbit d. Dog and bird",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which room is Webster's mother in at the Animal House adoption center? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are Webster's daily habits? a. Morning run b. Yoga c. Swimming d. Cycling",
+                    "ans": "a"
+                },
+                {
+                    "q": "Why did Webster's mother become disabled? a. Car accident b. Patient c. Fall d. Sports injury",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who is responsible for daily maintenance and management at the Animal Home adoption center? a. Webster B. Taylor C. Rolf D. Joey",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which rooms do Mother and Miss Joey live in? a. Rooms 209 and 210 b. Rooms 210 and 211 c. Rooms 201 and 202 d. Rooms 209 and 215",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is installed at the entrance of each room in the 'Animal House'? a. Anti theft door b. Insect proof net c. Iron mesh door d. Transparent glass door",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which evening did Webster last see his mother? a. November 24th b. November 25th c. November 26th d. November 27th",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who did Webster think might have read the mother's mystery novel plan for? a. Taylor B. Rolf C. Joey D. Myself",
+                    "ans": "b"
+                },
+                {
+                    "q": "According to Webster, who might his mother have been using to write detective novels? a. Taylor B. Rolf C. Joey D. Webster",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where does Webster's daily work take place? a. City Center Shopping Mall b. Animal Home Adoption Center c. Local Library d. City Hall",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the room number of Webster's mother at the Animal Home adoption center? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which room number does Webster live in? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                    "ans": "a"
+                },
+                {
+                    "q": "What else is installed outside the door of the room at the Animal Home Adoption Center? a. Anti theft door b. Insect proof net c. Iron mesh door d. Transparent glass door",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is the new administrator of the 'Animal Home' adoption center? a. Taylor B. Rolf C. Joey D. Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which room number does Rolf live in? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                    "ans": "d"
+                },
+                {
+                    "q": "Which room number does Miss Joey live in? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                    "ans": "c"
+                },
+                {
+                    "q": "How are the keys to each iron mesh door managed? a. Each key is different. b. All keys are the same. c. No key, automatic switch. d. Use password lock",
+                    "ans": "a"
+                },
+                {
+                    "q": "On which evening did Webster last see his mother? a. November 24th b. November 25th c. November 26th d. November 27th",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who did Webster's mother primarily draw inspiration from for detective novels? a. Taylor B. Rolf C. Joey D. Webster",
+                    "ans": "c"
+                },
+                {
+                    "q": "What problems often occur with the electrical circuits of the Animal Home adoption center? a. Leakage b. Short circuit c. Power outage d. Explosion",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many rooms did Webster's mother prepare at the adoption center? a. 1 room b. 2 rooms c. 3 rooms d. 4 rooms",
+                    "ans": "b"
+                },
+                {
+                    "q": "In which room did Webster's mother write detective novels? a. Room 209 b. Room 210 c. Room 201 d. Room 215",
+                    "ans": "a"
+                },
+                {
+                    "q": "When did Webster's morning running habit start? a. 5:30am b. 6am c. 6:30am d. 7am",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Rolf responsible for at the adoption center? a. Cleaning b. Caring for animals c. Managing and maintaining d. Customer service",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Webster go to bed last night? a. 8:30 pm b. 9:00 pm c. 9:30 pm d. 10:00 pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of detective novel was Webster's mother writing? a. Double Room b. Animal Tricks c. Revenge Stories d. Courtroom Plot",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which room does Webster live in at the adoption center? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the condition of the key to each iron mesh door? a. All keys are the same. b. No key, automatic switch. c. Each key is different. d. Use password lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the spare key for the adoption center room? a. Management room b. Third floor storage room c. Webster's room d. Rolf's room",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which room number does Rolf from the Animal Home Adoption Center live in? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                    "ans": "d"
+                },
+                {
+                    "q": "When did Webster's morning running habit start? a. 5:30am b. 6am c. 6:30am d. 7am",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why do Animal Home adoption centers often have circuit problems? a. Leakage b. Short circuit c. Power outage d. Explosion",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many rooms did Webster's mother prepare specifically for her and her assistants? a. 1 room b. 2 rooms c. 3 rooms d. 4 rooms",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who did Webster's mother primarily draw inspiration from for detective novels? a. Taylor B. Rolf C. Joey D. Webster",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which evening did Webster last see his mother? a. November 24th b. November 25th c. November 26th d. November 27th",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where does Webster's daily work take place? a. City Center Shopping Mall b. Animal Home Adoption Center c. Local Library d. City Hall",
+                    "ans": "b"
+                },
+                {
+                    "q": "What else is installed outside the door of the room at the Animal Home Adoption Center? a. Anti theft door b. Insect proof net c. Iron mesh door d. Transparent glass door",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the spare key for the adoption center room? a. Management room b. Third floor storage room c. Webster's room d. Rolf's room",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many rooms did Webster's mother prepare at the adoption center? a. 1 room b. 2 rooms c. 3 rooms d. 4 rooms",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Webster's morning running habit start? a. 5:30am b. 6am c. 6:30am d. 7am",
+                    "ans": "c"
+                },
+                {
+                    "q": "What kind of electrical problems often occur in animal home adoption centers? a. Leakage b. Short circuit c. Power outage d. Explosion",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many rooms did Webster's mother and her assistant prepare? a. 1 room b. 2 rooms c. 3 rooms d. 4 rooms",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Rolf responsible for at the Animal Home Adoption Center? a. Cleaning b. Caring for animals c. Managing and maintaining d. Customer service",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is installed at the entrance of each room in the Animal Home Adoption Center? a. Anti theft door b. Insect proof net c. Iron mesh door d. Transparent glass door",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which evening did Webster and his mother last meet? a. November 24th b. November 25th c. November 26th d. November 27th",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which room number does Rolf live in at the Animal Home Adoption Center? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where is the spare key for the room at the Animal Home Adoption Center? a. Management room b. Third floor storage room c. Webster's room d. Rolf's room",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the room number for Webster's residence at the Animal Home Adoption Center? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who was the main inspiration for Webster's mother's detective novels? a. Taylor B. Rolf C. Joey D. Webster",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What animals does Webster's adoption center primarily adopt? a. Cat and dog b. Rabbit and bird c. Cat and rabbit d. Dog and bird",
+                "Which room is Webster's mother in at the Animal House adoption center? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                "What are Webster's daily habits? a. Morning run b. Yoga c. Swimming d. Cycling",
+                "Why did Webster's mother become disabled? a. Car accident b. Patient c. Fall d. Sports injury",
+                "Who is responsible for daily maintenance and management at the Animal Home adoption center? a. Webster B. Taylor C. Rolf D. Joey",
+                "Which rooms do Mother and Miss Joey live in? a. Rooms 209 and 210 b. Rooms 210 and 211 c. Rooms 201 and 202 d. Rooms 209 and 215",
+                "What is installed at the entrance of each room in the 'Animal House'? a. Anti theft door b. Insect proof net c. Iron mesh door d. Transparent glass door",
+                "On which evening did Webster last see his mother? a. November 24th b. November 25th c. November 26th d. November 27th",
+                "Who did Webster think might have read the mother's mystery novel plan for? a. Taylor B. Rolf C. Joey D. Myself",
+                "According to Webster, who might his mother have been using to write detective novels? a. Taylor B. Rolf C. Joey D. Webster",
+                "Where does Webster's daily work take place? a. City Center Shopping Mall b. Animal Home Adoption Center c. Local Library d. City Hall",
+                "What is the room number of Webster's mother at the Animal Home adoption center? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                "Which room number does Webster live in? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                "What else is installed outside the door of the room at the Animal Home Adoption Center? a. Anti theft door b. Insect proof net c. Iron mesh door d. Transparent glass door",
+                "Who is the new administrator of the 'Animal Home' adoption center? a. Taylor B. Rolf C. Joey D. Webster",
+                "Which room number does Rolf live in? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                "Which room number does Miss Joey live in? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                "How are the keys to each iron mesh door managed? a. Each key is different. b. All keys are the same. c. No key, automatic switch. d. Use password lock",
+                "On which evening did Webster last see his mother? a. November 24th b. November 25th c. November 26th d. November 27th",
+                "Who did Webster's mother primarily draw inspiration from for detective novels? a. Taylor B. Rolf C. Joey D. Webster",
+                "What problems often occur with the electrical circuits of the Animal Home adoption center? a. Leakage b. Short circuit c. Power outage d. Explosion",
+                "How many rooms did Webster's mother prepare at the adoption center? a. 1 room b. 2 rooms c. 3 rooms d. 4 rooms",
+                "In which room did Webster's mother write detective novels? a. Room 209 b. Room 210 c. Room 201 d. Room 215",
+                "When did Webster's morning running habit start? a. 5:30am b. 6am c. 6:30am d. 7am",
+                "What is Rolf responsible for at the adoption center? a. Cleaning b. Caring for animals c. Managing and maintaining d. Customer service",
+                "When did Webster go to bed last night? a. 8:30 pm b. 9:00 pm c. 9:30 pm d. 10:00 pm",
+                "What type of detective novel was Webster's mother writing? a. Double Room b. Animal Tricks c. Revenge Stories d. Courtroom Plot",
+                "Which room does Webster live in at the adoption center? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                "What is the condition of the key to each iron mesh door? a. All keys are the same. b. No key, automatic switch. c. Each key is different. d. Use password lock",
+                "Where is the spare key for the adoption center room? a. Management room b. Third floor storage room c. Webster's room d. Rolf's room",
+                "Which room number does Rolf from the Animal Home Adoption Center live in? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                "When did Webster's morning running habit start? a. 5:30am b. 6am c. 6:30am d. 7am",
+                "Why do Animal Home adoption centers often have circuit problems? a. Leakage b. Short circuit c. Power outage d. Explosion",
+                "How many rooms did Webster's mother prepare specifically for her and her assistants? a. 1 room b. 2 rooms c. 3 rooms d. 4 rooms",
+                "Who did Webster's mother primarily draw inspiration from for detective novels? a. Taylor B. Rolf C. Joey D. Webster",
+                "On which evening did Webster last see his mother? a. November 24th b. November 25th c. November 26th d. November 27th",
+                "Where does Webster's daily work take place? a. City Center Shopping Mall b. Animal Home Adoption Center c. Local Library d. City Hall",
+                "What else is installed outside the door of the room at the Animal Home Adoption Center? a. Anti theft door b. Insect proof net c. Iron mesh door d. Transparent glass door",
+                "Where is the spare key for the adoption center room? a. Management room b. Third floor storage room c. Webster's room d. Rolf's room",
+                "How many rooms did Webster's mother prepare at the adoption center? a. 1 room b. 2 rooms c. 3 rooms d. 4 rooms",
+                "When did Webster's morning running habit start? a. 5:30am b. 6am c. 6:30am d. 7am",
+                "What kind of electrical problems often occur in animal home adoption centers? a. Leakage b. Short circuit c. Power outage d. Explosion",
+                "How many rooms did Webster's mother and her assistant prepare? a. 1 room b. 2 rooms c. 3 rooms d. 4 rooms",
+                "What is Rolf responsible for at the Animal Home Adoption Center? a. Cleaning b. Caring for animals c. Managing and maintaining d. Customer service",
+                "What is installed at the entrance of each room in the Animal Home Adoption Center? a. Anti theft door b. Insect proof net c. Iron mesh door d. Transparent glass door",
+                "On which evening did Webster and his mother last meet? a. November 24th b. November 25th c. November 26th d. November 27th",
+                "Which room number does Rolf live in at the Animal Home Adoption Center? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                "Where is the spare key for the room at the Animal Home Adoption Center? a. Management room b. Third floor storage room c. Webster's room d. Rolf's room",
+                "What is the room number for Webster's residence at the Animal Home Adoption Center? a. Room 201, b. Room 209, c. Room 210, d. Room 215",
+                "Who was the main inspiration for Webster's mother's detective novels? a. Taylor B. Rolf C. Joey D. Webster"
+            ],
+            "a": [
+                "a",
+                "b",
+                "a",
+                "a",
+                "c",
+                "a",
+                "c",
+                "a",
+                "b",
+                "c",
+                "b",
+                "b",
+                "a",
+                "c",
+                "b",
+                "d",
+                "c",
+                "a",
+                "a",
+                "c",
+                "c",
+                "b",
+                "a",
+                "c",
+                "c",
+                "c",
+                "a",
+                "a",
+                "c",
+                "b",
+                "d",
+                "c",
+                "c",
+                "b",
+                "c",
+                "a",
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "a",
+                "d",
+                "b",
+                "a",
+                "c"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "How did the murderer use the key on the victim's neck? a. Lock the iron mesh door b. Open the safe c. Start the vehicle d. Open the handcuffs",
+            "How did the killer move the wheelchair? a. Push the wheelchair to the wall through the grid b. Let the deceased drive it themselves c. Use a remote control device d. Operate it through a robotic arm",
+            "Did the killer let a wheelchair pass over the lit candle? a. Yes B. No",
+            "Can the murderer light candles from a distance? a. Can b. Can't",
+            "On which floor is the power supply located? a. Basement b. Second floor c. First floor d. Roof",
+            "What is the purpose of the killer turning off the power? a. Creating chaos b. Completing trickery c. Destroying evidence d. Escaping the scene",
+            "Why can't the administrator restart the power immediately? a. The power supply is on the first floor, too far away. b. The power supply is damaged. c. The mechanism control is missing. d. The restart password is missing",
+            "Why did the killer use a flashlight to help the witness illuminate? a. Let witnesses find their room b. Hide the real room number c. Find lost items d. To provide extra security",
+            "What is the purpose of the killer placing the cat at the entrance of the room? a. Make the witness mistake it for the deceased's room b. Make the witness mistake that the killer has just passed by c. Make the witness mistake that the deceased is still alive d. Avoid cats interfering with the crime",
+            "What is the reason why the killer scattered a large amount of draft paper around the burning candle? a. Creating the illusion of a fire b. Cleaning up unnecessary scratch paper c. Decorating the room d. Preventing candles from directly touching the floor",
+            "What is the purpose of the murderer placing the automatic water dispenser at the entrance of the room? a. Make witnesses mistakenly believe it belongs to the deceased's pet supplies. b. Provide water source for cats. c. Enable witnesses to use it to extinguish candles. d. Add decoration to the room",
+            "Why did the murderer choose to use a flashlight at the door of the room? a. To avoid exposing one's position, b. to prevent witnesses from seeing the house number, c. to search for dropped items, d. to check if the door lock is secure",
+            "Why did the witness use an automatic water dispenser to extinguish candles? a. Because the draft paper created the illusion that a fire was about to happen. b. Because the killer instructed him to do so. c. Because the candle was close to the pet and could cause a fire. d. Because the candle had too much smoke",
+            "What is the main purpose of the murderer spreading draft paper? a. Create chaos b. Provide burning materials c. Strengthen psychological cues of fire occurrence d. Hide valuable clues",
+            "What effects did the killer achieve by using the cat at the entrance of the room? a. Guiding witnesses' attention b. Misleading witnesses' understanding of the room owner c. Making witnesses feel at ease d. Increasing chaos at the crime scene",
+            "Why did the killer turn off the power? a. To prevent the security system from working, b. to make the deceased unable to see the way, c. to create panic, d. to create darkness",
+            "How did the killer use a flashlight to help witnesses? a. Lighting b. Sending signals c. Recording d. Taking photos",
+            "What role did the automatic water dispenser play in the trickery? a. Used for cleaning floors b. Used for giving cats water c. Used for extinguishing candles d. Used for making noise",
+            "What is the purpose of the murderer scattering the draft paper? a. Creating a feeling of impending fire b. Used to create visual barriers c. Used to cover up traces d. Used to tell others secrets"
+        ],
+        "key_ans": [
+            "a",
+            "a",
+            "b",
+            "b",
+            "c",
+            "b",
+            "c",
+            "b",
+            "a",
+            "a",
+            "c",
+            "b",
+            "a",
+            "c",
+            "b",
+            "d",
+            "a",
+            "c",
+            "a"
+        ],
+        "key_sc": [
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "What is the remaining unburned height of the candle? a. 5 cm b. 10 cm c. 15 cm d. 20 cm",
+            "What is the approximate height of the flame when a candle burns? a. 2 to 4 centimeters b. 5 to 8 centimeters c. 9 to 12 centimeters d. 13 to 16 centimeters",
+            "What is the maximum distance from the outer edge of the wheelchair to the ground? a. 5CM b. 10CM c. 13CM d. 15CM",
+            "What is the house number at the entrance of the room? a. 207 b. 209 c. 211 d. 213",
+            "What is the size of each iron mesh of the iron mesh door? a. 5CM*5CM b. 10CM*10CM c. 15CM*15CM d. 20CM*20CM",
+            "What is the state of the iron mesh door when it is knocked open? a. Open b. Half open c. Locked d. Unlocked",
+            "Where is the position of the main power switch? a. Basement b. 1st floor c. 2nd floor d. Roof",
+            "What is the reason for the frequent automatic tripping of the power main switch? a. Circuit overload b. Aging c. External interference d. Equipment failure",
+            "How long does it take for the power supply to automatically recover after a trip? a. 5 minutes b. 10 minutes c. 15 minutes d. 20 minutes",
+            "How did the murderer act in the secret room scheme? a. Lock the two doors and leave. b. Hide the body in an invisible place. c. Hang a real key on the body. d. Hang a fake key on the body",
+            "What is the purpose of the killer asking the witness to get the spare key? a. Replace the key hanging on the corpse. b. Hide the key to the first door. c. Open the second door. d. Escape from the scene",
+            "What does the eyewitness think is the condition of the second door? a. Open b. Half open c. Close d. Lock",
+            "What is the difficulty of the anti-theft iron mesh door used by the murderer in the secret room trick? a. Easy to be knocked open b. Difficult to knock open c. Easy to be locked open d. Easy to be damaged"
+        ],
+        "key_ans": [
+            "b",
+            "b",
+            "c",
+            "b",
+            "b",
+            "c",
+            "b",
+            "b",
+            "b",
+            "d",
+            "a",
+            "d",
+            "b"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "What is the location of Room 6 at the scene of death? a. Desk b. TV c. Sofa d. Dead person",
+            "What is the location of Room 1 at the scene of death? a. Door b. Window c. Bookshelf d. Chair",
+            "At the scene of death, where is the victim located? a. No. 1 b. No. 3 c. No. 5 d. No. 6",
+            "What is the location of Room 2 at the scene of death? a. Desk b. foyer c. television d. sofa",
+            "What is the location of Room 3 at the scene of death? a. TV b. Sofa c. Iron mesh door d. Bookshelf",
+            "What is the location of Room 4 at the scene of death? a. Desk b. TV c. Paper ball d. Bookshelf",
+            "What is the location of Room 5 at the scene of death? a. Desk b. Window c. Computer d. Desk and chairs",
+            "What is the location of Room 8 at the scene of death? a. Desk b. Window c. TV d. Fish tank",
+            "How long is on the right side of the room at the scene of death? a. 3.0m b. 3.5m c. 4.0m d. 4.5m",
+            "How long is the bottom of the room at the scene of death? a. 4.0m b. 4.5m c. 5.0m d. 5.5m",
+            "At the scene of death, how many meters does the room grow out of? A. 1.0m b. 1.2m c. 1.5m d. 2.0m",
+            "What letter shape does the entire room present at the scene of death? a. T-shaped letter b. L-shaped letter c. L-shaped reversal d. U-shaped letter",
+            "What is the status of the room door? a. Open b. Half open c. Close d. Reverse lock",
+            "What was found in the deceased's mouth? a. Pill b. Poison c. Key d. Paper strip",
+            "Who has the key to the storage room? a. Dead b. Family members of the deceased c. Administrators d. Cleaners",
+            "Where is the key to the iron mesh door hung? a. B. in the hands of the deceased b. on the neck of the deceased c. on the belt of the deceased d. in the pocket of the deceased",
+            "What substance was detected in the water cup on the table? a. Cyanide b. Arsenic c. Arsenic d. Sulfuric acid",
+            "What was the clothing worn by the deceased when they were found? a. Light blue pajamas b. Formal suit c. Sportswear d. Work clothes",
+            "How many burning candles are there on the ground around the deceased? a. Three b. Four c. Five d. Six",
+            "What is the status of the window? a. Open b. Half open c. Close d. Reverse lock"
+        ],
+        "key_ans": [
+            "d",
+            "a",
+            "d",
+            "b",
+            "c",
+            "c",
+            "d",
+            "b",
+            "b",
+            "b",
+            "c",
+            "c",
+            "d",
+            "c",
+            "c",
+            "b",
+            "a",
+            "a",
+            "c",
+            "d"
+        ]
+    },
+    "ju_name": "DI7MI4",
+    "task_nm": "Please complete the following tasks using all the clues at hand",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Joey"
+    ],
+    "murder": "Joey",
+    "reason": "Motive for committing the crime:"
+}

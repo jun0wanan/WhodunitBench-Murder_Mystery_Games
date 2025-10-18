@@ -1,0 +1,2254 @@
+{
+    "key_clues_pool": {
+        "1-step": [
+            "The small amount of blood under the bed is the mouse blood left by the cat eating the mouse, the broken thread is the thread bitten off by the cat after the mouse entered the room with a key, and the strange fur is a clue that suggests the player is going deeper",
+            "The cat ate the mouse",
+            "The adjustable control panel can penetrate deeply, and both fish tanks create escape rooms and instant disappearance tools for the killer. Coral is the necessary item for the mouse to crawl out of the fish tank, and the drainage pipe has a water purification function, so there will be no dirty footprints when the mouse climbs up.",
+            "The killer froze the towel, making the tightened half a fulcrum on the ground, and the unfolded half form a right angle with the other half and lean against the wall, forming a half tabletop. When the towel thawed, it would fall to the ground, and the vase on the surface of the towel would shatter.",
+            "Heating is used to melt the ice on towels, and the absence of any sound emitting devices is a way to eliminate the use of electronic devices to create human voices",
+            "The towel was once frozen, forming a mechanism",
+            "The killer had to dispose of the fish in the fish tank in order to use it to complete the technique. However, if the fish in the tank were to be discharged into the backyard through a drainage outlet, it would remind people of themselves responsible for backyard safety. Therefore, the killer washed the fish away directly through the bathroom in the room.",
+            "The short gray fur represents mice, and the shredded sausages are meant to attract mice to the bed",
+            "The killer can create a false impression of a secret room and instant disappearance by setting the fish tank lid switch and water inlet and outlet in advance"
+        ],
+        "2-step": [
+            "The killer created a secret room by giving keys to mice",
+            "The killer can create a false impression of a secret room and instant disappearance by setting the fish tank lid switch and water inlet and outlet in advance",
+            "The killer once used a fish tank",
+            "The murderer was not in the deceased's room at the time"
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            65
+        ]
+    },
+    "public_clue": "\n",
+    "key_clues_questions": [
+        {
+            "q": "What was the location of the murderer at the time of the victim's murder? a. B. inside the deceased's room b. outside the deceased's room c. waiting downstairs d. in another city",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "How did the killer use mice to create a secret room? a. Let the mouse bite through the rope. b. Send the key through the mouse. c. Block the ventilation pipe with the mouse. d. Carry poison through the mouse",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "How did the killer use the fish tank lid and water system to create the illusion of a secret room? a. Set the automatic switch of the fish tank cover and the flow of water. b. Allow the fish tank cover to move randomly. c. Allow the fish tank to overflow and submerge evidence. d. Use the refraction of water to hide objects",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "If all the cats in the house are golden, why do they have short gray fur under the bed? a. The bed is very dirty. B. There may be mice passing under the bed. C. There is a doll at home with gray short fur that has fallen off. D. The cat has changed color",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What was once used as a part of the modus operandi? a. The clothes rack is broken. B. The bath towel is wet. C. The bath towel has been frozen. D. The bath towel has been stained with fragrance",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Why is the temperature in the room very high? a. The killer wants the bath towel to be thawed. b. The central air conditioning is malfunctioning and not working. c. There are many people in the room causing it. d. The windows are not closed properly and the air conditioning is out",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "When Sarah heard a sound next door, was the murderer necessarily in the deceased's room? a. Yes, the killer is in the room. b. Not necessarily, it may have created a delay device or other means to make people think there is someone inside. c. No sound, Sarah misheard. d. Yes, the sound came from somewhere else",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "Why do the fish in the fish tank disappear? a. The fish died of illness. b. The fish was eaten by the cat. c. The killer used the fish tank to commit a crime, so he discharged the fish ahead of time. d. The tank was broken and the fish escaped",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "How did the murderer use towels to set traps? a. Soak it in water and freeze it. b. Ignite it. c. Immerse it in a chemical solution. d. Sprinkle it with sand",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the method of setting towels? a. Half of the tightening is used as a fulcrum to place on the ground, and the other half is placed against the wall to form a right angle. b. Fully unfold to cover the ground. c. Fold into small pieces and stack them up. d. Hang on the door handle",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What happens when a towel is thawed? a. Immediately burn b. Slowly dry c. Pour on the ground d. harden and maintain shape",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What will happen to the vase after the towel is thawed? a. Break on the ground b. Keep in place c. Blow away by the wind d. Float on the water surface",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the purpose of the thread bitten off by a cat? a. Let the mouse enter the room with a key. b. Let the cat play. c. Control the door lock. d. Decorate the fish tank",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Why did the killer wash away the fish in the fish tank through the bathroom in the room? a. In order to conceal their identity as the murderer, b. to make others think that the fish was stolen by the murderer, c. to keep the fish tank clean, d. to prevent cats from stealing and affecting the crime",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What does the short gray fur imply? a. Cats have been in the room before. Dogs have been in the room. Mice have been in the room. Rabbits have been in the room",
+            "ans": "c",
+            "source": "p-1"
+        }
+    ],
+    "role": [
+        {
+            "name": "rolf",
+            "back": "You're awake.",
+            "r_q": [
+                {
+                    "q": "Who discovered the body of the deceased? a. Taylor B. Faris C. Joey D. Sara",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where was the deceased found? a. Living room b. Kitchen c. Southeast corner of bedroom d. Bathroom",
+                    "ans": "c"
+                },
+                {
+                    "q": "What caused the fatal injury to the deceased's head? a. Shooting b. knife injury c. blunt object impact d. strangulation",
+                    "ans": "c"
+                },
+                {
+                    "q": "How can the door of the crime scene be locked? a. Password lock b. Key and internal direct locking c. Fingerprint lock d. Automatic sensing lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many keys are there at the crime scene? a. One b. Two c. Three d. Four",
+                    "ans": "b"
+                },
+                {
+                    "q": "How were the windows at the crime scene locked? a. External lock b. Internal reverse lock c. No lock d. Use safety lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the identity of the deceased? a. Technology company employee b. Chairman of biotechnology company c. Hospital director d. Bank manager",
+                    "ans": "b"
+                },
+                {
+                    "q": "How long does it take for the deceased to die? a. Within 1 minute b. Within 5 minutes c. Within 10 minutes d. Within 15 minutes",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was the crime scene? a. Apartment in the city center b. Single family mansion in the suburbs c. Office building in the commercial district d. Villa by the seaside",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the item considered a murder weapon? a. Kitchen knife b. Gun c. Vase d. Hammer",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the name of the deceased's granddaughter? a. Joey B. Taylor C. Sarah D. Faris",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which room was the body of the deceased found? a. Living room b. Kitchen c. Southeast corner of bedroom d. Bathroom",
+                    "ans": "c"
+                },
+                {
+                    "q": "What item caused the fatal injury of the deceased? a. Kitchen knife b. Gun c. Vase d. Hammer",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of door lock was used at the crime scene? a. Password lock b. Key and internal direct locking c. Fingerprint lock d. Automatic sensing lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many keys were there at the crime scene? a. One b. Two c. Three d. Four",
+                    "ans": "b"
+                },
+                {
+                    "q": "How were the windows at the crime scene locked? a. External lock b. Internal reverse lock c. No lock d. Use safety lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Technology company employee b. Chairman of biotechnology company c. Hospital director d. Bank manager",
+                    "ans": "b"
+                },
+                {
+                    "q": "How long is the estimated time for the death of the deceased? a. Within 1 minute b. Within 5 minutes c. Within 10 minutes d. Within 15 minutes",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the type of crime scene? a. Apartment in the city center b. Single family mansion in the suburbs c. Office building in the commercial district d. Villa by the seaside",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the murder weapon? a. Kitchen knife b. Gun c. Vase d. Hammer",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the victim's occupation at the time of the incident? a. Teacher B. Lawyer C. Chairman of Biotechnology Company D. Police",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the deceased wearing when they were found? a. Business attire b. Pajamas c. Sportswear d. Naked",
+                    "ans": "d"
+                },
+                {
+                    "q": "What type of door is at the crime scene? a. Security door b. Solid wood door c. Glass door d. Metal door",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the murder weapon? a. Gun b. Knife c. Vase d. Hammer",
+                    "ans": "c"
+                },
+                {
+                    "q": "How were the windows at the crime scene locked? a. Using safety lock b. Internal locking c. External locking d. No locking",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Heart disease b. Cerebral hemorrhage c. Poisoning d. Drowning",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who discovered the deceased? a. His wife b. His granddaughter c. His neighbors d. His colleagues",
+                    "ans": "b"
+                },
+                {
+                    "q": "How long did the victim die after being hit by a murder weapon? a. Within 1 minute b. Within 5 minutes c. Within 10 minutes d. Within 15 minutes",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the height of the deceased? a. 160CM b. 165CM c. 170CM d. 172CM",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where was the weapon that the murderer may have used found? a. On the bookshelf b. Under the table c. On the floor d. In the cabinet",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Faris B. Sara C. Joey D. Thomas",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the body of the deceased found in the room? a. Living room b. Kitchen c. Southeast corner of bedroom d. Bathroom",
+                    "ans": "c"
+                },
+                {
+                    "q": "What item caused the fatal injury of the deceased? a. Kitchen knife b. Gun c. Vase d. Hammer",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of door is at the crime scene? a. Security door b. Solid wood door c. Glass door d. Metal door",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many keys are there at the crime scene? a. One b. Two c. Three d. Four",
+                    "ans": "b"
+                },
+                {
+                    "q": "How were the windows at the crime scene locked? a. Using safety lock b. Internal locking c. External locking d. No locking",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Teacher B. Lawyer C. Chairman of Biotechnology Company D. Police",
+                    "ans": "c"
+                },
+                {
+                    "q": "How long did the victim die after being hit by a murder weapon? a. Within 1 minute b. Within 5 minutes c. Within 10 minutes d. Within 15 minutes",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the type of crime scene? a. Apartment in the city center b. Single family mansion in the suburbs c. Office building in the commercial district d. Villa by the seaside",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which part of the deceased's body was fatally struck? a. Left forehead b. Right rib c. Abdominal region d. Rear neck",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the deceased wearing when they were found? a. Business attire b. Pajamas c. Sportswear d. Naked",
+                    "ans": "d"
+                },
+                {
+                    "q": "What type of door is at the crime scene? a. Security door b. Solid wood door c. Glass door d. Metal door",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the fatal injury of the deceased located? a. Left forehead b. Right rib c. Abdominal region d. Rear neck",
+                    "ans": "a"
+                },
+                {
+                    "q": "What type of door lock was used at the crime scene? a. Password lock b. Key and internal direct locking c. Fingerprint lock d. Automatic sensing lock",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many keys are there at the crime scene? a. One b. Two c. Three d. Four",
+                    "ans": "b"
+                },
+                {
+                    "q": "How were the windows at the crime scene locked? a. Using safety lock b. Internal locking c. External locking d. No locking",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the body of the deceased found in the room? a. Living room b. Kitchen c. Southeast corner of bedroom d. Bathroom",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the identity of the deceased? a. Teacher B. Lawyer C. Chairman of Biotechnology Company D. Police",
+                    "ans": "c"
+                },
+                {
+                    "q": "How long did the victim die after being hit by a murder weapon? a. Within 1 minute b. Within 5 minutes c. Within 10 minutes d. Within 15 minutes",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the murder weapon? a. Kitchen knife b. Gun c. Vase d. Hammer",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Who discovered the body of the deceased? a. Taylor B. Faris C. Joey D. Sara",
+                "Where was the deceased found? a. Living room b. Kitchen c. Southeast corner of bedroom d. Bathroom",
+                "What caused the fatal injury to the deceased's head? a. Shooting b. knife injury c. blunt object impact d. strangulation",
+                "How can the door of the crime scene be locked? a. Password lock b. Key and internal direct locking c. Fingerprint lock d. Automatic sensing lock",
+                "How many keys are there at the crime scene? a. One b. Two c. Three d. Four",
+                "How were the windows at the crime scene locked? a. External lock b. Internal reverse lock c. No lock d. Use safety lock",
+                "What is the identity of the deceased? a. Technology company employee b. Chairman of biotechnology company c. Hospital director d. Bank manager",
+                "How long does it take for the deceased to die? a. Within 1 minute b. Within 5 minutes c. Within 10 minutes d. Within 15 minutes",
+                "Where was the crime scene? a. Apartment in the city center b. Single family mansion in the suburbs c. Office building in the commercial district d. Villa by the seaside",
+                "What is the item considered a murder weapon? a. Kitchen knife b. Gun c. Vase d. Hammer",
+                "What is the name of the deceased's granddaughter? a. Joey B. Taylor C. Sarah D. Faris",
+                "In which room was the body of the deceased found? a. Living room b. Kitchen c. Southeast corner of bedroom d. Bathroom",
+                "What item caused the fatal injury of the deceased? a. Kitchen knife b. Gun c. Vase d. Hammer",
+                "What type of door lock was used at the crime scene? a. Password lock b. Key and internal direct locking c. Fingerprint lock d. Automatic sensing lock",
+                "How many keys were there at the crime scene? a. One b. Two c. Three d. Four",
+                "How were the windows at the crime scene locked? a. External lock b. Internal reverse lock c. No lock d. Use safety lock",
+                "What was the profession of the deceased? a. Technology company employee b. Chairman of biotechnology company c. Hospital director d. Bank manager",
+                "How long is the estimated time for the death of the deceased? a. Within 1 minute b. Within 5 minutes c. Within 10 minutes d. Within 15 minutes",
+                "What is the type of crime scene? a. Apartment in the city center b. Single family mansion in the suburbs c. Office building in the commercial district d. Villa by the seaside",
+                "What is the murder weapon? a. Kitchen knife b. Gun c. Vase d. Hammer",
+                "What was the victim's occupation at the time of the incident? a. Teacher B. Lawyer C. Chairman of Biotechnology Company D. Police",
+                "What was the deceased wearing when they were found? a. Business attire b. Pajamas c. Sportswear d. Naked",
+                "What type of door is at the crime scene? a. Security door b. Solid wood door c. Glass door d. Metal door",
+                "What is the murder weapon? a. Gun b. Knife c. Vase d. Hammer",
+                "How were the windows at the crime scene locked? a. Using safety lock b. Internal locking c. External locking d. No locking",
+                "What was the cause of death of the deceased? a. Heart disease b. Cerebral hemorrhage c. Poisoning d. Drowning",
+                "Who discovered the deceased? a. His wife b. His granddaughter c. His neighbors d. His colleagues",
+                "How long did the victim die after being hit by a murder weapon? a. Within 1 minute b. Within 5 minutes c. Within 10 minutes d. Within 15 minutes",
+                "What is the height of the deceased? a. 160CM b. 165CM c. 170CM d. 172CM",
+                "Where was the weapon that the murderer may have used found? a. On the bookshelf b. Under the table c. On the floor d. In the cabinet",
+                "Who discovered the body of the deceased? a. Faris B. Sara C. Joey D. Thomas",
+                "Where was the body of the deceased found in the room? a. Living room b. Kitchen c. Southeast corner of bedroom d. Bathroom",
+                "What item caused the fatal injury of the deceased? a. Kitchen knife b. Gun c. Vase d. Hammer",
+                "What type of door is at the crime scene? a. Security door b. Solid wood door c. Glass door d. Metal door",
+                "How many keys are there at the crime scene? a. One b. Two c. Three d. Four",
+                "How were the windows at the crime scene locked? a. Using safety lock b. Internal locking c. External locking d. No locking",
+                "What was the profession of the deceased? a. Teacher B. Lawyer C. Chairman of Biotechnology Company D. Police",
+                "How long did the victim die after being hit by a murder weapon? a. Within 1 minute b. Within 5 minutes c. Within 10 minutes d. Within 15 minutes",
+                "What is the type of crime scene? a. Apartment in the city center b. Single family mansion in the suburbs c. Office building in the commercial district d. Villa by the seaside",
+                "Which part of the deceased's body was fatally struck? a. Left forehead b. Right rib c. Abdominal region d. Rear neck",
+                "What was the deceased wearing when they were found? a. Business attire b. Pajamas c. Sportswear d. Naked",
+                "What type of door is at the crime scene? a. Security door b. Solid wood door c. Glass door d. Metal door",
+                "Where was the fatal injury of the deceased located? a. Left forehead b. Right rib c. Abdominal region d. Rear neck",
+                "What type of door lock was used at the crime scene? a. Password lock b. Key and internal direct locking c. Fingerprint lock d. Automatic sensing lock",
+                "How many keys are there at the crime scene? a. One b. Two c. Three d. Four",
+                "How were the windows at the crime scene locked? a. Using safety lock b. Internal locking c. External locking d. No locking",
+                "Where was the body of the deceased found in the room? a. Living room b. Kitchen c. Southeast corner of bedroom d. Bathroom",
+                "What is the identity of the deceased? a. Teacher B. Lawyer C. Chairman of Biotechnology Company D. Police",
+                "How long did the victim die after being hit by a murder weapon? a. Within 1 minute b. Within 5 minutes c. Within 10 minutes d. Within 15 minutes",
+                "What is the murder weapon? a. Kitchen knife b. Gun c. Vase d. Hammer"
+            ],
+            "a": [
+                "d",
+                "c",
+                "c",
+                "b",
+                "b",
+                "b",
+                "b",
+                "a",
+                "b",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "b",
+                "b",
+                "a",
+                "b",
+                "c",
+                "c",
+                "d",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "a",
+                "d",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "a",
+                "b",
+                "a",
+                "d",
+                "b",
+                "a",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c",
+                "a",
+                "c"
+            ]
+        },
+        {
+            "name": "Faris",
+            "back": " \n你醒了\n你揉了揉眼睛，在幽暗的灯光下，你发现身处在一间密室之中，跟你一样刚刚苏醒的其他六人和你一样，一脸茫然，不知发生了何事。\n突然，房间里的显示荧幕打开了，荧幕上只有三个字:“审判者”\n“看来你们已经醒来了，”一个怪异诡谲的声音从荧幕中传出，一听就知道，这个声音被人用声音软件加工过，根本听不出是男是女。“大家好，我是审判者，欢迎来到Inside，这次的主题是密室杀人。你们所在的密室里，有六个房间，它们分别代表一桩密室杀人案。这六桩案件分别是:【血字的留言】【无死角的密室】【瞬间消失的行凶者】【三重门】【最后的烛光晚餐】【爱洛斯的分尸诅咒】。你们七人之中，有六人与这六桩案件一一对应，只有唯一一名无罪之人。不过我使了些手段，让你们忘记了自己的过往。有罪者如果能找到每件凶案的凶手，并将无罪之人关进审判之室，则有罪者胜利，六名有罪者将会得到释放并拿回属于你们自己的记忆，而无罪者将会接受'审判之火’的惩罚。反之，若无罪之人没有被找到，我将会向大众公布你们的所有罪行。游戏已经开始了，做出你们的选择吧，没有人是无辜的。”\n在恐惧、惊愕、疑惑、迷茫中，游戏开始了。\n你所记得的事:\n你叫做法里斯，男，今年25岁。\n你知道当地在近几年出现了一位自称“审判者”的人，他所组织的Inside 游戏，是一个将几名玩家监禁在某处的死亡游戏。游戏内容根据每次主题而不同，游戏结束后一般都会有玩家死亡，而受害者似乎都是一些曾犯下过罪责又逃过法律制裁的人。\n“审判者”将这种及其自我的审判方式称之为Inside 游戏，“没有人是无辜的是“审判者”的至理名言。“审判者”及其狡猾，警方至今也没有找到他的任何踪迹因为“审判者”极具个人主义的性格表现和其独特的正义表现形式，受到了很多年轻人的推崇，但政府对其深恶痛绝。在最近几个月，“审判者”突然沉寂，如同消失了般\n“什么狗屁游戏，老子才不想在这里陪你们玩。”一名身材健硕的肌肉男站了起来，对着冰冷冷的墙壁搜索起来，似乎在寻找出口。\n戴着眼镜的女人扶了扶自己的眼镜说到:“别白费功夫了，想必大家应该都知道审判者吧，看样子我们真的得按照他的要求进行游戏了，否则大家都不会有好下场，先互相认识一下吧。”\n肌肉男并没有理她，继续搜索着墙壁。\n“似乎不太需要自我介绍，看看你们身上穿着的囚服，胸口处的名牌有写你们的名字哦，我是托马斯。”\n你们看了看自己的衣服，所有人都一样，穿着的是带有名牌的囚服。那个戴着眼镜的女人衣服上的名牌写着“乔伊”\n萨拉说到:“太可怕了，这个审判者还给我们更换过衣服，难……难道?”\n“那家伙当然是个变态了，不过对于这场游戏来说，我竟然会觉得有一点兴奋。\n韦伯斯特满脸期待地说到。\n罗尔夫微笑着说:“这COSPLAY还挺有意思，我还是第一次穿这种衣服呢。\n“别开玩笑了，你们没有听懂游戏规则吗?我们这里会有一个人被关进审判室，接受审判之火的惩罚，也就是说，那个人会死也说不定。”托马斯说。\n韦伯斯特:“哈哈，那也没什么吧，按照审判者的说法，在座的各位可都是杀人犯呢，多杀一个人又怎么了。”\n“并不是都是哦，是其中六个。”乔伊说\n“你这女人还挺严谨的嘛。”韦伯斯特说。\n萨拉:“我们不是还有另外一种选择吗?那样的话就不会死人了吧。“那样的话，我们在座的七人中有六人都会被审判者公布罪行，虽然现在我还不知道自己是不是杀人犯，但我是杀人犯的几率有七分之六，这个几率是非常大的，如果我是杀人犯，为了自保，我也只能那么做了。”托马斯说到。\n乔伊扶了扶眼睛:“他没说错，所以我们现在应该先找到那几个案子的真凶，看看自己到底是不是凶手，如果我不是的话，我会劝说大家自首的。”\n“我是不可能自首的呢，那样的话也只能让你为大家献身了，”韦伯斯特说到，“这样看来，在这个游戏里有罪之人要比无罪之人安全呢，真希望我曾经杀过人啊，哈哈。京市\n托马斯:“真奇怪，我之前听说审判者似乎都是惩罚有罪者的，这次怎么这么不一样，不会有诈吧。”\n“当然不会，你们看这里，”那个名叫法里斯的大块头指着墙上贴着的一张纸说到，“审判者的原则里，就有不会欺骗玩家这一条呢。”\n罗尔夫:“哟，你这个大块头居然还真找到点东西，我一开始还觉得你是四肢发达，头脑……唔。”\n法里斯没有理会罗尔夫的调侃，他指着墙上的纸说到:“这上面还有我们的个人资料。林\n大家凑了上去，只见那张纸上写着:\n嫌疑人:托马斯Thomas男22岁身高176CM体68KG右撤子\n嫌疑人:法里斯Farris男25岁身高184CM体84KG右撒于\n嫌疑人:萨拉Sara女18岁身高167CM体重45KG左撒子\n嫌疑人:泰勒Taylor女33岁身高163CM体重48KG左子\n嫌疑人:罗尔夫Rolf男19岁高182CM体重66KG右子\n嫌疑人:乔伊Joie女21岁身高172CM体重52KG左撒子嫌疑人:韦伯斯特Webster男20岁身高180CM体重68KG右撒子\n“这个老女人是谁啊?”罗尔夫问到。大家看向依然坐在角落里有着一头金色长发的女人，她十分冷淡，面无表情“看来就是她了，你这家伙是哑巴吗，为什么不说话?”罗尔夫接着问。“按照规则进行游戏吧，不要在这儿做无谓的讨论了。”泰勒终于开了口，但她依然面无表情。\n\n你们进入了第三个房间。\n你拿到了关于你在这一案的档案:\n嫌疑人:法里斯\n案发时间:1月6日\n案发地点:位于郊区的死者独栋宅邸\n你是死者欧文先生的私人保镖法里斯，你是本次案件的尸体第二发现人。\n以下为你的证词:\n你是如何发现尸体的?\n“大概9点25分左右，萨拉找到我，她说欧文先生在房间被人袭击了，我便和她起上三楼欧文先生的房间查看，我们来到三楼时，看见管家泰勒女士也在房间门口，她说她有事找欧文先生，她也是刚上来就看见了这惊人的一幕，我看见欧文先生倒在房间的角落里，头部被人袭击，在我确认了欧文先生那时已经没有了呼吸之后，我便报了警。”\n你最后一次见到死者是几点?\n“晚饭过后7点左右欧文先生便回房了，在那之后就没有看到过欧文先生。\n你有不在场证明吗?\n“没有，晚饭过后我在一楼大厅坐了会儿就回屋了，其他人都在楼上，并不能为我作证”\n你对家里的其他人怎么看?\n\n“萨拉小姐一直怀疑泰勒女士和欧文先生有一些说不清的关系，所以她们的关系一直不是很好。听说今晚事件的开始就是萨拉小姐听到了欧文先生房间的声响，这也不奇怪，按照萨拉小姐疑神疑鬼的性格，隔墙偷听这种事是肯定干得出来的。你有发现什么异常吗?\n“我在一楼大厅的时候没有看见任何人进出，之后回到房间就不清楚外面的状况了，我们在欧文先生的房间里发现了关于鱼缸的问题，萨拉小姐已经跟你们讲过了吧?对了，我们后来在床底下发现了之前丢了两天的金渐层猫杰瑞以及房间的钥匙，但我们可以互相作证，没有任何人可以在我们眼皮底下把钥匙偷偷放在床下。要说最有嫌疑的我觉得只可能是泰勒女士了，欧文先生死亡时的穿着很特别，他身上只有一条皱巴巴的浴中，一副刚洗完澡的样子，结合他们俩之间说不清的关系，泰女士的嫌疑很大。\n\n你的作案手法：\n案发当日，按照我观察的这个家的习惯，大家都会回房休息，这正是我行凶的最好时机。我带着一把榔头，以“找到那只猫了”为由找到了那个即将被我敲死的人，顺利进入了他的房间。\n还没等那个混蛋反应过来，我就用手中的榔头击中了他。那个混蛋的身体本来就很虚弱，他承受不了我的致命一击，倒在了地上。我探了探那个混蛋的鼻子，他果然没了气息，我兴奋得浑身颤抖起来。我将他的衣服脱了下来，伪造成刚洗完澡的样子将他移到了房间的角落里，那个混蛋的尸体就像是泄了气的皮球，让人不禁想笑。我锁上门，下楼回到了自己的房间，准备“时机关”\n我用一张浴巾吸入一些水后，将它的下半部分拧成棍状当支点，上半部分铺平。我戴上手套将它按照刚刚做成的形状伸向窗户外冻住，室外的温度很低，很快它就结冰了。我上楼打开门，将刚刚做好的“机关“放到房间的角落里，把一个花瓶放在“机关”上，房间因为有空调的缘故，温度很高，不出意外的话，1个半小时后，花瓶将会掉落在地发出声响，当然这一切也在我计算之内，我已经练习过无数次了。如果到时候他听到这个响声，那必然会引起注意，那样我的目的便达到了。\n“机关”装置设置完毕后，我把两个鱼缸里的鱼通过厕所冲进了下水道里。然后我把鱼缸A的水放掉，将那只已经被我饿了两天的猫放了进去，盖上了鱼缸盖，并设定了玻璃盖和进水系统在十五分钟后打开。我又将鱼缸B的排水口打开，并设定一个半小时后打开进水系统。我还在床下放了一节散发着香味的香肠，做完这一切后我便用钥匙锁门离开了房间。\n我来到后院，将房间钥匙用结实的细绳系在了之前准备的老鼠身上，并将它放进了鱼缸B的排水管道里，我在另一头吓唬它，很快它便爬了上去。按照我的计划，被床下的香肠味吸引的老鼠会顺着珊瑚爬出鱼缸，来到床下吃香肠，而十五分后，另外一个鱼缸里的猫会跑出来，饿急了的它一定会吃掉老鼠，这样密室便形成了。我一直在后院的排水管道下等待了一个多小时，当我从鱼缸B的排水管道里听到了花瓶摔在地上破碎的声音后，我装成怪异的声音用嘴巴贴着排水管道喊道:“他妈的，这下糟了。”做完这一切之后，我便跑回到自己的房间，剩下的就要看那个混蛋的孙女配不配合了。\n我终于给那些孤儿院的亡魂们报了仇，接下来，就看“审判者”如何完成他的承\n诺了。\n",
+            "self": "My name is Faris, I am 25 years old this year",
+            "answer": "I don't know. I am not the murderer.",
+            "r_q": [
+                {
+                    "q": "What time did Faris discover the body? a. 9:00 b. 9:15 c. 9:25 d. 9:30",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who did Faris go upstairs with and find the body? a. Taylor B. Sarah C. Joey D. Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who met Faris and Sarah at the door of the room? a. Taylor B. Joey C. Webster D. Thomas",
+                    "ans": "a"
+                },
+                {
+                    "q": "When was the last time Faris saw Mr. Owen? a. 7:00 b. 7:30 c. 8:00 d. 8:30",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where did Faris sit for a while after dinner? a. Room b. Garden c. Hall d. Kitchen",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who suspects that Taylor and Mr. Owen have an unclear relationship? a. Faris B. Sara C. Joey D. Thomas",
+                    "ans": "b"
+                },
+                {
+                    "q": "What items were accidentally found in the room? a. Golden gradient cat and room key b. Gold watch and mobile phone c. Wallet and notebook d. Clothes and shoes",
+                    "ans": "a"
+                },
+                {
+                    "q": "How to describe the scene of Mr. Owen's death? a. Sitting in a chair wearing formal attire b. Lying in bed wearing a bathrobe c. Lying in a corner while only wearing one bath d. Sitting on the floor wearing pajamas",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Faris and Sarah enter Mr. Owen's room? a. After Taylor called the police, b. Upon hearing the commotion, c. Upon Sarah's notification, d. Upon Thomas' request",
+                    "ans": "c"
+                },
+                {
+                    "q": "According to Faris' observation, which location did not see anyone entering or leaving at night? a. Second floor b. First floor lobby c. Garden d. Kitchen",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did Faris last see Mr. Owen? a. Room b. Garden c. Hall d. Kitchen",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Faris and Sarah find the body? a. Mr. Owen's room b. Garden c. Kitchen d. Hall",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who informed Faris and Sarah that their bodies had been found? a. Taylor B. Sara C. Joey D. Thomas",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Mr. Owen wearing when he died? a. Wearing formal attire b. Wearing a bathrobe c. Wearing only one towel d. Wearing pajamas",
+                    "ans": "c"
+                },
+                {
+                    "q": "What items were accidentally discovered in Mr. Owen's room? a. Golden gradient cat and room key b. Gold watch and mobile phone c. Wallet and notebook d. Clothes and shoes",
+                    "ans": "a"
+                },
+                {
+                    "q": "Sara is skeptical about the relationship between Taylor and Mr. Owen, which suggests that there may be something between them? a. Relatively relationship b. Business cooperation c. Unfair relationship d. Neighbor relationship",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was Mr. Owen's body found? a. Bed b. Chair c. Corner d. Door",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Faris go after sitting in the lobby on the first floor for a while? a. Kitchen b. Garden c. Own Room d. Mr. Owen's Room",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who met Faris and Sarah at the door of the room? a. Taylor B. Joey C. Webster D. Thomas",
+                    "ans": "a"
+                },
+                {
+                    "q": "What will happen in the game of judges if the innocent are not found? a. The guilty are released b. The innocent receive the flames of trial c. The guilt of the guilty is revealed d. All players are released",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the specific time when Faris discovered the body? a. 9:00 b. 9:15 c. 9:25 d. 9:30",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the last time Faris saw Mr. Owen? a. 6:30 b. 7:00 c. 7:30 d. 8:00",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who discovered the body for the second time with Faris? a. Taylor B. Sarah C. Joey D. Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Mr. Owen wearing when he was finally discovered? a. Pajamas b. Formal attire c. Bath towels d. Bathrobe",
+                    "ans": "c"
+                },
+                {
+                    "q": "Sara suspects who has an unclear relationship with Mr. Owen? a. Faris B. Taylor C. Joey D. Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "What items were accidentally found in Mr. Owen's room? a. Gold watch and mobile phone b. Clothes and shoes c. Wallet and notebook d. Gold gradient cat and room key",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where will Faris rest after dinner? a. Room b. Garden c. Hall d. Kitchen",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who met Faris and Sarah at the door of the room? a. Taylor B. Joey C. Webster D. Thomas",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where did Faris go after resting in the lobby on the first floor? a. Kitchen b. Garden c. Own Room d. Mr. Owen's Room",
+                    "ans": "c"
+                },
+                {
+                    "q": "At night, Faris didn't see anyone entering or leaving the lobby on the first floor? a. Second floor b. First floor lobby c. Garden d. Kitchen",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Sarah know that Mr. Owen might be in trouble? a. She saw some unusual behavior. b. She heard sounds in the room. c. Taylor told her. d. Faris told her",
+                    "ans": "b"
+                },
+                {
+                    "q": "When was the last time Faris saw Mr. Owen? a. 6:30 b. 7:00 c. 7:30 d. 8:00",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did Faris and Sarah find the golden cat and the key to the room? a. Corner of the room b. Under the bed c. In the fish tank d. In Mr. Owen's pocket",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Mr. Owen's last attire? a. Formal attire b. Pajamas c. Bathrobe d. Bath towels",
+                    "ans": "d"
+                },
+                {
+                    "q": "According to Faris' statement, where did he go after dinner? a. Directly returned to room B. went to the kitchen C. sat in the lobby on the first floor for a while D. went out for a walk",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the reason why Sarah is skeptical of Taylor? a. She thinks Taylor may have stolen something. b. She thinks Taylor has an unclear relationship with Mr. Owen. c. She doesn't like Taylor's personality. d. She thinks Taylor may be lying",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Faris call the police? a. Immediately report the discovery of the body to the police. b. Discuss with Sarah and report to the police. c. Taylor suggests reporting to the police. d. Confirm that Mr. Owen has died",
+                    "ans": "d"
+                },
+                {
+                    "q": "What did Faris observe in the lobby on the first floor? a. Someone came and went. b. No one was seen entering or leaving. c. Taylor was seen rushing away. d. Sara was waiting for him",
+                    "ans": "b"
+                },
+                {
+                    "q": "Did Faris have an alibi on the night of the crime? a. Yes, multiple people can testify. B. No, he cannot prove his whereabouts. C. Only Sarah can testify. D. Taylor can testify for him",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which item was accidentally discovered at the crime scene? a. Taylor's watch b. Mr. Owen's phone c. Gold gradient cat and room key d. Faris' wallet",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Faris discover the body? a. 9:00 b. 9:15 c. 9:25 d. 9:30",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Faris last see Mr. Owen? a. 6:30 b. 7:00 c. 7:30 d. 8:00",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who discovered the body with Faris? a. Taylor B. Sarah C. Joey D. Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Mr. Owen wearing when he was last discovered? a. Formal attire b. Pajamas c. Bath towels d. Bathrobe",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who suspects that Taylor and Mr. Owen have an unclear relationship? a. Faris B. Sara C. Joey D. Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "What item was accidentally found in Mr. Owen's room? a. Gold watch and mobile phone b. Clothes and shoes c. Wallet and notebook d. Gold gradient cat and room key",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where did Faris sit for a while after dinner? a. Room b. Garden c. Hall d. Kitchen",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who met Faris and Sarah at the door of the room? a. Taylor B. Joey C. Webster D. Thomas",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where did Faris go after sitting in the hall for a while? a. Kitchen b. Garden c. Own Room d. Mr. Owen's Room",
+                    "ans": "c"
+                },
+                {
+                    "q": "Faris didn't see anyone entering or leaving the hall at night? a. Second floor b. First floor lobby c. Garden d. Kitchen",
+                    "ans": "b"
+                }
+            ],
+            "m": 1,
+            "q": [
+                "What time did Faris discover the body? a. 9:00 b. 9:15 c. 9:25 d. 9:30",
+                "Who did Faris go upstairs with and find the body? a. Taylor B. Sarah C. Joey D. Webster",
+                "Who met Faris and Sarah at the door of the room? a. Taylor B. Joey C. Webster D. Thomas",
+                "When was the last time Faris saw Mr. Owen? a. 7:00 b. 7:30 c. 8:00 d. 8:30",
+                "Where did Faris sit for a while after dinner? a. Room b. Garden c. Hall d. Kitchen",
+                "Who suspects that Taylor and Mr. Owen have an unclear relationship? a. Faris B. Sara C. Joey D. Thomas",
+                "What items were accidentally found in the room? a. Golden gradient cat and room key b. Gold watch and mobile phone c. Wallet and notebook d. Clothes and shoes",
+                "How to describe the scene of Mr. Owen's death? a. Sitting in a chair wearing formal attire b. Lying in bed wearing a bathrobe c. Lying in a corner while only wearing one bath d. Sitting on the floor wearing pajamas",
+                "When did Faris and Sarah enter Mr. Owen's room? a. After Taylor called the police, b. Upon hearing the commotion, c. Upon Sarah's notification, d. Upon Thomas' request",
+                "According to Faris' observation, which location did not see anyone entering or leaving at night? a. Second floor b. First floor lobby c. Garden d. Kitchen",
+                "Where did Faris last see Mr. Owen? a. Room b. Garden c. Hall d. Kitchen",
+                "Where did Faris and Sarah find the body? a. Mr. Owen's room b. Garden c. Kitchen d. Hall",
+                "Who informed Faris and Sarah that their bodies had been found? a. Taylor B. Sara C. Joey D. Thomas",
+                "What was Mr. Owen wearing when he died? a. Wearing formal attire b. Wearing a bathrobe c. Wearing only one towel d. Wearing pajamas",
+                "What items were accidentally discovered in Mr. Owen's room? a. Golden gradient cat and room key b. Gold watch and mobile phone c. Wallet and notebook d. Clothes and shoes",
+                "Sara is skeptical about the relationship between Taylor and Mr. Owen, which suggests that there may be something between them? a. Relatively relationship b. Business cooperation c. Unfair relationship d. Neighbor relationship",
+                "Where was Mr. Owen's body found? a. Bed b. Chair c. Corner d. Door",
+                "Where did Faris go after sitting in the lobby on the first floor for a while? a. Kitchen b. Garden c. Own Room d. Mr. Owen's Room",
+                "Who met Faris and Sarah at the door of the room? a. Taylor B. Joey C. Webster D. Thomas",
+                "What will happen in the game of judges if the innocent are not found? a. The guilty are released b. The innocent receive the flames of trial c. The guilt of the guilty is revealed d. All players are released",
+                "What was the specific time when Faris discovered the body? a. 9:00 b. 9:15 c. 9:25 d. 9:30",
+                "When was the last time Faris saw Mr. Owen? a. 6:30 b. 7:00 c. 7:30 d. 8:00",
+                "Who discovered the body for the second time with Faris? a. Taylor B. Sarah C. Joey D. Webster",
+                "What was Mr. Owen wearing when he was finally discovered? a. Pajamas b. Formal attire c. Bath towels d. Bathrobe",
+                "Sara suspects who has an unclear relationship with Mr. Owen? a. Faris B. Taylor C. Joey D. Webster",
+                "What items were accidentally found in Mr. Owen's room? a. Gold watch and mobile phone b. Clothes and shoes c. Wallet and notebook d. Gold gradient cat and room key",
+                "Where will Faris rest after dinner? a. Room b. Garden c. Hall d. Kitchen",
+                "Who met Faris and Sarah at the door of the room? a. Taylor B. Joey C. Webster D. Thomas",
+                "Where did Faris go after resting in the lobby on the first floor? a. Kitchen b. Garden c. Own Room d. Mr. Owen's Room",
+                "At night, Faris didn't see anyone entering or leaving the lobby on the first floor? a. Second floor b. First floor lobby c. Garden d. Kitchen",
+                "How did Sarah know that Mr. Owen might be in trouble? a. She saw some unusual behavior. b. She heard sounds in the room. c. Taylor told her. d. Faris told her",
+                "When was the last time Faris saw Mr. Owen? a. 6:30 b. 7:00 c. 7:30 d. 8:00",
+                "Where did Faris and Sarah find the golden cat and the key to the room? a. Corner of the room b. Under the bed c. In the fish tank d. In Mr. Owen's pocket",
+                "What was Mr. Owen's last attire? a. Formal attire b. Pajamas c. Bathrobe d. Bath towels",
+                "According to Faris' statement, where did he go after dinner? a. Directly returned to room B. went to the kitchen C. sat in the lobby on the first floor for a while D. went out for a walk",
+                "What is the reason why Sarah is skeptical of Taylor? a. She thinks Taylor may have stolen something. b. She thinks Taylor has an unclear relationship with Mr. Owen. c. She doesn't like Taylor's personality. d. She thinks Taylor may be lying",
+                "When did Faris call the police? a. Immediately report the discovery of the body to the police. b. Discuss with Sarah and report to the police. c. Taylor suggests reporting to the police. d. Confirm that Mr. Owen has died",
+                "What did Faris observe in the lobby on the first floor? a. Someone came and went. b. No one was seen entering or leaving. c. Taylor was seen rushing away. d. Sara was waiting for him",
+                "Did Faris have an alibi on the night of the crime? a. Yes, multiple people can testify. B. No, he cannot prove his whereabouts. C. Only Sarah can testify. D. Taylor can testify for him",
+                "Which item was accidentally discovered at the crime scene? a. Taylor's watch b. Mr. Owen's phone c. Gold gradient cat and room key d. Faris' wallet",
+                "When did Faris discover the body? a. 9:00 b. 9:15 c. 9:25 d. 9:30",
+                "When did Faris last see Mr. Owen? a. 6:30 b. 7:00 c. 7:30 d. 8:00",
+                "Who discovered the body with Faris? a. Taylor B. Sarah C. Joey D. Webster",
+                "What was Mr. Owen wearing when he was last discovered? a. Formal attire b. Pajamas c. Bath towels d. Bathrobe",
+                "Who suspects that Taylor and Mr. Owen have an unclear relationship? a. Faris B. Sara C. Joey D. Webster",
+                "What item was accidentally found in Mr. Owen's room? a. Gold watch and mobile phone b. Clothes and shoes c. Wallet and notebook d. Gold gradient cat and room key",
+                "Where did Faris sit for a while after dinner? a. Room b. Garden c. Hall d. Kitchen",
+                "Who met Faris and Sarah at the door of the room? a. Taylor B. Joey C. Webster D. Thomas",
+                "Where did Faris go after sitting in the hall for a while? a. Kitchen b. Garden c. Own Room d. Mr. Owen's Room",
+                "Faris didn't see anyone entering or leaving the hall at night? a. Second floor b. First floor lobby c. Garden d. Kitchen"
+            ],
+            "a": [
+                "c",
+                "b",
+                "a",
+                "a",
+                "c",
+                "b",
+                "a",
+                "c",
+                "c",
+                "b",
+                "c",
+                "a",
+                "b",
+                "c",
+                "a",
+                "c",
+                "c",
+                "c",
+                "a",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "d",
+                "c",
+                "a",
+                "c",
+                "b",
+                "b",
+                "b",
+                "b",
+                "d",
+                "c",
+                "b",
+                "d",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "d",
+                "c",
+                "a",
+                "c",
+                "b"
+            ]
+        },
+        {
+            "name": "Joey",
+            "back": "You wake up",
+            "r_q": [
+                {
+                    "q": "How many keys were found at the crime scene? a. 1 b. 2 c. 3 d. 4",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. His wife b. His granddaughter c. His son d. His daughter",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the fatal injury of the deceased located? a. Left foot b. Right hand c. Left forehead d. Right forehead",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the murder weapon? a. Scissors b. Knife c. Gun d. Vase",
+                    "ans": "d"
+                },
+                {
+                    "q": "How can the door of the crime room be locked? a. Password lock b. Fingerprint lock c. Key or internal locking d. Automatic induction lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What day was the crime committed? a. January 5th b. January 6th c. January 7th d. January 8th",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which company's chairman was the deceased? a. Weike Biotechnology b. Green Biotechnology c. Mingtai Biotechnology d. Blue Sky Biotechnology",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the locked state of the windows at the crime scene? a. Close unlocked b. Open unlocked c. Close and unlock d. Open and unlock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the status of the vase in the room? a. Intact b. Slight damage c. Completely shattered d. Slight cracks",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the clothing condition of the deceased? a. Wearing formal attire b. Wearing pajamas c. Naked d. Wearing casual attire",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the name of the deceased's granddaughter? a. Sara B. Joey C. Taylor D. Webster",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the posture of the deceased when they were found? a. Lying in bed b. Sitting on the sofa c. Leaning against the corner of the wall d. Lying on the table",
+                    "ans": "c"
+                },
+                {
+                    "q": "How does the door lock of the room open? a. Password lock b. Fingerprint lock c. Key or internal locking d. Automatic induction lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the specific location of the crime scene? a. City center apartment b. Suburban detached mansion c. Commercial district office d. Country villa",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Knife injury b. gunshot wound c. blunt object impact d. poisoning",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the murder weapon? a. Scissors b. Knife c. Gun d. Vase",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the position of the deceased? a. Senior Manager b. Chairman c. Accountant d. Technician",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. His wife b. His granddaughter c. His son d. His daughter",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the condition of the windows at the crime scene? a. Close unlocked b. Open unlocked c. Close and unlock d. Open and unlock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the clothing condition of the deceased? a. Wearing formal attire b. Wearing pajamas c. Naked d. Wearing casual attire",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the crime scene located? a. City center apartment b. Business district office c. Suburban detached mansion d. Country villa",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the height of the deceased? a. 162CM b. 172CM c. 182CM d. 192CM",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which company's chairman was the deceased? a. Green Biotechnology b. Mingtai Biotechnology c. Weike Biotechnology d. Blue Sky Biotechnology",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the body of the deceased found? a. Bedroom b. Living room c. Bathroom d. Study",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was the fatal injury sustained by the deceased? a. Left forehead b. Right forehead c. Left chest d. Right leg",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the weapon used at the crime scene? a. Knife b. Gun c. Vase d. Rope",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who was the discoverer of the deceased's body? a. His wife b. His granddaughter c. His son d. His daughter",
+                    "ans": "b"
+                },
+                {
+                    "q": "How was the door lock set in the deceased's room? a. Password lock b. Fingerprint lock c. Key or internal locking d. Automatic induction lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the locked state of the windows at the crime scene? a. Close unlocked b. Open unlocked c. Close and unlock d. Open and unlock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the clothing condition of the deceased? a. Wearing formal attire b. Wearing pajamas c. Naked d. Wearing casual attire",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the height of the deceased? a. 162CM b. 172CM c. 182CM d. 192CM",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the condition of the vase found at the crime scene? a. Intact b. Slight damage c. Completely shattered d. Slight cracks",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the posture of the deceased when they were found? a. Lying in bed b. Sitting on the sofa c. Leaning against the corner of the wall d. Lying on the table",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the fatal injury sustained by the deceased? a. Left foot b. Right hand c. Left forehead d. Right forehead",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the locked state of the windows at the crime scene? a. Close unlocked b. Open unlocked c. Close and unlock d. Open and unlock",
+                    "ans": "c"
+                },
+                {
+                    "q": "How can the door of the crime room be locked? a. Password lock b. Fingerprint lock c. Key or internal locking d. Automatic induction lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the clothing condition of the deceased? a. Wearing formal attire b. Wearing pajamas c. Naked d. Wearing casual attire",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. His wife b. His granddaughter c. His son d. His daughter",
+                    "ans": "b"
+                },
+                {
+                    "q": "What day was the crime committed? a. January 5th b. January 6th c. January 7th d. January 8th",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which company's chairman was the deceased? a. Weike Biotechnology b. Green Biotechnology c. Mingtai Biotechnology d. Blue Sky Biotechnology",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the age of the deceased Owen? a. 62 years old b. 64 years old c. 66 years old d. 68 years old",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the condition of the vase found at the crime scene? a. Intact b. Slight damage c. Completely shattered d. Slight cracks",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the name of the deceased's granddaughter? a. Sara B. Joey C. Taylor D. Webster",
+                    "ans": "a"
+                },
+                {
+                    "q": "How was the door lock of the deceased's room opened? a. Password lock b. Fingerprint lock c. Key or internal locking d. Automatic induction lock",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the fatal injury sustained by the deceased? a. Left foot b. Right hand c. Left forehead d. Right forehead",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. His wife b. His granddaughter c. His son d. His daughter",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the clothing condition of the deceased at the crime scene? a. Wearing formal attire b. Wearing pajamas c. Naked d. Wearing casual attire",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the locked state of the windows at the crime scene? a. Close unlocked b. Open unlocked c. Close and unlock d. Open and unlock",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which company's chairman was the deceased Owen from? a. Weike Biotechnology b. Green Biotechnology c. Mingtai Biotechnology d. Blue Sky Biotechnology",
+                    "ans": "a"
+                },
+                {
+                    "q": "What day was the crime committed? a. January 5th b. January 6th c. January 7th d. January 8th",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "How many keys were found at the crime scene? a. 1 b. 2 c. 3 d. 4",
+                "Who discovered the body of the deceased? a. His wife b. His granddaughter c. His son d. His daughter",
+                "Where was the fatal injury of the deceased located? a. Left foot b. Right hand c. Left forehead d. Right forehead",
+                "What is the murder weapon? a. Scissors b. Knife c. Gun d. Vase",
+                "How can the door of the crime room be locked? a. Password lock b. Fingerprint lock c. Key or internal locking d. Automatic induction lock",
+                "What day was the crime committed? a. January 5th b. January 6th c. January 7th d. January 8th",
+                "Which company's chairman was the deceased? a. Weike Biotechnology b. Green Biotechnology c. Mingtai Biotechnology d. Blue Sky Biotechnology",
+                "What is the locked state of the windows at the crime scene? a. Close unlocked b. Open unlocked c. Close and unlock d. Open and unlock",
+                "What is the status of the vase in the room? a. Intact b. Slight damage c. Completely shattered d. Slight cracks",
+                "What was the clothing condition of the deceased? a. Wearing formal attire b. Wearing pajamas c. Naked d. Wearing casual attire",
+                "What is the name of the deceased's granddaughter? a. Sara B. Joey C. Taylor D. Webster",
+                "What was the posture of the deceased when they were found? a. Lying in bed b. Sitting on the sofa c. Leaning against the corner of the wall d. Lying on the table",
+                "How does the door lock of the room open? a. Password lock b. Fingerprint lock c. Key or internal locking d. Automatic induction lock",
+                "Where is the specific location of the crime scene? a. City center apartment b. Suburban detached mansion c. Commercial district office d. Country villa",
+                "What was the cause of death of the deceased? a. Knife injury b. gunshot wound c. blunt object impact d. poisoning",
+                "What is the murder weapon? a. Scissors b. Knife c. Gun d. Vase",
+                "What is the position of the deceased? a. Senior Manager b. Chairman c. Accountant d. Technician",
+                "Who discovered the body of the deceased? a. His wife b. His granddaughter c. His son d. His daughter",
+                "What is the condition of the windows at the crime scene? a. Close unlocked b. Open unlocked c. Close and unlock d. Open and unlock",
+                "What was the clothing condition of the deceased? a. Wearing formal attire b. Wearing pajamas c. Naked d. Wearing casual attire",
+                "Where is the crime scene located? a. City center apartment b. Business district office c. Suburban detached mansion d. Country villa",
+                "What is the height of the deceased? a. 162CM b. 172CM c. 182CM d. 192CM",
+                "Which company's chairman was the deceased? a. Green Biotechnology b. Mingtai Biotechnology c. Weike Biotechnology d. Blue Sky Biotechnology",
+                "Where was the body of the deceased found? a. Bedroom b. Living room c. Bathroom d. Study",
+                "Where was the fatal injury sustained by the deceased? a. Left forehead b. Right forehead c. Left chest d. Right leg",
+                "What was the weapon used at the crime scene? a. Knife b. Gun c. Vase d. Rope",
+                "Who was the discoverer of the deceased's body? a. His wife b. His granddaughter c. His son d. His daughter",
+                "How was the door lock set in the deceased's room? a. Password lock b. Fingerprint lock c. Key or internal locking d. Automatic induction lock",
+                "What is the locked state of the windows at the crime scene? a. Close unlocked b. Open unlocked c. Close and unlock d. Open and unlock",
+                "What was the clothing condition of the deceased? a. Wearing formal attire b. Wearing pajamas c. Naked d. Wearing casual attire",
+                "What is the height of the deceased? a. 162CM b. 172CM c. 182CM d. 192CM",
+                "What is the condition of the vase found at the crime scene? a. Intact b. Slight damage c. Completely shattered d. Slight cracks",
+                "What was the posture of the deceased when they were found? a. Lying in bed b. Sitting on the sofa c. Leaning against the corner of the wall d. Lying on the table",
+                "Where was the fatal injury sustained by the deceased? a. Left foot b. Right hand c. Left forehead d. Right forehead",
+                "What is the locked state of the windows at the crime scene? a. Close unlocked b. Open unlocked c. Close and unlock d. Open and unlock",
+                "How can the door of the crime room be locked? a. Password lock b. Fingerprint lock c. Key or internal locking d. Automatic induction lock",
+                "What was the clothing condition of the deceased? a. Wearing formal attire b. Wearing pajamas c. Naked d. Wearing casual attire",
+                "Who discovered the body of the deceased? a. His wife b. His granddaughter c. His son d. His daughter",
+                "What day was the crime committed? a. January 5th b. January 6th c. January 7th d. January 8th",
+                "Which company's chairman was the deceased? a. Weike Biotechnology b. Green Biotechnology c. Mingtai Biotechnology d. Blue Sky Biotechnology",
+                "What is the age of the deceased Owen? a. 62 years old b. 64 years old c. 66 years old d. 68 years old",
+                "What is the condition of the vase found at the crime scene? a. Intact b. Slight damage c. Completely shattered d. Slight cracks",
+                "What is the name of the deceased's granddaughter? a. Sara B. Joey C. Taylor D. Webster",
+                "How was the door lock of the deceased's room opened? a. Password lock b. Fingerprint lock c. Key or internal locking d. Automatic induction lock",
+                "Where was the fatal injury sustained by the deceased? a. Left foot b. Right hand c. Left forehead d. Right forehead",
+                "Who discovered the body of the deceased? a. His wife b. His granddaughter c. His son d. His daughter",
+                "What was the clothing condition of the deceased at the crime scene? a. Wearing formal attire b. Wearing pajamas c. Naked d. Wearing casual attire",
+                "What is the locked state of the windows at the crime scene? a. Close unlocked b. Open unlocked c. Close and unlock d. Open and unlock",
+                "Which company's chairman was the deceased Owen from? a. Weike Biotechnology b. Green Biotechnology c. Mingtai Biotechnology d. Blue Sky Biotechnology",
+                "What day was the crime committed? a. January 5th b. January 6th c. January 7th d. January 8th"
+            ],
+            "a": [
+                "b",
+                "b",
+                "c",
+                "d",
+                "c",
+                "b",
+                "a",
+                "c",
+                "c",
+                "c",
+                "a",
+                "c",
+                "c",
+                "b",
+                "c",
+                "d",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "a",
+                "a",
+                "c",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "a",
+                "d",
+                "c",
+                "a",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "a",
+                "b"
+            ]
+        },
+        {
+            "name": "Sara",
+            "back": "You wake up",
+            "r_q": [
+                {
+                    "q": "When did Sarah discover her grandfather's body? a. 8pm b. Around 9:20pm c. Midnight 12pm d. 1am",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the current status of the two fish tanks found in my grandfather's room? a. Only one fish tank is empty. b. Both fish tanks are full of water and fish. c. Both fish tanks are empty. d. Both fish tanks are broken",
+                    "ans": "c"
+                },
+                {
+                    "q": "According to Sarah's testimony, how could the perpetrator have escaped from the scene? a. Escape along the drainage pipe of the fish tank. b. Escape through the front door. c. Jump out of the window. d. Hide inside the house",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was found under my grandfather's bed? a. A knife and a book b. Lost cat and room key c. Mobile phone and wallet d. Diary and glasses",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are Sarah's habits at night? a. Listen to music b. Watch TV c. Read books d. Do yoga",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which floor is Faris' room located? a. First floor b. Second floor c. Third floor d. Basement",
+                    "ans": "a"
+                },
+                {
+                    "q": "When was the last time Sarah saw her grandfather in his room? a. After dinner b. 8pm c. 9pm d. Midnight",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who is the sole owner of the backyard key? a. Sara B. Taylor C. Rolf D. Faris",
+                    "ans": "d"
+                },
+                {
+                    "q": "According to Sarah's description, what was the state of the door to her grandfather's room when she tried to open it? a. Open b. Locked c. Half open d. No door",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who does Sarah think could be the murderer? a. Taylor B. Rolf C. Joey D. Faris",
+                    "ans": "d"
+                },
+                {
+                    "q": "When Sarah heard the sound, who did she think might be making it? a. Only women b. Only men c. Children d. May be panicked women or men imitating women",
+                    "ans": "d"
+                },
+                {
+                    "q": "What time did Faris discover the body? a. 9:00 b. 9:15 c. 9:25 d. 9:30",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is the only person who owns the backyard key? a. Sara B. Taylor C. Rolf D. Faris",
+                    "ans": "d"
+                },
+                {
+                    "q": "What are the two things found under the bed? a. Wallet and mobile phone b. Watch and glasses c. Cat and key d. Book and pen",
+                    "ans": "c"
+                },
+                {
+                    "q": "How were my grandfather's two fish tanks connected? a. To the roof b. To the living room c. To the kitchen d. To the backyard pond",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where was Faris found? a. Rooms on the first floor b. Rooms on the second floor c. Grandfather's room on the third floor d. Basement",
+                    "ans": "a"
+                },
+                {
+                    "q": "When was the last time Sarah saw her grandfather? a. After dinner b. 8pm c. 9pm d. Midnight",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who confirmed the death of her grandfather with Sarah? a. Rolf and Thomas B. Faris and Taylor C. Joey and Webster D. Thomas and Joey",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are Sarah's evening habits? a. Listen to music b. Do yoga c. Read books d. Watch TV",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the state of the door to my grandfather's room when Sarah tried to enter? a. Open b. Locked c. Half open d. No door",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who was the first person to discover my grandfather's body? a. Sara B. Faris C. Taylor D. Rolf",
+                    "ans": "a"
+                },
+                {
+                    "q": "At which time did Sarah discover her grandfather's body? a. From 8:00 pm to 8:30 pm b. Around 9:20 pm c. From 10:00 pm to 10:30 pm d. From 11:00 pm to 11:30 pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are the two fish tanks in my grandfather's room in? a. One of the fish tanks is full. b. Both fish tanks are full. c. One of the fish tanks is empty. d. Both fish tanks are empty",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the last time Sarah saw her grandfather? a. After dinner b. 7pm c. 8pm d. 9pm",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the state of the door to my grandfather's room when Sarah tried to enter? a. Open b. Locked c. Half open d. No door",
+                    "ans": "b"
+                },
+                {
+                    "q": "How could the perpetrator escape from the scene? a. Drainage pipe b. Front door c. Window d. Underground passage",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who is the only person who owns the backyard key? a. Sara B. Taylor C. Rolf D. Faris",
+                    "ans": "d"
+                },
+                {
+                    "q": "What are the lost items found under the bed? a. Key and book b. Cat and diary c. Fish tank and cat d. Cat and key",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is Sarah's habit every night? a. Watching TV b. Doing yoga c. Reading books d. Listening to music",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which character lives on the first floor? a. Faris B. Sara C. Taylor D. Rolf",
+                    "ans": "a"
+                },
+                {
+                    "q": "When Sarah heard the sound, who did she think might be making the sound? a. Only women b. Only men c. Children d. May be panicked women or men imitating women",
+                    "ans": "d"
+                },
+                {
+                    "q": "What time did Sarah discover her grandfather's body? a. 8pm b. Around 9:20pm c. Midnight 12pm d. 1am",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which two items were found under the bed in my grandfather's room? a. Wallet and watch b. Mobile phone and diary c. Lost cat and room key d. Books and glasses",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who has the key to the backyard? a. Sara B. Taylor C. Rolf D. Faris",
+                    "ans": "d"
+                },
+                {
+                    "q": "How were my grandfather's two fish tanks connected? a. To the roof b. To the living room c. To the kitchen d. To the backyard pond",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where was Faris found? a. Rooms on the first floor b. Rooms on the second floor c. Grandfather's room on the third floor d. Basement",
+                    "ans": "a"
+                },
+                {
+                    "q": "When was the last time Sarah saw her grandfather? a. After dinner b. 8pm c. 9pm d. Midnight",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who confirmed the death of her grandfather with Sarah? a. Rolf and Thomas B. Faris and Taylor C. Joey and Webster D. Thomas and Joey",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are Sarah's evening habits? a. Listen to music b. Do yoga c. Read books d. Watch TV",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the state of the door to my grandfather's room when Sarah tried to enter? a. Open b. Locked c. Half open d. No door",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who was the first person to discover my grandfather's body? a. Sara B. Faris C. Taylor D. Rolf",
+                    "ans": "a"
+                },
+                {
+                    "q": "At which time did Sarah discover her grandfather's body? a. From 8:00 pm to 8:30 pm b. Around 9:20 pm c. From 10:00 pm to 10:30 pm d. From 11:00 pm to 11:30 pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are the two fish tanks in my grandfather's room in? a. One of the fish tanks is full. b. Both fish tanks are full. c. One of the fish tanks is empty. d. Both fish tanks are empty",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the last time Sarah saw her grandfather? a. After dinner b. 7pm c. 8pm d. 9pm",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the state of the door to my grandfather's room when Sarah tried to enter? a. Open b. Locked c. Half open d. No door",
+                    "ans": "b"
+                },
+                {
+                    "q": "How could the perpetrator escape from the scene? a. Drainage pipe b. Front door c. Window d. Underground passage",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who is the only person who owns the backyard key? a. Sara B. Taylor C. Rolf D. Faris",
+                    "ans": "d"
+                },
+                {
+                    "q": "What are the lost items found under the bed? a. Key and book b. Cat and diary c. Fish tank and cat d. Cat and key",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is Sarah's habit every night? a. Watching TV b. Doing yoga c. Reading books d. Listening to music",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which character lives on the first floor? a. Faris B. Sara C. Taylor D. Rolf",
+                    "ans": "a"
+                },
+                {
+                    "q": "When Sarah heard the sound, who did she think might be making the sound? a. Only women b. Only men c. Children d. May be panicked women or men imitating women",
+                    "ans": "d"
+                },
+                {
+                    "q": "What time did Sarah discover her grandfather's body? a. 8pm b. Around 9:20pm c. Midnight 12pm d. 1am",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which two items were found under the bed in my grandfather's room? a. Wallet and watch b. Mobile phone and diary c. Lost cat and room key d. Books and glasses",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who has the key to the backyard? a. Sara B. Taylor C. Rolf D. Faris",
+                    "ans": "d"
+                },
+                {
+                    "q": "How were my grandfather's two fish tanks connected? a. To the roof b. To the living room c. To the kitchen d. To the backyard pond",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where was Faris found? a. Rooms on the first floor b. Rooms on the second floor c. Grandfather's room on the third floor d. Basement",
+                    "ans": "a"
+                },
+                {
+                    "q": "When was the last time Sarah saw her grandfather? a. After dinner b. 8pm c. 9pm d. Midnight",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who confirmed the death of her grandfather with Sarah? a. Rolf and Thomas B. Faris and Taylor C. Joey and Webster D. Thomas and Joey",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are Sarah's evening habits? a. Listen to music b. Do yoga c. Read books d. Watch TV",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the state of the door to my grandfather's room when Sarah tried to enter? a. Open b. Locked c. Half open d. No door",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who was the first person to discover my grandfather's body? a. Sara B. Faris C. Taylor D. Rolf",
+                    "ans": "a"
+                },
+                {
+                    "q": "At which time did Sarah discover her grandfather's body? a. From 8:00 pm to 8:30 pm b. Around 9:20 pm c. From 10:00 pm to 10:30 pm d. From 11:00 pm to 11:30 pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are the two fish tanks in my grandfather's room in? a. One of the fish tanks is full. b. Both fish tanks are full. c. One of the fish tanks is empty. d. Both fish tanks are empty",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the last time Sarah saw her grandfather? a. After dinner b. 7pm c. 8pm d. 9pm",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the state of the door to my grandfather's room when Sarah tried to enter? a. Open b. Locked c. Half open d. No door",
+                    "ans": "b"
+                },
+                {
+                    "q": "How could the perpetrator escape from the scene? a. Drainage pipe b. Front door c. Window d. Underground passage",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who is the only person who owns the backyard key? a. Sara B. Taylor C. Rolf D. Faris",
+                    "ans": "d"
+                },
+                {
+                    "q": "What are the lost items found under the bed? a. Key and book b. Cat and diary c. Fish tank and cat d. Cat and key",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is Sarah's habit every night? a. Watching TV b. Doing yoga c. Reading books d. Listening to music",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which character lives on the first floor? a. Faris B. Sara C. Taylor D. Rolf",
+                    "ans": "a"
+                },
+                {
+                    "q": "When Sarah heard the sound, who did she think might be making the sound? a. Only women b. Only men c. Children d. May be panicked women or men imitating women",
+                    "ans": "d"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "When did Sarah discover her grandfather's body? a. 8pm b. Around 9:20pm c. Midnight 12pm d. 1am",
+                "What is the current status of the two fish tanks found in my grandfather's room? a. Only one fish tank is empty. b. Both fish tanks are full of water and fish. c. Both fish tanks are empty. d. Both fish tanks are broken",
+                "According to Sarah's testimony, how could the perpetrator have escaped from the scene? a. Escape along the drainage pipe of the fish tank. b. Escape through the front door. c. Jump out of the window. d. Hide inside the house",
+                "What was found under my grandfather's bed? a. A knife and a book b. Lost cat and room key c. Mobile phone and wallet d. Diary and glasses",
+                "What are Sarah's habits at night? a. Listen to music b. Watch TV c. Read books d. Do yoga",
+                "On which floor is Faris' room located? a. First floor b. Second floor c. Third floor d. Basement",
+                "When was the last time Sarah saw her grandfather in his room? a. After dinner b. 8pm c. 9pm d. Midnight",
+                "Who is the sole owner of the backyard key? a. Sara B. Taylor C. Rolf D. Faris",
+                "According to Sarah's description, what was the state of the door to her grandfather's room when she tried to open it? a. Open b. Locked c. Half open d. No door",
+                "Who does Sarah think could be the murderer? a. Taylor B. Rolf C. Joey D. Faris",
+                "When Sarah heard the sound, who did she think might be making it? a. Only women b. Only men c. Children d. May be panicked women or men imitating women",
+                "What time did Faris discover the body? a. 9:00 b. 9:15 c. 9:25 d. 9:30",
+                "Who is the only person who owns the backyard key? a. Sara B. Taylor C. Rolf D. Faris",
+                "What are the two things found under the bed? a. Wallet and mobile phone b. Watch and glasses c. Cat and key d. Book and pen",
+                "How were my grandfather's two fish tanks connected? a. To the roof b. To the living room c. To the kitchen d. To the backyard pond",
+                "Where was Faris found? a. Rooms on the first floor b. Rooms on the second floor c. Grandfather's room on the third floor d. Basement",
+                "When was the last time Sarah saw her grandfather? a. After dinner b. 8pm c. 9pm d. Midnight",
+                "Who confirmed the death of her grandfather with Sarah? a. Rolf and Thomas B. Faris and Taylor C. Joey and Webster D. Thomas and Joey",
+                "What are Sarah's evening habits? a. Listen to music b. Do yoga c. Read books d. Watch TV",
+                "What was the state of the door to my grandfather's room when Sarah tried to enter? a. Open b. Locked c. Half open d. No door",
+                "Who was the first person to discover my grandfather's body? a. Sara B. Faris C. Taylor D. Rolf",
+                "At which time did Sarah discover her grandfather's body? a. From 8:00 pm to 8:30 pm b. Around 9:20 pm c. From 10:00 pm to 10:30 pm d. From 11:00 pm to 11:30 pm",
+                "What are the two fish tanks in my grandfather's room in? a. One of the fish tanks is full. b. Both fish tanks are full. c. One of the fish tanks is empty. d. Both fish tanks are empty",
+                "When was the last time Sarah saw her grandfather? a. After dinner b. 7pm c. 8pm d. 9pm",
+                "What was the state of the door to my grandfather's room when Sarah tried to enter? a. Open b. Locked c. Half open d. No door",
+                "How could the perpetrator escape from the scene? a. Drainage pipe b. Front door c. Window d. Underground passage",
+                "Who is the only person who owns the backyard key? a. Sara B. Taylor C. Rolf D. Faris",
+                "What are the lost items found under the bed? a. Key and book b. Cat and diary c. Fish tank and cat d. Cat and key",
+                "What is Sarah's habit every night? a. Watching TV b. Doing yoga c. Reading books d. Listening to music",
+                "Which character lives on the first floor? a. Faris B. Sara C. Taylor D. Rolf",
+                "When Sarah heard the sound, who did she think might be making the sound? a. Only women b. Only men c. Children d. May be panicked women or men imitating women",
+                "What time did Sarah discover her grandfather's body? a. 8pm b. Around 9:20pm c. Midnight 12pm d. 1am",
+                "Which two items were found under the bed in my grandfather's room? a. Wallet and watch b. Mobile phone and diary c. Lost cat and room key d. Books and glasses",
+                "Who has the key to the backyard? a. Sara B. Taylor C. Rolf D. Faris",
+                "How were my grandfather's two fish tanks connected? a. To the roof b. To the living room c. To the kitchen d. To the backyard pond",
+                "Where was Faris found? a. Rooms on the first floor b. Rooms on the second floor c. Grandfather's room on the third floor d. Basement",
+                "When was the last time Sarah saw her grandfather? a. After dinner b. 8pm c. 9pm d. Midnight",
+                "Who confirmed the death of her grandfather with Sarah? a. Rolf and Thomas B. Faris and Taylor C. Joey and Webster D. Thomas and Joey",
+                "What are Sarah's evening habits? a. Listen to music b. Do yoga c. Read books d. Watch TV",
+                "What was the state of the door to my grandfather's room when Sarah tried to enter? a. Open b. Locked c. Half open d. No door",
+                "Who was the first person to discover my grandfather's body? a. Sara B. Faris C. Taylor D. Rolf",
+                "At which time did Sarah discover her grandfather's body? a. From 8:00 pm to 8:30 pm b. Around 9:20 pm c. From 10:00 pm to 10:30 pm d. From 11:00 pm to 11:30 pm",
+                "What are the two fish tanks in my grandfather's room in? a. One of the fish tanks is full. b. Both fish tanks are full. c. One of the fish tanks is empty. d. Both fish tanks are empty",
+                "When was the last time Sarah saw her grandfather? a. After dinner b. 7pm c. 8pm d. 9pm",
+                "What was the state of the door to my grandfather's room when Sarah tried to enter? a. Open b. Locked c. Half open d. No door",
+                "How could the perpetrator escape from the scene? a. Drainage pipe b. Front door c. Window d. Underground passage",
+                "Who is the only person who owns the backyard key? a. Sara B. Taylor C. Rolf D. Faris",
+                "What are the lost items found under the bed? a. Key and book b. Cat and diary c. Fish tank and cat d. Cat and key",
+                "What is Sarah's habit every night? a. Watching TV b. Doing yoga c. Reading books d. Listening to music",
+                "Which character lives on the first floor? a. Faris B. Sara C. Taylor D. Rolf",
+                "When Sarah heard the sound, who did she think might be making the sound? a. Only women b. Only men c. Children d. May be panicked women or men imitating women",
+                "What time did Sarah discover her grandfather's body? a. 8pm b. Around 9:20pm c. Midnight 12pm d. 1am",
+                "Which two items were found under the bed in my grandfather's room? a. Wallet and watch b. Mobile phone and diary c. Lost cat and room key d. Books and glasses",
+                "Who has the key to the backyard? a. Sara B. Taylor C. Rolf D. Faris",
+                "How were my grandfather's two fish tanks connected? a. To the roof b. To the living room c. To the kitchen d. To the backyard pond",
+                "Where was Faris found? a. Rooms on the first floor b. Rooms on the second floor c. Grandfather's room on the third floor d. Basement",
+                "When was the last time Sarah saw her grandfather? a. After dinner b. 8pm c. 9pm d. Midnight",
+                "Who confirmed the death of her grandfather with Sarah? a. Rolf and Thomas B. Faris and Taylor C. Joey and Webster D. Thomas and Joey",
+                "What are Sarah's evening habits? a. Listen to music b. Do yoga c. Read books d. Watch TV",
+                "What was the state of the door to my grandfather's room when Sarah tried to enter? a. Open b. Locked c. Half open d. No door",
+                "Who was the first person to discover my grandfather's body? a. Sara B. Faris C. Taylor D. Rolf",
+                "At which time did Sarah discover her grandfather's body? a. From 8:00 pm to 8:30 pm b. Around 9:20 pm c. From 10:00 pm to 10:30 pm d. From 11:00 pm to 11:30 pm",
+                "What are the two fish tanks in my grandfather's room in? a. One of the fish tanks is full. b. Both fish tanks are full. c. One of the fish tanks is empty. d. Both fish tanks are empty",
+                "When was the last time Sarah saw her grandfather? a. After dinner b. 7pm c. 8pm d. 9pm",
+                "What was the state of the door to my grandfather's room when Sarah tried to enter? a. Open b. Locked c. Half open d. No door",
+                "How could the perpetrator escape from the scene? a. Drainage pipe b. Front door c. Window d. Underground passage",
+                "Who is the only person who owns the backyard key? a. Sara B. Taylor C. Rolf D. Faris",
+                "What are the lost items found under the bed? a. Key and book b. Cat and diary c. Fish tank and cat d. Cat and key",
+                "What is Sarah's habit every night? a. Watching TV b. Doing yoga c. Reading books d. Listening to music",
+                "Which character lives on the first floor? a. Faris B. Sara C. Taylor D. Rolf",
+                "When Sarah heard the sound, who did she think might be making the sound? a. Only women b. Only men c. Children d. May be panicked women or men imitating women"
+            ],
+            "a": [
+                "b",
+                "c",
+                "a",
+                "b",
+                "c",
+                "a",
+                "a",
+                "d",
+                "b",
+                "d",
+                "d",
+                "c",
+                "d",
+                "c",
+                "d",
+                "a",
+                "a",
+                "b",
+                "c",
+                "b",
+                "a",
+                "b",
+                "c",
+                "a",
+                "b",
+                "a",
+                "d",
+                "d",
+                "c",
+                "a",
+                "d",
+                "b",
+                "c",
+                "d",
+                "d",
+                "a",
+                "a",
+                "b",
+                "c",
+                "b",
+                "a",
+                "b",
+                "c",
+                "a",
+                "b",
+                "a",
+                "d",
+                "d",
+                "c",
+                "a",
+                "d",
+                "b",
+                "c",
+                "d",
+                "d",
+                "a",
+                "a",
+                "b",
+                "c",
+                "b",
+                "a",
+                "b",
+                "c",
+                "a",
+                "b",
+                "a",
+                "d",
+                "d",
+                "c",
+                "a",
+                "d"
+            ]
+        },
+        {
+            "name": "Thomas",
+            "back": "You're awake",
+            "r_q": [
+                {
+                    "q": "What is Thomas' age? a. 18 years old b. 20 years old c. 22 years old d. 25 years old",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of Owen's death? a. Heart attack b. Cerebral hemorrhage c. Poisoning d. Falling",
+                    "ans": "b"
+                },
+                {
+                    "q": "How was the victim's door locked during the incident? a. Lock from the outside b. Lock directly from the inside c. Use a secure password lock d. Not locked",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. His wife b. His grandson c. His granddaughter d. His nanny",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the body of the deceased located in the room? a. On the bed b. Beside the desk c. Southeast corner d. At the door",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the murder weapon? a. Firearms b. Knives c. Vases d. Blunt objects",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the spare key for the room key? a. Storage room b. Living room c. Kitchen d. Bathroom",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the covering on the body of the deceased when they are naked? a. Quilt b. Towel c. Bath towel d. Clothes",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Owen's position? a. Company Manager b. Company Director c. Company Chairman d. Company Staff",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the locked state of the windows at the crime scene? a. Open b. No lock c. Internal locking d. External locking",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death for the deceased Owen? a. Heart attack b. Cerebral hemorrhage c. Poisoning d. Falling",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who found Owen's body? a. His wife b. His grandson c. His granddaughter d. His nanny",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the location of Owen's body? a. On the bed b. Beside the desk c. Southeast corner d. At the door",
+                    "ans": "c"
+                },
+                {
+                    "q": "What caused the fatal injury on the deceased Owen's body? a. Firearms b. Knives c. Vases d. Blunt objects",
+                    "ans": "d"
+                },
+                {
+                    "q": "How was the room door locked at the crime scene? a. Lock from the outside b. Lock directly from the inside c. Use a secure password lock d. Not locked",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the locked state of the window in the room? a. Open b. No lock c. Internal locking d. External locking",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the covering on the body of the deceased when they are naked? a. Quilt b. Towel c. Bath towel d. Clothes",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the murder weapon? a. Firearms b. Knives c. Vases d. Blunt objects",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was found under the bed at the crime scene? a. Weapon b. Spare key c. Evidence item d. Irrelevant item",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where do I put the spare key? a. Storage room b. Living room c. Kitchen d. Bathroom",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the cause of Owen's death? a. Heart disease b. Cerebral hemorrhage c. Poisoning d. Natural death",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who found Owen's body? a. His wife b. His daughter c. His grandson d. His granddaughter",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where is Owen's body in the room? a. On the bed b. Beside the desk c. Southeast corner d. At the door",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the locked state of the windows at the crime scene? a. Open b. No lock c. Internal locking d. External locking",
+                    "ans": "c"
+                },
+                {
+                    "q": "How was the room door locked during the incident? a. Lock from the outside b. Lock directly from the inside c. Use a secure password lock d. Not locked",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the murder weapon? a. Firearms b. Knives c. Vases d. Blunt objects",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the covering on the body of the deceased when they are naked? a. Quilt b. Towel c. Bath towel d. Clothes",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was found under the bed at the crime scene? a. Weapon b. Spare key c. Evidence item d. Irrelevant item",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where do I put the spare key? a. Storage room b. Living room c. Kitchen d. Bathroom",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Owen's position? a. Company Manager b. Company Director c. Company Chairman d. Company Staff",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death for the deceased Owen? a. Heart attack b. Tracheal obstruction c. Cerebral hemorrhage d. Excessive blood loss",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who found Owen's body? a. His wife b. His grandson c. His granddaughter d. His butler",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the deceased's body located in the room? a. On the bed b. On the sofa c. Southeast corner d. Northwest corner",
+                    "ans": "c"
+                },
+                {
+                    "q": "What caused the head injury of the deceased? a. Shooting b. knife injury c. blunt object impact d. falling",
+                    "ans": "c"
+                },
+                {
+                    "q": "How was the room door locked during the incident? a. Lock from the outside b. Lock directly from the inside c. Use a secure password lock d. Not locked",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the locked state of the windows at the crime scene? a. Open b. No lock c. Internal locking d. External locking",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the covering on the body of the deceased when they are naked? a. Quilt b. Towel c. Bath towel d. Clothes",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was found under the bed at the crime scene? a. Weapon b. Spare key c. Evidence item d. Irrelevant item",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where do I put the spare key? a. Storage room b. Living room c. Kitchen d. Bathroom",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the position of the deceased Owen? a. Company Manager b. Company Director c. Company Chairman d. Company Staff",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the name of the deceased? a. Thomas B. Faris C. Sarah D. Owen",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the position of the deceased? a. Company employee b. Company director c. Company chairman d. Company manager",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. His wife b. His grandson c. His granddaughter d. His nanny",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the location of the deceased's body? a. On the bed b. Beside the desk c. Southeast corner d. At the door",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the locked state of the windows at the crime scene? a. Open b. No lock c. Internal locking d. External locking",
+                    "ans": "c"
+                },
+                {
+                    "q": "How was the door of the room locked at the time of the crime? a. Lock from the outside b. Lock directly from the inside c. Use a secure password lock d. Not locked",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was found under the bed at the crime scene? a. Weapon b. Spare key c. Evidence item d. Irrelevant item",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where do I put the spare key? a. Storage room b. Living room c. Kitchen d. Bathroom",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the direct cause of the deceased's death? a. Heart disease b. Excessive blood loss c. Cerebral hemorrhage d. Suffocation",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the murder weapon? a. Firearms b. Knives c. Vases d. Blunt objects",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is Thomas' age? a. 18 years old b. 20 years old c. 22 years old d. 25 years old",
+                "What was the cause of Owen's death? a. Heart attack b. Cerebral hemorrhage c. Poisoning d. Falling",
+                "How was the victim's door locked during the incident? a. Lock from the outside b. Lock directly from the inside c. Use a secure password lock d. Not locked",
+                "Who discovered the body of the deceased? a. His wife b. His grandson c. His granddaughter d. His nanny",
+                "Where is the body of the deceased located in the room? a. On the bed b. Beside the desk c. Southeast corner d. At the door",
+                "What is the murder weapon? a. Firearms b. Knives c. Vases d. Blunt objects",
+                "Where is the spare key for the room key? a. Storage room b. Living room c. Kitchen d. Bathroom",
+                "What is the covering on the body of the deceased when they are naked? a. Quilt b. Towel c. Bath towel d. Clothes",
+                "What is Owen's position? a. Company Manager b. Company Director c. Company Chairman d. Company Staff",
+                "What is the locked state of the windows at the crime scene? a. Open b. No lock c. Internal locking d. External locking",
+                "What was the cause of death for the deceased Owen? a. Heart attack b. Cerebral hemorrhage c. Poisoning d. Falling",
+                "Who found Owen's body? a. His wife b. His grandson c. His granddaughter d. His nanny",
+                "Where is the location of Owen's body? a. On the bed b. Beside the desk c. Southeast corner d. At the door",
+                "What caused the fatal injury on the deceased Owen's body? a. Firearms b. Knives c. Vases d. Blunt objects",
+                "How was the room door locked at the crime scene? a. Lock from the outside b. Lock directly from the inside c. Use a secure password lock d. Not locked",
+                "What is the locked state of the window in the room? a. Open b. No lock c. Internal locking d. External locking",
+                "What is the covering on the body of the deceased when they are naked? a. Quilt b. Towel c. Bath towel d. Clothes",
+                "What is the murder weapon? a. Firearms b. Knives c. Vases d. Blunt objects",
+                "What was found under the bed at the crime scene? a. Weapon b. Spare key c. Evidence item d. Irrelevant item",
+                "Where do I put the spare key? a. Storage room b. Living room c. Kitchen d. Bathroom",
+                "What was the cause of Owen's death? a. Heart disease b. Cerebral hemorrhage c. Poisoning d. Natural death",
+                "Who found Owen's body? a. His wife b. His daughter c. His grandson d. His granddaughter",
+                "Where is Owen's body in the room? a. On the bed b. Beside the desk c. Southeast corner d. At the door",
+                "What is the locked state of the windows at the crime scene? a. Open b. No lock c. Internal locking d. External locking",
+                "How was the room door locked during the incident? a. Lock from the outside b. Lock directly from the inside c. Use a secure password lock d. Not locked",
+                "What is the murder weapon? a. Firearms b. Knives c. Vases d. Blunt objects",
+                "What is the covering on the body of the deceased when they are naked? a. Quilt b. Towel c. Bath towel d. Clothes",
+                "What was found under the bed at the crime scene? a. Weapon b. Spare key c. Evidence item d. Irrelevant item",
+                "Where do I put the spare key? a. Storage room b. Living room c. Kitchen d. Bathroom",
+                "What is Owen's position? a. Company Manager b. Company Director c. Company Chairman d. Company Staff",
+                "What was the cause of death for the deceased Owen? a. Heart attack b. Tracheal obstruction c. Cerebral hemorrhage d. Excessive blood loss",
+                "Who found Owen's body? a. His wife b. His grandson c. His granddaughter d. His butler",
+                "Where is the deceased's body located in the room? a. On the bed b. On the sofa c. Southeast corner d. Northwest corner",
+                "What caused the head injury of the deceased? a. Shooting b. knife injury c. blunt object impact d. falling",
+                "How was the room door locked during the incident? a. Lock from the outside b. Lock directly from the inside c. Use a secure password lock d. Not locked",
+                "What is the locked state of the windows at the crime scene? a. Open b. No lock c. Internal locking d. External locking",
+                "What is the covering on the body of the deceased when they are naked? a. Quilt b. Towel c. Bath towel d. Clothes",
+                "What was found under the bed at the crime scene? a. Weapon b. Spare key c. Evidence item d. Irrelevant item",
+                "Where do I put the spare key? a. Storage room b. Living room c. Kitchen d. Bathroom",
+                "What was the position of the deceased Owen? a. Company Manager b. Company Director c. Company Chairman d. Company Staff",
+                "What is the name of the deceased? a. Thomas B. Faris C. Sarah D. Owen",
+                "What is the position of the deceased? a. Company employee b. Company director c. Company chairman d. Company manager",
+                "Who discovered the body of the deceased? a. His wife b. His grandson c. His granddaughter d. His nanny",
+                "Where is the location of the deceased's body? a. On the bed b. Beside the desk c. Southeast corner d. At the door",
+                "What is the locked state of the windows at the crime scene? a. Open b. No lock c. Internal locking d. External locking",
+                "How was the door of the room locked at the time of the crime? a. Lock from the outside b. Lock directly from the inside c. Use a secure password lock d. Not locked",
+                "What was found under the bed at the crime scene? a. Weapon b. Spare key c. Evidence item d. Irrelevant item",
+                "Where do I put the spare key? a. Storage room b. Living room c. Kitchen d. Bathroom",
+                "What was the direct cause of the deceased's death? a. Heart disease b. Excessive blood loss c. Cerebral hemorrhage d. Suffocation",
+                "What is the murder weapon? a. Firearms b. Knives c. Vases d. Blunt objects"
+            ],
+            "a": [
+                "c",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "a",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "d",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "a",
+                "b",
+                "d",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "a",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "a",
+                "c",
+                "d",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "a",
+                "c",
+                "c"
+            ]
+        },
+        {
+            "name": "Webster",
+            "back": "You're awake.",
+            "r_q": [
+                {
+                    "q": "How many rooms did the judge prepare for players in the game to represent different murder cases in secret rooms? a. 4 b. 5 c. 6 d. 7",
+                    "ans": "c"
+                },
+                {
+                    "q": "In the game of Judges, how many people will correspond to the murderers in the six cases? a. 5 b. 6 c. 7 d. 8",
+                    "ans": "b"
+                },
+                {
+                    "q": "How can the door of the deceased's room be locked? a. Can only be locked from the inside b. Can only be locked with a key c. Can be locked directly with the key from the inside d. Automatic locking system",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the object covering the lower body of the deceased at the crime scene, who was naked? a. Bath towels b. yukata c. bed sheets d. blankets",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was the body of the deceased in the room at the time of the incident? a. Bed b. Door c. Window edge d. Southeast corner",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who was the person who discovered the body of the deceased? a. His wife b. His daughter c. His granddaughter d. His neighbors",
+                    "ans": "c"
+                },
+                {
+                    "q": "What caused the fatal injuries when the deceased's body was found? a. Shooting b. knife injury c. blunt object impact d. poisoning",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the most likely weapon? a. Gun b. Knife c. Vase d. Poison",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the locked state of the windows in the room? a. Open b. Close c. Damaged d. Internal locking",
+                    "ans": "d"
+                },
+                {
+                    "q": "How long did the victim die after the murderer attacked them? a. Immediately b. Within 1 minute c. Within 5 minutes d. Within 10 minutes",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the age of the deceased Owen? a. 58 years old b. 68 years old c. 78 years old d. 88 years old",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was Owen's body found? a. Living room b. Bedroom c. Bathroom d. Study",
+                    "ans": "b"
+                },
+                {
+                    "q": "How can the door of the crime scene be locked? a. Can only be locked from the inside b. Can only be locked with a key c. Can be locked directly with the key from the inside d. Automatic locking system",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the locked state of the windows at the crime scene? a. Open b. Close c. Damaged d. Internal locking",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the most likely weapon? a. Gun b. Knife c. Vase d. Poison",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the object covering the body of the deceased when it was found? a. Bath towels b. yukata c. bed sheets d. blankets",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Owen's profession? a. Doctor b. Lawyer c. Chairman d. Professor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who was the person who discovered the body of the deceased? a. His wife b. His daughter c. His granddaughter d. His neighbors",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the crime scene located? a. City center b. Suburban c. Commercial area d. Industrial area",
+                    "ans": "b"
+                },
+                {
+                    "q": "What causes fatal injuries? a. Shooting b. knife injury c. blunt object impact d. poisoning",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which area is the crime scene located in? a. City center b. Suburban c. Commercial area d. Industrial area",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the age of the deceased? a. 58 years old b. 68 years old c. 78 years old d. 88 years old",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Doctor b. Lawyer c. Chairman d. Professor",
+                    "ans": "c"
+                },
+                {
+                    "q": "How can the door of the crime scene be locked? a. Can only be locked from the inside b. Can only be locked with a key c. Can be locked directly with the key from the inside d. Automatic locking system",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who was the person who discovered the body of the deceased? a. His wife b. His daughter c. His granddaughter d. His neighbors",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the body of the deceased located in the room? a. Bed b. Door c. Window edge d. Southeast corner",
+                    "ans": "d"
+                },
+                {
+                    "q": "What causes fatal injuries? a. Shooting b. knife injury c. blunt object impact d. poisoning",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the most likely weapon? a. Gun b. Knife c. Vase d. Poison",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the locked state of the windows in the room? a. Open b. Close c. Damaged d. Internal locking",
+                    "ans": "d"
+                },
+                {
+                    "q": "How long did the victim die after the murderer attacked them? a. Immediately b. Within 1 minute c. Within 5 minutes d. Within 10 minutes",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the body of the deceased found? a. On the bed b. Beside the desk c. Southeast corner d. Living room",
+                    "ans": "c"
+                },
+                {
+                    "q": "How was the door lock at the crime scene locked? a. Can only be locked from the inside b. Can only be locked with a key c. Can be locked directly with the key from the inside d. Automatic locking system",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the age of the deceased at the time of the incident? a. 58 years old b. 68 years old c. 78 years old d. 88 years old",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Doctor b. Lawyer c. Chairman d. Professor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who was the person who discovered the body of the deceased? a. His wife b. His daughter c. His granddaughter d. His neighbors",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the object covering the lower body of the deceased when they are naked? a. Bath towels b. yukata c. bed sheets d. blankets",
+                    "ans": "a"
+                },
+                {
+                    "q": "What caused the fatal injury to the deceased? a. Shooting b. knife injury c. blunt object impact d. poisoning",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the most likely weapon at the crime scene? a. Gun b. Knife c. Vase d. Poison",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the locked state of the windows in the room? a. Open b. Close c. Damaged d. Internal locking",
+                    "ans": "d"
+                },
+                {
+                    "q": "How long did the deceased die within? a. Immediately b. Within 1 minute c. Within 5 minutes d. Within 10 minutes",
+                    "ans": "b"
+                },
+                {
+                    "q": "What day was the crime committed? a. January 5th b. January 6th c. January 7th d. January 8th",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Doctor b. Lawyer c. Chairman d. Professor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. His wife b. His daughter c. His granddaughter d. His neighbors",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the crime scene? a. City center b. Suburban c. Commercial area d. Industrial area",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the locking method for the room door? a. Can only be locked from the inside b. Can only be locked with a key c. Can be locked directly with the key from the inside d. Automatic locking system",
+                    "ans": "c"
+                },
+                {
+                    "q": "What causes fatal injuries? a. Shooting b. knife injury c. blunt object impact d. poisoning",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the murder weapon? a. Gun b. Knife c. Vase d. Poison",
+                    "ans": "c"
+                },
+                {
+                    "q": "How long did the victim die after being attacked? a. Immediately b. Within 1 minute c. Within 5 minutes d. Within 10 minutes",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the locked state of the windows in the room? a. Open b. Close c. Damaged d. Internal locking",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the object covering the body of the deceased when it was found? a. Bath towels b. yukata c. bed sheets d. blankets",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "How many rooms did the judge prepare for players in the game to represent different murder cases in secret rooms? a. 4 b. 5 c. 6 d. 7",
+                "In the game of Judges, how many people will correspond to the murderers in the six cases? a. 5 b. 6 c. 7 d. 8",
+                "How can the door of the deceased's room be locked? a. Can only be locked from the inside b. Can only be locked with a key c. Can be locked directly with the key from the inside d. Automatic locking system",
+                "What was the object covering the lower body of the deceased at the crime scene, who was naked? a. Bath towels b. yukata c. bed sheets d. blankets",
+                "Where was the body of the deceased in the room at the time of the incident? a. Bed b. Door c. Window edge d. Southeast corner",
+                "Who was the person who discovered the body of the deceased? a. His wife b. His daughter c. His granddaughter d. His neighbors",
+                "What caused the fatal injuries when the deceased's body was found? a. Shooting b. knife injury c. blunt object impact d. poisoning",
+                "What is the most likely weapon? a. Gun b. Knife c. Vase d. Poison",
+                "What is the locked state of the windows in the room? a. Open b. Close c. Damaged d. Internal locking",
+                "How long did the victim die after the murderer attacked them? a. Immediately b. Within 1 minute c. Within 5 minutes d. Within 10 minutes",
+                "What is the age of the deceased Owen? a. 58 years old b. 68 years old c. 78 years old d. 88 years old",
+                "Where was Owen's body found? a. Living room b. Bedroom c. Bathroom d. Study",
+                "How can the door of the crime scene be locked? a. Can only be locked from the inside b. Can only be locked with a key c. Can be locked directly with the key from the inside d. Automatic locking system",
+                "What is the locked state of the windows at the crime scene? a. Open b. Close c. Damaged d. Internal locking",
+                "What is the most likely weapon? a. Gun b. Knife c. Vase d. Poison",
+                "What was the object covering the body of the deceased when it was found? a. Bath towels b. yukata c. bed sheets d. blankets",
+                "What is Owen's profession? a. Doctor b. Lawyer c. Chairman d. Professor",
+                "Who was the person who discovered the body of the deceased? a. His wife b. His daughter c. His granddaughter d. His neighbors",
+                "Where is the crime scene located? a. City center b. Suburban c. Commercial area d. Industrial area",
+                "What causes fatal injuries? a. Shooting b. knife injury c. blunt object impact d. poisoning",
+                "Which area is the crime scene located in? a. City center b. Suburban c. Commercial area d. Industrial area",
+                "What is the age of the deceased? a. 58 years old b. 68 years old c. 78 years old d. 88 years old",
+                "What was the profession of the deceased? a. Doctor b. Lawyer c. Chairman d. Professor",
+                "How can the door of the crime scene be locked? a. Can only be locked from the inside b. Can only be locked with a key c. Can be locked directly with the key from the inside d. Automatic locking system",
+                "Who was the person who discovered the body of the deceased? a. His wife b. His daughter c. His granddaughter d. His neighbors",
+                "Where is the body of the deceased located in the room? a. Bed b. Door c. Window edge d. Southeast corner",
+                "What causes fatal injuries? a. Shooting b. knife injury c. blunt object impact d. poisoning",
+                "What is the most likely weapon? a. Gun b. Knife c. Vase d. Poison",
+                "What is the locked state of the windows in the room? a. Open b. Close c. Damaged d. Internal locking",
+                "How long did the victim die after the murderer attacked them? a. Immediately b. Within 1 minute c. Within 5 minutes d. Within 10 minutes",
+                "Where was the body of the deceased found? a. On the bed b. Beside the desk c. Southeast corner d. Living room",
+                "How was the door lock at the crime scene locked? a. Can only be locked from the inside b. Can only be locked with a key c. Can be locked directly with the key from the inside d. Automatic locking system",
+                "What was the age of the deceased at the time of the incident? a. 58 years old b. 68 years old c. 78 years old d. 88 years old",
+                "What was the profession of the deceased? a. Doctor b. Lawyer c. Chairman d. Professor",
+                "Who was the person who discovered the body of the deceased? a. His wife b. His daughter c. His granddaughter d. His neighbors",
+                "What is the object covering the lower body of the deceased when they are naked? a. Bath towels b. yukata c. bed sheets d. blankets",
+                "What caused the fatal injury to the deceased? a. Shooting b. knife injury c. blunt object impact d. poisoning",
+                "What is the most likely weapon at the crime scene? a. Gun b. Knife c. Vase d. Poison",
+                "What is the locked state of the windows in the room? a. Open b. Close c. Damaged d. Internal locking",
+                "How long did the deceased die within? a. Immediately b. Within 1 minute c. Within 5 minutes d. Within 10 minutes",
+                "What day was the crime committed? a. January 5th b. January 6th c. January 7th d. January 8th",
+                "What was the profession of the deceased? a. Doctor b. Lawyer c. Chairman d. Professor",
+                "Who discovered the body of the deceased? a. His wife b. His daughter c. His granddaughter d. His neighbors",
+                "Where is the crime scene? a. City center b. Suburban c. Commercial area d. Industrial area",
+                "What is the locking method for the room door? a. Can only be locked from the inside b. Can only be locked with a key c. Can be locked directly with the key from the inside d. Automatic locking system",
+                "What causes fatal injuries? a. Shooting b. knife injury c. blunt object impact d. poisoning",
+                "What is the murder weapon? a. Gun b. Knife c. Vase d. Poison",
+                "How long did the victim die after being attacked? a. Immediately b. Within 1 minute c. Within 5 minutes d. Within 10 minutes",
+                "What is the locked state of the windows in the room? a. Open b. Close c. Damaged d. Internal locking",
+                "What was the object covering the body of the deceased when it was found? a. Bath towels b. yukata c. bed sheets d. blankets"
+            ],
+            "a": [
+                "c",
+                "b",
+                "c",
+                "a",
+                "d",
+                "c",
+                "c",
+                "c",
+                "d",
+                "b",
+                "b",
+                "b",
+                "c",
+                "d",
+                "c",
+                "a",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "d",
+                "c",
+                "c",
+                "d",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "a",
+                "c",
+                "c",
+                "d",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "d",
+                "a"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "What was the location of the murderer at the time of the victim's murder? a. B. inside the deceased's room b. outside the deceased's room c. waiting downstairs d. in another city",
+            "How did the killer use mice to create a secret room? a. Let the mouse bite through the rope. b. Send the key through the mouse. c. Block the ventilation pipe with the mouse. d. Carry poison through the mouse",
+            "How did the killer use the fish tank lid and water system to create the illusion of a secret room? a. Set the automatic switch of the fish tank cover and the flow of water. b. Allow the fish tank cover to move randomly. c. Allow the fish tank to overflow and submerge evidence. d. Use the refraction of water to hide objects",
+            "If all the cats in the house are golden, why do they have short gray fur under the bed? a. The bed is very dirty. B. There may be mice passing under the bed. C. There is a doll at home with gray short fur that has fallen off. D. The cat has changed color",
+            "What was once used as a part of the modus operandi? a. The clothes rack is broken. B. The bath towel is wet. C. The bath towel has been frozen. D. The bath towel has been stained with fragrance",
+            "Why is the temperature in the room very high? a. The killer wants the bath towel to be thawed. b. The central air conditioning is malfunctioning and not working. c. There are many people in the room causing it. d. The windows are not closed properly and the air conditioning is out",
+            "When Sarah heard a sound next door, was the murderer necessarily in the deceased's room? a. Yes, the killer is in the room. b. Not necessarily, it may have created a delay device or other means to make people think there is someone inside. c. No sound, Sarah misheard. d. Yes, the sound came from somewhere else",
+            "Why do the fish in the fish tank disappear? a. The fish got sick and died. B. The fish was eaten by a cat. C. The killer used the fish tank to commit a crime, so the fish was expelled in advance. D. The fish tank broke and the fish escaped",
+            "How did the murderer use towels to set traps? a. Soak it in water and freeze it. b. Ignite it. c. Immerse it in a chemical solution. d. Sprinkle it with sand",
+            "What is the method of setting towels? a. Half of the tightening is used as a fulcrum to place on the ground, and the other half is placed against the wall to form a right angle. b. Fully unfold to cover the ground. c. Fold into small pieces and stack them up. d. Hang on the door handle",
+            "What happens when a towel is thawed? a. Immediately burn b. Slowly dry c. Pour on the ground d. harden and maintain shape",
+            "What will happen to the vase after the towel is thawed? a. Break on the ground b. Keep in place c. Blow away by the wind d. Float on the water surface",
+            "What is the purpose of the thread bitten off by a cat? a. Let the mouse enter the room with a key. b. Let the cat play. c. Control the door lock. d. Decorate the fish tank",
+            "Why did the killer wash away the fish in the fish tank through the bathroom in the room? a. In order to conceal their identity as the murderer, b. to make others think that the fish was stolen by the murderer, c. to keep the fish tank clean, d. to prevent cats from stealing and affecting the crime",
+            "What does the short gray fur imply? a. Cats have been in the room before. Dogs have been in the room. Mice have been in the room. Rabbits have been in the room"
+        ],
+        "key_ans": [
+            "b",
+            "b",
+            "a",
+            "b",
+            "c",
+            "a",
+            "b",
+            "c",
+            "a",
+            "a",
+            "c",
+            "a",
+            "a",
+            "a",
+            "c"
+        ],
+        "key_sc": [
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "How could blood stains under the bed be formed? a. The deceased was injured under the bed. b. Someone hid under the bed and attacked the deceased. c. Blood droplets fell under the bed. d. Blood flowed into other rooms",
+            "What might the broken wire wrapped around the found key indicate? a. The key was originally hung somewhere. b. The key was quickly pulled and broke. c. The key is used for some mechanical device. d. The broken wire is not related to the key and is an accidental phenomenon",
+            "What kind of animal may the strange fur found on the ground belong to? a. Dog b. Cat c. Rabbit d. Mouse",
+            "What is the recent status of the adult golden cat found? a. Hunger b. Injury c. Full d. Panic",
+            "How long has the cat found in the room been lost? a. One day b. Two days c. Three days d. One week",
+            "What is the current status of the lid of the smart fish tank? a. Close b. Half open c. Open d. No lid",
+            "How does the water purification function of the smart fish tank work? a. Through chemical treatment b. using filter screens c. automatic circulation purification system d. manual cleaning",
+            "What could be the possible reason why no fish were found in the fish tank? a. Stolen b. Jumping out of the fish tank c. Hidden in coral not easily visible d. Dead and cleared",
+            "What is the diameter of the drainage pipe? a. 5 cm b. 10 cm c. 15 cm d. 20 cm",
+            "Where does the drainage pipe extend to? a. Garden b. Street c. Roof d. Neighbor's house",
+            "What is the purpose of the discharged water? a. Rinse b. Clean c. Irrigation d. Drinking",
+            "What is the coral height of the smart fish tank? a. Same as the fish tank b. Reaching the outer edge of the fish tank mouth c. Below the fish tank mouth d. Very low",
+            "Why is the temperature in the room so high? a. High external temperature b. Internal heating turned on c. Room sealed d. Electrical malfunction",
+            "What is the correct description of the status of the towel? a. Tighten all b. Spread all out c. Tighten half and spread half out d. Wet and dry",
+            "What type of equipment was not found in the room? a. Cleaning equipment b. Sound emitting equipment c. Heating equipment d. Cooling equipment",
+            "What is the maximum size of fish in a fish tank? a. One yuan coin size b. One palm size c. Half palm size d. One finger size",
+            "What functions does the glass lid switch of the fish tank have? a. Manual switch b. Timer switch c. Automatic sensing switch d. Wireless remote control switch",
+            "What else was found under the bed besides bloodstains? a. Sausage shreds b. Grey short hairs c. Key d. Sausage shreds and grey short hairs",
+            "How many times can the timing function of two fish tanks be set? a. Once b. Two c. Three d. Unlimited times",
+            "What is the principle of the drain switch? a. Permanent closure b. Manual control c. Automatic sensing d. Closed when water enters",
+            "How to stop the drainage of the fish tank? a. Unplug the power supply b. Use the control panel to turn off c. Physically block the drainage outlet d. Turn off the power switch",
+            "What functions does the timing setting of the control panel affect? a. Control light intensity b. Control temperature c. Control inlet and outlet d. Control food supply",
+            "Where was the location where the deceased was found? a. The southeast corner of the room b. The northwest corner of the room c. The center of the room d. The entrance of the room",
+            "What caused the fatal injury to the deceased's head? a. Shooting b. stabbing c. blunt object impact d. explosion injury",
+            "What was found on the bed at the crime scene? a. The quilt is neatly arranged. b. There are traces of sleeping on the quilt. c. There is no quilt. d. The quilt is thrown on the ground",
+            "What is the condition of the window in the crime room? a. Open and unlocked b. Closed and unlocked c. Open and unlocked d. Closed and unlocked",
+            "What items are placed on the bedside table in the bedroom? a. Only a desk lamp b. Only books c. Desk lamp and books d. Desk lamp and alarm clock",
+            "What is left in the two fish tanks in the room? a. Only fish b. Only water c. Fish and water d. Fish, water and plants",
+            "What is the key found under the bed for? a. Room door b. Storage room c. Toilet door d. Wardrobe",
+            "Who has a storage room key? a. Sara B. Thomas C. Dead D. Detective"
+        ],
+        "key_ans": [
+            "c",
+            "b",
+            "b",
+            "c",
+            "b",
+            "c",
+            "c",
+            "c",
+            "b",
+            "a",
+            "c",
+            "b",
+            "b",
+            "c",
+            "b",
+            "c",
+            "b",
+            "d",
+            "a",
+            "d",
+            "b",
+            "c",
+            "a",
+            "c",
+            "b",
+            "d",
+            "c",
+            "b",
+            "a",
+            "a"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "What is the location of Room 6 at the scene of death? a. Toilet b. Desk c. Sofa d. Television",
+            "What is the location of Room 1 at the scene of death? a. Location of the deceased: b. Bookshelf c. Dining table d. Chair",
+            "At the scene of death, where is the victim located? a. 1. b. 2. c. 3. d. 4",
+            "What is the location of Room 2 at the scene of death? a. Desk b. Bed c. Computer d. Sofa",
+            "What is the location of Room 3 at the scene of death? a. TV b. Sofa c. Bedside Table d. Bookshelf",
+            "What is the location of Room 4 at the scene of death? a. Desk b. TV c. Fish tank d. Bookshelf",
+            "What is the location of Room 5 at the scene of death? a. Desk b. Room window c. Computer d. Bookshelf",
+            "What is the location of Room 7 at the scene of death? a. Desk b. TV c. Sofa d. Wardrobe",
+            "What is the location of Room 8 at the scene of death? a. Home door b. Desk c. TV d. Fish tank",
+            "What is the location of Room 9 at the scene of death? a. Heating radiator b. Desk c. TV d. Fish tank"
+        ],
+        "key_ans": [
+            "a",
+            "a",
+            "a",
+            "b",
+            "c",
+            "c",
+            "b",
+            "d",
+            "a",
+            "a"
+        ]
+    },
+    "ju_name": "DI7MI3",
+    "task_nm": "Please complete the following tasks using all the clues at hand",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Faris"
+    ],
+    "murder": "Faris",
+    "reason": "Motive for committing the crime:"
+}

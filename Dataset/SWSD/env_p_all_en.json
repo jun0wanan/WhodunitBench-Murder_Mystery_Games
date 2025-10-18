@@ -1,0 +1,426 @@
+{
+    "key_clues_pool": {
+        "p": [
+            "One cup was wiped with a particularly bright shine",
+            "There is an E letter next to the deceased",
+            "The deceased placed their right finger on the table and wrote with their right hand",
+            "Mrs. Scott's estimated time of death is between 18:30-19:30",
+            "Mrs. Scott has a letter from the orphanage director, who wrote: Your maid Tina once called to inquire if both parents had passed away. The child was born on February 29th and they recommended Kenny to you",
+            "The maid Tina has a poster on her body, which is a poster of a cult. It is said that many people have died because of this cult Maid Tina, there's some blood inside, tested as Kenny's blood."
+        ],
+        "肯尼": [
+            "18: Kenny waited for a long time, but Mrs. Scott didn't come down. So you called her, but she hung up",
+            "18: Around 50, Kenny received a text message from Mrs. Scott: \"There are some things tonight that need to be delayed before you can go down. You need to wait outside the door for a moment, and we expect to leave at 20:00"
+        ],
+        "利兹": [
+            "18: You, Liz, came out of Peterson's room and met the maid Tina. You greeted her with a somewhat unnatural expression and asked about Peterson's whereabouts, but she didn't answer."
+        ],
+        "艾米丽": [
+            "18: You returned to the villa at Anberg Manor and found Mrs. Scott sleeping on a chair in the living room. Instead of waking her up, you went into your own room to swipe your phone and smoke."
+        ],
+        "皮特森": [
+            "I left my room at 18:35. You see Mrs. Scott and maid Tina in the living room."
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            22,
+            23
+        ],
+        "肯尼": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "利兹": [
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "艾米丽": [
+            18,
+            19
+        ],
+        "皮特森": [
+            20
+        ]
+    },
+    "public_clue": "(1) Mrs. Scott's dominant hand is her left hand",
+    "key_clues_questions": [
+        {
+            "q": "Mrs. Scott has a letter from the orphanage director. What did the director write? a. Your maid Tina once called to inquire if both parents had passed away. b. Your maid Tina once called to inquire if there were any remaining orphans willing to be adopted. c. We regret to inform you that we have not found a child that meets your requirements. d. We have found a child that meets your requirements, but unfortunately, he was adopted by another family a few days ago",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What kind of cup was found on site? a. B. Broken b. Dirty c. Particularly shiny d. Residual",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What are the markings next to the deceased? a. Note with handwriting A b. Note with handwriting B c. Manual with handwriting C d. Items with handwriting E",
+            "ans": "d",
+            "source": "p-1"
+        },
+        {
+            "q": "How did the deceased Mrs. Scott write in the end? a. B. Written with the left hand b. Written with the feet c. Written with a pen in the mouth d. Written with the right hand",
+            "ans": "d",
+            "source": "p-1"
+        },
+        {
+            "q": "What was the dominant hand of the deceased Mrs. Scott? a. Left hand b. Neither side is dominant c. Both sides are acceptable d. Right hand",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the approximate time of Mrs. Scott's death? a. Between 17:30-18:30 b. Between 18:30-19:30 c. Between 19:30-20:30 d. Between 20:30-21:30",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What did the orphanage director mention in the letter? a. Tina has asked if there are any children who have lost both parents. b. Tina has asked if there are any children born on February 29th. c. Tina has asked if there are any children in need of emergency adoption. d. Tina has asked if there are any abandoned children",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What poster was found on maid Tina's body? a. A travel advertisement poster b. A music festival poster c. A movie promotion poster d. A cult poster",
+            "ans": "d",
+            "source": "p-1"
+        },
+        {
+            "q": "What is inside the small medicine bottle held by maid Tina? a. Kenny's water b. Kenny's poison c. Kenny's blood d. Kenny's medicine",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "When did Kenny try to contact Mrs. Scott? a. 18:00 b. 18:30 c. 18:50 d. 19:00",
+            "ans": "c",
+            "source": "k-1"
+        },
+        {
+            "q": "Why didn't Mrs. Scott see Kenny in time? a. She forgot the agreement. B. She has other urgent matters. C. She doesn't want to see Kenny. D. She was unexpectedly blocked",
+            "ans": "b",
+            "source": "k-1"
+        },
+        {
+            "q": "How did Mrs. Scott inform Kenny that they would be able to meet later? a. Phone b. SMS c. Email d. Transmission through third-party channels",
+            "ans": "b",
+            "source": "k-1"
+        },
+        {
+            "q": "When is Mrs. Scott expected to leave to meet with Kenny? a. 19:00 b. 19:30 c. 20:00 d. 20:30",
+            "ans": "c",
+            "source": "k-1"
+        },
+        {
+            "q": "When did Liz meet the maid Tina? a. 18:45 b. 18:50 c. 18:55 d. 19:00",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "How did the maid Tina look when she met Liz? a. Cheerful b. frustrated c. unnatural d. angry",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "How did Liz respond when she asked the maid Tina about Peterson's whereabouts? a. Directly answered b. bypassed the topic c. did not answer d. said something unrelated",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Where did Liz meet the maid Tina? a. Mrs. Scott's room door b. Kitchen c. Peterson's room door d. Garden",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What does Tina's reaction imply when Liz meets her maid Tina? a. She is happy to meet Leeds. B. She has hostility towards Leeds. C. She may be hiding something. D. She has complete trust in Leeds",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "When I returned to the Anberg Manor Villa, where did I find Mrs. Scott sleeping? a. B. on the chair in the living room b. in her bedroom c. on the bench in the garden d. in the dining room",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What time did Mrs. Scott fall asleep? a. Before 18:30 b. 18:40 c. 18:50 d. 19:00",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Who did you meet in the living room when you left the room around 18:35? a. Only Mrs. Scott b. Only maid Tina c. Mrs. Scott and maid Tina d. Mrs. Scott and Kenny",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the most likely true time of death for Mrs. Scott based on the clues at hand? a. Between 17:30-18:30 b. Between 18:45-18:55 c. Between 18:55-19:20 d. Between 20:30-21:30",
+            "ans": "b",
+            "source": "all-2"
+        },
+        {
+            "q": "The deceased Mrs. Scott was left-handed, but the handwriting around her at the time was written with her right hand. What does this mean? a. That word wasn't written by her, someone wants to blame others. b. She suddenly wanted to write with her right hand before she died. c. There was no hint. d. Her left hand was injured and she couldn't write",
+            "ans": "a",
+            "source": "p-k-2"
+        },
+        {
+            "q": "Why does maid Tina have a cult poster and Kenny's blood? a. She is a collector who is interested in these things. b. Attempting to solve personal health problems. c. Accidentally getting involved in these things. d. She is a cult follower who performs some kind of ritual",
+            "ans": "d",
+            "source": "p-k-2"
+        }
+    ],
+    "role": [
+        {
+            "name": "Emily",
+            "back": "Emily has been looking forward to tomorrow's celebration, finally being able to stand in the spotlight. She has always been eagerly anticipating this moment. She is the eldest daughter of the younger generation of the Scott family, elegant and beautiful, but very vain.",
+            "r_q": [
+                {
+                    "q": "What is the reason why Emily is considered a talented American female writer? a. Her beauty b. Her family background c. Her early outstanding works d. Her charitable work",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is the reason why Emily is considered a talented American female writer? a. Her beauty b. Her family background c. Her early outstanding works d. Her charitable work"
+            ],
+            "a": [
+                "c"
+            ]
+        },
+        {
+            "name": "Kenny ",
+            "back": "Kenny is the adopted son of the Scott family. He grew up in an orphanage and his life there left a shadow on his childhood. But since he was adopted by the Scott family at the age of eight, he has received a good education. Although he is Mrs. Scott's adopted son, he is not close to her and has always been taken care of by the maid Tina. His heart has always been deeply in love with the maid Tina. Tina often tells him that he was born on February 29th and was destined to be extraordinary. He is deeply inspired by this sentence, but as an adopted son in the family, he can only secretly date Tina in front of the powerful Mrs. Scott.",
+            "r_q": [
+                {
+                    "q": "Tina accidentally cut your arm with something while searching for a medicine box in the dressing room? a. Knife b. Scissors c. Needle d. Tweezers",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Tina accidentally cut your arm with something while searching for a medicine box in the dressing room? a. Knife b. Scissors c. Needle d. Tweezers"
+            ],
+            "a": [
+                "b"
+            ]
+        },
+        {
+            "name": "LEEDS",
+            "back": "Liz has always been longing for tomorrow's celebration, because she will do something amazing at the celebration, and from then on, the structure of the Scott family will be completely transformed. She will step onto the Scott family stage and tear apart the false masks of everyone in the Scott family.",
+            "r_q": [
+                {
+                    "q": "Who did you meet when you came out of Peterson's room at 18:55? a. Mrs. Scott B. Emily C. Tina D. Kamiya",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Who did you meet when you came out of Peterson's room at 18:55? a. Mrs. Scott B. Emily C. Tina D. Kamiya"
+            ],
+            "a": [
+                "c"
+            ]
+        },
+        {
+            "name": "Peterson",
+            "back": "Peterson's favorite thing is to go out and play with his friends. He is always busy socializing and making various friends.",
+            "r_q": [
+                {
+                    "q": "Where did you hide between 19:00 and 19:25? a. Kitchen b. Bathroom c. Cloak room d. Living room",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Where did you hide between 19:00 and 19:25? a. Kitchen b. Bathroom c. Cloak room d. Living room"
+            ],
+            "a": [
+                "c"
+            ]
+        },
+        {
+            "name": "Tina",
+            "back": "Tina is a servant girl who obeys Mrs. Scott's orders. Her body is very strong among ladies, measuring 1.8 meters. She often tells others that Mrs. Scott is her faith. She was deeply saddened to learn of Mrs. Scott's death.",
+            "r_q": [
+                {
+                    "q": "What letter did the murderer write on the table with the finger of the deceased's right hand? a. S b. A c. M d. E",
+                    "ans": "d"
+                }
+            ],
+            "self": "Hello everyone, I am Tina",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "What letter did the murderer write on the table with the finger of the deceased's right hand? a. S b. A c. M d. E"
+            ],
+            "a": [
+                "d"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "Mrs. Scott has a letter from the orphanage director. What did the director write? a. Your maid Tina once called to inquire if both parents had passed away. b. Your maid Tina once called to inquire if there were any remaining orphans willing to be adopted. c. We regret to inform you that we have not found a child that meets your requirements. d. We have found a child that meets your requirements, but unfortunately, he was adopted by another family a few days ago",
+            "What kind of cup was found on site? a. B. Broken b. Dirty c. Particularly shiny d. Residual",
+            "What are the markings next to the deceased? a. Note with handwriting A b. Note with handwriting B c. Manual with handwriting C d. Items with handwriting E",
+            "How did the deceased Mrs. Scott write in the end? a. B. Written with the left hand b. Written with the feet c. Written with a pen in the mouth d. Written with the right hand",
+            "What was the dominant hand of the deceased Mrs. Scott? a. Left hand b. Neither side is dominant c. Both sides are acceptable d. Right hand",
+            "What is the approximate time of Mrs. Scott's death? a. Between 17:30-18:30 b. Between 18:30-19:30 c. Between 19:30-20:30 d. Between 20:30-21:30",
+            "What did the orphanage director mention in the letter? a. Tina has asked if there are any children who have lost both parents. b. Tina has asked if there are any children born on February 29th. c. Tina has asked if there are any children in need of emergency adoption. d. Tina has asked if there are any abandoned children",
+            "What poster was found on maid Tina's body? a. A travel advertisement poster b. A music festival poster c. A movie promotion poster d. A cult poster",
+            "What is inside the small medicine bottle held by maid Tina? a. Kenny's water b. Kenny's poison c. Kenny's blood d. Kenny's medicine",
+            "When did Kenny try to contact Mrs. Scott? a. 18:00 b. 18:30 c. 18:50 d. 19:00",
+            "Why didn't Mrs. Scott see Kenny in time? a. She forgot the agreement. B. She has other urgent matters. C. She doesn't want to see Kenny. D. She was unexpectedly blocked",
+            "How did Mrs. Scott inform Kenny that they would be able to meet later? a. Phone b. SMS c. Email d. Transmission through third-party channels",
+            "When is Mrs. Scott expected to leave to meet with Kenny? a. 19:00 b. 19:30 c. 20:00 d. 20:30",
+            "When did Liz meet the maid Tina? a. 18:45 b. 18:50 c. 18:55 d. 19:00",
+            "How did the maid Tina look when she met Liz? a. Cheerful b. frustrated c. unnatural d. angry",
+            "How did Liz respond when she asked the maid Tina about Peterson's whereabouts? a. Directly answered b. bypassed the topic c. did not answer d. said something unrelated",
+            "Where did Liz meet the maid Tina? a. Mrs. Scott's room door b. Kitchen c. Peterson's room door d. Garden",
+            "What does Tina's reaction imply when Liz meets her maid Tina? a. She is happy to meet Leeds. B. She has hostility towards Leeds. C. She may be hiding something. D. She has complete trust in Leeds",
+            "When I returned to the Anberg Manor Villa, where did I find Mrs. Scott sleeping? a. B. on the chair in the living room b. in her bedroom c. on the bench in the garden d. in the dining room",
+            "What time did Mrs. Scott fall asleep? a. Before 18:30 b. 18:40 c. 18:50 d. 19:00",
+            "Who did you meet in the living room when you left the room around 18:35? a. Only Mrs. Scott b. Only maid Tina c. Mrs. Scott and maid Tina d. Mrs. Scott and Kenny",
+            "What is the most likely true time of death for Mrs. Scott based on the clues at hand? a. Between 17:30-18:30 b. Between 18:45-18:55 c. Between 18:55-19:20 d. Between 20:30-21:30",
+            "The deceased Mrs. Scott was left-handed, but the handwriting around her at the time was written with her right hand. What does this mean? a. That word wasn't written by her, someone wants to blame others. b. She suddenly wanted to write with her right hand before she died. c. There was no hint. d. Her left hand was injured and she couldn't write",
+            "Why does maid Tina have a cult poster and Kenny's blood? a. She is a collector who is interested in these things. b. Attempting to solve personal health problems. c. Accidentally getting involved in these things. d. She is a cult follower who performs some kind of ritual"
+        ],
+        "key_ans": [
+            "a",
+            "c",
+            "d",
+            "d",
+            "a",
+            "b",
+            "a",
+            "d",
+            "c",
+            "c",
+            "b",
+            "b",
+            "c",
+            "c",
+            "c",
+            "c",
+            "c",
+            "c",
+            "a",
+            "b",
+            "c",
+            "b",
+            "a",
+            "d"
+        ],
+        "key_sc": [
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "k-1",
+            "k-1",
+            "k-1",
+            "k-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "all-2",
+            "p-k-2",
+            "p-k-2"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "The autopsy report shows: What is the preliminary determination of Mrs. Scott's time of death? a. 18:30-19:30 b. 20:00-21:00 c. 22:00-23:00 d. 23:30-00:30",
+            "According to the autopsy report, what was the fatal cause of death for Mrs. Scott? a. Was cut by a knife on the neck artery, resulting in massive bleeding and death. b. died from poisoning. c. had a heart attack. d. drowned",
+            "The autopsy report shows that Mrs. Scott died lying on a chair. Which finger of the deceased was resting on the table? a. Right hand finger b. Left hand finger c. Index finger d. Middle finger",
+            "What English letters may have been found on the autopsy report at the scene of the deceased's death? a. E b. F c. G d. H",
+            "What suspicious items were found in Emily's room? a. The keys to all the rooms in the house and an original manuscript signed by Joanna. B. A plan. C. A revelation for finding someone. D. A and B and C",
+            "Who should be reported for the two sealed report bags in Leeds' room? a. Peterson and Emily B. Leeds and Kenny C. Tina and Kenny D. Peterson and Tina",
+            "What was found in Peterson's room? a. Scattered traces found b. A photocopy of a work signed by Joanna c. A and B. No suspicious items found d",
+            "What suspicious items are in Kenny's room? a. A letter of agreement to terminate the adopted child relationship b. A cult poster c. A small bottle containing Kenny's blood d. All of the above items",
+            "What did you find on the maid Tina? a. Several large female clothes b. A small medicine bottle containing some blood, tested as Kenny's blood c. A cult poster d. All of the above items",
+            "Maid Tina wants to find a child born in what month? a. February 28 b. February 29 c. February 22 d. February 27",
+            "How are the daily necessities arranged in Mrs. Scott's room? a. Right b. Left c. Middle d. Above",
+            "What was found on the dressing curtain in Mrs. Scott's room? a. Opened anti-inflammatory drugs and women's clothing with blood b. Men's clothing with blood c. Anti swelling drugs and Mrs. Scott's blood d. None of the above",
+            "What's special about the kitchen in Mrs. Scott's room? a. A cup is wiped very brightly. B. A dish is wiped very clean. C. A kettle. D. A teapot",
+            "What are the traces on the stairs of the east balcony in Mrs. Scott's room? a. Traces of dragging objects b. Footprints c. Water stains d. None of the above"
+        ],
+        "key_ans": [
+            "a",
+            "a",
+            "a",
+            "a",
+            "d",
+            "a",
+            "c",
+            "a",
+            "d",
+            "b",
+            "b",
+            "a",
+            "a",
+            "a"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "On the first floor of the villa schematic diagram, what must pass through from Peterson's room to Emily's room? a. Living room b. Kitchen c. Changing room d. Bathroom",
+            "How many stairs lead to the second floor in the villa schematic diagram on the first floor? a. 1 b. 2 c. 3 d. 4",
+            "What is Emily's room on the first floor of the villa diagram? a. Changing room b. Bathroom c. Study d. Kitchen",
+            "What are Liz's rooms on the first floor of the villa schematic? a. Changing room b. Bathroom c. Study d. Kitchen",
+            "Who is the room closest to Kenny on the first floor of the villa diagram? a. Peterson B. Emily C. Leeds D. Pete",
+            "What is the distribution of stairs leading to the second floor in the villa schematic diagram on the first floor? a. On the same side b. all located in the center of the house c. distributed on both sides, not on the same side d. unevenly distributed",
+            "Who has a room on the second floor of the villa diagram? a. Emily B. Peterson C. Leeds D. Mrs. Scott",
+            "Where is the body on the second floor of the villa diagram? a. Mrs. Scott's room, b. Peterson's room, c. Leeds' room, d. Emily's room",
+            "How many staircases lead to the rooms on the first floor in the villa schematic diagram on the second floor? a. 1 b. 2 c. 3 d. 4",
+            "How many minutes does it take to go up and down the stairs in the villa diagram on the second floor? a. 4 minutes b. 2 minutes c. 3 minutes d. 1 minute",
+            "What will pass before the door to Mrs. Scott on the second floor of the villa schematic? a. Study b. Changing room c. Toilet d. Cloak room",
+            "What is the date on the cult poster? a. 11.11  b. 6.13 c. 9.25 d. 4.20"
+        ],
+        "key_ans": [
+            "a",
+            "b",
+            "a",
+            "b",
+            "a",
+            "c",
+            "d",
+            "a",
+            "b",
+            "d",
+            "d",
+            "c"
+        ]
+    },
+    "ju_name": "SWSD",
+    "task_nm": "Please complete the following tasks using all the clues at hand",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Kenny",
+        "LEEDS",
+        "Emily",
+        "Peterson"
+    ],
+    "murder": "Tina",
+    "reason": "Motive for committing the crime:"
+}

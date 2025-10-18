@@ -1,0 +1,2122 @@
+{
+    "key_clues_pool": {
+        "1-step": [
+            "To kill the deceased, the perpetrator must allocate 12 minutes of time during the live broadcast to commit the crime. So we can use the exclusion method to infer the true culprit.",
+            "On the day of Bai Yiqing's live broadcast, the longest audience talk was from 9:20 to 9:28, with a time interval of only eight minutes",
+            "The belt of Da Mai's pants is damp and has water stains, and Da Mai's white sneakers also have water stains.",
+            "On the day of Da Jiaoyang's live broadcast, at 9:08, a listener started talking about themselves and continued until 9:20, so they could commit the crime during that time, but time was very tight",
+            "Both Da Jiaoyang and Da Mai have water stains on their shoe soles and have been to the bathroom.",
+            "Brother Zhu drank coffee",
+            "On the day of Zhu's live broadcast, no audience connected",
+            "The weather reported by Brother Zhu during the live broadcast was different from the actual weather.",
+            "The chatterbox who called Da Jiaoyang is still asleep",
+            "The live broadcast room was pitch black, and the teacup in front of the deceased's table was upside down, leaving traces of tea on the table and floor. After identification, it was found to be ordinary oolong tea.",
+            "There are tea stains on Bai Yi's clean coat",
+            "On the day of Zhu's live broadcast, there was no audience connection",
+            "On the day of Li Xiaoguo's live broadcast, there were no audience connections",
+            "Brother Zhu has a Pikachu doll in his pocket",
+            "The floor plan of the live broadcast building has an X-shaped shape, and the length of each corridor is the same. The distance from any live broadcast room to the lobby is 3 minutes, which means that the time from any live broadcast room to the deceased's live broadcast room is at least 6 minutes, and it also takes 6 minutes to turn back."
+        ],
+        "2-step": [
+            "During the day and a half of Bai Yiqing's live broadcast, there was an audience member who was constantly interacting with him. Bai Yiqing needed to constantly communicate and interact with him in order to complete the live broadcast, so he had a perfect alibi",
+            "Da Mai and Mai Mai were able to chat with each other continuously through their mobile phones without the need for live streaming, so these 15 minutes were the time period during which they could commit violence",
+            "Brother Zhu drank coffee and the \"Rat Treasure\" inside",
+            "Rat Laibao is hallucinogenic and not lethal",
+            "Brother Zhu was recording the live broadcast alone from start to finish, so he could actually record the content in advance and play it on the day of the live broadcast. So he had ample time to commit the crime at that time.",
+            "Li Xiaoguo was recording the live broadcast alone from start to finish, so he could actually record the content in advance and play it on the day of the live broadcast. So he had ample time to commit the crime at that time.",
+            "The person that Wheat saw lying down at that time was Brother Zhu",
+            "Someone used a white and clean coat to clean themselves and prevent themselves from being exposed for having been to the deceased's room."
+        ],
+        "3-step": [
+            "Brother Zhu's experience that day was that he thought he was the murderer and the murder was all caused by the hallucination of Rat Laibao. In fact, he fainted in the corridor near the deceased",
+            "Brother Zhu was hallucinated after accidentally drinking Rat Laibao.",
+            "Brother Zhu drank coffee and the \"Rat Treasure\" inside",
+            "Rat Laibao is hallucinogenic and not lethal",
+            "Li Xiaoguo had visited the deceased's room at that time and wiped the tea she had knocked down with a white coat."
+        ],
+        "白一清": [
+            "Bai Yiqing placed \"Rat Treasure\" in the coffee machine to prepare for remote poisoning",
+            "Bai Yiqing put her white coat in the bathroom"
+        ],
+        "大迈": [
+            "At the beginning of the live broadcast, Da Mai went out to use the phone and put it into the microphone. Then Da Mai and Mai used the trick they had used in the previous program: open Mai Mai's phone to talk to Da Mai's phone, place your phone hands-free in front of her microphone, and hold her phone to talk to her. This way, even if either of you leaves the live broadcast room, the program can continue as usual. Wheat also left the live broadcast room during the process",
+            "Wheat and Damai both left for about 15 minutes",
+            "I once drugged the hairy crab with rat poison, thinking it killed her and buried her"
+        ],
+        "小麦": [
+            "At the beginning of the live broadcast, Da Mai went out to use the phone and put it into the microphone. Then Da Mai and Mai used the trick they had used in the previous program: open Mai Mai's phone to talk to Da Mai's phone, place your phone hands-free in front of her microphone, and hold her phone to talk to her. This way, even if either of you leaves the live broadcast room, the program can continue as usual.",
+            "Da Mai left the live broadcast room halfway through",
+            "Wheat and Damai both left for about 15 minutes",
+            "When Mai arrived at the live broadcast room of Lu Zhoutong within 15 minutes, she saw a person lying on the ground in the dark corridor and thought it was the deceased Lu Zhoutong",
+            "Wheat took out Pikachu, which Da Mai often carried with her, from her bag within 15 minutes and stuffed it into the pocket she thought was the body of the deceased, but was not sure if it was Lu Zhou or the deceased himself",
+            "Once a hairy crab, I thought I was dead but ended up coming back to life.",
+            "The male and female signs of the restroom have been changed, so the outside of the women's restroom displays the men's restroom and the outside of the men's restroom displays the women's restroom."
+        ],
+        "大娇扬": [
+            "Da Jiaoyang saw Da Mai coming back from the restroom while going to the bathroom."
+        ],
+        "朱大哥": [
+            "Brother Zhu walked back to his live streaming room and found himself in the same room as Lu Zhou.",
+            "Brother Zhu was a chatterbox who called Da Jiaoyang at that time"
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            20
+        ],
+        "白一清": [
+            12,
+            18,
+            19
+        ],
+        "小麦": [
+            14,
+            21,
+            29,
+            30,
+            31,
+            32,
+            33
+        ],
+        "大迈": [
+            21,
+            24,
+            25,
+            26,
+            27,
+            28
+        ],
+        "朱大哥": [
+            21,
+            35,
+            36
+        ],
+        "大娇扬": [
+            21,
+            34
+        ]
+    },
+    "public_clue": "(1) To kill the deceased, the perpetrator must allocate 12 minutes of time during the live broadcast to commit the crime.",
+    "key_clues_questions": [
+        {
+            "q": "What is the reason why Brother Zhu mistakenly thought he was the murderer? a. Mistakenly ingesting Rat Laibao and causing hallucinations. b. Being framed by someone. c. Mental problems within oneself. d. Accepting incorrect information",
+            "ans": "a",
+            "source": "p-3"
+        },
+        {
+            "q": "What did Brother Zhu accidentally drink that caused him to have hallucinations? a. Black tea b. Fruit juice c. Coffee d. Water",
+            "ans": "c",
+            "source": "p-3"
+        },
+        {
+            "q": "What is the main function of Rat Laibao? a. Fatal b. Restoring physical strength c. Illusory d. Treatment",
+            "ans": "c",
+            "source": "p-3"
+        },
+        {
+            "q": "What did Li Xiaoguo do in the deceased's room? a. Collect evidence b. Change the scene c. Wipe down the spilled tea d. Leave fingerprints",
+            "ans": "c",
+            "source": "p-3"
+        },
+        {
+            "q": "How many minutes does the murderer need to allocate during the live broadcast in order to kill the deceased? a. 8 minutes b. 10 minutes c. 12 minutes d. 15 minutes",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the longest time interval for listeners to speak on the day of Bai Yiqing's live broadcast? a. 8 minutes b. 10 minutes c. 12 minutes d. 15 minutes",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Why do Da Mai's pants and shoes have water stains? a. Because it's raining outside. b. Because he went swimming. c. Because he splashed it while doing laundry. d. Because he went to the restroom",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "On the day of Da Jiaoyang's live broadcast, how many minutes were there for the crime? a. 20 minutes b. 2 minutes c. 12 minutes d. 25 minutes",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Who drank coffee that day? a. Da Jiaoyang b. Big Brother Zhu c. Wheat d. Da Mai",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Who didn't connect with the audience on the day of the live broadcast? a. Da Jiaoyang and Big Brother Zhu b. Da Mai and Li Xiaoguo c. Wheat and Big Brother Zhu d. Big Brother Zhu and Li Xiaoguo",
+            "ans": "d",
+            "source": "p-1"
+        },
+        {
+            "q": "What's in Brother Zhu's pocket? a. A pen b. A book c. A Pikachu doll d. A letter",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What did the talkative person who called Da Jiaoyang end up with? a. Continuing to tell his story b. Suddenly stopping talking c. Falling asleep d. Hanging up the phone",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What kind of tea was in the teacup in front of the deceased's desk? a. Green tea b. Black tea c. Oolong tea d. Chrysanthemum tea",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What's on top of the white lab coat? a. Coffee stains b. Ink stains c. Tea stains d. Water stains",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Why did Bai Yiqing have a perfect alibi on the day of her live broadcast? a. Because he was recorded throughout the entire time in the live broadcast room. b. Because there was one audience member who could prove it. c. Because he needed to constantly interact and communicate with another audience member. d. Because the live broadcast recording showed that he did not leave",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "Why do Da Mai and Mai Mai have the opportunity to commit murder? a. Because they are in the live broadcast room b. Because they have an alibi for chatting on their phones c. Because they are outside the live broadcast room d. Because they have 15 minutes of free time",
+            "ans": "d",
+            "source": "p-2"
+        },
+        {
+            "q": "What did Brother Zhu add to his coffee? a. Sugar b. \"Honey Liquid\" c. \"Rat Laibao\" d. Caffeine",
+            "ans": "c",
+            "source": "b-p-2"
+        },
+        {
+            "q": "How could Big Brother Zhu and Li Xiaoguo have time to commit murder? a. Because they are all hosts of the live broadcast room, b. because they can record the live content in advance, c. because they have audience testimony, d. because they have a perfect alibi during the live broadcast",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "Who did Mai see lying down at that time? a. Bai Yiqing b. Da Mai c. Zhu Big Brother d. Li Xiaoguo",
+            "ans": "c",
+            "source": "p-m-2"
+        },
+        {
+            "q": "Why would someone wear a white lab coat? a. To wear it to kill the murderer b. to prevent being recognized by others c. to prevent leaving evidence of having been to the victim's room d. because it feels fashionable",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "Why did Bai Yiqing have a perfect alibi on the day of her live broadcast? a. Because he was recorded throughout the entire time in the live broadcast room. b. Because there was one audience member who could prove it. c. Because he needed to constantly interact and communicate with another audience member. d. Because the live broadcast recording showed that he did not leave",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "Why do Da Mai and Mai Mai have the opportunity to commit murder? a. Because they are in the live broadcast room b. Because they have an alibi for chatting on their phones c. Because they are outside the live broadcast room d. Because they have 15 minutes of free time",
+            "ans": "d",
+            "source": "p-2"
+        },
+        {
+            "q": "After being hallucinated, Brother Zhu thought he was the murderer, but in reality, he fainted in the corridor near the deceased. What caused this? a. Alcohol b. Coffee c. Rat Laibao d. Tea",
+            "ans": "c",
+            "source": "b-p-3"
+        },
+        {
+            "q": "What is the effect of Rat Laibao? a. B. Refreshing b. Illusory c. Lethal d. Relaxing",
+            "ans": "b",
+            "source": "j+m+z-2"
+        },
+        {
+            "q": "How did Bai Yiqing try to poison his target? a. Place poison in the water dispenser b. Place \"Rat Laibao\" in the coffee machine c. Add poison to food d. Use poison arrows",
+            "ans": "b",
+            "source": "b-1"
+        },
+        {
+            "q": "What did Bai Yiqing put in the toilet? a. White coat b. Shoes c. Water cup d. Pants",
+            "ans": "a",
+            "source": "b-1"
+        },
+        {
+            "q": "Why did Da Mai leave the live broadcast room during the live broadcast? a. Go eat. b. Go to the big phone. c. Answer the phone. d. Take a break",
+            "ans": "b",
+            "source": "b-1"
+        },
+        {
+            "q": "What methods did Da Mai and Mai use to ensure that the live broadcast can continue? a. Pause live broadcast b. Replace with recorded video c. Open mobile intercom d. Ask someone else to replace",
+            "ans": "c",
+            "source": "b-1"
+        },
+        {
+            "q": "How long did Wheat and Damai leave the live broadcast room at the same time? a. 5 minutes b. 10 minutes c. 15 minutes d. 20 minutes",
+            "ans": "c",
+            "source": "b-1"
+        },
+        {
+            "q": "Under what circumstances did the killer poison the hairy crab? a. B. During the live broadcast, c. After the live broadcast ends, d. During the pause of the live broadcast",
+            "ans": "b",
+            "source": "b-1"
+        },
+        {
+            "q": "What is the target that the murderer attempted to kill? a. Wheat b. Big Mai c. Audience d. Hairy Crab",
+            "ans": "d",
+            "source": "b-1"
+        },
+        {
+            "q": "How can Da Mai and Mai Mai ensure that the live broadcast can continue even if one of them leaves? a. Switch to pre recorded video b. Use phone intercom function c. Pause live broadcast d. Maintain through audience interaction",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "How long did Wheat and Damai leave the live broadcast room together? a. 5 minutes b. 10 minutes c. 15 minutes d. 20 minutes",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Where did Wheat find the person lying on the ground? a. In the live broadcast room b. in the hallway c. in the live broadcast restroom d. on the live broadcast staircase",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What attempts did Wheat make to confirm the identity of the deceased? a. Check the face b. Place Pikachu dolls c. Ask people around d. Check identification documents",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Why is the men's restroom displayed outside the women's restroom and the women's restroom displayed outside the men's restroom? a. Construction error b. The sign fell off and a passerby hung it incorrectly c. The repairman hung it incorrectly after repairing the toilet d. It was intentionally replaced",
+            "ans": "d",
+            "source": "p-1"
+        },
+        {
+            "q": "What did Da Jiaoyang see while going to the restroom? a. Encountered a live stream of wheat. b. Discovered the lying figure of the deceased. c. Seen Da Mai returning from the restroom. d. Discovered that the restroom sign had been changed",
+            "ans": "c",
+            "source": "j-1"
+        },
+        {
+            "q": "What happened when Brother Zhu tried to return to his live streaming room? a. Directly returned to his live broadcast room. b. found himself in the bathroom. c. walked back to Lu Zhoutong's room by mistake. d. got lost in the hallway",
+            "ans": "c",
+            "source": "b-1"
+        },
+        {
+            "q": "What other identity does Brother Zhu have in this script? a. The person who called Da Jiaoyang b. The voice actor in the live broadcast c. The live streamer d. Technical support for the live broadcast",
+            "ans": "a",
+            "source": "b-1"
+        }
+    ],
+    "role": [
+        {
+            "name": "Brother Zhu",
+            "back": "Midnight Tales \"is a storytelling program that airs during the late night time slot. The program tells the story of some strange people and supernatural phenomena that happen around us. Host Zhu, with his unique voice, tells everyone a real yet terrifying little story every night, making people's hair stand on end and shiver. The program inspires listeners' curiosity with a terrifying and bizarre atmosphere, and is very popular among young people.",
+            "r_q": [
+                {
+                    "q": "At what time was' Midnight Talk 'broadcasted? a. Morning b. Afternoon c. Late night d. Early morning",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Brother Zhu's real name? a. Brother Zhu b. Zhu Yizhi c. Zhu Xiaodi d. Zhu Yongjiu",
+                    "ans": "b"
+                },
+                {
+                    "q": "What special talent did Brother Zhu gain popularity among his classmates for? a. Drawing b. Singing c. Telling stories d. Dancing",
+                    "ans": "c"
+                },
+                {
+                    "q": "What program does Wheat host on the radio? a. Midnight gossip b. Big entertainer c. Not lonely tonight d. None",
+                    "ans": "b"
+                },
+                {
+                    "q": "What method did Brother Zhu use to provide an alibi in order to kill Lu Zhoutong? a. Pretending to be sick b. Recording programs for playback c. Business trips d. Pretending to be asleep",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Brother Zhu kill Lu Zhoutong? a. Poison b. Shooting c. strangulation d. Assassination",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Brother Zhu discard his tools after killing Lu Zhoutong? a. Roof b. Garden c. Toilet d. Basement",
+                    "ans": "c"
+                },
+                {
+                    "q": "What actions did Brother Zhu take when he infiltrated the live broadcast building that led to the damage of the surveillance footage? a. Remove the camera b. Cut off the power c. Cut off the transmission wire d. Install the jammer",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why has Zhu's relationship with wheat become distant? a. Wheat got married. B. Wheat changed jobs. C. Wheat no longer likes him. D. Embarrassing experiences",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the reason for the monitoring failure of the live broadcast building during the competition? a. Brother Zhu cut the wire. b. System upgrade. c. Weather impact. d. Aging damage",
+                    "ans": "a"
+                },
+                {
+                    "q": "What type of story does Brother Zhu's program 'Midnight Strange Talk' mainly tell? a. Comedy b. Love c. Horror d. Animation",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Brother Zhu's real name? a. Brother Zhu b. Zhu Yizhi c. Zhu Xiaodi d. Zhu Yongjiu",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why is Brother Zhu liked by his classmates? a. His sense of humor b. His athletic ability c. His storytelling ability d. His academic performance",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the name of the program co hosted by Mai Mai and Da Mai? a. Midnight gossip b. Big entertainer c. Don't feel lonely tonight d. Live streaming building",
+                    "ans": "b"
+                },
+                {
+                    "q": "What method did Brother Zhu use to create an alibi in order to kill Lu Zhoutong? a. Record program playback b. Hire someone to replace c. Go abroad d. Leave",
+                    "ans": "a"
+                },
+                {
+                    "q": "How did Brother Zhu kill Lu Zhoutong? a. Poisoning death b. Shooting death c. Stranding death d. Assassination death",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Brother Zhu discard the tools used in the crime? a. Roof b. Garden c. Toilet d. Basement",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the reason for the monitoring failure of the live broadcast building? a. Aging damage b. System upgrade c. Weather impact d. Brother Zhu cut the wire",
+                    "ans": "d"
+                },
+                {
+                    "q": "Why is Brother Zhu estranged from Wheat? a. Wheat got married. B. Wheat changed jobs. C. Wheat no longer likes him. D. Embarrassing experiences",
+                    "ans": "d"
+                },
+                {
+                    "q": "During the period when the monitoring in the live broadcast building was ineffective, where did Brother Zhu make an alibi? a. My own live broadcast room b. Lu Zhoutong's live broadcast room c. Da Jiaoyang's live broadcast room d. Toilet",
+                    "ans": "a"
+                },
+                {
+                    "q": "What are the main elements included in the program \"Midnight Talk\"? a. Funny clips b. Love stories c. Strange people and supernatural phenomena d. News reports",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Brother Zhu's real name? a. Brother Zhu b. Zhu Yizhi c. Zhu Xiaodi d. Zhu Yongjiu",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why is Brother Zhu popular among his classmates? a. Excellent athletic ability b. Excellent academic performance c. Ability to tell horror stories d. Singing talent",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the name of the radio program co hosted by Mai Mai and Da Mai? a. Midnight gossip b. Big entertainer c. Don't feel lonely tonight d. Live streaming building",
+                    "ans": "b"
+                },
+                {
+                    "q": "What measures did Brother Zhu take to ensure the murder of Lu Zhou while providing an alibi? a. Record program playback b. Hire someone to replace c. Record in advance d. Live broadcast disguise",
+                    "ans": "a"
+                },
+                {
+                    "q": "What tool did Brother Zhu use to kill Lu Zhoutong? a. Firearms b. Poison c. Wires d. Knives",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Brother Zhu discard his tools after killing Lu Zhoutong? a. Roof b. Garden c. Toilet d. Basement",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the direct cause of monitoring failure? a. Aging damage b. System upgrade c. Weather impact d. Brother Zhu cut the wire",
+                    "ans": "d"
+                },
+                {
+                    "q": "Why has Zhu's relationship with wheat become distant? a. Wheat got married. B. Wheat changed jobs. C. Wheat no longer likes him. D. Embarrassing experiences",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where did Brother Zhu create an alibi? a. Lu Zhoutong's live broadcast room b. Da Jiaoyang's live broadcast room c. Toilet d. Own live broadcast room",
+                    "ans": "d"
+                },
+                {
+                    "q": "What are the main elements included in the program \"Midnight Talk\"? a. Funny clips b. Love stories c. Strange people and supernatural phenomena d. News reports",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Brother Zhu's real name? a. Brother Zhu b. Zhu Yizhi c. Zhu Xiaodi d. Zhu Yongjiu",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why is Brother Zhu popular among his classmates? a. Excellent athletic ability b. Excellent academic performance c. Ability to tell horror stories d. Singing talent",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the name of the radio program co hosted by Mai Mai and Da Mai? a. Midnight gossip b. Big entertainer c. Don't feel lonely tonight d. Live streaming building",
+                    "ans": "b"
+                },
+                {
+                    "q": "What measures did Brother Zhu take to ensure the murder of Lu Zhou while providing an alibi? a. Record program playback b. Hire someone to replace c. Record in advance d. Live broadcast disguise",
+                    "ans": "a"
+                },
+                {
+                    "q": "What tool did Brother Zhu use to kill Lu Zhoutong? a. Firearms b. Poison c. Wires d. Knives",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Brother Zhu discard his tools after killing Lu Zhoutong? a. Roof b. Garden c. Toilet d. Basement",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the direct cause of monitoring failure? a. Aging damage b. System upgrade c. Weather impact d. Brother Zhu cut the wire",
+                    "ans": "d"
+                },
+                {
+                    "q": "Why has Zhu's relationship with wheat become distant? a. Wheat got married. B. Wheat changed jobs. C. Wheat no longer likes him. D. Embarrassing experiences",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where did Brother Zhu create an alibi? a. Lu Zhoutong's live broadcast room b. Da Jiaoyang's live broadcast room c. Toilet d. Own live broadcast room",
+                    "ans": "d"
+                },
+                {
+                    "q": "At which time slot is the program 'Midnight Strange Talk' mainly broadcasted? a. Morning b. Afternoon c. Late night d. Early morning",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Brother Zhu's real name? a. Brother Zhu b. Zhu Yizhi c. Zhu Xiaodi d. Zhu Yongjiu",
+                    "ans": "b"
+                },
+                {
+                    "q": "What made Brother Zhu popular at school? a. B. Physical ability b. Academic performance c. Ability to tell horror stories d. Singing talent",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the name of the program co hosted by Mai Mai and Da Mai? a. Midnight gossip b. Big entertainer c. Don't feel lonely tonight d. Live streaming building",
+                    "ans": "b"
+                },
+                {
+                    "q": "What measures did Brother Zhu take to ensure that he provided an alibi while killing Lu Zhou? a. Record program playback b. Hire someone to replace c. Record in advance d. Live broadcast disguise",
+                    "ans": "a"
+                },
+                {
+                    "q": "What tool did Brother Zhu use to kill Lu Zhoutong? a. Firearms b. Poison c. Wires d. Knives",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Brother Zhu discard the tools used in the crime? a. Roof b. Garden c. Toilet d. Basement",
+                    "ans": "c"
+                },
+                {
+                    "q": "What did Brother Zhu cut that caused the monitoring to fail? a. Wire b. Transmission wire c. Power cord d. Network cable",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the direct reason for the distance between Brother Zhu and Wheat? a. Wheat got married. B. Wheat changed jobs. C. Wheat no longer likes him. D. Embarrassing experiences",
+                    "ans": "d"
+                },
+                {
+                    "q": "What location did Brother Zhu use when creating an alibi? a. Lu Zhoutong's live broadcast room b. Da Jiaoyang's live broadcast room c. Toilet d. Own live broadcast room",
+                    "ans": "d"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "At what time was' Midnight Talk 'broadcasted? a. Morning b. Afternoon c. Late night d. Early morning",
+                "What is Brother Zhu's real name? a. Brother Zhu b. Zhu Yizhi c. Zhu Xiaodi d. Zhu Yongjiu",
+                "What special talent did Brother Zhu gain popularity among his classmates for? a. Drawing b. Singing c. Telling stories d. Dancing",
+                "What program does Wheat host on the radio? a. Midnight gossip b. Big entertainer c. Not lonely tonight d. None",
+                "What method did Brother Zhu use to provide an alibi in order to kill Lu Zhoutong? a. Pretending to be sick b. Recording programs for playback c. Business trips d. Pretending to be asleep",
+                "How did Brother Zhu kill Lu Zhoutong? a. Poison b. Shooting c. strangulation d. Assassination",
+                "Where did Brother Zhu discard his tools after killing Lu Zhoutong? a. Roof b. Garden c. Toilet d. Basement",
+                "What actions did Brother Zhu take when he infiltrated the live broadcast building that led to the damage of the surveillance footage? a. Remove the camera b. Cut off the power c. Cut off the transmission wire d. Install the jammer",
+                "Why has Zhu's relationship with wheat become distant? a. Wheat got married. B. Wheat changed jobs. C. Wheat no longer likes him. D. Embarrassing experiences",
+                "What is the reason for the monitoring failure of the live broadcast building during the competition? a. Brother Zhu cut the wire. b. System upgrade. c. Weather impact. d. Aging damage",
+                "What type of story does Brother Zhu's program 'Midnight Strange Talk' mainly tell? a. Comedy b. Love c. Horror d. Animation",
+                "What is Brother Zhu's real name? a. Brother Zhu b. Zhu Yizhi c. Zhu Xiaodi d. Zhu Yongjiu",
+                "Why is Brother Zhu liked by his classmates? a. His sense of humor b. His athletic ability c. His storytelling ability d. His academic performance",
+                "What is the name of the program co hosted by Mai Mai and Da Mai? a. Midnight gossip b. Big entertainer c. Don't feel lonely tonight d. Live streaming building",
+                "What method did Brother Zhu use to create an alibi in order to kill Lu Zhoutong? a. Record program playback b. Hire someone to replace c. Go abroad d. Leave",
+                "How did Brother Zhu kill Lu Zhoutong? a. Poisoning death b. Shooting death c. Stranding death d. Assassination death",
+                "Where did Brother Zhu discard the tools used in the crime? a. Roof b. Garden c. Toilet d. Basement",
+                "What is the reason for the monitoring failure of the live broadcast building? a. Aging damage b. System upgrade c. Weather impact d. Brother Zhu cut the wire",
+                "Why is Brother Zhu estranged from Wheat? a. Wheat got married. B. Wheat changed jobs. C. Wheat no longer likes him. D. Embarrassing experiences",
+                "During the period when the monitoring in the live broadcast building was ineffective, where did Brother Zhu make an alibi? a. My own live broadcast room b. Lu Zhoutong's live broadcast room c. Da Jiaoyang's live broadcast room d. Toilet",
+                "What are the main elements included in the program \"Midnight Talk\"? a. Funny clips b. Love stories c. Strange people and supernatural phenomena d. News reports",
+                "What is Brother Zhu's real name? a. Brother Zhu b. Zhu Yizhi c. Zhu Xiaodi d. Zhu Yongjiu",
+                "Why is Brother Zhu popular among his classmates? a. Excellent athletic ability b. Excellent academic performance c. Ability to tell horror stories d. Singing talent",
+                "What is the name of the radio program co hosted by Mai Mai and Da Mai? a. Midnight gossip b. Big entertainer c. Don't feel lonely tonight d. Live streaming building",
+                "What measures did Brother Zhu take to ensure the murder of Lu Zhou while providing an alibi? a. Record program playback b. Hire someone to replace c. Record in advance d. Live broadcast disguise",
+                "What tool did Brother Zhu use to kill Lu Zhoutong? a. Firearms b. Poison c. Wires d. Knives",
+                "Where did Brother Zhu discard his tools after killing Lu Zhoutong? a. Roof b. Garden c. Toilet d. Basement",
+                "What is the direct cause of monitoring failure? a. Aging damage b. System upgrade c. Weather impact d. Brother Zhu cut the wire",
+                "Why has Zhu's relationship with wheat become distant? a. Wheat got married. B. Wheat changed jobs. C. Wheat no longer likes him. D. Embarrassing experiences",
+                "Where did Brother Zhu create an alibi? a. Lu Zhoutong's live broadcast room b. Da Jiaoyang's live broadcast room c. Toilet d. Own live broadcast room",
+                "What are the main elements included in the program \"Midnight Talk\"? a. Funny clips b. Love stories c. Strange people and supernatural phenomena d. News reports",
+                "What is Brother Zhu's real name? a. Brother Zhu b. Zhu Yizhi c. Zhu Xiaodi d. Zhu Yongjiu",
+                "Why is Brother Zhu popular among his classmates? a. Excellent athletic ability b. Excellent academic performance c. Ability to tell horror stories d. Singing talent",
+                "What is the name of the radio program co hosted by Mai Mai and Da Mai? a. Midnight gossip b. Big entertainer c. Don't feel lonely tonight d. Live streaming building",
+                "What measures did Brother Zhu take to ensure the murder of Lu Zhou while providing an alibi? a. Record program playback b. Hire someone to replace c. Record in advance d. Live broadcast disguise",
+                "What tool did Brother Zhu use to kill Lu Zhoutong? a. Firearms b. Poison c. Wires d. Knives",
+                "Where did Brother Zhu discard his tools after killing Lu Zhoutong? a. Roof b. Garden c. Toilet d. Basement",
+                "What is the direct cause of monitoring failure? a. Aging damage b. System upgrade c. Weather impact d. Brother Zhu cut the wire",
+                "Why has Zhu's relationship with wheat become distant? a. Wheat got married. B. Wheat changed jobs. C. Wheat no longer likes him. D. Embarrassing experiences",
+                "Where did Brother Zhu create an alibi? a. Lu Zhoutong's live broadcast room b. Da Jiaoyang's live broadcast room c. Toilet d. Own live broadcast room",
+                "At which time slot is the program 'Midnight Strange Talk' mainly broadcasted? a. Morning b. Afternoon c. Late night d. Early morning",
+                "What is Brother Zhu's real name? a. Brother Zhu b. Zhu Yizhi c. Zhu Xiaodi d. Zhu Yongjiu",
+                "What made Brother Zhu popular at school? a. B. Physical ability b. Academic performance c. Ability to tell horror stories d. Singing talent",
+                "What is the name of the program co hosted by Mai Mai and Da Mai? a. Midnight gossip b. Big entertainer c. Don't feel lonely tonight d. Live streaming building",
+                "What measures did Brother Zhu take to ensure that he provided an alibi while killing Lu Zhou? a. Record program playback b. Hire someone to replace c. Record in advance d. Live broadcast disguise",
+                "What tool did Brother Zhu use to kill Lu Zhoutong? a. Firearms b. Poison c. Wires d. Knives",
+                "Where did Brother Zhu discard the tools used in the crime? a. Roof b. Garden c. Toilet d. Basement",
+                "What did Brother Zhu cut that caused the monitoring to fail? a. Wire b. Transmission wire c. Power cord d. Network cable",
+                "What is the direct reason for the distance between Brother Zhu and Wheat? a. Wheat got married. B. Wheat changed jobs. C. Wheat no longer likes him. D. Embarrassing experiences",
+                "What location did Brother Zhu use when creating an alibi? a. Lu Zhoutong's live broadcast room b. Da Jiaoyang's live broadcast room c. Toilet d. Own live broadcast room"
+            ],
+            "a": [
+                "c",
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "d",
+                "a",
+                "c",
+                "b",
+                "c",
+                "b",
+                "a",
+                "c",
+                "c",
+                "d",
+                "d",
+                "a",
+                "c",
+                "b",
+                "c",
+                "b",
+                "a",
+                "c",
+                "c",
+                "d",
+                "d",
+                "d",
+                "c",
+                "b",
+                "c",
+                "b",
+                "a",
+                "c",
+                "c",
+                "d",
+                "d",
+                "d",
+                "c",
+                "b",
+                "c",
+                "b",
+                "a",
+                "c",
+                "c",
+                "b",
+                "d",
+                "d"
+            ]
+        },
+        {
+            "name": "Da Jiaoyang",
+            "back": " \n《今夜不寂寞》是一档以解决情感、婚姻、家庭问题为主的夜话类节目，开播以来，知性主播扬姐以爱憎分明，快速反应及过硬的分析问题能力，给无数受到各种心理困扰的听众打开迷结。广受欢迎。\n你是大骄扬，但大家更愿意把你叫做杨姐，因为你是许多听众心目中的知心姐姐。你内心挺自豪，因为你的夜话节目在听众中很受欢迎，给许多在感情上、事业上、家庭关系上出现迷茫的人群指点迷津，给他们勇气和力量。\n你热爱你的事业，比起那些浮躁的娱乐广播节目，无论是社会影响力还是你本人的资历，你认为如果广播电台非要选王牌大主播的话，这个名额非你莫属。\n如果非要在你之后再加一个候选人的话，你认为那就是脱口秀节目《今晚脱口秀》的主播陆洲同了他是一个有才华，有幽默感的成熟型男主播，相貌堂堂并且温柔，他的节目也很受欢迎。你和他就是优秀女人与优秀男人的真型代表，当然，最重要的是--他是你的老公。\n你们在工作当中相识，在几年前结婚，很快又有了一个可爱女儿。你拥有一个令人羡慕的幸福的家庭，因为你性格比较强势一些，所以老公对你言听计从，由于家庭幸福，又受到宠爱，你无论心态和身体都显得比真实年龄低很多，至少到今年夏天之前，你认为你的人生都是成功的。\n直到那件事的发生，改变了你的一切。\n某个晚上，老公在洗澡，你在家中随意拿老公的手机拍了一个小视频，那视频拍摄的是你的女儿在画画，视频中女儿非常可爱，于是你顺手就用他的微信发了一个朋友圈附带了这个视频，并写上“真可爱”。你看到了许多点赞和夸赞的留言。\n结果第二天，你却并没有看到那条朋友圈，原来他将那条朋友圈删除掉了。这件事在你心中埋下一个黑色的种子，怀逐渐从你心中蔓延开来--你这才发现他发的朋友圈里都是一些节日祝福啊新闻转载之类的东西，从来没有出现过你和你的女儿，甚至连几年前一起去国外旅游发的朋友圈也被删掉了。\n你主持夜话节目，遇到过无数类似的例子，如果一个男人不意在外人面前展示自己的家庭，那么你就应该警惕了。\n而且，你突然意识到，你们已经有大半年没有恩爱了。你和他虽然在不同的广播频率，但是都是上夜班的节目，回家往往都很迟，所以次数少是正常，但这时问也有点太久了，之前他也往家里带过女学生，但是那学生的长相是猪都不会去的那种。于是，你暗示他了几次，结果，每一次都被他委婉回绝，不是太累就是不在状态，总是要躲避这件事。\n这两件事结合在一起，你的经验告诉你，他外面有人了。\n你是理性成熟的女人，是无数人的精神导师。你深知，在这种局面下，对他挑明去质问是下策中的下策，暗中去调查小三也有失风度，唯一正确的策略是，先挽回他的心，再秋后算。\n想要让男人对你着迷，要么是满足他的胃，要么就是在那方面给他带来惊喜。很遗憾，你不会做饭，唯一能做的，就是在床上征服他。\n然而，床第之事孤掌难鸣，要是你老公一直不在线，你也巧妇难为无米之炊。你想到了你们台的一个主持人--白一清，他是一档深夜医疗节目《健康热线》的常驻嘉宾主持，是国内非常著名的医学博士，在医术上很有造诣，许多听众都是慕名拨打热线求他治病，他开出的方子也医治好了无数人，堪称“神医”，你听说他在节目中推销一款叫做“甚是好”的药，可以激发男性本能，令人欲罢不能。\n但是，这种事情自然不能明着向白一清要，会弄得人尽皆知。于是你假装成热心听众在他的节目里进行求助，向他买了一些\"甚是好\"。\n你的老公肠胃不太好，经常按时吃胃药，于是你偷偷将“甚是好”的药片装入胃药的盒子当中，监督他吃掉。\n然面，这药虽然在广大群众中口碑甚好，但在你老公那里却似乎毫无功效，他依然一挨枕头就呼呼大睡。\n你感到无力，压抑，自己治愈了无数家庭，却无法治愈自己。你为人生的虚假感到怒，开始在节目中对那些打进电话的听众进行大肆悔辱和讽刺，只要是感情问题就建议分手，事业问题就建议辞职，家庭问题就建议离婚，你将自己内心的负面情绪全部发泄给听众，破罐破掉，本以为节目很快会被砍掉，但没想到你的节目竟然火了。\n原来你的这种毒舌的语言风格，非常具有冲突感，听众听得非常爽，节目收听率也是节节攀升，每月绩效考核下来，你都会获得一大笔奖金。\n然而，即便如此，你内心中的压抑和欲望依然无法发泄，你不希望只是在言语上支配羞别人，你需要更加直接的支配和控制。\n次偶然的机会，你在上网查你老公的出轨痕迹时，无意中被一个弹出的广告所吸引，画面中是一个穿着紧身皮衣的外国女人在用鞭子抽打跪倒在她面前的男人，这幅画面吸引到了你，你点击广告进入网站，结果打开了新世界的大门。原来这是一个叫微\"字母圈”的交友的论坛，平台中的用户都在寻找自己的私慕伴侣，而且这里完全是匿名的，只需要缴纳少量的会员费用就可以随意交流。你发现在这个世界中，你完全可以找到你的奴隶，满足你调教的欲望。\n你开始加入其中，约自己的伴侣，由于保护隐私，论坛规定私幕双方都需要隐自己的身份戴面具约会。你第一次约的是一个身材油腻的面具男，你们在\"字母圈\"中约定在一个没有整控的公寓--菜寓，然而，你发现他完全不是他口中的M，而是伪装成M的狠琐大汉，老是想占你便宜，完全不听你任何指令，就特么是想来约炮。你痛骂他一通之后就让他滚蛋了，\n你的第二个伴侣，是一个身材高大的肌肉男，不过他的胳膊上却纹了个滑稽的小苹果，对于他的身材你感到惊喜。他是一个能受得了各种凌辱的男人，你的皮鞭狠狠地抽在他的身上，皮开肉绽，听到他痛苦的叫声你感到非常满足，他也非常聪明，你一个暗示他就知道要做什么。然而，就在某次窒息 PLAY中你却玩脱了，你套在他脑袋上的透明袋子一直忘记拉开，他在挣扎中窒息而亡，你一时之间不知所措，然后反应过来，推门而出，夺路而逃。等你平静下来再回来之时，却惊人地发现躺在地上的尸体不见了。\n你知道这个菜寓经常有一些超自然的传说，会有住户在这里离奇失踪，但你不明白为什么尸体还能失踪。\n好在这个莱寓完全私密，任何人都怀不到你头上。但是,你精心调教的奴隶死了,你又得“换新衣”。这一次，你约到一个身材适中的年轻男人，他一开始非常生涩，但在你的调教之下逐渐适应了你的女王风格。这一次，你吸取了上次的教训，在不把他弄得重伤甚至死亡的前提下，将施虐手段发挥到了极致，他也完全享受在受虑的快感当中，你们成了一对非常和谐的主仆。\n这种感觉令你充实，你会给他洗澡，并且你会穿上警服，把他当做囚犯进行调教，当然，警服你是不能放在家里的，你怕你女儿发现，于是警服和手钱你都保存在直播间的柜子里。你会在本上记录下你调教的过程“自从上次那只宠物死掉后，我很久都没再养宠物，没想到这只却非常可爱，我不能再犯上次的错了。\"“今天我给我的宠物洗了澡，它表现得非常好，一会要给它奖励“\n你重新找到符合自己女皇式的生活方式，你还专门在你们电台的音乐节目《超级点歌台》中，让主播李小菓点了一首《女皇的新衣》，你觉得那是对你生活的完美诠释。然而某个雨夜，你发现你的办公桌上放了一个匿名的信封，打开它后你大吃一惊，里面竟然是你在旅馆调教仆人的视频截图，虽然照片中的你带着面具，但是既然照片被放在你桌上，这个家伙显然已经知道了你的身份。照片的背后用印刷体印着留言:如果你还想继续你这份体面工作，就净身出户吧，并且你要放弃挑战\"王牌大主播\"挑战赛。你脸色大变，你老公已经发现了你的事情。本来你这天约好和你的“宠物\"见面，不得已只好放他鸽子。\n你心有不甘，明明是他先出轨的，现在却要你净身出户，你付出了多少心血才坐上今天这位置，怎么能任他摆布?你对陆洲同起了杀心。\n你的竟争对手有六个人，除去你老公之外，分别是《午夜怪读》主播朱大哥、《超级点歌台》主播李小菓、《大娱乐家》主播大迈、小麦、《健康热线》嘉宾主播白一清。\n坐以特毙并不是你的风格，你是电台女王，黄金宝座岂容外人染指，而且，你不想有把落在别人手里，否则后患无穷。你的策略是，尽快找到那个威胁到你的人，然后在决赛日当天，让那位不知好歹的主播为此付出血的代价。\n今天，就是你们决赛的日子了，傍晚时分忽然下起的大雨让你心中的阴霾更甚。你一早来到了电台演播大厅，在这里，你看到了与你一同竞争王牌大主播的其饱选手。\nx直播大楼是一个俯视着像x形状的大楼，共有6个直播间，每一个直播间到大厅都有相同长度的走廊。其中1号直播间(陆洲同)和2号直播间(你的直播间)是相邻的，中间有玻璃窗户，相互能看到却无法通过，是需要导播的节目用的。5号直播问(大迈小麦)和6号直播间(一清)也是相同的构造。\n比赛将在晚上9点正式开始，你们几位选手将分别进入不同的直播间，同步进行广播直播，最终收听率最高的选手就将成为电台的王牌大主播，拥有无上的荣耀。\n在大厅休息的那段时间，你听到一则消息:直播大楼的监控电路这两天坏掉了，正在检修。在直播过程中大楼内除了参赛者之外不会再有外人。这对你来说是一个千载难逢的好机会。\n你的计划:你决定在《今夜不寂寞》直播期间去找你的老公并且让他死在直播的过程当中，而如果同一时间你的节目还是正常直播，你就会拥有坚固的不在场证明。于是，你联系了你的“宠物\"，把你自己的经历告诉他，并让他今天晚上9点拨打热线《今夜不寂寞》，请主持人给他指点迷津。你和他虽然没有见过面，但交流你中发现他不绝挺能说的，每次都能说上十几分钟，那就足够你杀人的一个来回了。\n你的时间线:9点，你的节目正式开始，透过透明玻璃，你看到陆洲同的直播间漆黑-片，不喜欢开灯是他的一个习惯，于是你也把灯关掉了。你开始一边直播一边等电话，你接了好几个电话都不是“宠物”打来的，你感到焦躁。几分钟后终于电话来了，这次是你的“宠物\"，你随便几句之后他便开始了冗长的讲述。你趁此机会离开直播间，手里拿着你调教时用的皮鞭。你穿过长长的幽暗走廊径直朝陆洲同的直播间匆匆赶去。就在你到达大厅的时候，忽然发现大厅竟然有个黑影在鬼鬼祟祟地晃荡，在黑影即将发现你时你猫着腰顺势拐进了厕所，找了个隔间蹲下来。\n又过了几分钟，你听不见动静了，正要起身，忽然从下面门缝看到一个穿着双白色球鞋的人快速跑入厕所蹲到了你隔壁间。没过多久你就听到噼里啪啦的一泻千里的声音，然后一股恶臭扑鼻而来。\n你快要窒息了，急忙逃也似的离开了洗手间。由于你在洗手间耽误了一段时间，再去进行谋杀已来不及。于是你赶紧按原路返回了自己的直播间，你的“宠物\"恰好说完了你的故事，你成功地续上了直播。此时时间已将近9点半，半点休息时间。这时你想起你的皮鞭落在了厕所里，可此时你已经来不及取了，\n就在这时，你突然接到电话，是保安打来的，说是你的老公陆洲同在直播时遭人杀害，同步直播挑战赛就此中断。你来到大厅和其他主播汇合，而白一清是最后一个到的。由于你老公被杀期间直播大楼内只有你们这些参赛选手，外人不可能出入，因此警方认定凶手必定在你们这些人当中。\n",
+            "r_q": [
+                {
+                    "q": "What kind of problems does the program 'Don't Be Lonely Tonight' mainly solve? a. Education issues b. Emotional, marital, and family issues c. Workplace issues d. Health issues",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why do the audience prefer to call the host Da Jiaoyang? a. Big sister b. Yang sister c. Xiao Yang d. Yang Da",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of program does Lu Zhoutong host? a. Emotional Night Talk b. Talk Show c. News Commentary d. Music Broadcasting",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of friend circle content did Da Jiaoyang discover that Lu Zhoutong deleted? a. Festival wishes b. News reposts c. Family photos d. Travel photos",
+                    "ans": "c"
+                },
+                {
+                    "q": "What kind of medication did Da Jiaoyang purchase in an attempt to win her husband's heart? a. Vitamin B. Brain tonics C. Immune boosting drugs D. Very good",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the program name of Bai Yiqing on the radio? a. Tonight is not lonely. b. Tonight's talk show. c. Health hotline. d. Super music channel",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which platform did Da Jiaoyang start her queen lifestyle? a. Alphabet circle b. Weibo c. Facebook d. Twitter",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which partner did Da Jiaoyang accidentally kill during the training process? a. First b. Second c. Third d. Fourth",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the approximate time when Lu Zhoutong was found dead? a. 8:00 b. 9:00 c. 9:30 d. 10:00",
+                    "ans": "c"
+                },
+                {
+                    "q": "What's the weather like on the day of the radio finals? a. Sunny day b. Strong wind c. Heavy rain d. Cloudy day",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of program is' Don't Be Lonely Tonight '? a. Health consultation b. Talk show c. Emotional night talk d. Music broadcasting",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why does Da Jiaoyang think her husband may have someone outside? a. Because he deleted his friends' circle related to family. b. Because he always works overtime. c. Because he often comes home late. d. Because he no longer takes photos of his family",
+                    "ans": "a"
+                },
+                {
+                    "q": "What methods did Da Jiaoyang try to use to win back her husband's heart? a. Cooking b. Giving gifts c. Taking \"really good\" medication d. Consulting a psychologist",
+                    "ans": "c"
+                },
+                {
+                    "q": "On which platform did Da Jiaoyang start her queen lifestyle? a. Twitter b. Facebook c. Alphabet circle d. Weibo",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which partner did Da Jiaoyang accidentally kill? a. First b. Second c. Third d. Fourth",
+                    "ans": "b"
+                },
+                {
+                    "q": "What threat did Da Jiaoyang receive after discovering that her training video had been leaked? a. Leaving the radio station b. Abandoning the challenge c. Leaving the home clean d. All options",
+                    "ans": "d"
+                },
+                {
+                    "q": "When was the approximate time when Lu Zhoutong was found murdered in his live broadcast room? a. 8:00 b. 8:30 c. 9:00 d. 9:30",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the status of the monitoring system inside the radio building on the final day? a. Intact b. Damaged c. Under maintenance d. Not mentioned",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who does Da Jiaoyang think her husband is a competitor to? a. Midnight Monster Reading anchor b. Health Hotline guest c. Super Song Channel anchor d. All options",
+                    "ans": "d"
+                },
+                {
+                    "q": "What clothing does Da Jiaoyang use for training? a. Maid attire B. Police uniform C. Nurse uniform D. Student uniform",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the type of program 'Don't Be Lonely Tonight'? a. Emotional Night Talk b. Health Consultation c. Music Broadcasting d. News Commentary",
+                    "ans": "a"
+                },
+                {
+                    "q": "What types of problems does Da Jiaoyang's night talk program solve among listeners? a. Workplace issues b. Emotional, marital, and family issues c. Health issues d. Education issues",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which anchor is considered an excellent representative of Da Jiaoyang on the radio? a. Bai Yiqing b. Li Xiaoguo c. Lu Zhoutong d. Zhu Big Brother",
+                    "ans": "c"
+                },
+                {
+                    "q": "What did Da Jiaoyang suspect her husband of deleting content from his social circle? a. Not wanting to disclose family life. b. Social media account issues. c. Insufficient phone memory. d. Not liking social media",
+                    "ans": "a"
+                },
+                {
+                    "q": "What method did Da Jiaoyang use to try to win her husband's heart? a. Learn cooking b. Improve communication c. Use \"very good\" medication d. Consult a marriage counselor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What platform did Da Jiaoyang start her queen lifestyle on? a. Alphabet circle b. Weibo c. Facebook d. Twitter",
+                    "ans": "a"
+                },
+                {
+                    "q": "In the story of 'Tonight is Not Lonely', which partner did Da Jiaoyang accidentally kill? a. First b. Second c. Third d. Fourth",
+                    "ans": "b"
+                },
+                {
+                    "q": "What style unexpectedly made Da Jiaoyang's night talk show popular? a. Tongue teasing style b. Gentle style c. Professional style d. Humorous style",
+                    "ans": "a"
+                },
+                {
+                    "q": "What kind of clothing does Da Jiaoyang wear for training? a. Maid costume b. Nurse uniform c. Police uniform d. Student uniform",
+                    "ans": "c"
+                },
+                {
+                    "q": "What weather conditions will the radio finals take place on? a. Sunny day b. Strong wind c. Heavy rain d. Snowy day",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of problem did Da Jiaoyang in the program \"Tonight is Not Lonely\" initially become popular for? a. Education issues b. Emotional, marital, and family issues c. Workplace issues d. Health issues",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did Da Jiaoyang start to suspect her husband of having an affair? a. He deleted his family related friends circle. b. He came home late. c. He often worked overtime. d. He started to neglect her",
+                    "ans": "a"
+                },
+                {
+                    "q": "What method did Da Jiaoyang use to try to win her husband's heart? a. Cooking b. Giving gifts c. Using \"very good\" medication d. Consulting a psychologist",
+                    "ans": "c"
+                },
+                {
+                    "q": "What style unexpectedly made the program 'Don't Be Lonely Tonight' popular? a. Tongue teasing style b. Gentle style c. Professional style d. Humorous style",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who was Da Jiaoyang's partner whom she accidentally killed? a. First b. Second c. Third d. Fourth",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who does Da Jiaoyang consider his biggest competitor in radio competition? a. Bai Yiqing b. Li Xiaoguo c. Da Mai d. Lu Zhoutong",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the status of the monitoring system in the live broadcast building on the final day? a. Intact b. Damaged c. Under maintenance d. Not mentioned",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why did Da Jiaoyang decide to kill Lu Zhoutong? a. Because she believed he had cheated. b. Because she couldn't accept his success. c. Because she received threats. d. Because he knew her secret",
+                    "ans": "d"
+                },
+                {
+                    "q": "How did Da Jiaoyang use live streaming to create an alibi? a. By phone connection b. By automatic recording c. By having someone else replace d. By simulating sound effects",
+                    "ans": "a"
+                },
+                {
+                    "q": "What unexpected event happened on the final day? a. Monitoring system malfunction b. Explosion in live broadcast room c. Lu Zhoutong was killed d. Da Jiaoyang was arrested",
+                    "ans": "c"
+                },
+                {
+                    "q": "What style first made Da Jiaoyang popular on the program \"Tonight is Not Lonely\"? a. Tongue teasing style b. Gentle style c. Professional style d. Humorous style",
+                    "ans": "a"
+                },
+                {
+                    "q": "Da Jiaoyang suspects that her husband deleted the content of his friend circle for what reason? a. Not wanting to disclose family life. b. Social media account issues. c. Insufficient phone memory. d. Not liking social media",
+                    "ans": "a"
+                },
+                {
+                    "q": "What medicine did Da Jiaoyang buy to win back her husband's heart? a. Vitamin B. Brain tonics C. Immune boosting drugs D. Very good",
+                    "ans": "d"
+                },
+                {
+                    "q": "On which platform did Da Jiaoyang's training activity first occur? a. Alphabet circle b. Weibo c. Facebook d. Twitter",
+                    "ans": "a"
+                },
+                {
+                    "q": "How many partners did Da Jiaoyang accidentally kill in 'Tonight's Not Lonely'? a. First b. Second c. Third d. Fourth",
+                    "ans": "b"
+                },
+                {
+                    "q": "What clothing is Da Jiaoyang wearing for training? a. Maid attire B. Police uniform C. Nurse uniform D. Student uniform",
+                    "ans": "b"
+                },
+                {
+                    "q": "In the competition of radio stations, besides Da Jiaoyang, who else are her competitors? a. White Clear b. Li Xiaoguo c. Da Mai and Wheat d. All Options",
+                    "ans": "d"
+                },
+                {
+                    "q": "Why did Da Jiaoyang decide to kill Lu Zhoutong? a. He had an affair. B. Her program ratings dropped. C. He found out her secret. D. She couldn't accept his success",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did Da Jiaoyang create her alibi? a. Let someone else replace b. Pre recorded program c. Telephone connection d. Simulating through sound effects",
+                    "ans": "c"
+                },
+                {
+                    "q": "What unexpected event occurred during the maintenance of the monitoring system in the live broadcast building? a. Live streaming equipment malfunction b. Explosion in live streaming room c. Lu Zhoutong was killed d. Da Jiaoyang was arrested",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What kind of problems does the program 'Don't Be Lonely Tonight' mainly solve? a. Education issues b. Emotional, marital, and family issues c. Workplace issues d. Health issues",
+                "Why do the audience prefer to call the host Da Jiaoyang? a. Big sister b. Yang sister c. Xiao Yang d. Yang Da",
+                "What type of program does Lu Zhoutong host? a. Emotional Night Talk b. Talk Show c. News Commentary d. Music Broadcasting",
+                "What type of friend circle content did Da Jiaoyang discover that Lu Zhoutong deleted? a. Festival wishes b. News reposts c. Family photos d. Travel photos",
+                "What kind of medication did Da Jiaoyang purchase in an attempt to win her husband's heart? a. Vitamin B. Brain tonics C. Immune boosting drugs D. Very good",
+                "What is the program name of Bai Yiqing on the radio? a. Tonight is not lonely. b. Tonight's talk show. c. Health hotline. d. Super music channel",
+                "On which platform did Da Jiaoyang start her queen lifestyle? a. Alphabet circle b. Weibo c. Facebook d. Twitter",
+                "Which partner did Da Jiaoyang accidentally kill during the training process? a. First b. Second c. Third d. Fourth",
+                "What was the approximate time when Lu Zhoutong was found dead? a. 8:00 b. 9:00 c. 9:30 d. 10:00",
+                "What's the weather like on the day of the radio finals? a. Sunny day b. Strong wind c. Heavy rain d. Cloudy day",
+                "What type of program is' Don't Be Lonely Tonight '? a. Health consultation b. Talk show c. Emotional night talk d. Music broadcasting",
+                "Why does Da Jiaoyang think her husband may have someone outside? a. Because he deleted his friends' circle related to family. b. Because he always works overtime. c. Because he often comes home late. d. Because he no longer takes photos of his family",
+                "What methods did Da Jiaoyang try to use to win back her husband's heart? a. Cooking b. Giving gifts c. Taking \"really good\" medication d. Consulting a psychologist",
+                "On which platform did Da Jiaoyang start her queen lifestyle? a. Twitter b. Facebook c. Alphabet circle d. Weibo",
+                "Which partner did Da Jiaoyang accidentally kill? a. First b. Second c. Third d. Fourth",
+                "What threat did Da Jiaoyang receive after discovering that her training video had been leaked? a. Leaving the radio station b. Abandoning the challenge c. Leaving the home clean d. All options",
+                "When was the approximate time when Lu Zhoutong was found murdered in his live broadcast room? a. 8:00 b. 8:30 c. 9:00 d. 9:30",
+                "What is the status of the monitoring system inside the radio building on the final day? a. Intact b. Damaged c. Under maintenance d. Not mentioned",
+                "Who does Da Jiaoyang think her husband is a competitor to? a. Midnight Monster Reading anchor b. Health Hotline guest c. Super Song Channel anchor d. All options",
+                "What clothing does Da Jiaoyang use for training? a. Maid attire B. Police uniform C. Nurse uniform D. Student uniform",
+                "What is the type of program 'Don't Be Lonely Tonight'? a. Emotional Night Talk b. Health Consultation c. Music Broadcasting d. News Commentary",
+                "What types of problems does Da Jiaoyang's night talk program solve among listeners? a. Workplace issues b. Emotional, marital, and family issues c. Health issues d. Education issues",
+                "Which anchor is considered an excellent representative of Da Jiaoyang on the radio? a. Bai Yiqing b. Li Xiaoguo c. Lu Zhoutong d. Zhu Big Brother",
+                "What did Da Jiaoyang suspect her husband of deleting content from his social circle? a. Not wanting to disclose family life. b. Social media account issues. c. Insufficient phone memory. d. Not liking social media",
+                "What method did Da Jiaoyang use to try to win her husband's heart? a. Learn cooking b. Improve communication c. Use \"very good\" medication d. Consult a marriage counselor",
+                "What platform did Da Jiaoyang start her queen lifestyle on? a. Alphabet circle b. Weibo c. Facebook d. Twitter",
+                "In the story of 'Tonight is Not Lonely', which partner did Da Jiaoyang accidentally kill? a. First b. Second c. Third d. Fourth",
+                "What style unexpectedly made Da Jiaoyang's night talk show popular? a. Tongue teasing style b. Gentle style c. Professional style d. Humorous style",
+                "What kind of clothing does Da Jiaoyang wear for training? a. Maid costume b. Nurse uniform c. Police uniform d. Student uniform",
+                "What weather conditions will the radio finals take place on? a. Sunny day b. Strong wind c. Heavy rain d. Snowy day",
+                "What type of problem did Da Jiaoyang in the program \"Tonight is Not Lonely\" initially become popular for? a. Education issues b. Emotional, marital, and family issues c. Workplace issues d. Health issues",
+                "Why did Da Jiaoyang start to suspect her husband of having an affair? a. He deleted his family related friends circle. b. He came home late. c. He often worked overtime. d. He started to neglect her",
+                "What method did Da Jiaoyang use to try to win her husband's heart? a. Cooking b. Giving gifts c. Using \"very good\" medication d. Consulting a psychologist",
+                "What style unexpectedly made the program 'Don't Be Lonely Tonight' popular? a. Tongue teasing style b. Gentle style c. Professional style d. Humorous style",
+                "Who was Da Jiaoyang's partner whom she accidentally killed? a. First b. Second c. Third d. Fourth",
+                "Who does Da Jiaoyang consider his biggest competitor in radio competition? a. Bai Yiqing b. Li Xiaoguo c. Da Mai d. Lu Zhoutong",
+                "What is the status of the monitoring system in the live broadcast building on the final day? a. Intact b. Damaged c. Under maintenance d. Not mentioned",
+                "Why did Da Jiaoyang decide to kill Lu Zhoutong? a. Because she believed he had cheated. b. Because she couldn't accept his success. c. Because she received threats. d. Because he knew her secret",
+                "How did Da Jiaoyang use live streaming to create an alibi? a. By phone connection b. By automatic recording c. By having someone else replace d. By simulating sound effects",
+                "What unexpected event happened on the final day? a. Monitoring system malfunction b. Explosion in live broadcast room c. Lu Zhoutong was killed d. Da Jiaoyang was arrested",
+                "What style first made Da Jiaoyang popular on the program \"Tonight is Not Lonely\"? a. Tongue teasing style b. Gentle style c. Professional style d. Humorous style",
+                "Da Jiaoyang suspects that her husband deleted the content of his friend circle for what reason? a. Not wanting to disclose family life. b. Social media account issues. c. Insufficient phone memory. d. Not liking social media",
+                "What medicine did Da Jiaoyang buy to win back her husband's heart? a. Vitamin B. Brain tonics C. Immune boosting drugs D. Very good",
+                "On which platform did Da Jiaoyang's training activity first occur? a. Alphabet circle b. Weibo c. Facebook d. Twitter",
+                "How many partners did Da Jiaoyang accidentally kill in 'Tonight's Not Lonely'? a. First b. Second c. Third d. Fourth",
+                "What clothing is Da Jiaoyang wearing for training? a. Maid attire B. Police uniform C. Nurse uniform D. Student uniform",
+                "In the competition of radio stations, besides Da Jiaoyang, who else are her competitors? a. White Clear b. Li Xiaoguo c. Da Mai and Wheat d. All Options",
+                "Why did Da Jiaoyang decide to kill Lu Zhoutong? a. He had an affair. B. Her program ratings dropped. C. He found out her secret. D. She couldn't accept his success",
+                "How did Da Jiaoyang create her alibi? a. Let someone else replace b. Pre recorded program c. Telephone connection d. Simulating through sound effects",
+                "What unexpected event occurred during the maintenance of the monitoring system in the live broadcast building? a. Live streaming equipment malfunction b. Explosion in live streaming room c. Lu Zhoutong was killed d. Da Jiaoyang was arrested"
+            ],
+            "a": [
+                "b",
+                "b",
+                "b",
+                "c",
+                "d",
+                "c",
+                "a",
+                "b",
+                "c",
+                "c",
+                "c",
+                "a",
+                "c",
+                "c",
+                "b",
+                "d",
+                "d",
+                "c",
+                "d",
+                "b",
+                "a",
+                "b",
+                "c",
+                "a",
+                "c",
+                "a",
+                "b",
+                "a",
+                "c",
+                "c",
+                "b",
+                "a",
+                "c",
+                "a",
+                "b",
+                "d",
+                "c",
+                "d",
+                "a",
+                "c",
+                "a",
+                "a",
+                "d",
+                "a",
+                "b",
+                "b",
+                "d",
+                "c",
+                "c",
+                "c"
+            ]
+        },
+        {
+            "name": "Da Mai",
+            "back": "The Big Entertainer \"is a humorous variety show with an interactive theme. The main participation methods of the show are SMS platforms, Weibo hot posts, and hotline calls. The show is widely praised by young people for its relaxed and humorous style and youthful interactive style. The hosts are Da Ai Dou Da Mai and Xiao Mei Mei Mai, and the daily fixed topic discussions bring different entertainment experiences to everyone.",
+            "r_q": [
+                {
+                    "q": "What type of program is' Big Entertainer '? a. Reality shows b. Comedy variety shows c. Emotional conversations d. Music programs",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Da Mai's major? a. Broadcasting and Television major b. Computer Science c. Economics d. Physical Education",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which radio host is Lu Zhoutong from? a. Z radio b. X radio c. Y radio d. W radio",
+                    "ans": "b"
+                },
+                {
+                    "q": "What career did Da Mai initially want to pursue? a. Radio host b. Appearing on TV host c. Actor d. Screenwriter",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why is Da Mai's girlfriend called an animal name? a. Kitten b. Puppy c. Hairy Crab d. Chick",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did Da Mai get the job opportunity at X Radio? a. Formal interview b. Honest performance c. Falsehood d. Threatening Lu Zhoutong",
+                    "ans": "c"
+                },
+                {
+                    "q": "What methods does Da Mai use to maintain live streaming when he has to leave? a. Pre recorded program b. Please serve as a substitute host c. Mobile hands-free intercom d. Music playback",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the time when Lu Zhoutong was found killed during the live broadcast? a. 9:00am b. 9:30pm c. 10:00pm d. 10:30pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the metaphor made by Da Mai for hairy crabs? a. You are my moon b. I am your Yangcheng Lake c. I am your guardian star d. You are my sun",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who did Da Mai ultimately become boyfriend and girlfriend with? a. Hairy crab b. wheat c. daughter of Lu Zhoutong d. none",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are the main ways of participating in 'The Great Entertainer'? a. TV audience voting b. SMS platform and hotline c. Online live streaming interaction d. Offline audience participation",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why was Da Mai evaluated at school? a. Best Actor b. School Grass c. Best Student d. Best Athlete",
+                    "ans": "b"
+                },
+                {
+                    "q": "What makes Lu Zhoutong's most admired student special? a. Appearance b. Acting c. Broadcasting talent d. Writing ability",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did Da Mai attempt to threaten Lu Zhoutong? a. Money bribery b. Academic smearing c. Using girlfriend d. Stealing personal information",
+                    "ans": "c"
+                },
+                {
+                    "q": "What relationship did Da Mai ultimately establish with hairy crabs? a. Colleague b. Friend c. Boyfriend d. Enemy",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is Da Mai's partner on the program 'Big Entertainer'? a. Hairy crab b. continental common c. wheat d. white and clear",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did Da Mai successfully enter X radio station to work? a. Excellent interview b. Academic performance c. Lies d. Acting skills",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Da Mai's romantic metaphor for hairy crabs? a. You are my moon b. I am your Yangcheng Lake c. I am your guardian star d. You are my sun",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why do hairy crabs think that Da Mai doesn't care about her appearance? a. Because he always praises her. b. Because he has established a relationship with her. c. Because he helps her. d. Because he has brought her job opportunities",
+                    "ans": "b"
+                },
+                {
+                    "q": "What temporary measures did Da Mai take during the live broadcast to continue the program? a. Pre recorded content playback b. Music playback c. Mobile hands-free intercom d. Inviting guests to improvise performances",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is Da Mai's partner in the live broadcast program 'Big Entertainer'? a. Hairy crab b. continental common c. wheat d. white and clear",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why did Da Mai use his girlfriend to approach Lu Zhoutong? a. For friendship b. For job opportunities c. For money d. For entertainment",
+                    "ans": "b"
+                },
+                {
+                    "q": "What did the relationship between Da Mai and hairy crabs ultimately develop into? a. Colleague b. Friend c. Boyfriend d. Enemy",
+                    "ans": "c"
+                },
+                {
+                    "q": "What method did Da Mai ultimately use to ensure entry into X radio station for work? a. Excellent interviews b. Acting skills and lies c. Academic performance d. Financial bribery",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Da Mai look during his school years? a. Ordinary b. handsome c. indecent d. old demeanor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did Da Mai decide to switch careers and pursue a career in broadcasting? a. He likes broadcasting. b. He is afraid of the camera. c. He has poor language organization skills. d. His appearance cannot be displayed on the radio",
+                    "ans": "d"
+                },
+                {
+                    "q": "What are the main ways in which the program \"Big Entertainer\" interacts? a. TV audience voting b. SMS platform and hotline c. Online live streaming interaction d. Offline audience participation",
+                    "ans": "b"
+                },
+                {
+                    "q": "How is Da Mai considered academically? a. Excellent b. Average c. Poor d. Excellent",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was Lu Zhoutong killed? a. 9:00am b. 9:30pm c. 10:00pm d. 10:30pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What measures did Da Mai take during the live broadcast to continue the program? a. Pre recorded content playback b. Music playback c. Mobile hands-free intercom d. Inviting guests to improvise performances",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is Da Mai's partner on the program 'Big Entertainer'? a. Hairy crab b. continental common c. wheat d. white and clear",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the main interactive methods of the program 'Big Entertainer'? a. TV audience voting b. SMS platform and hotline c. Online live streaming interaction d. Offline audience participation",
+                    "ans": "b"
+                },
+                {
+                    "q": "On which radio station is Lu Zhoutong's professional reputation reflected? a. Y radio b. X radio c. Z radio d. W radio",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Da Mai successfully enter X Radio? a. Excellent interview b. Academic performance c. Lies d. Acting skills",
+                    "ans": "c"
+                },
+                {
+                    "q": "How is Da Mai's girlfriend, Hairy Crab, described? a. Gentle as the moon b. Yangcheng Lake c. Guardian star d. Beautiful as an immortal",
+                    "ans": "d"
+                },
+                {
+                    "q": "When was the specific time when Lu Zhoutong was killed? a. 9:00am b. 9:30pm c. 10:00pm d. 10:30pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What methods does Da Mai use to maintain live streaming when he has to leave? a. Pre recorded program b. Please serve as a substitute host c. Mobile hands-free intercom d. Music playback",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why is Lu Zhou popular among the student community? a. Hilarious content b. in-depth discussion c. wonderful performance d. educational significance",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the role relationship between Da Mai and Da Zha Crab in \"The Great Entertainer\"? a. Colleague b. Friend c. Boyfriend d. Enemy",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why did Da Mai choose to enter the broadcasting industry? a. Love broadcasting b. Afraid of appearing on screen c. Poor professional skills d. Poor language organization ability",
+                    "ans": "d"
+                },
+                {
+                    "q": "What career did Da Mai originally want to pursue before switching to broadcasting and television? a. Appearing as a TV host b. Screenwriter c. Actor d. Director",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the reason why Luzhou is popular among students? a. His sense of humor b. His teaching style c. His program content d. His appearance",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why did Da Mai ultimately decide to enter the broadcasting industry? a. Because he enjoys broadcasting. b. Because he is afraid of the camera. c. Because his language organization skills are poor. d. Because his appearance cannot be displayed on the radio",
+                    "ans": "d"
+                },
+                {
+                    "q": "What caused Da Mai's girlfriend, Hairy Crab, to be bullied at school? a. Her voice b. Her appearance c. Her grades d. Her family background",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Da Mai enter X radio station? a. Through formal interviews, b. Through threatening Lu Zhou, c. Through acting and lies, d. Through professional performance",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the specific time when Lu Zhoutong was killed? a. 9:00am b. 9:30pm c. 10:00pm d. 10:30pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What method did Da Mai use to continue live streaming when needed to leave? a. Pre recorded program b. Please serve as a substitute host c. Mobile hands-free intercom d. Music playback",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who are the students that Lu Zhoutong takes special care of in his teaching? a. Da Mai b. hairy crab c. wheat d. white and clear",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who is Da Mai's partner in the program 'Big Entertainer'? a. Hairy crab b. continental common c. wheat d. white and clear",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why did Da Mai use his girlfriend to approach Lu Zhoutong? a. For money b. For job opportunities c. For entertainment d. For revenge",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What type of program is' Big Entertainer '? a. Reality shows b. Comedy variety shows c. Emotional conversations d. Music programs",
+                "What is Da Mai's major? a. Broadcasting and Television major b. Computer Science c. Economics d. Physical Education",
+                "Which radio host is Lu Zhoutong from? a. Z radio b. X radio c. Y radio d. W radio",
+                "What career did Da Mai initially want to pursue? a. Radio host b. Appearing on TV host c. Actor d. Screenwriter",
+                "Why is Da Mai's girlfriend called an animal name? a. Kitten b. Puppy c. Hairy Crab d. Chick",
+                "How did Da Mai get the job opportunity at X Radio? a. Formal interview b. Honest performance c. Falsehood d. Threatening Lu Zhoutong",
+                "What methods does Da Mai use to maintain live streaming when he has to leave? a. Pre recorded program b. Please serve as a substitute host c. Mobile hands-free intercom d. Music playback",
+                "What was the time when Lu Zhoutong was found killed during the live broadcast? a. 9:00am b. 9:30pm c. 10:00pm d. 10:30pm",
+                "What is the metaphor made by Da Mai for hairy crabs? a. You are my moon b. I am your Yangcheng Lake c. I am your guardian star d. You are my sun",
+                "Who did Da Mai ultimately become boyfriend and girlfriend with? a. Hairy crab b. wheat c. daughter of Lu Zhoutong d. none",
+                "What are the main ways of participating in 'The Great Entertainer'? a. TV audience voting b. SMS platform and hotline c. Online live streaming interaction d. Offline audience participation",
+                "Why was Da Mai evaluated at school? a. Best Actor b. School Grass c. Best Student d. Best Athlete",
+                "What makes Lu Zhoutong's most admired student special? a. Appearance b. Acting c. Broadcasting talent d. Writing ability",
+                "How did Da Mai attempt to threaten Lu Zhoutong? a. Money bribery b. Academic smearing c. Using girlfriend d. Stealing personal information",
+                "What relationship did Da Mai ultimately establish with hairy crabs? a. Colleague b. Friend c. Boyfriend d. Enemy",
+                "Who is Da Mai's partner on the program 'Big Entertainer'? a. Hairy crab b. continental common c. wheat d. white and clear",
+                "How did Da Mai successfully enter X radio station to work? a. Excellent interview b. Academic performance c. Lies d. Acting skills",
+                "What is Da Mai's romantic metaphor for hairy crabs? a. You are my moon b. I am your Yangcheng Lake c. I am your guardian star d. You are my sun",
+                "Why do hairy crabs think that Da Mai doesn't care about her appearance? a. Because he always praises her. b. Because he has established a relationship with her. c. Because he helps her. d. Because he has brought her job opportunities",
+                "What temporary measures did Da Mai take during the live broadcast to continue the program? a. Pre recorded content playback b. Music playback c. Mobile hands-free intercom d. Inviting guests to improvise performances",
+                "Who is Da Mai's partner in the live broadcast program 'Big Entertainer'? a. Hairy crab b. continental common c. wheat d. white and clear",
+                "Why did Da Mai use his girlfriend to approach Lu Zhoutong? a. For friendship b. For job opportunities c. For money d. For entertainment",
+                "What did the relationship between Da Mai and hairy crabs ultimately develop into? a. Colleague b. Friend c. Boyfriend d. Enemy",
+                "What method did Da Mai ultimately use to ensure entry into X radio station for work? a. Excellent interviews b. Acting skills and lies c. Academic performance d. Financial bribery",
+                "How did Da Mai look during his school years? a. Ordinary b. handsome c. indecent d. old demeanor",
+                "Why did Da Mai decide to switch careers and pursue a career in broadcasting? a. He likes broadcasting. b. He is afraid of the camera. c. He has poor language organization skills. d. His appearance cannot be displayed on the radio",
+                "What are the main ways in which the program \"Big Entertainer\" interacts? a. TV audience voting b. SMS platform and hotline c. Online live streaming interaction d. Offline audience participation",
+                "How is Da Mai considered academically? a. Excellent b. Average c. Poor d. Excellent",
+                "When was Lu Zhoutong killed? a. 9:00am b. 9:30pm c. 10:00pm d. 10:30pm",
+                "What measures did Da Mai take during the live broadcast to continue the program? a. Pre recorded content playback b. Music playback c. Mobile hands-free intercom d. Inviting guests to improvise performances",
+                "Who is Da Mai's partner on the program 'Big Entertainer'? a. Hairy crab b. continental common c. wheat d. white and clear",
+                "What are the main interactive methods of the program 'Big Entertainer'? a. TV audience voting b. SMS platform and hotline c. Online live streaming interaction d. Offline audience participation",
+                "On which radio station is Lu Zhoutong's professional reputation reflected? a. Y radio b. X radio c. Z radio d. W radio",
+                "How did Da Mai successfully enter X Radio? a. Excellent interview b. Academic performance c. Lies d. Acting skills",
+                "How is Da Mai's girlfriend, Hairy Crab, described? a. Gentle as the moon b. Yangcheng Lake c. Guardian star d. Beautiful as an immortal",
+                "When was the specific time when Lu Zhoutong was killed? a. 9:00am b. 9:30pm c. 10:00pm d. 10:30pm",
+                "What methods does Da Mai use to maintain live streaming when he has to leave? a. Pre recorded program b. Please serve as a substitute host c. Mobile hands-free intercom d. Music playback",
+                "Why is Lu Zhou popular among the student community? a. Hilarious content b. in-depth discussion c. wonderful performance d. educational significance",
+                "What is the role relationship between Da Mai and Da Zha Crab in \"The Great Entertainer\"? a. Colleague b. Friend c. Boyfriend d. Enemy",
+                "Why did Da Mai choose to enter the broadcasting industry? a. Love broadcasting b. Afraid of appearing on screen c. Poor professional skills d. Poor language organization ability",
+                "What career did Da Mai originally want to pursue before switching to broadcasting and television? a. Appearing as a TV host b. Screenwriter c. Actor d. Director",
+                "What is the reason why Luzhou is popular among students? a. His sense of humor b. His teaching style c. His program content d. His appearance",
+                "Why did Da Mai ultimately decide to enter the broadcasting industry? a. Because he enjoys broadcasting. b. Because he is afraid of the camera. c. Because his language organization skills are poor. d. Because his appearance cannot be displayed on the radio",
+                "What caused Da Mai's girlfriend, Hairy Crab, to be bullied at school? a. Her voice b. Her appearance c. Her grades d. Her family background",
+                "How did Da Mai enter X radio station? a. Through formal interviews, b. Through threatening Lu Zhou, c. Through acting and lies, d. Through professional performance",
+                "When was the specific time when Lu Zhoutong was killed? a. 9:00am b. 9:30pm c. 10:00pm d. 10:30pm",
+                "What method did Da Mai use to continue live streaming when needed to leave? a. Pre recorded program b. Please serve as a substitute host c. Mobile hands-free intercom d. Music playback",
+                "Who are the students that Lu Zhoutong takes special care of in his teaching? a. Da Mai b. hairy crab c. wheat d. white and clear",
+                "Who is Da Mai's partner in the program 'Big Entertainer'? a. Hairy crab b. continental common c. wheat d. white and clear",
+                "Why did Da Mai use his girlfriend to approach Lu Zhoutong? a. For money b. For job opportunities c. For entertainment d. For revenge"
+            ],
+            "a": [
+                "b",
+                "a",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "b",
+                "d",
+                "b",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "d",
+                "b",
+                "c",
+                "b",
+                "c",
+                "d",
+                "a",
+                "c",
+                "d",
+                "b",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c",
+                "b"
+            ]
+        },
+        {
+            "name": "Li Xiaoguo",
+            "back": "\n《超级点歌台》是一档以流行音乐为主、经典音乐为辅，引领时尚潮流的音乐类点歌节目。主播李小菓以她温柔知性的嗓音，用音乐来抚慰当下疲劳的都市青年，使广大听众那一抹无处安放的心在这个驿站得到治愈。\n我要一步一步往上爬，在最高点柔着叶片往前飞…\n你叫李小菓，别名小苹果。你的人生格言正如这句台词，要一步步地往上爬，不畏艰险，为了看到更广闼的的世界。\n你从小热爱唱歌，热爱音乐，也非常热爱生活，你发自内心地相信每一个人，认为这个世界充满童话般的想象，你期待有一位白马王子，带你进入另一个童话般的世界。\n在你的高中时期，你曾疯狂地爱上了你的一位班主任，他总是穿着一件白衬衣，他每次对你说话，你都会脸红心跳。他对你也特别温柔，你感觉你就像是他的恋人一样。甜美的生活并没有过多久，他有一次把你叫到家中猥褒了你，然后给你甩了五百块钱，让你不要将这件事说出去，他已经有家了，你们不可能的。\n你的价值观瞬间倒塌，年幼的你第一次知道了什么是现实，你对老师的爱，最终一次只值五百块钱\n自从那以后，老师每一次带你回家都会给你打钱，并且在学习生活上都非常照顾你，你虽然失去了一份统洁的爱情，但是却获得了更实实在在的东西，毕业之后，老师再没有联系过你，回顾你的高中生活，你觉得你获得了很多，而失去的东西却虚无缈。\n自从那以后，你就不会无缘无故地付出爱了，你认为但凡让你付出爱的，你就一定要获得回报，这份回报要不然是金钱，要不然是其他更有价值的东西。\n上大学之后，你开始精心打扮自己，主动寻觅金主。不久就有一个善良的男生上钩了，他叫钱生豪在评估了他的一系列资质之后，你认为他是能够交往的对象，家境好，并且善良单纯，因为你已经有了经验，他很快地就成了你的男朋友，对你照顾有加。\n有了钱生豪的照顾，你的大学生活当然吃穿不缺，他对你的付出可不像你当年的老师，为了你他几乎可以付出一切，你也乐于在他的豪车里徜徉，但他那种下贱而幼稚的方式令你感到厌烦，简直一点男人的魅力都没有。\n首让你防身，他对你说，他会永远守护在你身边。听到这句话之后，你对他更加反感。你的人生不需要被任何人限制。\n大学毕业后，你到X电台实习，你跟的老师名叫陆洲同，他的名字如雷贯耳，是有名的脱口秀节目《今晚脱口秀》主持人。他是一个有才华、有幽默感的成熟型男主播，时间一长，你们的关系就变得比普通同事要亲密了，但始终处在暖味阶段，在他的帮助下，你也在x电台成功转正，并且拥有了一档自己的节目《超级点歌台》，在这个节目中，你可以向听众推荐你喜欢的歌曲，也可以让听众点播他们喜欢的歌曲，以及说出点播这些歌曲的意义。你非常喜欢这份工作。\n与你的男朋友截然不同。你在和他的交往中，感受到了成熟男人的魅力，而你的男朋友钱生豪在你眼里则显得越来越幼稚了。能证明他幼稚的最好的体现就是，他经常在你的节目里播打热线电话，并且点播《小草果》送给你，让你哭笑不得，由于是在做节目，你也只能一遍遍地给他播放这个歌曲。\n在大学时期，有个多金的男朋友伺候着是不错的，但是现在你已经毕业了，你需要一个在事业上和人生上对你更有帮助的人来陪件你，显然此时陆洲同是比钱生豪更优的选择，但是，钱生豪虽然幼稚，但对你却是真心的。你感到有些迷茫，于是在深夜打了《今夜不寂寞》这档夜话节目，这档夜话节目能给迷茫的人指点迷津。你匿名向主播大骄扬频诉了你的迷茫，而主播的一席话让你坚定了信念，她让你义无反顾地追求你爱的人。\n于是，你果断跟钱生豪提出分手，他的表现和你料想的一样，完全没尊严地抱着你的腿哭着不让价走，无论你怎么样说，他都不愿意妥协。而且，他还经常在暗中跟随你，观察你的生活。最后，他终于撕破脸皮，告诉你在你和他交往的过程中，他担心你离开，偷拍了你俩在一起的性爱视频，如果你跟他分手，他就要将这些视频触插出去，让所有人看到。\n到此，你对钱生豪彻底没有任何情感，但他现在手里有你的把柄，你如果把这个傻子逼太急了，他也许会做出鱼死网破的事情。于是，在那段时间里，你的情绪非常地不好，这在你的工作中也反映出来了，善解人意的陆洲同老师很快就发现了你的异常状况，向你询问情况，你思索半天，最后终于将钱生豪纠缠你的事情对老师和盘托出，陆老师点了点头，向你要了钱生的电话，然后对你说，这件事交给他处理。\n从此，至今，你都再没有见过钱生豪，他就像人问蒸发了一样，\n你问过陆洲同，他到底对钱生豪做了什么，但陆老师的回答却很含糊，说是只是找钱生豪读了谈。\n你相信事情没这么简单，但是你对钱生豪的现状也丝毫不感兴趣，你已经打算开启新的阶段了。由于没有了障碍，你和陆洲同的关系进展神速，很快地，他就成了你的男朋友，并且他许诺你会跟你结婚，你心中暗喜，这样真的是最好的选择了。但是，在与陆洲同的交往过程中，你却发现了他的一些很奇怪的点。\n比如，他在晚上经常会独自一人去一栋叫做菜寓的公寓楼:在他的包里，你发现了一些奇怪的工具，像是做手术的工具，镊子、夹子之类的东西，还有很结实的绳索。另外，他和你们台里的另一个医疗节目的嘉宾主持白一清关系似乎不一般，你偶尔瞄到他的手机，会发现他们的聊天记录，好像在说一些药品的事情。还有一点，你们虽然已经成为情侣，但他从来不允许你在公众场合做出一些亲昵的动作，而且在私下里，你们一般都是在私密性比较好的咖啡馆和茶含约会，交往也仅限于拥抱和亲吻，你们就像一对秘密的情人。\n后来，一天晚上，你忽然看到他发了一个视频朋友圈，视频中是一个五岁大小的小女孩穿着单薄的衣服在画画，文字写着“真可爱”，视频发了没过多久，就被删除了。你一脸的弧疑，那段被他误发的视频和他那些一系列怪异的举动究竟有什么联系?而且你偶尔也会看到他车副驾会有一个漂亮女孩的身影...你苦苦思索，没有结果，你于是又给《今夜不寂寞》打电话，问大骄扬这到底是怎么回事?大骄扬给你的答复很简单，他很有可能是一个恋童的变态，让你远离这种家伙。\n把这件事情和他之前的事情结合在一起，你既有点理解又更费解了。为了解除疑惑，你终于放下矜持，主动向他提出开房，想要试探他的底细。在开房的过程中，你显得特别主动，想要勾起他的情欲，然而他在其他方面都配合你，唯独在最后的环节无法顺利。你对自己的身材相貌和技术很有信心，如果他不是阳痿的话，那绝对是有其他特殊的解好。\n于是，你给《健康热线》的白一清打匿名电话，向他购买了一些特效春药，把它放进陆洞同随身携带的胃药的药瓶里，再次与他试床，结果他依然无法顺利掏枪，这让你有了很深的挫败感。\n你想要解开一切的谜团，你认为你得去一趟菜离，一探究竟。但是，你有时会听你们台的朱大哥的《午夜怪谈》，他在节目里经常会提到这个菜寓，传说这里发生了各种古怪灵异的事情，是个很邪乎的地方，但是，你是个唯物主义者，从来不相信这个世界是变格的。\n九月一日，你悄悄跟踪陆洲同来到菜寓，你躲在暗处，看到他一直在敲某个房问的门，敲了几次之后他显得很烦躁，然后就走掉了。在他走后，你悄悄来到这个房问的门口，思索了一阵之后，你看四下无人，使出吃奶的劲儿砸开了门，里面的景象令你大吃一惊:这看上去像是一个女孩的房间，空气中有一种说不出来的腐臭气息，让你震惊的是，房间内散乱地摆放着各种各样的“刑具”，各种绳索、夹子和皮鞭之类的东西，这些东西和你在陆洲同包里面发现的完全一致，\n你又看到床头柜那里有一张长相丑陋，像个大闸蟹一样的女人照片，这女人又会是谁呢?就在你这么想的时候，你听到了脚步声，正准备回头之时，突然你觉得后脑勺一疼，眼前一黑，晕了过去。\n等你再次醒过来的时候，你发现你在医院的病床上，你看到的是白一清大夫在你旁边给你治疗，你看到你衣衫不整，但并没有被侵犯过的痕迹。你问他发生了什么。他告诉你是陆洲同带被袭击的你来他这里的。你想把你了解到的陆洲同的怪事说给白一清，但是一想到他们之间的联系，你也不知道该不该信任他。最后，你还是什么都没说，只是问了自一清有没有见过陆洲同和某个小女孩在一起。白一清一愣，然后对你说陆洲同是有个女儿，你大吃一惊，难道他已经结婚了?白一清对你说是啊，他的老婆正是咱台里《今夜不寂寞》的主播大骄扬，你如遭雷。\n你感到你被彻底的欺骗了，你无意中做了小三，苦苦追求幸福最终却落得人财两空，曾经的许诺也都化为泡影。和之前的男友在一起，你好歹还有物质的慰藉，而如今，你什么都没有，并且沦为笑柄。而赐予你这一切的就是陆洲同这个王八蛋。如今，你只有一条路可以走。\n很快，王牌大主播主播挑战赛就要开启了，x电台在不断着宣传，届时，所有优秀的主播将会共同来到直播间同步进行直播，你的竞争对手有六个人，分别是《今晚脱口秀》主播陆洲同、《今夜不寂寞》主播大骄扬、《午夜怪谈》主播朱大哥、《大娛乐家》主播大迈、小麦、《健康热线》嘉宾主播白一清。\n今天，就是你们决赛的日子了，傍晚时分忽然下起的大雨让你心中的阴霸更甚。你早早地来到了电台演播大厅，你看到了大骄扬，你在躲避她的视线，你非常清楚她是一个灭绝师太般的人物，如果让她知道你和陆洲同的事情，那你绝对将陷入万劫不复的境地。不久，你又看到了其他几位主播，陆洲同也在内。\nX直播大楼是一个俯视着像x形状的大楼，共有6个直播间，每一个直播间到大厅都有相同长度的走廊。其中1号直播问(陆洲同)和2号直播问(大骄扬)是相邻的，中间有玻璃窗户，相互能看到却无法通过，是需要导播的节目用的。5号直播间(大迈小麦)和6号直播问(一清)也是相同的构造。\n你早己想出办法，在直播开始之后，开始你的复仇…\n\n其实就在昨天，你就听到一则消息:直播大楼的监控电路这两天坏掉了，正在检修。在直播过程中大楼内除了参赛者之外不会再有外人。这对你来说是一个千载难逢的好机会。\n你的计划:你决定在《超级点歌台》直播期间去找陆洲同并且让他死在直播的过程当中，而如果同一时间你的节目还是正常直播，你就会拥有坚固的不在场证明。\n于是你提前就做好了不在场证明的准备，为此你选择这一期做周杰伦的歌曲联播，就是通过介绍4歌曲播放的方式，播放周杰伦的暗黑三部曲。然而，因为版权的问题，\n你找不到《止战之殇》的资源，因此你下载《夜曲》来代替了那首歌。每首歌的时间大约都在五分钟左右，五分钟是来不及你往返陆洲同的直播问的。\n但是，你将《夜曲》的音频资源提前加上你的口头介绍，然后将《夜曲》变成了“介绍夜曲+夜曲+介绍夜的第七章”的20分钟超长音频，\n接着把此音频放在《以父之名》与《夜的第七章》这两首歌之间，接着在直播过程中将这三首歌顺序播放，这样就给你省出了将近20分钟时间，这段时间足够让你去干掉陆洲同了。\n你的时间线:9点，你开始了你的直播，在简单做完介绍之后，你开始播放第一首歌曲《以父之名》，接着你便离开了直播间，拿着随身携带的匕首朝陆洲同的直播间跑去。一路上都很顺利，在到达大厅的时候，你无意看到你平时使用过的厕所，\"男\"“女”的牌子好像挂反了，但是你无心去理会，直接朝陆洲同的直播间跑去。走廊很暗，陆洲同的房间也很暗，只有电脑是亮着的。你拿着匕首蹲在地上悄悄逼近陆洲同，他正在专心地做着节目。你忽然想到如果用匕首杀掉他，匕首上的英文单词也许会指向你，而且他的血难免会溅到你身上，于是你灵机一动，将自己运动鞋的鞋带解开，然后绕到陆洲同身后，用鞋带勒死了他，他在挣扎时高喊着你的名字。在此过程中你不慎打翻了陆洲同桌上的茶杯，茶水溅到了你的鞋上。接着你赶紧离开他的直播间，在匆匆赶回大厅的时候,由于你的鞋松动，你一个趔趄摔到了地上，两个膝盖跪倒时被撞得生疼，手中的匕首也不知道摔到哪里去了，你没时间去捡，匆匆地回到自己的直播间，此时《的第七章》正播放到最后一句“晨曦的光风干最后一行忧伤，黑色的墨染上安详\"。你大仇得报，删除掉容易留下证据的超长音频《夜曲》，安然结束半点节目。\n9点30，你突然接到保安电话，说是陆洲同在直播的过程中被人杀害，同步直播挑战赛就此中断，你来到大厅和其他人汇合。你在厕所看到厕所的“男““女“的牌子又被换了回来，你蹲下身子，将“凶器\"鞋带重新绑回鞋上，你顺便在厕所洗手台墙边的地面上找到了一个白大褂，将鞋面上的茶渍擦洗干净。\n由于陆洲同被杀期间直播大楼内只有你们这些参赛选手，外人不可能出入，因此警方认定凶手必定在你们这些人当中。\n",
+            "r_q": [
+                {
+                    "q": "Who is the anchor of the program 'Super Song Channel'? a. Lu Zhoutong b. Li Xiaoguo c. Da Jiaoyang d. Bai Yiqing",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who was the person that Li Xiaoguo was obsessed with and fell in love with during high school? a. Class teacher b. Lu Zhoutong c. Qian Shenghao d. Bai Yiqing",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who was Li Xiaoguo's boyfriend during her college years? a. Class teacher b. Lu Zhoutong c. Qian Shenghao d. Bai Yiqing",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which program host is Lu Zhoutong? a. Super Song Channel \"b.\" Tonight's Talk Show \"c.\" Tonight's Not Lonely \"d.\" Midnight Strange Talk \"",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Li Xiaoguo successfully kill Lu Zhoutong? a. Dagger b. Firearms c. Shoe laces d. Poison",
+                    "ans": "c"
+                },
+                {
+                    "q": "How long did Li Xiaoguo use audio as alibi while planning to kill Lu Zhou? a. 8 minutes b. 12 minutes c. 15 minutes d. 20 minutes",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the song used to replace 'The War's Sorrow' in 'Super Song Platform'? a. In the Name of Father b. Nocturne c. Chapter 7 of the Night d. Confession Balloon",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many Jay Chou songs does Li Xiaoguo plan to play during the live broadcast? a. 2 b. 3 c. 4 d. 5",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which anchor did Lu Zhoutong's relationship with arouse Li Xiaoguo's suspicion? a. Da Jiaoyang b. Big Brother Zhu c. White Clear d. Da Mai",
+                    "ans": "c"
+                },
+                {
+                    "q": "How was the toilet sign for 'male' and 'female' discovered by Li Xiaoguo in the live broadcast building handled? a. Remove b. Destroy c. Swap d. Hide",
+                    "ans": "c"
+                },
+                {
+                    "q": "In high school, how was Li Xiaoguo bribed by her homeroom teacher to remain silent? a. Give her a watch. B. Give her a necklace. C. Give her five hundred yuan. D. Treat her to a meal",
+                    "ans": "c"
+                },
+                {
+                    "q": "What did Li Xiaoguo's college boyfriend Qian Shenghao use to threaten her? a. Splashing sulfuric acid b. Exposing sex videos c. Kidnapping threats d. Defamation",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which other program is Lu Zhoutong suspected of participating in besides' Tonight's Talk Show '? a. Midnight Tales \"b.\" Not Lonely Tonight \"c.\" The Great Entertainer \"d.\" Health Hotline \"",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which song did Li Xiaoguo use to extend the playback time while preparing to kill Lu Zhou and creating an alibi? a. In the Name of Father b. Nocturne c. Confession Balloon d. Chapter 7 of the Night",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which guest did Li Xiaoguo purchase the special aphrodisiac from to test Lu Zhoutong's sexual function? a. Brother Zhu b. Big Mai c. White Clear d. Big Proud Yang",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which anchor's wife was Lu Zhoutong found to have an extramarital affair with? a. Da Jiaoyang b. Brother Zhu c. Da Mai d. Bai Yiqing",
+                    "ans": "a"
+                },
+                {
+                    "q": "What method did Li Xiaoguo use to kill Lu Zhoutong? a. Dagger b. shoelaces c. firearms d. poison",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did the surveillance in the live broadcast building stop working? a. Ordinary maintenance b. Malfunction c. Human damage d. No specific reason mentioned",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Li Xiaoguo's first official program on X Radio? a. Tonight Talk Show \"b.\" Not Lonely Tonight \"c.\" Super Song Channel \"d.\" Midnight Strange Talk \"",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many songs by Jay Chou did Li Xiaoguo arrange during the live broadcast for revenge? a. One b. Two c. Three d. Four",
+                    "ans": "d"
+                },
+                {
+                    "q": "Which teacher did Li Xiaoguo have feelings of admiration for during her high school years? a. Qian Shenghao b. Lu Zhoutong c. Bai Yiqing d. Class teacher",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who did Li Xiaoguo develop a romantic relationship with during her college years? a. Lu Zhoutong b. Qian Shenghao c. Bai Qingying d. Da Jiaoyang",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Lu Zhoutong's occupation? a. Singer b. Actor c. Host d. Doctor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is Li Xiaoguo's direct supervisor in radio work? a. Qian Shenghao b. Lu Zhoutong c. Bai Qingying d. Da Jiaoyang",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Qian Shenghao threaten Li Xiaoguo not to break up with her? a. Kidnapping b. Disfiguring c. Splashing sulfuric acid d. Exposing sex videos",
+                    "ans": "d"
+                },
+                {
+                    "q": "How did Li Xiaoguo test whether Lu Zhoutong had sexual function problems? a. Propose marriage b. Suggest going to the hospital for examination c. Proactively open a room d. Inquire about past romantic experiences",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which song by Jay Chou did Li Xiaoguo choose as the 20 minute audio for creating an alibi? a. In the Name of Father b. Confession Balloon c. Nocturne d. Chapter 7 of the Night",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which radio program was assigned to Li Xiaoguo during her internship? a. Tonight Talk Show \"b.\" Don't Be Lonely Tonight \"c.\" Midnight Talk \"d.\" Super Song Channel \"",
+                    "ans": "d"
+                },
+                {
+                    "q": "Are the live broadcast rooms of Lu Zhoutong and Da Jiaoyang adjacent in the live broadcast building? a. Yes B. No",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which doctor treated Li Xiaoguo after the live broadcast ended? a. Lu Zhoutong b. Qian Shenghao c. Bai Yiqing d. Da Mai",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many songs did Li Xiaoguo use to create an alibi on the \"Super Song Request Channel\" program? a. 1 b. 2 c. 3 d. 4",
+                    "ans": "c"
+                },
+                {
+                    "q": "What song did Li Xiaoguo choose for the 20 minute long audio in the live broadcast? a. In the Name of Father b. Nocturne c. Confession Balloon d. Chapter 7 of the Night",
+                    "ans": "b"
+                },
+                {
+                    "q": "Are Lu Zhoutong's live broadcast room adjacent to Da Jiaoyang's live broadcast room? a. Yes B. No",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was Lu Zhoutong busy with when he was killed? a. Debugging equipment b. Drinking tea c. Live streaming program d. Answering phone calls",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did Li Xiaoguo wake up after being killed in the live broadcast building? a. At the hospital b. in the live broadcast room c. at the police station d. at home",
+                    "ans": "a"
+                },
+                {
+                    "q": "What item did Li Xiaoguo use as a weapon to kill Lu Zhoutong? a. Dagger b. shoelaces c. rope d. poison",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the monitoring status of the live broadcast building before the murder incident occurred? a. Normal operation b. No monitoring c. Under maintenance d. Manually shut down",
+                    "ans": "c"
+                },
+                {
+                    "q": "During which time period did Lu Zhoutong die? a. 8:00 to 8:30 b. 9:00 to 9:30 c. 10:00 to 10:30 d. 11:00 to 11:30",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the first song used to cover up the operation in Li Xiaoguo's live streaming plan? a. In the Name of Father b. Nocturne c. Confession Balloon d. Chapter 7 of the Night",
+                    "ans": "a"
+                },
+                {
+                    "q": "Why did Li Xiaoguo decide to delete the long audio \"Nocturne\" after the live broadcast ended? a. To conceal evidence b. because the song is not popular c. due to copyright issues d. insufficient program time",
+                    "ans": "a"
+                }
+            ],
+            "self": "My name is Li Xiaoguo",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "Who is the anchor of the program 'Super Song Channel'? a. Lu Zhoutong b. Li Xiaoguo c. Da Jiaoyang d. Bai Yiqing",
+                "Who was the person that Li Xiaoguo was obsessed with and fell in love with during high school? a. Class teacher b. Lu Zhoutong c. Qian Shenghao d. Bai Yiqing",
+                "Who was Li Xiaoguo's boyfriend during her college years? a. Class teacher b. Lu Zhoutong c. Qian Shenghao d. Bai Yiqing",
+                "Which program host is Lu Zhoutong? a. Super Song Channel \"b.\" Tonight's Talk Show \"c.\" Tonight's Not Lonely \"d.\" Midnight Strange Talk \"",
+                "How did Li Xiaoguo successfully kill Lu Zhoutong? a. Dagger b. Firearms c. Shoe laces d. Poison",
+                "How long did Li Xiaoguo use audio as alibi while planning to kill Lu Zhou? a. 8 minutes b. 12 minutes c. 15 minutes d. 20 minutes",
+                "What is the song used to replace 'The War's Sorrow' in 'Super Song Platform'? a. In the Name of Father b. Nocturne c. Chapter 7 of the Night d. Confession Balloon",
+                "How many Jay Chou songs does Li Xiaoguo plan to play during the live broadcast? a. 2 b. 3 c. 4 d. 5",
+                "Which anchor did Lu Zhoutong's relationship with arouse Li Xiaoguo's suspicion? a. Da Jiaoyang b. Big Brother Zhu c. White Clear d. Da Mai",
+                "How was the toilet sign for 'male' and 'female' discovered by Li Xiaoguo in the live broadcast building handled? a. Remove b. Destroy c. Swap d. Hide",
+                "In high school, how was Li Xiaoguo bribed by her homeroom teacher to remain silent? a. Give her a watch. B. Give her a necklace. C. Give her five hundred yuan. D. Treat her to a meal",
+                "What did Li Xiaoguo's college boyfriend Qian Shenghao use to threaten her? a. Splashing sulfuric acid b. Exposing sex videos c. Kidnapping threats d. Defamation",
+                "Which other program is Lu Zhoutong suspected of participating in besides' Tonight's Talk Show '? a. Midnight Tales \"b.\" Not Lonely Tonight \"c.\" The Great Entertainer \"d.\" Health Hotline \"",
+                "Which song did Li Xiaoguo use to extend the playback time while preparing to kill Lu Zhou and creating an alibi? a. In the Name of Father b. Nocturne c. Confession Balloon d. Chapter 7 of the Night",
+                "Which guest did Li Xiaoguo purchase the special aphrodisiac from to test Lu Zhoutong's sexual function? a. Brother Zhu b. Big Mai c. White Clear d. Big Proud Yang",
+                "Which anchor's wife was Lu Zhoutong found to have an extramarital affair with? a. Da Jiaoyang b. Brother Zhu c. Da Mai d. Bai Yiqing",
+                "What method did Li Xiaoguo use to kill Lu Zhoutong? a. Dagger b. shoelaces c. firearms d. poison",
+                "Why did the surveillance in the live broadcast building stop working? a. Ordinary maintenance b. Malfunction c. Human damage d. No specific reason mentioned",
+                "What was Li Xiaoguo's first official program on X Radio? a. Tonight Talk Show \"b.\" Not Lonely Tonight \"c.\" Super Song Channel \"d.\" Midnight Strange Talk \"",
+                "How many songs by Jay Chou did Li Xiaoguo arrange during the live broadcast for revenge? a. One b. Two c. Three d. Four",
+                "Which teacher did Li Xiaoguo have feelings of admiration for during her high school years? a. Qian Shenghao b. Lu Zhoutong c. Bai Yiqing d. Class teacher",
+                "Who did Li Xiaoguo develop a romantic relationship with during her college years? a. Lu Zhoutong b. Qian Shenghao c. Bai Qingying d. Da Jiaoyang",
+                "What is Lu Zhoutong's occupation? a. Singer b. Actor c. Host d. Doctor",
+                "Who is Li Xiaoguo's direct supervisor in radio work? a. Qian Shenghao b. Lu Zhoutong c. Bai Qingying d. Da Jiaoyang",
+                "How did Qian Shenghao threaten Li Xiaoguo not to break up with her? a. Kidnapping b. Disfiguring c. Splashing sulfuric acid d. Exposing sex videos",
+                "How did Li Xiaoguo test whether Lu Zhoutong had sexual function problems? a. Propose marriage b. Suggest going to the hospital for examination c. Proactively open a room d. Inquire about past romantic experiences",
+                "Which song by Jay Chou did Li Xiaoguo choose as the 20 minute audio for creating an alibi? a. In the Name of Father b. Confession Balloon c. Nocturne d. Chapter 7 of the Night",
+                "Which radio program was assigned to Li Xiaoguo during her internship? a. Tonight Talk Show \"b.\" Don't Be Lonely Tonight \"c.\" Midnight Talk \"d.\" Super Song Channel \"",
+                "Are the live broadcast rooms of Lu Zhoutong and Da Jiaoyang adjacent in the live broadcast building? a. Yes B. No",
+                "Which doctor treated Li Xiaoguo after the live broadcast ended? a. Lu Zhoutong b. Qian Shenghao c. Bai Yiqing d. Da Mai",
+                "How many songs did Li Xiaoguo use to create an alibi on the \"Super Song Request Channel\" program? a. 1 b. 2 c. 3 d. 4",
+                "What song did Li Xiaoguo choose for the 20 minute long audio in the live broadcast? a. In the Name of Father b. Nocturne c. Confession Balloon d. Chapter 7 of the Night",
+                "Are Lu Zhoutong's live broadcast room adjacent to Da Jiaoyang's live broadcast room? a. Yes B. No",
+                "What was Lu Zhoutong busy with when he was killed? a. Debugging equipment b. Drinking tea c. Live streaming program d. Answering phone calls",
+                "Where did Li Xiaoguo wake up after being killed in the live broadcast building? a. At the hospital b. in the live broadcast room c. at the police station d. at home",
+                "What item did Li Xiaoguo use as a weapon to kill Lu Zhoutong? a. Dagger b. shoelaces c. rope d. poison",
+                "What was the monitoring status of the live broadcast building before the murder incident occurred? a. Normal operation b. No monitoring c. Under maintenance d. Manually shut down",
+                "During which time period did Lu Zhoutong die? a. 8:00 to 8:30 b. 9:00 to 9:30 c. 10:00 to 10:30 d. 11:00 to 11:30",
+                "What is the first song used to cover up the operation in Li Xiaoguo's live streaming plan? a. In the Name of Father b. Nocturne c. Confession Balloon d. Chapter 7 of the Night",
+                "Why did Li Xiaoguo decide to delete the long audio \"Nocturne\" after the live broadcast ended? a. To conceal evidence b. because the song is not popular c. due to copyright issues d. insufficient program time"
+            ],
+            "a": [
+                "b",
+                "a",
+                "c",
+                "b",
+                "c",
+                "d",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "a",
+                "b",
+                "b",
+                "c",
+                "d",
+                "d",
+                "b",
+                "c",
+                "b",
+                "d",
+                "c",
+                "c",
+                "d",
+                "a",
+                "c",
+                "c",
+                "b",
+                "a",
+                "c",
+                "a",
+                "b",
+                "c",
+                "b",
+                "a",
+                "a"
+            ]
+        },
+        {
+            "name": "Bai Yiqing",
+            "back": "\n《健康热线》是一档非常受欢迎的医疗类节目，节目请到国内著名中医医师白一清博士，为广大深受各类身体疾病及精神疾病折磨的患者听众提供最权威的健康保健常识和就医用药指导，解决了无数听众的健康问题。\n明面上你是一个德高望重的神医，其实你自己心里最清楚，你只是一个行走江湖的老骗子罢了。\n你也不是完全没有两把刷子，毕竟你也是一个中医学校毕业的，最基本的中医理论你多少也有些了解，但也就是个楼下小诊所助理护士的水平，事实上，你在市中心医院当过太平间管理员，后来被开除，就在一个小黑巷子里开了个“小白诊所\"，治治小感冒、开开消化药，卖卖保险套之类的，你能走到今天这一步，完全要感谢一个人，那就是x电台《今晚脱口秀》主播陆洲同。\n你虽然医术一般，但吹嘘的功夫和随机应变能力却是一流的，不管什么客人只要踏进你小诊所一步，你都会滔滔不绝声情并茂地对他发表一番演讲，不管健康不健康都得被忽悠着买点药才能走。陆洲同原本就是偶尔来你这里买药的顾客之一，他肠胃不好，于是你给他开了一款叫做“按内胃”的药物，老实说，你也不知道这药究竞有没有用，不过至少喝下去几天内肠胃不会有任何问题。后来年前的某一天陆洲同突然找到你，说是有一个功成名就并且发财的机会，看你愿不愿意尝试。你说愿闻其详之后，他告诉你，他们台里的医疗节目快要办不下去了，现在急缺一个嘉宾主持，问你要不要试试。你纳闷，说我这没有一点资质，上节目那么高大上的事情，能来的了吗?他说没事，这事只要包装到位就没问题，一切交给他了。\n于是，你配合他进行了各种各样的造假，伪造证书、伪造学历、买粉丝买流量、办网站，然后拍了几个正襟危坐的艺术照…一系列操作之后，你就成了国内著名医师白一清，开始在电台做节目了，你的节目叫做《健康热线》，操作方式很简单，就是不断地接进听众打来的热线电话，听听他们有什么病情，并且根据他们的病情给他们相应的健康意见或者给他们开一些药方的建议等等。你终于知道陆洲同为什么请你了，这忽悠别人的本事你最擅长了。\n但是，你知道你根本没有什么医术，怎么征服广大听众呢。陆洲同说你放心，他自有安排。你怀忐忑的心情上了一段时间节目，发现打进热线的听众络绎不绝，并且还经常有回头客不断地夸赞你开的药方简直神了，再世神医等等，让你摸不着头脑。后来你终于发现，那些打进电话的听众大部分都是“托儿\"，就是陆洲同找来的人甚至陆洲同自己打来的。由于节目的火爆和那些托儿的衬托,你的节目真的火起来了，每天的热线络绎不绝。\n但其实，这只是陆洲同计划的第一步，接着，他又开始让你在节目中卖药了，那些药售价非常的昂贵，有治性病的、有治跌打损伤的、有毒老鼠的、还有提高床上功夫的其至治疗癌症的...林林总总什么样的药都有，而这些药在你节目里完全被吹嘘成了神药，在加上托的高分反馈，这些药的销量非常的好。其实，就算你只有三脚猫的功夫，你也知道，这里面大部分的药一点疗效都没有，有的只有一点疗效，真正的好药少之又少。\n你昧着良心和陆洲同干这些缺德事，赚那么多钱，其实是为了满足你那个不可告人的秘密\n你曾贩卖过器官，并且对尸体非常迷恋\n这就是为什么你前半生选择太平间管理员这条路。你在太平问那段时间，经常在深夜进入太平间，对那些车祸暴毙或者疾病而亡的年轻男女做一些见不得人的事情，比如将尸体的眼睛、牙齿、双手等从太平间偷出来卖掉，遇到美丽的女性，你也会将她们的部分尸体保存下来。后来，你的事迹被领导察觉，领导害怕影响没有对外界披露此事，不过却把你开除掉了。从此之后很长时间，你再也没有机会接触到尸体，你住的地方人员密集，你年龄也大了，所以你一直压抑着内心的欲望，\n如今，你成了著名主播，并且也已经有钱了。现在，埋在你内心中的欲望又一次囊欲动，你需要一个僻静之所，来释放你内心的野兽。\n于是，你购买了整整一栋公寓楼，这栋公寓叫微菜寓，虽然位于市中心，但是你给这公寓内包括电梯之内都没有装摄像头，其实完全不符合开酒店的标准，但是有钱使鬼推磨，就这样一个三无的公寓，竟然就这么顺利开业了。你设定的租金非常便宜，并且主打入住无需身份登记，也没有监控。你这么规定很简单，这些租客必定是有自己不可告人的秘密才会入住这样一个不会留下任何痕迹的公寓，而这公寓。就成了你的魔窟。\n你给公寓内每个房间的卧室不显眼处都安上了针孔摄像头，然后你在公寓为自己单独开辟了一间住所，实时偷窥所有租户的情况。在这里，你看到背着家长偷偷约会的高中小情侣，看到背着男朋友或女朋友开房的年轻人，看到和经纪人搞在一起的女明星，还有各种玩SM调教的狗男女…你眼前的几十个画面就是一副人生百态的色相图。\n当然，这其中也不乏一些单独入住的年轻女人，她们就会成为你的目标，你观察她们的生活习惯然后找到最合适的下手时间，在深夜出发。由于你的特殊设置，公寓的所有房间你都能够打开。你进入房间杀掉那些落单的女租客，保存下她们的眼睛，然后将她们的身体器官拿到黑市进行贩卖\n当然，除了你亲手杀的那些无辜猎物，你发现有时候竟然还有意外的收获。一次，你看到一对戴面具的男女正在某个房间玩SM，那女的一时失手竟然将那男的蒙死在房间，趁她慌乱逃跑的功夫，你悄悄把那具裸体尸体搬到了自己房间，你看到那具尸体的胳膊上印有一个苹果的纹身。还有一次，你看到一个长相丑陋的女租客将一个漂亮女孩带回住所，然后用榔头将她的脸敲了个血肉模期。而你也趁她不在的时候偷偷将那具女尸悄悄抬回屋子里，后来，那个丑陋的女孩就没在这里出现过。\n其实，你也知道你这样杀人，迟早会有翻把的一天，但你不愿意压抑自己的天性，对于金钱的望和对于尸体的迷恋让你完全停不下来了。\n为了驱除屋内散发的尸体的臭气，你不得不购买大量的香料进行遮掩，你的房间因此散发着一股奇异的香气。\n在菜寓，你觉得自己就是能主宰一切生灵的森林之王。但是后来，有关莱寓住宿容易失踪的传说越米越多，尤其是你们电台有个叫朱大哥的恐怖故事播主老是在他的《午夜怪谈》节目上说一些莱寓的奇闻异谈，更让人对莱寓望面却步。总之，最近敢单独住你公寓的人是越来越少了，你没有尸黑市需求量又很大，你日渐焦虑。\n因为你是嘉宾主持，不算是x电台的正式台聘主持，所以平时除了陆洲同之外，你与台里其他主播并不是很熟悉。在一次联谊会上，你偶然看到了一位年轻的却又充满活力的女士，她的身体娜多姿，眼睛非常好看。你立马想象到她变成一具尸体摆在你面前的场景，后来在陆洲同的嘴里得知，这个完美的女人名叫李小菜，是一档音乐节目《超级点歌台》的主播。你陷入你的想象，几乎要疯狂，你甚至模仿小男生给《今夜不寂寞》打过热线电话，隐地描述过自己的痛苦，得到的结论是做人不要压抑自己。\n好像很久没杀人了，干脆就拿这个美丽的女人下手吧\n但是，你却迟迟找不到机会下手，因为你跟她根本就没有交集。你知道，这个女人是陆洲同带的徒弟，他俩走的比较近。但是，仅凭这一点，你完全找不到能下手的时机。\n也许是你的诚意打动了上天，终于有一天，当你正在莱寓内苦思冥想的时候，你看到陆洲同竟然进入菜寓，而李小菜似乎在偷偷跟着他，紧随其后。在走廊，陆洲同竟然一直在敲那个早已离开了的丑陋女孩的房间的门，敲了几下之后不见动静，他就离开了。接着，李小菜从暗处出来，站到那门前，鬼鬼祟祟地看了看周围之后，使劲撞门将门撞开了，进入了那丑陋女孩的房间。你透过针孔摄像头看到李小菓在那个房间内到处搜索着什么，这时你灵光一现，这不正是你千载难逢的机会吗?\n于是，你拿着棒球棒悄悄走出门，穿过走廊进入那个房间，在李小正准备回头的时候，一子将她打晕在地。她是我的食物了，你舔舔嘴唇，身体发热。你将她拖入到你的房间，迫不及待地脱光她的衣服，忽然你想要提升情调，拿起电话给《超级点歌台》打热线，向代班的主持人点了一首歌，随着优美的音乐响起，你拿出一把手术刀，正准备割喉之时，突然你手中的刀被人一脚踢飞，你回头一看，站在你面前的竟然是陆洲同!陆洲同发现了你这充满罪恶的人皮房间!你感到天旋地转，这下全完了!\n但是，陆洲同似乎并没有想要告发你的意思，当然，这也许是因为他也有把在你手上--你们一起卖假药骗钱的事情。他只是让你放了李小菜这个无辜的女人，并且永远不要再接近她，如果做不到，他就会把你的事情全部说出去。你没有任何讨价还价的余地，只能答应他了，接着他将你保存的用摄像头愉拍的各个房间的视频文件和连接线一并拿走，作为把柄。\n你们将李小菓送到医院之后，陆洲同就走了。等李小菓醒来之后，你告诉她她在莱寓被人袭击，是陆洲同救了她。她看上去相信了。她问你有没有见过陆洲同和一个小女孩在一起过，你知道陆洲同有个女儿，就一切如实说了，你感觉李小菜好像很不信任他，但是这都是她自己的事了。\n面你的事情，现在才刚刚开始。陆洲同知道的东西太多了，如果你一直有把柄在陆洲同手里，难保哪一天纸里包不住火，你决定先下手为强，只需要等待一个合适的时机….\n很快，王牌大主播主插挑战赛就要开启了，X电台在不断做着宜传，届时，所有优秀的主播将会共同来到直播问同步进行直播，你的竞争对手有六个人，分别是《今晚脱口秀》主播陆洲同、《今夜不寂寞》主播大骄扬、《午夜怪读》主播朱大哥、《大娱乐家》主播大迈、小麦、《超级点歌台》主插李小菓。\n今天，就是你们决赛的日子了，傍晚时分忽然下起的大雨让你心中的阴霉更甚。你早早地来到了电台，你发现在你的直播问桌子上摆放着那天被陆洲同带走的你偷窥用的摄像头连接线，你赶紧将它们收进桌柜里。你知道，陆洲同在暗示你放弃直播，看来你的机会就只有今天了。来到演播大厅，不久，你就看到了其他几位选手，而陆洲同也在其中。\nX直播大楼是一个俯视着像x形状的大楼，共有6个直播间，每一个直播间到大厅都有相同长度的走廊。其中1号直播问(陆洲同)和2号直播间(大骄扬)是相邻的，中间有玻璃相连却无法通过，是需要导播的节目用的。你的6号直播间和5号直播间(大迈小麦)也是相同的构造。\n你早已想到了一个杀掉他的办法。\n在昨天的时候，你听到一则消息:直播大楼的监控电路这两天坏掉了，正在检修。在直播过程中大楼内除了参赛者之外不会再有外人。这对你来说是一个千载难逢的好机会。\n你的准备工作:你提前带了一件后勤工作人员的衣服和鸭舌帽。你知道陆洲同每次上直播都会在大厅的休息区的咖啡机前接一杯咖啡。于是你今天就带了三包“鼠来宝”，在厕所将白大褂换成工作人员的衣服，将白大褂放到厕所洗手台的墙角。接着你趁所有人都在大厅的时候假扮工作人员来到休息区将剧毒“鼠来宝”混入咖啡机里。你知道陆洲同每次上直播都要接一杯咖啡去，只要毒性发作，陆洲同必死无疑。当你下完毒之后想要再次回到厕所换回衣服,却发现直播时间已经到了,如果现在不回直播间而去换回衣服这种反常必然会引起怀疑，于是你穿着工作人员的衣服来到了自己的直播间。\n你的时间线:你已经完成了你的计划，现在你要做的就是等待陆洲同死亡的消息传来。9 点钟，直播正式开始。你开始了挑战赛的节目，原本打算好好表现一番，结果接的却是一通你以前开诊所时的患者的电话，你感到有些匪夷所思，你之前开诊所的事情除了陆洲同之外没有其他任何人知道，这个患者是怎么知道的?他说他吃了你的胃药得了胃癌。这简直是无稽之谈，聊了一会儿你就将热线挂断了。由于你的眼镜也落到厕所的你的外套里了，所以你看不到5号直播间的情况。你的药品都是当地的供货商供的，药品有真有假，但陆洲同一直在你这儿买胃药都没事，这个家伙又是哪根葱?你一边焦虑地等待陆洲同死亡的消息传来，一边上网查着新闻，时间很快来到了9点30分，到了半点广告的时间，你匆匆地结束了直播，这时你看到隔壁直播间的模糊的人影在玻璃窗户前张望，你意识到你此时还穿着工作人员的衣服，于是你赶紧将窗帘拉上了。好在你直播时并没有开灯，因此那个人也许看不清楚你的衣服。\n终于，你接到保安的电话，说是陆洲同在直播的过程中被人杀害，同步直播挑战赛就此中断。你专门在直播间多等了一会儿，让其他人先到大厅，然后你到厕所赶紧将白大换上，戴好眼镜。然后将后勤工作人员的衣服扔到男厕所的其中一个隔间里。\n由于陆洲同被杀期间直播大楼内只有你们这些参赛选手，外人不可能出入，因此警方认定凶手必定在你们这些人当中。\n",
+            "r_q": [
+                {
+                    "q": "Where did the host of the program 'Health Hotline', Bai Yiqing, open a clinic? a. Central Hospital b. Xiaobai Clinic c. Xiaohei Alley d. Large Shopping Center",
+                    "ans": "b"
+                },
+                {
+                    "q": "What types of services does Bai Yiqing mainly provide in radio programs? a. Education consultation b. Legal aid c. Health advice d. Financial planning",
+                    "ans": "c"
+                },
+                {
+                    "q": "What does Bai Yiqing's illegal activities include? a. Smuggling rare animals b. Selling counterfeit drugs c. Trading pirated software d. Bank fraud",
+                    "ans": "b"
+                },
+                {
+                    "q": "What role does Lu Zhoutong play in \"Health Hotline\"? a. Customer b. Partner c. Sound Designer d. Anchor",
+                    "ans": "b"
+                },
+                {
+                    "q": "In which position did Bai Yiqing work before and was later fired? a. Clinic assistant nurse b. Pharmacist c. morgue administrator d. Hospital security",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the special policies of the apartment that Bai Yiqing uses to attract tenants? a. Free WiFi b. No need for identity registration c. Free breakfast d. 24/7 service",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did Bai Yiqing install a pinhole camera specifically at Weicaiyu? a. Monitoring security b. Collecting guest information c. Private entertainment d. Advertising promotion",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Bai Yiqing's ultimate goal? a. Expand the clinic business b. Establish a medical college c. Obtain more corpses d. Increase the listening rate of radio programs",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the name of Li Xiaocai's radio program? a. Tonight's Talk Show \"b.\" Midnight Talk \"c.\" Super Song Platform \"d.\" Big Entertainer \"",
+                    "ans": "c"
+                },
+                {
+                    "q": "What kind of weather did Bai Yiqing encounter on the day of the finals? a. Sunshine clear b. Strong wind c. Heavy rain d. Snow",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the true professional level equivalent to that of Bai Yiqing, the host of the program \"Health Hotline\"? a. Chief Physician of the Clinic b. Dean of the Central Hospital c. Assistant Nurse of the Clinic d. Pharmacist",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Bai Yiqing's position at the city center hospital? a. Pharmacist b. morgue administrator c. security guard d. hospital director",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the reason why Bai Yiqing and Lu Zhou started working together? a. Bai Yiqing was saved by Lu Zhoutong. b. Bai Yiqing and Lu Zhoutong are relatives. c. Lu Zhoutong provided Bai Yiqing with a chance to make a fortune. d. Bai Yiqing requested Lu Zhoutong's help",
+                    "ans": "c"
+                },
+                {
+                    "q": "How does Bai Yiqing mainly attract listeners in radio programs? a. Provide real and effective medical advice b. Create rich entertainment programs c. Use daycare to pretend to be a patient d. Demonstrate through on-site treatment",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which type of medication is specifically mentioned among the drugs sold by Bai Yiqing on her own program? a. Pain relievers b. Medications to improve bed skills c. Antidepressants d. Medications to enhance memory",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are the reasons why tenants of Weicaiyu choose this place? a. Convenient location b. Modern facilities c. No need for identity registration d. Affordable rent",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the main purpose of Bai Yiqing setting up a pinhole camera in Weichaiyu? a. Protecting tenant safety b. Monitoring tenant behavior c. Private entertainment d. Conducting social research",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the hint given by Lu Zhoutong to Bai Yiqing before the live challenge? a. Abandon live streaming b. Provide poison c. Enhance performance d. Stop crime",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the specific environment in which Lu Zhoutong died during the live challenge? a. In their own live broadcast room b. in the rest area c. in the restroom d. in the hallway",
+                    "ans": "a"
+                },
+                {
+                    "q": "What measures did Lu Zhoutong take to discover Bai Yiqing's crime? a. Immediately report to the police. b. Rescue Li Xiaoxiao from Bai Yiqing's hands. c. Handle all evidence privately. d. Publicize Bai Yiqing's crimes",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was Bai Yiqing asked to give up by Lu Zhoutong? a. Live competition b. Selling counterfeit drugs c. Working at a radio station d. Opening a small white clinic",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Bai Yiqing's job at the city center hospital? a. Doctor b. morgue administrator c. nurse d. security guard",
+                    "ans": "b"
+                },
+                {
+                    "q": "What methods does Bai Yiqing use to attract audiences in \"Health Hotline\"? a. Real case b. Objective data c. Pretending to be a patient using childcare d. Self reporting experiences",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the special settings of Weicaiyu? a. 24-hour security service b. Internal installation of pinhole cameras c. Provision of medical services d. Swimming pool available",
+                    "ans": "b"
+                },
+                {
+                    "q": "What hints did Bai Yiqing receive before the live challenge? a. Continue live streaming b. Hide criminal evidence c. Abandon live streaming d. Sell drugs",
+                    "ans": "c"
+                },
+                {
+                    "q": "What method does Bai Yiqing use to deal with Lu Zhoutong? a. Using gunfire b. Using highly toxic drugs c. Locking in the room d. Kidnapping",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of medication does Bai Yiqing sell on the radio program? a. Children's health products b. Cardiology medication c. Medications to improve bed skills d. Beauty products",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was Lu Zhoutong's position during the live broadcast? a. Live Room 1 b. Live Room 2 c. Live Room 5 d. Live Room 6",
+                    "ans": "a"
+                },
+                {
+                    "q": "What does Bai Yiqing ultimately hope to gain through black market transactions? a. Money b. More corpses c. Rare medicinal herbs d. Broadcasting equipment",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who is the main target of Bai Yiqing's killing? a. Male tenant b. Female tenant c. Radio colleague d. External visitor",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the name of Bai Yiqing's radio program? a. Tonight Talk Show \"b.\" Midnight Talk \"c.\" Super Song Channel \"d.\" Health Hotline \"",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was Bai Yiqing's original position? a. Clinic director b. morgue administrator c. pharmacist d. nurse",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which female anchor did Lu Zhoutong rescue? a. Li Xiao Cai b. Barley c. Wheat d. Li Da Cai",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was Bai Yiqing's final criminal act? a. Selling fake drugs b. Peeping tenants c. Killing female tenants d. Theft",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why was Bai Yiqing expelled from the city center hospital? a. Medical accidents b. Financial fraud c. Stealing and selling organs from corpses d. Drug theft",
+                    "ans": "c"
+                },
+                {
+                    "q": "What methods does Bai Yiqing mainly use to attract listeners in the program \"Health Hotline\"? a. Provide professional medical knowledge b. Use daycare to pretend to be a patient c. Conduct on-site treatment d. Provide free medication",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did Bai Yiqing specifically choose young women as targets for killing? a. Easy to control b. For emotional dependence c. Selling their organs d. Personal preferences",
+                    "ans": "c"
+                },
+                {
+                    "q": "How can Lu Zhoutong prevent Bai Yiqing from continuing his crimes? a. Alarm b. Threat exposure c. Encouragement for improvement d. Sending them abroad",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the name of the apartment building that Bai Yiqing purchased? a. Micro cuisine apartment b. Large cuisine apartment c. Small cuisine apartment d. Healthy apartment",
+                    "ans": "a"
+                },
+                {
+                    "q": "What are Bai Yiqing's actions in the radio live broadcast competition? a. B. Arrange fake listeners to make phone calls c. Poison in the rest area d. Publicize one's identity",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the name of Bai Yiqing's radio program? a. B. \"Health Hotline\" b. \"Midnight Talk\" c. \"Don't Be Lonely Tonight\" d. \"Super Song Channel\"",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was Bai Yiqing's previous position? a. Clinic assistant nurse b. morgue administrator c. pharmacist d. radio host",
+                    "ans": "b"
+                },
+                {
+                    "q": "What event did the cooperation between Lu Zhoutong and Bai Yiqing begin with? a. The program of Lu Zhoutong needs a host. b. Lu Zhoutong saved Bai Yiqing's life. c. Lu Zhoutong was cured by Bai Yiqing. d. Lu Zhoutong provided Bai Yiqing with an opportunity to make a fortune",
+                    "ans": "d"
+                },
+                {
+                    "q": "How does Bai Yiqing attract listeners in radio programs? a. Provide real medical advice b. Use daycare to pretend to be a patient c. Live performance therapy d. Free distribution of medication",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did Bai Yiqing choose to launch the program 'Health Hotline'? a. Promote one's own clinic b. Expand its influence in the medical field c. Make money by selling fake drugs d. Educate the public on health knowledge",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the purpose of the special drug sold by Bai Yiqing in the program? a. Treat heart disease b. Improve bed skills c. Relieve pain d. Beauty and skincare",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did Bai Yiqing kill a young female tenant? a. His clinic b. Micro cuisine apartment c. City center hospital d. Radio live broadcast room",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did Lu Zhoutong demand Bai Yiqing to give up live streaming the competition? a. To prevent him from committing further crimes, b. because there is discord between them, c. to cover up their secrets, d. to worry about Bai Qingqing's safety",
+                    "ans": "a"
+                },
+                {
+                    "q": "What action did Bai Yiqing take in the radio live broadcast competition? a. Escaping the scene b. Attempting to poison Lu Zhoutong c. Surrendering d. Attacking other anchors",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the reason for Bai Yiqing's dismissal from the city center hospital? a. Medical accidents b. Financial fraud c. Stealing and selling organs from corpses d. Drug theft",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Where did the host of the program 'Health Hotline', Bai Yiqing, open a clinic? a. Central Hospital b. Xiaobai Clinic c. Xiaohei Alley d. Large Shopping Center",
+                "What types of services does Bai Yiqing mainly provide in radio programs? a. Education consultation b. Legal aid c. Health advice d. Financial planning",
+                "What does Bai Yiqing's illegal activities include? a. Smuggling rare animals b. Selling counterfeit drugs c. Trading pirated software d. Bank fraud",
+                "What role does Lu Zhoutong play in \"Health Hotline\"? a. Customer b. Partner c. Sound Designer d. Anchor",
+                "In which position did Bai Yiqing work before and was later fired? a. Clinic assistant nurse b. Pharmacist c. morgue administrator d. Hospital security",
+                "What are the special policies of the apartment that Bai Yiqing uses to attract tenants? a. Free WiFi b. No need for identity registration c. Free breakfast d. 24/7 service",
+                "Why did Bai Yiqing install a pinhole camera specifically at Weicaiyu? a. Monitoring security b. Collecting guest information c. Private entertainment d. Advertising promotion",
+                "What is Bai Yiqing's ultimate goal? a. Expand the clinic business b. Establish a medical college c. Obtain more corpses d. Increase the listening rate of radio programs",
+                "What is the name of Li Xiaocai's radio program? a. Tonight's Talk Show \"b.\" Midnight Talk \"c.\" Super Song Platform \"d.\" Big Entertainer \"",
+                "What kind of weather did Bai Yiqing encounter on the day of the finals? a. Sunshine clear b. Strong wind c. Heavy rain d. Snow",
+                "What is the true professional level equivalent to that of Bai Yiqing, the host of the program \"Health Hotline\"? a. Chief Physician of the Clinic b. Dean of the Central Hospital c. Assistant Nurse of the Clinic d. Pharmacist",
+                "What is Bai Yiqing's position at the city center hospital? a. Pharmacist b. morgue administrator c. security guard d. hospital director",
+                "What is the reason why Bai Yiqing and Lu Zhou started working together? a. Bai Yiqing was saved by Lu Zhoutong. b. Bai Yiqing and Lu Zhoutong are relatives. c. Lu Zhoutong provided Bai Yiqing with a chance to make a fortune. d. Bai Yiqing requested Lu Zhoutong's help",
+                "How does Bai Yiqing mainly attract listeners in radio programs? a. Provide real and effective medical advice b. Create rich entertainment programs c. Use daycare to pretend to be a patient d. Demonstrate through on-site treatment",
+                "Which type of medication is specifically mentioned among the drugs sold by Bai Yiqing on her own program? a. Pain relievers b. Medications to improve bed skills c. Antidepressants d. Medications to enhance memory",
+                "What are the reasons why tenants of Weicaiyu choose this place? a. Convenient location b. Modern facilities c. No need for identity registration d. Affordable rent",
+                "What is the main purpose of Bai Yiqing setting up a pinhole camera in Weichaiyu? a. Protecting tenant safety b. Monitoring tenant behavior c. Private entertainment d. Conducting social research",
+                "What was the hint given by Lu Zhoutong to Bai Yiqing before the live challenge? a. Abandon live streaming b. Provide poison c. Enhance performance d. Stop crime",
+                "What was the specific environment in which Lu Zhoutong died during the live challenge? a. In their own live broadcast room b. in the rest area c. in the restroom d. in the hallway",
+                "What measures did Lu Zhoutong take to discover Bai Yiqing's crime? a. Immediately report to the police. b. Rescue Li Xiaoxiao from Bai Yiqing's hands. c. Handle all evidence privately. d. Publicize Bai Yiqing's crimes",
+                "What was Bai Yiqing asked to give up by Lu Zhoutong? a. Live competition b. Selling counterfeit drugs c. Working at a radio station d. Opening a small white clinic",
+                "What is Bai Yiqing's job at the city center hospital? a. Doctor b. morgue administrator c. nurse d. security guard",
+                "What methods does Bai Yiqing use to attract audiences in \"Health Hotline\"? a. Real case b. Objective data c. Pretending to be a patient using childcare d. Self reporting experiences",
+                "What are the special settings of Weicaiyu? a. 24-hour security service b. Internal installation of pinhole cameras c. Provision of medical services d. Swimming pool available",
+                "What hints did Bai Yiqing receive before the live challenge? a. Continue live streaming b. Hide criminal evidence c. Abandon live streaming d. Sell drugs",
+                "What method does Bai Yiqing use to deal with Lu Zhoutong? a. Using gunfire b. Using highly toxic drugs c. Locking in the room d. Kidnapping",
+                "What type of medication does Bai Yiqing sell on the radio program? a. Children's health products b. Cardiology medication c. Medications to improve bed skills d. Beauty products",
+                "Where was Lu Zhoutong's position during the live broadcast? a. Live Room 1 b. Live Room 2 c. Live Room 5 d. Live Room 6",
+                "What does Bai Yiqing ultimately hope to gain through black market transactions? a. Money b. More corpses c. Rare medicinal herbs d. Broadcasting equipment",
+                "Who is the main target of Bai Yiqing's killing? a. Male tenant b. Female tenant c. Radio colleague d. External visitor",
+                "What is the name of Bai Yiqing's radio program? a. Tonight Talk Show \"b.\" Midnight Talk \"c.\" Super Song Channel \"d.\" Health Hotline \"",
+                "What was Bai Yiqing's original position? a. Clinic director b. morgue administrator c. pharmacist d. nurse",
+                "Which female anchor did Lu Zhoutong rescue? a. Li Xiao Cai b. Barley c. Wheat d. Li Da Cai",
+                "What was Bai Yiqing's final criminal act? a. Selling fake drugs b. Peeping tenants c. Killing female tenants d. Theft",
+                "Why was Bai Yiqing expelled from the city center hospital? a. Medical accidents b. Financial fraud c. Stealing and selling organs from corpses d. Drug theft",
+                "What methods does Bai Yiqing mainly use to attract listeners in the program \"Health Hotline\"? a. Provide professional medical knowledge b. Use daycare to pretend to be a patient c. Conduct on-site treatment d. Provide free medication",
+                "Why did Bai Yiqing specifically choose young women as targets for killing? a. Easy to control b. For emotional dependence c. Selling their organs d. Personal preferences",
+                "How can Lu Zhoutong prevent Bai Yiqing from continuing his crimes? a. Alarm b. Threat exposure c. Encouragement for improvement d. Sending them abroad",
+                "What is the name of the apartment building that Bai Yiqing purchased? a. Micro cuisine apartment b. Large cuisine apartment c. Small cuisine apartment d. Healthy apartment",
+                "What are Bai Yiqing's actions in the radio live broadcast competition? a. B. Arrange fake listeners to make phone calls c. Poison in the rest area d. Publicize one's identity",
+                "What is the name of Bai Yiqing's radio program? a. B. \"Health Hotline\" b. \"Midnight Talk\" c. \"Don't Be Lonely Tonight\" d. \"Super Song Channel\"",
+                "What was Bai Yiqing's previous position? a. Clinic assistant nurse b. morgue administrator c. pharmacist d. radio host",
+                "What event did the cooperation between Lu Zhoutong and Bai Yiqing begin with? a. The program of Lu Zhoutong needs a host. b. Lu Zhoutong saved Bai Yiqing's life. c. Lu Zhoutong was cured by Bai Yiqing. d. Lu Zhoutong provided Bai Yiqing with an opportunity to make a fortune",
+                "How does Bai Yiqing attract listeners in radio programs? a. Provide real medical advice b. Use daycare to pretend to be a patient c. Live performance therapy d. Free distribution of medication",
+                "Why did Bai Yiqing choose to launch the program 'Health Hotline'? a. Promote one's own clinic b. Expand its influence in the medical field c. Make money by selling fake drugs d. Educate the public on health knowledge",
+                "What is the purpose of the special drug sold by Bai Yiqing in the program? a. Treat heart disease b. Improve bed skills c. Relieve pain d. Beauty and skincare",
+                "Where did Bai Yiqing kill a young female tenant? a. His clinic b. Micro cuisine apartment c. City center hospital d. Radio live broadcast room",
+                "Why did Lu Zhoutong demand Bai Yiqing to give up live streaming the competition? a. To prevent him from committing further crimes, b. because there is discord between them, c. to cover up their secrets, d. to worry about Bai Qingqing's safety",
+                "What action did Bai Yiqing take in the radio live broadcast competition? a. Escaping the scene b. Attempting to poison Lu Zhoutong c. Surrendering d. Attacking other anchors",
+                "What was the reason for Bai Yiqing's dismissal from the city center hospital? a. Medical accidents b. Financial fraud c. Stealing and selling organs from corpses d. Drug theft"
+            ],
+            "a": [
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "a",
+                "a",
+                "b",
+                "a",
+                "b",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c",
+                "a",
+                "b",
+                "b",
+                "d",
+                "b",
+                "a",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "a",
+                "c",
+                "a",
+                "b",
+                "d",
+                "b",
+                "c",
+                "b",
+                "b",
+                "a",
+                "b",
+                "c"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "What is the reason why Brother Zhu mistakenly thought he was the murderer? a. Mistakenly ingesting Rat Laibao and causing hallucinations. b. Being framed by someone. c. Mental problems within oneself. d. Accepting incorrect information",
+            "What did Brother Zhu accidentally drink that caused him to have hallucinations? a. Black tea b. Fruit juice c. Coffee d. Water",
+            "What is the main function of Rat Laibao? a. Fatal b. Restoring physical strength c. Illusory d. Treatment",
+            "What did Li Xiaoguo do in the deceased's room? a. Collect evidence b. Change the scene c. Wipe down the spilled tea d. Leave fingerprints",
+            "How many minutes does the murderer need to allocate during the live broadcast in order to kill the deceased? a. 8 minutes b. 10 minutes c. 12 minutes d. 15 minutes",
+            "What is the longest time interval for listeners to speak on the day of Bai Yiqing's live broadcast? a. 8 minutes b. 10 minutes c. 12 minutes d. 15 minutes",
+            "Why do Da Mai's pants and shoes have water stains? a. Because it's raining outside. b. Because he went swimming. c. Because he splashed it while doing laundry. d. Because he went to the restroom",
+            "On the day of Da Jiaoyang's live broadcast, how many minutes were there for the crime? a. 20 minutes b. 2 minutes c. 12 minutes d. 25 minutes",
+            "Who drank coffee that day? a. Da Jiaoyang b. Big Brother Zhu c. Wheat d. Da Mai",
+            "Who didn't connect with the audience on the day of the live broadcast? a. Da Jiaoyang and Big Brother Zhu b. Da Mai and Li Xiaoguo c. Wheat and Big Brother Zhu d. Big Brother Zhu and Li Xiaoguo",
+            "What's in Brother Zhu's pocket? a. A pen b. A book c. A Pikachu doll d. A letter",
+            "What did the talkative person who called Da Jiaoyang end up with? a. Continuing to tell his story b. Suddenly stopping talking c. Falling asleep d. Hanging up the phone",
+            "What kind of tea was in the teacup in front of the deceased's desk? a. Green tea b. Black tea c. Oolong tea d. Chrysanthemum tea",
+            "What's on top of the white lab coat? a. Coffee stains b. Ink stains c. Tea stains d. Water stains",
+            "Why did Bai Yiqing have a perfect alibi on the day of her live broadcast? a. Because he was recorded throughout the entire time in the live broadcast room. b. Because there was one audience member who could prove it. c. Because he needed to constantly interact and communicate with another audience member. d. Because the live broadcast recording showed that he did not leave",
+            "Why do Da Mai and Mai Mai have the opportunity to commit murder? a. Because they are in the live broadcast room b. Because they have an alibi for chatting on their phones c. Because they are outside the live broadcast room d. Because they have 15 minutes of free time",
+            "What did Brother Zhu add to his coffee? a. Sugar b. \"Honey Liquid\" c. \"Rat Laibao\" d. Caffeine",
+            "How could Big Brother Zhu and Li Xiaoguo have time to commit murder? a. Because they are all hosts of the live broadcast room, b. because they can record the live content in advance, c. because they have audience testimony, d. because they have a perfect alibi during the live broadcast",
+            "Who did Mai see lying down at that time? a. Bai Yiqing b. Da Mai c. Zhu Big Brother d. Li Xiaoguo",
+            "Why would someone wear a white lab coat? a. To wear it to kill the murderer b. to prevent being recognized by others c. to prevent leaving evidence of having been to the victim's room d. because it feels fashionable",
+            "Why did Bai Yiqing have a perfect alibi on the day of her live broadcast? a. Because he was recorded throughout the entire time in the live broadcast room. b. Because there was one audience member who could prove it. c. Because he needed to constantly interact and communicate with another audience member. d. Because the live broadcast recording showed that he did not leave",
+            "Why do Da Mai and Mai Mai have the opportunity to commit murder? a. Because they are in the live broadcast room b. Because they have an alibi for chatting on their phones c. Because they are outside the live broadcast room d. Because they have 15 minutes of free time",
+            "After being hallucinated, Brother Zhu thought he was the murderer, but in reality, he fainted in the corridor near the deceased. What caused this? a. Alcohol b. Coffee c. Rat Laibao d. Tea",
+            "What is the effect of Rat Laibao? a. B. Refreshing b. Illusory c. Lethal d. Relaxing",
+            "How did Bai Yiqing try to poison his target? a. Place poison in the water dispenser b. Place \"Rat Laibao\" in the coffee machine c. Add poison to food d. Use poison arrows",
+            "What did Bai Yiqing put in the toilet? a. White coat b. Shoes c. Water cup d. Pants",
+            "Why did Da Mai leave the live broadcast room during the live broadcast? a. Go eat. b. Go to the big phone. c. Answer the phone. d. Take a break",
+            "What methods did Da Mai and Mai use to ensure that the live broadcast can continue? a. Pause live broadcast b. Replace with recorded video c. Open mobile intercom d. Ask someone else to replace",
+            "How long did Wheat and Damai leave the live broadcast room at the same time? a. 5 minutes b. 10 minutes c. 15 minutes d. 20 minutes",
+            "Under what circumstances did the killer poison the hairy crab? a. B. During the live broadcast, c. After the live broadcast ends, d. During the pause of the live broadcast",
+            "What is the target that the murderer attempted to kill? a. Wheat b. Big Mai c. Audience d. Hairy Crab",
+            "How can Da Mai and Mai Mai ensure that the live broadcast can continue even if one of them leaves? a. Switch to pre recorded video b. Use phone intercom function c. Pause live broadcast d. Maintain through audience interaction",
+            "How long did Wheat and Damai leave the live broadcast room together? a. 5 minutes b. 10 minutes c. 15 minutes d. 20 minutes",
+            "Where did Wheat find the person lying on the ground? a. In the live broadcast room b. in the hallway c. in the live broadcast restroom d. on the live broadcast staircase",
+            "What attempts did Wheat make to confirm the identity of the deceased? a. Check the face b. Place Pikachu dolls c. Ask people around d. Check identification documents",
+            "Why is the men's restroom displayed outside the women's restroom and the women's restroom displayed outside the men's restroom? a. Construction error b. The sign fell off and a passerby hung it incorrectly c. The repairman hung it incorrectly after repairing the toilet d. It was intentionally replaced",
+            "What did Da Jiaoyang see while going to the restroom? a. Encountered a live stream of wheat. b. Discovered the lying figure of the deceased. c. Seen Da Mai returning from the restroom. d. Discovered that the restroom sign had been changed",
+            "What happened when Brother Zhu tried to return to his live streaming room? a. Directly returned to his live broadcast room. b. found himself in the bathroom. c. walked back to Lu Zhoutong's room by mistake. d. got lost in the hallway",
+            "What other identity does Brother Zhu have in this script? a. The person who called Da Jiaoyang b. The voice actor in the live broadcast c. The live streamer d. Technical support for the live broadcast"
+        ],
+        "key_ans": [
+            "a",
+            "c",
+            "c",
+            "c",
+            "c",
+            "a",
+            "a",
+            "c",
+            "b",
+            "d",
+            "c",
+            "c",
+            "c",
+            "c",
+            "c",
+            "d",
+            "c",
+            "b",
+            "c",
+            "c",
+            "c",
+            "d",
+            "c",
+            "b",
+            "b",
+            "a",
+            "b",
+            "c",
+            "c",
+            "b",
+            "d",
+            "b",
+            "c",
+            "b",
+            "b",
+            "d",
+            "c",
+            "c",
+            "a"
+        ],
+        "key_sc": [
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-3",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-2",
+            "b-p-2",
+            "p-2",
+            "p-m-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "b-p-3",
+            "j+m+z-2",
+            "b-1",
+            "b-1",
+            "b-1",
+            "b-1",
+            "b-1",
+            "b-1",
+            "b-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "j-1",
+            "b-1",
+            "b-1"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "What is the name of the program in Bai Yiqing's script? a. Healthy Every Day b. Lifestyle Health Line c. Health Hotline d. Daily Health",
+            "In Bai Yiqing's speech, the male audience claimed that his stomach cancer was caused by what? a. Bad lifestyle habits b. Long term use of harmful drugs c. Genetic factors d. Taking poison",
+            "In Bai Yiqing's speech, male listeners asked where she had worked before? a. Da Bai Hospital b. Xiao Bai Clinic c. Bai Yi Medical Center d. Bai Family Hospital",
+            "How did Bai Yiqing respond to the accusations made by male listeners in her speech? a. Admitting mistakes b. Apologizing c. Requesting more evidence d. Denying responsibility",
+            "What is the terminal illness that male listeners suffer from in Bai Yiqing's speech? a. Lung cancer b. Liver cancer c. Gastric cancer d. Pancreatic cancer",
+            "In Bai Yiqing's speech, how long did he introduce the Little White Clinic when he asked male viewers what it was? a. 10 minutes b. 8 minutes c. 9 minutes d. 3 minutes",
+            "In Bai Yiqing's speech, what was her response to male patients saying she had advanced gastric cancer? a. Ensure that he tries his best to receive treatment. B. Recommend him to see a psychologist. C. Let him wish him a smooth journey. D. Recommend other doctors to him",
+            "What was the last time Bai Yiqing appeared and spoke in Bai Yiqing's script? a. 9.29 b. 9.28 c. 9.25 d. 9.14",
+            "What was the initial illness that male listeners went to Bai Yiqing's clinic for treatment in her speech? a. Headache b. Constipation c. Hypertension d. Diabetes",
+            "What is the name of the program in Da Jiaoyang's script? a. Today is not lonely. b. Tonight is not lonely. c. Dialogue at night. d. Lonely night",
+            "What is the theme of the program in Da Jiaoyang's speech? a. Wife is a pornographic website owner b. Husband is a pornographic website owner c. Family secrets d. Revealing the truth",
+            "What are the concerns of male listeners in Da Jiaoyang's speech? a. My own marital issues b. A female friend's family problems c. Work pressure d. Social and moral issues",
+            "What is the reason for male listeners' suspicion towards female friends mentioned in Da Jiaoyang's speech? a. Husband comes home too late b. Husband no longer cares about her c. Husband's financial issues d. Husband's health issues",
+            "In Da Jiaoyang's speech, the female friend discovered her husband's identity? a. A company CEO b. a bank manager c. a pornographic website owner d. a school teacher",
+            "What are the principles of Da Jiaoyang in dealing with her husband's infidelity in his speech? a. Endure b. Pretend not to know c. Leave d. Score",
+            "At what time did Da Jiaoyang's first audience start interacting with her in her speech? a. 9：04 b. 9：05 c. 9：06 d. 9：07",
+            "How did the male audience feel at the end of the call in Da Jiaoyang's speech? a. Anger b. Confusion c. Fainting d. Depression",
+            "What time does Da Jiaoyang's program last from? a. 21:00-21:30 b. 20:35-21:02 c. 21:05-22:30 d. 20:10-21:00",
+            "What is the name of the program in the script of Da Mai and Mai Mai? a. Laughing family b. Great entertainer c. Great storyteller d. Great talker",
+            "What is the theme of this episode in the scripts of Da Mai and Mai Mai? a. Words that cannot be said b. Secrets that cannot be said c. Stories that cannot be said d. Emotions that cannot be said",
+            "Who is the male anchor of the program in the scripts of Da Mai and Mai Mai? a. Barley b. Large wheat c. Wheat d. Small wheat",
+            "What is the nature of the activities of the top anchor mentioned in the broadcasts of Da Mai and Mai Mai? a. Competition b. Seminar c. Charity Event d. Concert",
+            "In the presentations of Da Mai and Mai Mai, a message that Mai Mai read contained a secret about which artist's music album had been taken down? a. Jay Chou b. Li Zongsheng c. Jacky Cheung d. JJ Lin",
+            "Who claims to be Da Mai's ex girlfriend in the script of Da Mai and Mai Mai? a. Wheat b. One female audience c. One male audience d. Not explicitly mentioned",
+            "Which city is the \"ghost apartment\" mentioned in the speeches of Da Mai and Mai Mai? a. Beijing b. Shanghai c. Shenzhen d. Not explicitly mentioned",
+            "What is the song played before the end of the program in the script of Da Mai and Mai Mai? a. Nocturne b. Secret that cannot be revealed c. Blue and white porcelain d. Chrysanthemum table",
+            "How did Da Mai react to accidentally hearing a message from her ex girlfriend in the broadcast of Da Mai and Mai Mai? a. Surprise b. Happy c. Silent d. Angry",
+            "What is the name of the program in Li Xiaoguo's script? a. Super Song Channel b. Super Song Request Channel c. Super Music Channel d. Super Play Channel",
+            "What is the theme of this episode in Li Xiaoguo's speech? a. Dark Trilogy b. Dark Trilogy c. Bright Trilogy d. Bright Trilogy",
+            "What is the first song played in Li Xiaoguo's presentation? a. In the Name of Father b. Nocturne c. Chapter 7 of the Night d. Chrysanthemum Terrace",
+            "What type of movie does the first song \"In the Name of My Father\" pay tribute to in Li Xiaoguo's speech? a. Romantic love b. Science fiction adventure c. Gangster theme d. Historical warfare",
+            "Which album included the song 'Nocturne' in Li Xiaoguo's broadcast? a. Ye Huimei b. Still Fantexi c. Chopin in November d. Fantexi",
+            "In Li Xiaoguo's speech, which great figure was paid tribute to by the song 'Chapter Seven of the Night'? a. Beethoven b. Mozart c. Sherlock Holmes d. Einstein",
+            "In Li Xiaoguo's broadcast, which album is included in \"Chapter Seven of Night\"? a. Ye Huimei b. Still Fantexi c. Chopin in November d. Fantexi",
+            "How did Li Xiaoguo describe the weather outside the live broadcast room in her script? a. The sunshine is bright b. It's cloudy and rainy continuously c. It's raining heavily d. The wind is gentle and the sun is beautiful",
+            "What does Li Xiaoguo ask the audience to do to support the program in her speech? a. Donation support b. Share program links c. Lock radio channels d. Purchase program merchandise",
+            "How long is the advertising time mentioned before the end of Li Xiaoguo's presentation? a. Five minutes b. Ten minutes c. Half a minute d. One hour",
+            "What is the name of the program in Wheat's script? a. Big entertainment station b. Big entertainment host c. Entertainment everyone d. Entertainment station",
+            "What is the theme of this episode in Wheat's script? a. Words that cannot be said b. Secrets that cannot be said c. Stories that cannot be told d. Things that cannot be said",
+            "What form did Wheat and Damai use to interact with the audience in the program? a. Telephone interaction b. WeChat interaction c. Weibo interaction d. Email interaction",
+            "What did Da Mai's ex girlfriend mention in her message during the wheat broadcast? a. To keep their secrets, b. to reconcile, c. to reveal Da Mai's secrets, d. to praise Da Mai's past",
+            "Which song by Jay Chou was played as a theme in the wheat broadcast? a. In the name of father b. Nocturne c. Secret that cannot be spoken d. Chrysanthemum Terrace",
+            "Which artist's album was taken down from the music platform due to copyright issues in Wheat's studio? a. Jay Chou b. Wang Leehom c. Li Zongsheng d. JJ Lin",
+            "What is the name of the program in Brother Zhu's script? a. Midnight Ghost Talk b. Midnight Strange Talk c. Midnight Story d. Midnight Secret Talk",
+            "What is the theme of this episode in Zhu's speech? a. Big Brother Zhu's Adventures b. Ghost Tower Mystery Series c. Urban Horror Stories d. Unsolved Urban Mysteries",
+            "What is the location that Zhu visited alone in his speech? a. Ghost City b. Ghost Building c. Ghost City d. Ghost House",
+            "What did Brother Zhu hear on the third floor in his speech? a. Laughter b. Crying c. Music d. Shouting",
+            "What did Zhu discover in the container in the room during his speech? a. Gold coins b. Mouse c. Human eyes d. Butterfly",
+            "What did Zhu discover when he opened the freezer in his speech? a. Snake b. A female corpse c. Books d. Food",
+            "At which time did Zhu enter the Ghost Tower in his speech? a. 9pm b. Midnight c. Early morning d. Afternoon",
+            "What are the characteristics of wheat sneakers? a. Can be waterproof b. Can be automatically tied c. Comes with height increasing pad d. Equipped with tracking device",
+            "Whose photo is in the wheat bag? a. Xiaomai's b. Her own from various periods c. Her parents' d. Brother Zhu's",
+            "What are the ingredients in the water in the thermos on the wheat desk? a. Caffeine b. Alcohol c. Heart Soaring d. Vitamins",
+            "Whose photo is in Da Mai's pocket? a. A cat b. A train ticket c. A hairy crab d. A smiling face",
+            "What's in the thermos on the Damai desk? a. Coffee b. Green tea c. Purified water d. Fruit juice",
+            "What is on wheat's wrist? a. A mosquito bite bag b. A small dog bite wound c. Scratched by a sharp object d. Shallow strangulation marks",
+            "What is the suggestion for Lu Zhoutong's case to change his drink? a. Coffee b. Black tea c. Plain water d. Oolong tea",
+            "What does Lu Zhoutong need to open his recording pen? a. Password b. Key c. Fingerprint d. Voice command",
+            "When was the approximate time of death of Lu Zhoutong? a. 9:10am to 9:30pm b. 9:10pm to 9:30pm c. 12pm d. 3pm",
+            "What is the shortest time from any live streaming room to the Lu Zhou Tong live streaming room? a. 3 minutes b. 6 minutes c. 12 minutes d. 15 minutes",
+            "What type of tea pigment residue was detected in the deceased's mouth? a. Black tea b. Jasmine tea c. Oolong tea d. Rose tea",
+            "What is in the video screenshot found in Lu Zhoutong's office? a. A cat b. A train ticket c. A suspended woman d. A smiling face",
+            "What two songs are included in the audio playlist of Li Xiaoguo's office computer? a. In the Name of Father \"and\" Chapter Seven of Night \"b.\" Nocturne \"and\" Chrysanthemum Terrace \"c.\" Blue and White Porcelain \"and\" Secret That Cannot be Told \"d.\" Tornado \"and\" In the Name of Father \"",
+            "How was Li Xiaoguo's injury caused? a. Being hit by a blunt object b. Falling c. Scratching d. Burns",
+            "What is the difference between Li Xiaoguo's shoes and Xiao Biao's shoes? a. Different colors b. Different materials c. Li Xiaoguo's shoes are clean and free of water stains d. Different sizes",
+            "What is the main content of the news displayed on the white clear computer screen about? a. Environmental rectification b. Strictly cracking down on illegal activities c. Health checks d. Education reform",
+            "Which type of medication is not included in the information received by Bai Yiqing on the computer? a. Erectile dysfunction treatment drugs b. hallucinogenic drugs c. intoxicating drugs d. analgesic drugs",
+            "Which of the following items was not found in the drawer of Bai Qingqing's office desk? a. Bottled medicine b. Surgical knife c. Camera connection cable d. Student ID card",
+            "What financial activities does the white and clear receipt show? a. Large amount of money expenditure b. Large amount of money inflow c. Regular donations d. Loan repayment",
+            "How did the pets mentioned in Da Jiaoyang's diary perform? a. Very good b. very poor c. average d. unknown",
+            "Who are the people in Da Jiaoyang's family photo? a. Only Da Jiaoyang b. Da Jiaoyang and her husband c. Da Jiaoyang, Lu Zhoutong and their daughter d. Da Jiaoyang and his parents",
+            "What special stains are on the clear white coat? a. Tea stains b. Coffee stains c. Oil stains d. Ink stains",
+            "What is the fragrance emanating from the clear white coat? a. Taste of Stinky tofu b. Strange aroma c. Rose aroma d. Food aroma",
+            "What is the label on the medicine bottle on Lu Zhoutong's desk? a. According to the internal stomach b. Heart flying c. Very good d. Morning bell pepper",
+            "What abnormalities were found in the drug ingredients on Lu Zhoutong's desk? a. All pills are placebo. b. A small number of pills have been replaced with 'very good'. c. Some pills contain prohibited ingredients. d. All pills have expired",
+            "What are the characteristics of the characters in the photo album on Lu Zhoutong's desk? a. The characters are all women and very beautiful. b. The characters are all men and very handsome. c. The characters are all women and all have terrifying appearances. d. They are all abstract characters",
+            "What's on Da Jiaoyang's high heels? a. Mud b. Oil stains c. Water stains d. Ink stains",
+            "What items were found in the wardrobe of Da Jiaoyang's live streaming room? a. Casual clothes and hats b. Police uniforms and handcuffs c. Doctor's clothing and stethoscope d. Lawyer's robes and documents",
+            "At what time does the hotline of the program 'Don't Be Lonely Tonight' receive a call? a. 9am sharp, 9:04, 9:07 b. 9:02, 9:05, 9:06 c. 9:15, 9:30, 9:45 d. No phone calls received"
+        ],
+        "key_ans": [
+            "c",
+            "b",
+            "b",
+            "c",
+            "c",
+            "b",
+            "c",
+            "b",
+            "b",
+            "b",
+            "b",
+            "b",
+            "a",
+            "d",
+            "c",
+            "c",
+            "c",
+            "a",
+            "b",
+            "b",
+            "b",
+            "a",
+            "a",
+            "b",
+            "d",
+            "b",
+            "a",
+            "b",
+            "b",
+            "a",
+            "c",
+            "c",
+            "c",
+            "b",
+            "c",
+            "c",
+            "c",
+            "b",
+            "b",
+            "c",
+            "a",
+            "c",
+            "a",
+            "b",
+            "a",
+            "b",
+            "c",
+            "c",
+            "b",
+            "a",
+            "c",
+            "b",
+            "c",
+            "c",
+            "c",
+            "d",
+            "b",
+            "a",
+            "b",
+            "b",
+            "a",
+            "c",
+            "a",
+            "a",
+            "c",
+            "b",
+            "d",
+            "d",
+            "b",
+            "a",
+            "c",
+            "a",
+            "b",
+            "a",
+            "b",
+            "c",
+            "c",
+            "b",
+            "b"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "What is the number of live streaming rooms next to Room 1? a. No. 2 b. No. 3 c. No. 4 d. No. 5",
+            "What do I need to go through to get from live room 2 to live room 6? a. Elevator b. Hall c. Corridor d. Stairs",
+            "What buildings are in the hall? a. Coffee shop b. Bookstore c. WC d. Water dispenser",
+            "What is the number of live streaming rooms next to room 6? a. No.3 b. No.4 c. No.5 d. No.7",
+            "Which live broadcast room is facing the 4th? a. No.1 b. No.2 c. No.3 d. No.5",
+            "Who does Room 1 belong to? a. Lu Zhoutong b. Da Jiaoyang c. Li Xiaoguo d. Big Brother Zhu",
+            "Who does room 2 belong to? a. Lu Zhoutong b. Da Jiaoyang c. Li Xiaoguo d. Big Brother Zhu",
+            "Who does Room 3 belong to? a. Lu Zhoutong b. Da Jiaoyang c. Li Xiaoguo d. Big Brother Zhu",
+            "Who does Room 3 belong to? a. Lu Zhoutong b. Da Jiaoyang c. Li Xiaoguo d. Big Brother Zhu",
+            "Who does the live broadcast room 5 belong to? a. Lu Zhoutong b. Da Jiaoyang c. Li Xiaoguo d. Da Mai Wheat",
+            "Who does the live broadcast room on the 6th belong to? a. Lu Zhoutong b. Da Jiaoyang c. Li Xiaoguo d. Bai Yiqing"
+        ],
+        "key_ans": [
+            "a",
+            "b",
+            "c",
+            "c",
+            "c",
+            "a",
+            "b",
+            "c",
+            "d",
+            "d",
+            "d"
+        ]
+    },
+    "ju_name": "DAMAIF",
+    "task_nm": "Please complete the following tasks using all the clues at hand",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Li Xiaoguo"
+    ],
+    "murder": "Li Xiaoguo",
+    "reason": "Motive for committing the crime:"
+}

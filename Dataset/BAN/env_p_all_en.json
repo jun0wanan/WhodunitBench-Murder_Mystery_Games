@@ -1,0 +1,227 @@
+{
+    "key_clues_pool": {
+        "A同事": [
+            "18: Colleague A finally found the problematic contract. Your colleague A is calculating how to use this evidence to reverse the status of the two of you. On the way back to the office, he meets the manager who went to the meeting on the second floor."
+        ],
+        "B女士": [
+            "19: 10. Ms. B, you became impatient and stormed into Li Wuyi's office, only to find him dead and lying in a pool of blood on the ground. However, Ms. B soon realized that if the police discovered any emotional conflicts or crises between you, you would undoubtedly be highly suspicious. Therefore, you must conceal your relationship with the manager and your emotional crisis with your husband"
+        ],
+        "C经理": [
+            "17: Manager 00C, when you returned to the company, you met a woman who was your college classmate and also your lover. Manager C, you noticed bruises on her face, and you inquired about the cause of her injury with concern."
+        ]
+    },
+    "role-q": {},
+    "public_clue": "\n",
+    "key_clues_questions": [
+        {
+            "q": "At what time did colleague A find the problematic contract? a. 16:15 b. 17:00 c. 18:15 d. 19:10",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Where did colleague A meet the manager who went to the meeting? a. 1st floor b. 2nd floor c. 3rd floor d. Office",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "At what time did Ms. B rush into Li Wuyi's office? a. 16:15 b. 17:00 c. 18:15 d. 19:10",
+            "ans": "d",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the state in which Li Wuyi was discovered? a. I'm on the phone. B. Drinking coffee. C. Lying dead in a pool of blood. D. Working",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Why does Ms. B need to conceal her relationship with the manager? a. Avoiding promotion disputes b. Preventing suspicion from the police c. Maintaining workplace image d. Avoiding rumors from colleagues",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "When will Manager C return to the company? a. 16:15 b. 17:00 c. 18:15 d. 19:10",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Who is the person that Manager C met? a. His college classmates b. His lover c. His lover and college classmate d. His ex",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Manager C noticed something unusual on the lady's face? a. Bruising b. Smiling c. Sweating d. Over makeup",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the relationship between Ms. B and Manager C? a. Colleague b. Lover c. Brother sister d. Competitor",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What worries Ms. B the most after discovering that Li Wuyi has died? a. Will be late b. Considered a suspect c. Did not complete work d. Affects promotion",
+            "ans": "b",
+            "source": "p-1"
+        }
+    ],
+    "role": [
+        {
+            "name": "A colleague",
+            "back": "17: 00 You go out to do business;",
+            "r_q": [
+                {
+                    "q": "What did you discover when you returned to the office at 17:40? a. Li Wuyi is working. B. Li Wuyi is sleeping on the office chair. C. Li Wuyi is not in the office. D. Li Wuyi is on the phone",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What did you discover when you returned to the office at 17:40? a. Li Wuyi is working. B. Li Wuyi is sleeping on the office chair. C. Li Wuyi is not in the office. D. Li Wuyi is on the phone"
+            ],
+            "a": [
+                "b"
+            ]
+        },
+        {
+            "name": "Ms. B",
+            "back": "17: You made an appointment with Li Wuyi to have dinner together tonight at 18:00, so you went downstairs from 17:00 to wait for the deceased. During this time, you saw the manager driving back;",
+            "r_q": [
+                {
+                    "q": "Which manager, Li Wuyi, and you were college classmates and later developed an extramarital affair? a. Li Wuyi b. Manager c. Li Wuyi and Manager d. You and Li Wuyi",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Which manager, Li Wuyi, and you were college classmates and later developed an extramarital affair? a. Li Wuyi b. Manager c. Li Wuyi and Manager d. You and Li Wuyi"
+            ],
+            "a": [
+                "c"
+            ]
+        },
+        {
+            "name": "Manager C",
+            "back": "17: You came back from market research outside and saw the lady in the lobby on the first floor, but didn't pay special attention because you weren't very familiar with her.",
+            "r_q": [
+                {
+                    "q": "What kind of behavior does the company oppose? a. Office romance b. tardiness and early departure c. unauthorized transfer of funds d. unfair competition",
+                    "ans": "a"
+                }
+            ],
+            "self": "Hello everyone, I am Manager C",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "What kind of behavior does the company oppose? a. Office romance b. tardiness and early departure c. unauthorized transfer of funds d. unfair competition"
+            ],
+            "a": [
+                "a"
+            ]
+        },
+        {
+            "name": "D Agent",
+            "back": "17: You made an appointment with Li Wuyi to talk about something tonight, so you entered the company at this time, during which you didn't see anyone;",
+            "r_q": [
+                {
+                    "q": "Where did you first discover Li Wuyi's death? a. Archive room b. Office c. Procurement department d. Cafeteria",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Where did you first discover Li Wuyi's death? a. Archive room b. Office c. Procurement department d. Cafeteria"
+            ],
+            "a": [
+                "b"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "At what time did colleague A find the problematic contract? a. 16:15 b. 17:00 c. 18:15 d. 19:10",
+            "Where did colleague A meet the manager who went to the meeting? a. 1st floor b. 2nd floor c. 3rd floor d. Office",
+            "At what time did Ms. B rush into Li Wuyi's office? a. 16:15 b. 17:00 c. 18:15 d. 19:10",
+            "What is the state in which Li Wuyi was discovered? a. I'm on the phone. B. Drinking coffee. C. Lying dead in a pool of blood. D. Working",
+            "Why does Ms. B need to conceal her relationship with the manager? a. Avoiding promotion disputes b. Preventing suspicion from the police c. Maintaining workplace image d. Avoiding rumors from colleagues",
+            "When will Manager C return to the company? a. 16:15 b. 17:00 c. 18:15 d. 19:10",
+            "Who is the person that Manager C met? a. His college classmates b. His lover c. His lover and college classmate d. His ex",
+            "Manager C noticed something unusual on the lady's face? a. Bruising b. Smiling c. Sweating d. Over makeup",
+            "What is the relationship between Ms. B and Manager C? a. Colleague b. Lover c. Brother sister d. Competitor",
+            "What worries Ms. B the most after discovering that Li Wuyi has died? a. Will be late b. Considered a suspect c. Did not complete work d. Affects promotion"
+        ],
+        "key_ans": [
+            "c",
+            "b",
+            "d",
+            "c",
+            "b",
+            "b",
+            "c",
+            "a",
+            "b",
+            "b"
+        ],
+        "key_sc": [
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "Which company in which city did the case occur? a. A city AA company b. B city SB company c. C city CC company d. D city DD company",
+            "What is Li Wuyi's position? a. Sales department supervisor b. Purchasing department supervisor c. Finance department supervisor d. Human resources department supervisor",
+            "When was the time of the incident? a. 17:30 PM b. 18:30 PM c. 19:30 PM d. 20:30 PM",
+            "What was the cause of Li Wuyi's death? a. Heart attack b. Death from falling c. Death from cutting the neck artery and bleeding d. Poison poisoning",
+            "What caused the bruises on the corpse? a. Pistol hit b. Blunt object injury c. Sharp object stab d. Natural bruising",
+            "What are the abnormal traces on site? a. Obvious fire marks b. Obvious disorderly marks c. Obvious water stains d. Obvious explosion marks",
+            "How much cash was found on site? a. 100000 b. 200000 c. 300000 d. 500000",
+            "What is the murder weapon? a. Firearms b. Knives c. Paper cutters d. Nails",
+            "What are the characteristics of the murder weapon? a. Long handle anti slip b. Short handle with thorns c. Anti slip designed handle d. No features",
+            "Besides the paper cutter, what other items possibly related to the case were found on the scene? a. Damaged stone ornaments b. Damaged clocks c. Damaged computers d. Damaged folders"
+        ],
+        "key_ans": [
+            "b",
+            "b",
+            "c",
+            "c",
+            "b",
+            "b",
+            "d",
+            "c",
+            "c",
+            "a"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "How was the incident? a. The lights are off. B. The TV is on. C. The windows are open. D. Music is playing",
+            "What is next to the deceased? a. One table b. Two chairs c. One printer d. Three books",
+            "How many doors are there in the room where the deceased is located? a. One b. Three c. Two d. Four",
+            "How many desks were there in the deceased's office? a. 1 b. 3 c. 2 d. 4",
+            "What is next to the desk where the deceased is located? a. A computer b. A carpet c. Curtains d. A pot of plants"
+        ],
+        "key_ans": [
+            "a",
+            "b",
+            "c",
+            "c",
+            "c"
+        ]
+    },
+    "ju_name": "ban",
+    "task_nm": "Please complete the following tasks using all the clues at hand",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "D Agent"
+    ],
+    "murder": "D Agent",
+    "reason": "Motive for committing the crime:"
+}

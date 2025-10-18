@@ -1,0 +1,2279 @@
+{
+    "key_clues_pool": {
+        "p": [
+            "There is a dog hole under the room door, the size of which you found through experiments that you cannot touch the door lock inside the room from the outside through the dog hole.",
+            "The deceased was in a lying posture, with his face facing towards the entrance of the room and his left eye open, looking lifeless. His left arm was extended forward, and his left palm was facing downwards, pointing towards the bookshelf in a \"victory\" posture. There was a blood letter \"faced1\" written with the deceased's blood under his left palm. His left hand was full of blood, and the handwriting under his palm was confirmed to be written by the deceased.",
+            "There is a small amount of blood on the bottom of the slippers on the deceased's feet.",
+            "The items in Sarah's room include a selfie stick about 1 meter long, a mobile phone, various cosmetics, and a work permit from a domestic service company.",
+            "Items in Thomas' room: a medical certificate for red green color blindness, a golf club about 1 meter long, various pet supplies, a mobile phone",
+            "The household appliance maintenance checklist includes: TV, washing machine, air conditioner, drag and sweep robot, dishwasher, dryer.",
+            "Dragging and sweeping integrated robot: Wilton Dragging and sweeping integrated robot: a cylindrical body with a diameter of 35CM and a thickness of 10CM",
+            "robot. It is a type of Wilton smart home appliance that can automatically complete floor cleaning work in a room with certain artificial intelligence. The Wilton sweeping robot has the highest technology today, which can clean floors full of oil stains, paint, and dust very cleanly. In addition, it also adopts the latest intelligent climbing technology, which can freely adjust the gear position. The robot will distinguish obstacles based on the gear position and choose to climb or detour. The obstacle gear position is adjustable from 1CM to 1ocM.",
+            "The murderer created an illusion of a secret room by wiping away the bloodstains.",
+            "Faced1 corresponds exactly to the letters on each layer of the bookshelf, with 1 representing the first book on the shelf. The victory gesture represents the second word",
+            "The deceased's state of death is not immediate death",
+            "Since the deceased wrote a death message, he must have wanted to tell everyone who the murderer was, but he did not write down the name of the murderer.",
+            "To create a secret room in the room, the perpetrator must confirm that the deceased is in a state of death"
+        ],
+        "1-step": [
+            "The first book corresponding to aced is: \"Lunar Eclipse Chronicles\" in row F, \"One eyed Monkey\" in row A, \"Mountain Demon: The Mocking Thing\" in row C, \"Who is the Victim\" in row E, and \"I Killed Him\" in row D",
+            "The killer used this dog hole to insert a drag and sweep robot to clean blood stains.",
+            "Because the deceased's face was facing towards the door and his left eye was not in peace, the killer was able to use a selfie stick and a mobile phone to see the deceased's appearance before making the next plan.",
+            "The hand of the deceased's death message points to the bookshelf, implying that there is a clue on the bookshelf. Face represents the corresponding number of letter layers on the bookshelf, 1 represents the first book, and the victory gesture actually represents the number 2, implying the second word of the first book.",
+            "Because the deceased walked behind the desk after being attacked, they stepped on the blood left on their face",
+            "Sara can see the scene inside the room by connecting her selfie stick to her phone.",
+            "Thomas didn't lie, he has red green color blindness",
+            "Set the gear of the drag and sweep integrated robot to below 2 centimeters in carpet thickness, and the robot can only clean blood stains around the carpet.",
+            "The killer used a drag and sweep robot to remove bloodstains except for the carpet, creating a false impression of a secret room.",
+            "According to the posture of the deceased's hand gesture at the time of death, read the second word of these books.",
+            "The killer created the illusion of a secret room by wiping away the bloodstains",
+            "The secret room is formed by the deceased locking the door themselves",
+            "The deceased knew that the perpetrator was a family member, and before reporting to the police, the perpetrator was likely to break in and destroy the death message left at the crime scene.",
+            "The killer can see the scene inside the room by connecting a selfie stick to a mobile phone"
+        ],
+        "2-step": [
+            "The second word of these books gives the message of death: The Eye Eater is me.",
+            "The deceased locked the door to avoid pursuit and prevent the perpetrator from continuing the attack.",
+            "The killer used a drag and sweep robot to clean the ground, misleading everyone that the library was the first crime scene and forming a secret room.",
+            "There are only two possibilities for the perpetrator in this case: 1. The perpetrator is a true eye eater and the deceased does not know him. 2. The perpetrator committed the crime by imitating someone known to the deceased."
+        ],
+        "3-step": [
+            "The murderer committed the crime by imitating someone known to the deceased"
+        ],
+        "4-step": [
+            "The murderer is a family member"
+        ],
+        "5-step": [
+            "My son is red green color blind. If it were my son, the deceased could have written his name on the green blanket, so the murderer cannot be my son"
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            65
+        ]
+    },
+    "public_clue": "\n",
+    "key_clues_questions": [
+        {
+            "q": "What are the two possibilities for the perpetrator in this case? a. The real Eye Eater and the person who the deceased do not know b. The real Eye Eater and the person who the deceased know c. The person who imitates the crime and the person who the deceased does not know d. The person who imitates the crime and the person who the deceased knows",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What does the message from the deceased imply? a. The clue is under the floor b. The clue is behind the curtain c. The clue is on the bookshelf d. The clue is behind the door",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What does the 'face' in the deceased's message mean? a. Face to face b. Alphabet hierarchy c. Rapid action d. Victim's expression",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "According to the message from the deceased, what is the number represented by the 'victory gesture'? a. 1 b. 2 c. 3 d. 4",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What are the corresponding books for aced? a. F, A, C, E, D b. A, B, C, D, E c. G, H, I, J, K d. M, N, O, P, Q",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Where is the bookshelf for 'Lunar Eclipse Stories' located? a. A row b. B row c. C row d. F row",
+            "ans": "d",
+            "source": "p-1"
+        },
+        {
+            "q": "What tool did the murderer use to remove the bloodstains? a. Automatic sweeping machine b. Automatic mop c. Integrated mopping robot d. Vacuum cleaner",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What was the last gesture of the deceased? a. The gesture of comparing three. b. The gesture of comparing one. c. The gesture of comparing two. d. The gesture of comparing four",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "How does the murderer observe the state of the deceased? a. Through the window b. Use a selfie stick to check with your phone c. Concealed camera d. Cat's eye on the door",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What did the clues left by the deceased point to? a. Desk b. Bookshelf c. TV cabinet d. Sofa",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "How was the secret room formed? a. B. The victim locked the door themselves. C. The perpetrator locked the door from the outside. D. There was an iron plate blocking the door",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Why isn't Thomas the murderer? a. He is present at the scene. B. He has an alibi. C. He has red and green blindness. D. He is a police officer",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Which part of the book should I check based on the deceased's death message? a. Book title b. First word c. Second word d. Last word",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What thickness carpet is suitable for the gear setting of the robot cleaning bloodstains? a. Less than 1 centimeter b. Less than 2 centimeters c. Less than 3 centimeters d. Less than 5 centimeters",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Which book title corresponding to Faced mentions' one eyed monkey '? a. F row b. A row c. C row d. E row",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Which direction did the victim's face face face at the time of the crime? a. Facing the doorway b. Facing the window c. Facing the desk d. Facing the bed",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What measures did the deceased take to prevent the perpetrator from continuing the attack? a. Shouting loudly for help, b. injuring the murderer, c. locking the door themselves, d. escaping the room",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "What machine did the killer use to mislead people into thinking that the library was the first crime scene? a. Washing machine b. Drag and sweep integrated robot c. High pressure water gun d. Air purifier",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "What is the relationship between the murderer and the deceased? a. The murderer is someone the deceased does not know. b. The murderer is the enemy of the deceased. c. The murderer is someone the deceased knows. d. I am not sure",
+            "ans": "c",
+            "source": "p-3"
+        },
+        {
+            "q": "The deceased already knew the basic identity of the murderer before reporting to the police. Who was the murderer? a. A stranger b. A neighbor c. A family member d. A passerby",
+            "ans": "c",
+            "source": "p-4"
+        },
+        {
+            "q": "Why can't the murderer be the son? a. My son's hand is injured and he cannot kill. B. The deceased can write his son's name on a green blanket. C. The son had sufficient alibi at the time. D. The son was called away by the police at that time",
+            "ans": "b",
+            "source": "p-5"
+        },
+        {
+            "q": "What is the size of the dog hole under the room door? a. The door lock inside the room cannot be reached from the outside. b. It is large enough for people to pass through. c. Only small pets can pass through. d. It is slightly larger than a standard door lock",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "What was the posture of the deceased's death? a. Sitting b. Lying down with your back down c. Lying face down towards the entrance of the room d. Standing",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What was the last gesture of the deceased? a. Make a fist b. Use the 'OK' gesture c. Use the 'Victory' gesture d. Wave your hand",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What is the blood written message under the palm of the deceased's left hand? a. helpme b. murder c. faced1 d. lastword",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What is the clue corresponding to 'faced1'? a. Each layer of letters on the bookshelf b. The first book on the bookshelf c. The last book on the bookshelf d. A secret message on the bookshelf",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "What is the item about 1 meter long in Sara's room? a. Selfie stick b. Golf club c. Cane d. Umbrella",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "What are the proof documents in Thomas' room? a. Driver's license b. Doctor's license c. Medical certificate for red green color blindness d. Lawyer's license",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "What items are included in the household appliance maintenance checklist? a. Television, washing machine, air conditioner b. Refrigerator, oven, microwave c. Water heater, induction cooker, vacuum cleaner d. Dishwasher, dryer, mop sweeping integrated robot",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "What was the cause of death of the deceased? a. Natural death b. Murder c. Accident death d. Suicide",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "How did the murderer create the illusion of a secret room? a. Lock doors and windows b. Wipe away bloodstains c. Change site layout d. Use high-tech tools",
+            "ans": "b",
+            "source": "p"
+        }
+    ],
+    "role": [
+        {
+            "name": "rolf",
+            "back": "You're awake.",
+            "r_q": [
+                {
+                    "q": "What is the name of the victim in a murder case in a secret room? a. Taylor B. Sara C. Thomas D. Phil",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where was the specific location where the deceased was found? a. Bedroom b. Kitchen c. Library in study d. Bathroom",
+                    "ans": "c"
+                },
+                {
+                    "q": "According to the on-site situation, where is the position of the window? a. High building b. Basement c. Cliff d. Garden",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who discovered the deceased? a. Servant and son b. Wife and daughter c. Neighbor d. Police",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was the key to the library found? a. Dead person's pocket b. Underneath carpet c. Desk drawer d. Behind door",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Being stabbed in the heart b. Poisoning c. Screwdriver stuck in the right eye d. Drowning",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the posture in which the deceased fell? a. Sitting b. Lying c. Lying down d. Kneeling",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Lawyer b. Doctor c. Scholar d. Businessman",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the murderer called? a. Black Hand b. Night Walker c. Eye Eater d. Faceless Person",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the approximate time of death of the deceased in the afternoon? a. 12:00 to 1:00 b. 1:00 to 3:00 c. 3:00 to 5:00 d. 5:00 to 7:00",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the crime scene located? a. City center b. Suburban c. Seaside d. Mountainous area",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the profession of the deceased Phil? a. Doctor b. Lawyer c. Scholar d. Artist",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the specific location where the deceased was found? a. Bedroom b. Living room c. Library in study d. Bathroom",
+                    "ans": "c"
+                },
+                {
+                    "q": "How was the door of the library opened? a. Unlock with a key b. Use a pry bar to pry open c. Automatic opening d. Open from the inside",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the key to the library finally found? a. Dead person's pocket b. Underneath carpet c. Desk drawer d. Behind door",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Being stabbed in the heart b. Poisoning c. Screwdriver stuck in the right eye d. Drowning",
+                    "ans": "c"
+                },
+                {
+                    "q": "In what position was the body of the deceased found? a. Sitting b. Lying c. Lying down d. Kneeling",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the height of the deceased? a. 173CM b. 182CM c. 176CM d. 163CM",
+                    "ans": "a"
+                },
+                {
+                    "q": "When was the approximate time of death in the afternoon? a. 12:00 to 1:00 b. 1:00 to 3:00 c. 3:00 to 5:00 d. 5:00 to 7:00",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the position of the window? a. High building b. Basement c. Cliff d. Garden",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did the deceased Phil die? a. Heart stabbed b. Poisoned c. Screwdriver pierced right eye d. Falling from a height",
+                    "ans": "c"
+                },
+                {
+                    "q": "How was the door at the crime scene opened? a. Unlock with a key b. Use a pry bar to pry open c. Open from the inside d. Automatically open from the outside",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Artist b. Doctor c. Scholar d. Lawyer",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Servant and son b. Wife and daughter c. Neighbor d. Police",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where is the crime scene located? a. City center b. Suburban c. Seaside d. Mountainous area",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is outside the window on site? a. High building b. Basement c. Cliff d. Garden",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the key to the library finally found? a. Dead person's pocket b. Underneath carpet c. Desk drawer d. Behind door",
+                    "ans": "c"
+                },
+                {
+                    "q": "When was the time of death of the deceased in the afternoon? a. 12:00 to 1:00 b. 1:00 to 3:00 c. 3:00 to 5:00 d. 5:00 to 7:00",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the posture of the deceased at the time of the crime? a. Sitting b. Lying c. Lying down d. Kneeling",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which part of the victim's body was used to write a message during the incident? a. Palm b. Arm c. Foot d. Back",
+                    "ans": "a"
+                },
+                {
+                    "q": "Where was the crime scene? a. City center b. Mountain area c. Suburban area d. Seaside",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the profession of the deceased Phil? a. Doctor b. Lawyer c. Scholar d. Artist",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the body posture of the deceased when they were found? a. Sitting b. Lying c. Lying down d. Kneeling",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Heart attack b. Screwdriver inserted into right eye c. Falling from a height d. Poisoning",
+                    "ans": "b"
+                },
+                {
+                    "q": "How was the door of the library opened? a. Unlock with a key b. Use a pry bar to pry open c. Automatic opening d. Open from the inside",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the key to the library finally found? a. Dead person's pocket b. Underneath carpet c. Desk drawer d. Behind door",
+                    "ans": "c"
+                },
+                {
+                    "q": "At which time in the afternoon was the deceased's death approximately? a. 12:00 to 1:00 b. 1:00 to 3:00 c. 3:00 to 5:00 d. 5:00 to 7:00",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where are the windows located on site? a. High building b. Basement c. Cliff d. Garden",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the bloody message written on the deceased's body? a. Left hand b. Right hand c. Left palm d. Right palm",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the height of the deceased? a. 173CM b. 176CM c. 182CM d. 184CM",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the profession of the deceased Phil? a. Doctor b. Lawyer c. Scholar d. Artist",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the crime scene located? a. City center b. Suburban c. Seaside d. Mountainous area",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the body of the deceased found? a. Bedroom b. Living room c. Library in study d. Bathroom",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Heart attack b. Screwdriver inserted into right eye c. Falling from a height d. Poisoning",
+                    "ans": "b"
+                },
+                {
+                    "q": "How was the door of the library opened? a. Unlock with a key b. Use a pry bar to pry open c. Automatic opening d. Open from the inside",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the key to the library finally found? a. Dead person's pocket b. Underneath carpet c. Desk drawer d. Behind door",
+                    "ans": "c"
+                },
+                {
+                    "q": "At which time in the afternoon was the deceased's death approximately? a. 12:00 to 1:00 b. 1:00 to 3:00 c. 3:00 to 5:00 d. 5:00 to 7:00",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where are the windows located on site? a. High building b. Basement c. Cliff d. Garden",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the bloody message written on the deceased's body? a. Left hand b. Right hand c. Left palm d. Right palm",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the height of the deceased? a. 173CM b. 176CM c. 182CM d. 184CM",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is the name of the victim in a murder case in a secret room? a. Taylor B. Sara C. Thomas D. Phil",
+                "Where was the specific location where the deceased was found? a. Bedroom b. Kitchen c. Library in study d. Bathroom",
+                "According to the on-site situation, where is the position of the window? a. High building b. Basement c. Cliff d. Garden",
+                "Who discovered the deceased? a. Servant and son b. Wife and daughter c. Neighbor d. Police",
+                "Where was the key to the library found? a. Dead person's pocket b. Underneath carpet c. Desk drawer d. Behind door",
+                "What was the cause of death of the deceased? a. Being stabbed in the heart b. Poisoning c. Screwdriver stuck in the right eye d. Drowning",
+                "What was the posture in which the deceased fell? a. Sitting b. Lying c. Lying down d. Kneeling",
+                "What was the profession of the deceased? a. Lawyer b. Doctor c. Scholar d. Businessman",
+                "What is the murderer called? a. Black Hand b. Night Walker c. Eye Eater d. Faceless Person",
+                "When was the approximate time of death of the deceased in the afternoon? a. 12:00 to 1:00 b. 1:00 to 3:00 c. 3:00 to 5:00 d. 5:00 to 7:00",
+                "Where is the crime scene located? a. City center b. Suburban c. Seaside d. Mountainous area",
+                "What is the profession of the deceased Phil? a. Doctor b. Lawyer c. Scholar d. Artist",
+                "Where was the specific location where the deceased was found? a. Bedroom b. Living room c. Library in study d. Bathroom",
+                "How was the door of the library opened? a. Unlock with a key b. Use a pry bar to pry open c. Automatic opening d. Open from the inside",
+                "Where was the key to the library finally found? a. Dead person's pocket b. Underneath carpet c. Desk drawer d. Behind door",
+                "What was the cause of death of the deceased? a. Being stabbed in the heart b. Poisoning c. Screwdriver stuck in the right eye d. Drowning",
+                "In what position was the body of the deceased found? a. Sitting b. Lying c. Lying down d. Kneeling",
+                "What is the height of the deceased? a. 173CM b. 182CM c. 176CM d. 163CM",
+                "When was the approximate time of death in the afternoon? a. 12:00 to 1:00 b. 1:00 to 3:00 c. 3:00 to 5:00 d. 5:00 to 7:00",
+                "Where is the position of the window? a. High building b. Basement c. Cliff d. Garden",
+                "How did the deceased Phil die? a. Heart stabbed b. Poisoned c. Screwdriver pierced right eye d. Falling from a height",
+                "How was the door at the crime scene opened? a. Unlock with a key b. Use a pry bar to pry open c. Open from the inside d. Automatically open from the outside",
+                "What was the profession of the deceased? a. Artist b. Doctor c. Scholar d. Lawyer",
+                "Who discovered the body of the deceased? a. Servant and son b. Wife and daughter c. Neighbor d. Police",
+                "Where is the crime scene located? a. City center b. Suburban c. Seaside d. Mountainous area",
+                "What is outside the window on site? a. High building b. Basement c. Cliff d. Garden",
+                "Where was the key to the library finally found? a. Dead person's pocket b. Underneath carpet c. Desk drawer d. Behind door",
+                "When was the time of death of the deceased in the afternoon? a. 12:00 to 1:00 b. 1:00 to 3:00 c. 3:00 to 5:00 d. 5:00 to 7:00",
+                "What was the posture of the deceased at the time of the crime? a. Sitting b. Lying c. Lying down d. Kneeling",
+                "Which part of the victim's body was used to write a message during the incident? a. Palm b. Arm c. Foot d. Back",
+                "Where was the crime scene? a. City center b. Mountain area c. Suburban area d. Seaside",
+                "What is the profession of the deceased Phil? a. Doctor b. Lawyer c. Scholar d. Artist",
+                "What was the body posture of the deceased when they were found? a. Sitting b. Lying c. Lying down d. Kneeling",
+                "What was the cause of death of the deceased? a. Heart attack b. Screwdriver inserted into right eye c. Falling from a height d. Poisoning",
+                "How was the door of the library opened? a. Unlock with a key b. Use a pry bar to pry open c. Automatic opening d. Open from the inside",
+                "Where was the key to the library finally found? a. Dead person's pocket b. Underneath carpet c. Desk drawer d. Behind door",
+                "At which time in the afternoon was the deceased's death approximately? a. 12:00 to 1:00 b. 1:00 to 3:00 c. 3:00 to 5:00 d. 5:00 to 7:00",
+                "Where are the windows located on site? a. High building b. Basement c. Cliff d. Garden",
+                "What was the bloody message written on the deceased's body? a. Left hand b. Right hand c. Left palm d. Right palm",
+                "What is the height of the deceased? a. 173CM b. 176CM c. 182CM d. 184CM",
+                "What is the profession of the deceased Phil? a. Doctor b. Lawyer c. Scholar d. Artist",
+                "Where is the crime scene located? a. City center b. Suburban c. Seaside d. Mountainous area",
+                "Where was the body of the deceased found? a. Bedroom b. Living room c. Library in study d. Bathroom",
+                "What was the cause of death of the deceased? a. Heart attack b. Screwdriver inserted into right eye c. Falling from a height d. Poisoning",
+                "How was the door of the library opened? a. Unlock with a key b. Use a pry bar to pry open c. Automatic opening d. Open from the inside",
+                "Where was the key to the library finally found? a. Dead person's pocket b. Underneath carpet c. Desk drawer d. Behind door",
+                "At which time in the afternoon was the deceased's death approximately? a. 12:00 to 1:00 b. 1:00 to 3:00 c. 3:00 to 5:00 d. 5:00 to 7:00",
+                "Where are the windows located on site? a. High building b. Basement c. Cliff d. Garden",
+                "What was the bloody message written on the deceased's body? a. Left hand b. Right hand c. Left palm d. Right palm",
+                "What is the height of the deceased? a. 173CM b. 176CM c. 182CM d. 184CM"
+            ],
+            "a": [
+                "d",
+                "c",
+                "c",
+                "a",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "c",
+                "a",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "a",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "a",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "c",
+                "d",
+                "a",
+                "c",
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "c",
+                "d",
+                "a"
+            ]
+        },
+        {
+            "name": "Faris",
+            "back": "You wake up",
+            "r_q": [
+                {
+                    "q": "At what time did Faris arrive at Mr. Phil's mansion? a. 12:00 b. 12:30 c. 1:00 d. 1:30",
+                    "ans": "c"
+                },
+                {
+                    "q": "What did Faris do at the crime scene? a. Cleaning b. Electrical maintenance c. Child care d. Cooking",
+                    "ans": "b"
+                },
+                {
+                    "q": "How did Faris leave after completing his work? a. Leaving alone b. Leaving with Mr. Phil c. Saying goodbye to Sarah before leaving d. Being taken away by the police",
+                    "ans": "c"
+                },
+                {
+                    "q": "What do Mr. Phil and Faris usually talk about when they meet? a. Football matches b. Television programs c. Mystery novels d. Political news",
+                    "ans": "c"
+                },
+                {
+                    "q": "Mr. Phil is very talented in which areas? a. Design puzzle games b. Drawing c. Music d. Writing",
+                    "ans": "a"
+                },
+                {
+                    "q": "How is the relationship between Faris and Mr. Phil? a. Strangers b. Friends c. Business partners d. Enemies",
+                    "ans": "b"
+                },
+                {
+                    "q": "What time did Faris finish his work in the afternoon? a. 1 o'clock b. 1 o'clock 30 minutes c. 1 o'clock 50 minutes d. 2 o'clock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the detective work that Faris and Mr. Phil often talk about when they meet? a. Movies b. TV dramas c. mystery novels d. talk shows",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is Mr. Phil's servant at home? a. Taylor B. Faris C. Sarah D. Joey",
+                    "ans": "c"
+                },
+                {
+                    "q": "What does Mr. Phil usually show Faris about his designs? a. Reasoning game b. Art artwork c. News articles d. Installation art",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the specific time when Faris arrived at Mr. Phil's mansion? a. 12:30 b. 1:00 c. 1:30 d. 2:00",
+                    "ans": "b"
+                },
+                {
+                    "q": "What job did Faris do at Mr. Phil's house? a. Check the water pipes, repair the TV, inspect the electrical appliances, and clean the courtyard",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did Faris bid farewell after completing his work? a. Leaving directly b. Saying goodbye to Mr. Phil c. Saying goodbye to Sarah d. Saying goodbye to Joey",
+                    "ans": "c"
+                },
+                {
+                    "q": "What do Faris and Mr. Phil like to talk about every time they meet? a. Politics b. Sports c. Mystery novels d. Technology",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which field is Mr. Phil's talent reflected? a. Design puzzle games b. Dance c. Painting d. Music",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Faris' profession? a. Writer b. Electrical repairman c. Chef d. Teacher",
+                    "ans": "b"
+                },
+                {
+                    "q": "What time did Faris leave Mr. Phil's house? a. 1:00 b. 1:30 c. 1:50 d. 2:00",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which of the following is the relationship between Mr. Phil and Faris? a. Customers and servers b. Friends c. Employers and employees d. Colleagues",
+                    "ans": "b"
+                },
+                {
+                    "q": "What are the typical contents of Faris' meeting at Mr. Phil's house? a. Reasoning game b. Sports event c. News discussion d. Business plan",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who is Mr. Phil's household servant? a. Taylor B. Faris C. Sarah D. Joey",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the specific time when Faris arrived at Mr. Phil's house? a. 12:00 b. 12:30 c. 1:00 d. 1:30",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Faris' profession? a. Writer b. Electrical repairman c. Teacher d. Chef",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the deadline for Faris to complete his work? a. 1:30 b. 1:40 c. 1:50 d. 2:00",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who did Faris say goodbye to when he left? a. Mr. Taylor B. Sara C. Joey D. Phil",
+                    "ans": "b"
+                },
+                {
+                    "q": "What do Faris and Mr. Phil usually talk about? a. Movie b. Music c. Mystery novel d. Sports",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Faris' evaluation of Mr. Phil? a. Good at socializing b. Strong game design ability c. Musical talent d. Skilled in cooking",
+                    "ans": "b"
+                },
+                {
+                    "q": "What does Mr. Phil usually show to Faris? a. His manuscripts b. Mystery games c. Artworks d. Amateur music works",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which company's product did Mr. Phil purchase? a. Local small enterprise b. Internationally renowned brand c. Wilton Home Appliances Company d. Self production and self sales",
+                    "ans": "c"
+                },
+                {
+                    "q": "How often does Faris go to Mr. Phil's house? a. Every week b. Every two weeks c. Every month d. Every two months",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where does Mr. Phil usually work during Faris' visit? a. Living room b. Dining room c. Study d. Garden",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Faris arrive at Mr. Phil's mansion? a. 12:00 b. 12:30 c. 1:00 d. 1:30",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Faris' profession? a. Teacher b. Electrical repairman c. Chef d. Writer",
+                    "ans": "b"
+                },
+                {
+                    "q": "What time did Faris finish his work at Mr. Phil's house? a. 1:00 b. 1:30 c. 1:50 d. 2:00",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who did Faris say goodbye to when he left? a. Mr. Phil, B. Taylor, C. Sarah, D. Joey",
+                    "ans": "c"
+                },
+                {
+                    "q": "What do Faris and Mr. Phil usually talk about? a. Music b. Movies c. Mystery Novels d. Sports",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Mr. Phil good at? a. Design puzzle games b. Create music c. Draw d. Dance",
+                    "ans": "a"
+                },
+                {
+                    "q": "How often does Faris usually visit Mr. Phil's house? a. Every week b. Every two weeks c. Every month d. Every two months",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which company's product is the electrical appliance purchased by Mr. Phil's family? a. International renowned brand b. Local small enterprise c. Wilton Home Appliances company d. Self production and self sales",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Faris' evaluation of Mr. Phil? a. Good at socializing b. Strong game design ability c. Musical talent d. Skilled in cooking",
+                    "ans": "b"
+                },
+                {
+                    "q": "What does Mr. Phil often show to Faris? a. His manuscripts b. Mystery games c. Artworks d. Amateur music works",
+                    "ans": "b"
+                },
+                {
+                    "q": "Under what identity did Faris arrive at Mr. Phil's mansion? a. Visitor b. Electrical repairman c. Relatives d. Delivery person",
+                    "ans": "b"
+                },
+                {
+                    "q": "What did Faris do at Mr. Phil's mansion? a. Cleaning b. Electrical maintenance c. Child care d. Cooking",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who did Faris say goodbye to when he left after finishing his work? a. Mr. Phil B. Mr. Phil's child C. Mr. Phil's servant Sara D. Mr. Phil's neighbor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What kind of topics do Mr. Phil and Faris often talk about? a. Sports b. Mystery novels c. Movies d. Technology news",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is Mr. Phil particularly talented? a. Design puzzle games b. Cooking c. Drawing d. Music",
+                    "ans": "a"
+                },
+                {
+                    "q": "How often does Faris usually visit Mr. Phil's house? a. Once a week b. Once every two weeks c. Once a month d. Once every three months",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which company's products are mainly used in Mr. Phil's home? a. International renowned brand b. Local brand c. Wilton Home Appliances company d. Self produced and self sold brand",
+                    "ans": "c"
+                },
+                {
+                    "q": "What time did Faris arrive at Mr. Phil's house? a. 12:00 b. 12:30 c. 1:00 d. 1:30",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the deadline for Faris to complete his work? a. 1:00 b. 1:30 c. 1:50 d. 2:00",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was Mr. Phil doing when Faris and Mr. Phil last met? a. Eating b. Watching TV c. Working d. Playing games",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "At what time did Faris arrive at Mr. Phil's mansion? a. 12:00 b. 12:30 c. 1:00 d. 1:30",
+                "What did Faris do at the crime scene? a. Cleaning b. Electrical maintenance c. Child care d. Cooking",
+                "How did Faris leave after completing his work? a. Leaving alone b. Leaving with Mr. Phil c. Saying goodbye to Sarah before leaving d. Being taken away by the police",
+                "What do Mr. Phil and Faris usually talk about when they meet? a. Football matches b. Television programs c. Mystery novels d. Political news",
+                "Mr. Phil is very talented in which areas? a. Design puzzle games b. Drawing c. Music d. Writing",
+                "How is the relationship between Faris and Mr. Phil? a. Strangers b. Friends c. Business partners d. Enemies",
+                "What time did Faris finish his work in the afternoon? a. 1 o'clock b. 1 o'clock 30 minutes c. 1 o'clock 50 minutes d. 2 o'clock",
+                "What is the detective work that Faris and Mr. Phil often talk about when they meet? a. Movies b. TV dramas c. mystery novels d. talk shows",
+                "Who is Mr. Phil's servant at home? a. Taylor B. Faris C. Sarah D. Joey",
+                "What does Mr. Phil usually show Faris about his designs? a. Reasoning game b. Art artwork c. News articles d. Installation art",
+                "What is the specific time when Faris arrived at Mr. Phil's mansion? a. 12:30 b. 1:00 c. 1:30 d. 2:00",
+                "What job did Faris do at Mr. Phil's house? a. Check the water pipes, repair the TV, inspect the electrical appliances, and clean the courtyard",
+                "How did Faris bid farewell after completing his work? a. Leaving directly b. Saying goodbye to Mr. Phil c. Saying goodbye to Sarah d. Saying goodbye to Joey",
+                "What do Faris and Mr. Phil like to talk about every time they meet? a. Politics b. Sports c. Mystery novels d. Technology",
+                "In which field is Mr. Phil's talent reflected? a. Design puzzle games b. Dance c. Painting d. Music",
+                "What is Faris' profession? a. Writer b. Electrical repairman c. Chef d. Teacher",
+                "What time did Faris leave Mr. Phil's house? a. 1:00 b. 1:30 c. 1:50 d. 2:00",
+                "Which of the following is the relationship between Mr. Phil and Faris? a. Customers and servers b. Friends c. Employers and employees d. Colleagues",
+                "What are the typical contents of Faris' meeting at Mr. Phil's house? a. Reasoning game b. Sports event c. News discussion d. Business plan",
+                "Who is Mr. Phil's household servant? a. Taylor B. Faris C. Sarah D. Joey",
+                "What is the specific time when Faris arrived at Mr. Phil's house? a. 12:00 b. 12:30 c. 1:00 d. 1:30",
+                "What is Faris' profession? a. Writer b. Electrical repairman c. Teacher d. Chef",
+                "What is the deadline for Faris to complete his work? a. 1:30 b. 1:40 c. 1:50 d. 2:00",
+                "Who did Faris say goodbye to when he left? a. Mr. Taylor B. Sara C. Joey D. Phil",
+                "What do Faris and Mr. Phil usually talk about? a. Movie b. Music c. Mystery novel d. Sports",
+                "What is Faris' evaluation of Mr. Phil? a. Good at socializing b. Strong game design ability c. Musical talent d. Skilled in cooking",
+                "What does Mr. Phil usually show to Faris? a. His manuscripts b. Mystery games c. Artworks d. Amateur music works",
+                "Which company's product did Mr. Phil purchase? a. Local small enterprise b. Internationally renowned brand c. Wilton Home Appliances Company d. Self production and self sales",
+                "How often does Faris go to Mr. Phil's house? a. Every week b. Every two weeks c. Every month d. Every two months",
+                "Where does Mr. Phil usually work during Faris' visit? a. Living room b. Dining room c. Study d. Garden",
+                "When did Faris arrive at Mr. Phil's mansion? a. 12:00 b. 12:30 c. 1:00 d. 1:30",
+                "What is Faris' profession? a. Teacher b. Electrical repairman c. Chef d. Writer",
+                "What time did Faris finish his work at Mr. Phil's house? a. 1:00 b. 1:30 c. 1:50 d. 2:00",
+                "Who did Faris say goodbye to when he left? a. Mr. Phil, B. Taylor, C. Sarah, D. Joey",
+                "What do Faris and Mr. Phil usually talk about? a. Music b. Movies c. Mystery Novels d. Sports",
+                "What is Mr. Phil good at? a. Design puzzle games b. Create music c. Draw d. Dance",
+                "How often does Faris usually visit Mr. Phil's house? a. Every week b. Every two weeks c. Every month d. Every two months",
+                "Which company's product is the electrical appliance purchased by Mr. Phil's family? a. International renowned brand b. Local small enterprise c. Wilton Home Appliances company d. Self production and self sales",
+                "What is Faris' evaluation of Mr. Phil? a. Good at socializing b. Strong game design ability c. Musical talent d. Skilled in cooking",
+                "What does Mr. Phil often show to Faris? a. His manuscripts b. Mystery games c. Artworks d. Amateur music works",
+                "Under what identity did Faris arrive at Mr. Phil's mansion? a. Visitor b. Electrical repairman c. Relatives d. Delivery person",
+                "What did Faris do at Mr. Phil's mansion? a. Cleaning b. Electrical maintenance c. Child care d. Cooking",
+                "Who did Faris say goodbye to when he left after finishing his work? a. Mr. Phil B. Mr. Phil's child C. Mr. Phil's servant Sara D. Mr. Phil's neighbor",
+                "What kind of topics do Mr. Phil and Faris often talk about? a. Sports b. Mystery novels c. Movies d. Technology news",
+                "Where is Mr. Phil particularly talented? a. Design puzzle games b. Cooking c. Drawing d. Music",
+                "How often does Faris usually visit Mr. Phil's house? a. Once a week b. Once every two weeks c. Once a month d. Once every three months",
+                "Which company's products are mainly used in Mr. Phil's home? a. International renowned brand b. Local brand c. Wilton Home Appliances company d. Self produced and self sold brand",
+                "What time did Faris arrive at Mr. Phil's house? a. 12:00 b. 12:30 c. 1:00 d. 1:30",
+                "What is the deadline for Faris to complete his work? a. 1:00 b. 1:30 c. 1:50 d. 2:00",
+                "What was Mr. Phil doing when Faris and Mr. Phil last met? a. Eating b. Watching TV c. Working d. Playing games"
+            ],
+            "a": [
+                "c",
+                "b",
+                "c",
+                "c",
+                "a",
+                "b",
+                "c",
+                "c",
+                "c",
+                "a",
+                "b",
+                "c",
+                "c",
+                "c",
+                "a",
+                "b",
+                "c",
+                "b",
+                "a",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "c",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "c",
+                "a",
+                "c",
+                "c",
+                "b",
+                "b",
+                "b",
+                "b",
+                "c",
+                "b",
+                "a",
+                "c",
+                "c",
+                "c",
+                "c",
+                "c"
+            ]
+        },
+        {
+            "name": "Joey",
+            "back": "You wake up",
+            "r_q": [
+                {
+                    "q": "In which room was Phil's body found? a. Living room b. Bedroom c. Dining room d. Library in the study room",
+                    "ans": "d"
+                },
+                {
+                    "q": "How was the door at the crime scene opened? a. Using key b. being pried open c. automatically opening d. unlocked",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who discovered the deceased Phil? a. Taylor and Faris B. Taylor and Joey C. Sara and Thomas D. Taylor and Rolf",
+                    "ans": "c"
+                },
+                {
+                    "q": "What time was the deceased's death in the afternoon? a. 1 to 2 o'clock b. 2 to 3 o'clock c. 1 to 3 o'clock d. 2 to 4 o'clock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the posture of the deceased's body? a. Sitting b. Lying down c. Standing d. Lying down",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Pierced by a knife b. Pierced into the eyeball by a screwdriver c. Poisoned d. Falling from a high place",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the terrain outside the window of the crime scene? a. Flat land b. River c. Cliff d. Forest",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did you find the key to the library? a. On the floor b. In the deceased's pocket c. In the desk drawer d. On the door",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the height of the deceased? a. 163CM b. 173CM c. 182CM d. 176CM",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the profession of the deceased Phil? a. Teacher b. Lawyer c. Scholar d. Doctor",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which room was the deceased Phil found? a. Living room b. Bedroom c. Dining room d. Library in the study room",
+                    "ans": "d"
+                },
+                {
+                    "q": "How was the door at the crime scene opened? a. Using key b. being pried open c. automatically opening d. unlocked",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who discovered the body of the deceased Phil? a. Taylor and Faris B. Taylor and Joey C. Sara and Thomas D. Taylor and Rolf",
+                    "ans": "c"
+                },
+                {
+                    "q": "What time was Phil's death in the afternoon? a. 1 to 2 o'clock b. 2 to 3 o'clock c. 1 to 3 o'clock d. 2 to 4 o'clock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the posture of the body of the deceased Phil? a. Sitting b. Lying down c. Standing d. Lying down",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the cause of death for the deceased Phil? a. Pierced by a knife b. Pierced into the eyeball by a screwdriver c. Poisoned d. Falling from a high place",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the terrain outside the window of the crime scene? a. Flat land b. River c. Cliff d. Forest",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did you find the key to the library? a. On the floor b. In the deceased's pocket c. In the desk drawer d. On the door",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the height of the deceased Phil? a. 163CM b. 173CM c. 182CM d. 176CM",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the profession of the deceased Phil? a. Teacher b. Lawyer c. Scholar d. Doctor",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which room was the deceased found at the crime scene? a. Living room b. Bedroom c. Dining room d. Library in the study room",
+                    "ans": "d"
+                },
+                {
+                    "q": "How was the door at the crime scene opened? a. Using key b. being pried open c. automatically opening d. unlocked",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who discovered the body of the deceased? a. Taylor and Faris B. Taylor and Joey C. Sara and Thomas D. Taylor and Rolf",
+                    "ans": "c"
+                },
+                {
+                    "q": "What time was the deceased's death in the afternoon? a. 1 to 2 o'clock b. 2 to 3 o'clock c. 1 to 3 o'clock d. 2 to 4 o'clock",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the posture of the deceased's body? a. Sitting b. Lying down c. Standing d. Lying down",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Pierced by a knife b. Pierced into the eyeball by a screwdriver c. Poisoned d. Falling from a high place",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the terrain outside the window of the crime scene? a. Flat land b. River c. Cliff d. Forest",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where did you find the key to the library? a. On the floor b. In the deceased's pocket c. In the desk drawer d. On the door",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the height of the deceased? a. 163CM b. 173CM c. 182CM d. 176CM",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Teacher b. Lawyer c. Scholar d. Doctor",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the body of the deceased Phil found? a. On the carpet b. On the sofa c. On the bed d. On the balcony",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who discovered the body? a. Sara and Thomas b. Sara and Joey c. Taylor and Rolfe d. Taylor and Joey",
+                    "ans": "a"
+                },
+                {
+                    "q": "How was the door at the crime scene opened? a. Using key b. being pried open c. automatically opening d. unlocked",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did you find the key to the library? a. On the floor b. In the deceased's pocket c. In the desk drawer d. On the door",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the posture of the deceased's death? a. Sitting b. Lying down c. Standing d. Lying down",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the approximate time of death for the deceased Phil? a. 10am to 12pm b. 12pm to 1pm c. 1pm to 3pm d. 3pm to 5pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the profession of the deceased Phil? a. Teacher b. Lawyer c. Scholar d. Doctor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What caused the death of the deceased? a. Blade b. Screwdriver c. Blunt object d. Rope",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the condition of the windows at the crime scene? a. Close b. Open but with protective net c. Open but without protective net d. There are no windows",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the fatal injury on the deceased Phil's body? a. Heart b. Head c. Chest d. Right eye",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the terrain outside the window of the crime scene? a. Flat land b. River c. Cliff d. Forest",
+                    "ans": "c"
+                },
+                {
+                    "q": "In which room was the body of the deceased found? a. Living room b. Bedroom c. Dining room d. Library in the study room",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Falling from a high place b. Poisoning c. Being stabbed in the eyeball by a screwdriver d. Being stabbed by a knife",
+                    "ans": "c"
+                },
+                {
+                    "q": "What time period was the time of death of the deceased? a. 11am to noon b. noon to 1pm c. 1pm to 3pm d. 3pm to 5pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "How was the door at the crime scene opened? a. Using key b. being pried open c. automatically opening d. unlocked",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did you find the key to the library? a. On the floor b. In the deceased's pocket c. In the desk drawer d. On the door",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the posture of the deceased's body? a. Sitting b. Lying down c. Standing d. Lying down",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Teacher b. Lawyer c. Scholar d. Doctor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What unusual clues are there beneath the body of the deceased? a. Footprints b. Blood stains c. Blood lettering messages d. Fingerprints",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the crime scene located? a. City center b. Business district c. Suburban d. Rural area",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "In which room was Phil's body found? a. Living room b. Bedroom c. Dining room d. Library in the study room",
+                "How was the door at the crime scene opened? a. Using key b. being pried open c. automatically opening d. unlocked",
+                "Who discovered the deceased Phil? a. Taylor and Faris B. Taylor and Joey C. Sara and Thomas D. Taylor and Rolf",
+                "What time was the deceased's death in the afternoon? a. 1 to 2 o'clock b. 2 to 3 o'clock c. 1 to 3 o'clock d. 2 to 4 o'clock",
+                "What is the posture of the deceased's body? a. Sitting b. Lying down c. Standing d. Lying down",
+                "What was the cause of death of the deceased? a. Pierced by a knife b. Pierced into the eyeball by a screwdriver c. Poisoned d. Falling from a high place",
+                "What is the terrain outside the window of the crime scene? a. Flat land b. River c. Cliff d. Forest",
+                "Where did you find the key to the library? a. On the floor b. In the deceased's pocket c. In the desk drawer d. On the door",
+                "What is the height of the deceased? a. 163CM b. 173CM c. 182CM d. 176CM",
+                "What is the profession of the deceased Phil? a. Teacher b. Lawyer c. Scholar d. Doctor",
+                "In which room was the deceased Phil found? a. Living room b. Bedroom c. Dining room d. Library in the study room",
+                "How was the door at the crime scene opened? a. Using key b. being pried open c. automatically opening d. unlocked",
+                "Who discovered the body of the deceased Phil? a. Taylor and Faris B. Taylor and Joey C. Sara and Thomas D. Taylor and Rolf",
+                "What time was Phil's death in the afternoon? a. 1 to 2 o'clock b. 2 to 3 o'clock c. 1 to 3 o'clock d. 2 to 4 o'clock",
+                "What is the posture of the body of the deceased Phil? a. Sitting b. Lying down c. Standing d. Lying down",
+                "What was the cause of death for the deceased Phil? a. Pierced by a knife b. Pierced into the eyeball by a screwdriver c. Poisoned d. Falling from a high place",
+                "What is the terrain outside the window of the crime scene? a. Flat land b. River c. Cliff d. Forest",
+                "Where did you find the key to the library? a. On the floor b. In the deceased's pocket c. In the desk drawer d. On the door",
+                "What is the height of the deceased Phil? a. 163CM b. 173CM c. 182CM d. 176CM",
+                "What is the profession of the deceased Phil? a. Teacher b. Lawyer c. Scholar d. Doctor",
+                "In which room was the deceased found at the crime scene? a. Living room b. Bedroom c. Dining room d. Library in the study room",
+                "How was the door at the crime scene opened? a. Using key b. being pried open c. automatically opening d. unlocked",
+                "Who discovered the body of the deceased? a. Taylor and Faris B. Taylor and Joey C. Sara and Thomas D. Taylor and Rolf",
+                "What time was the deceased's death in the afternoon? a. 1 to 2 o'clock b. 2 to 3 o'clock c. 1 to 3 o'clock d. 2 to 4 o'clock",
+                "What is the posture of the deceased's body? a. Sitting b. Lying down c. Standing d. Lying down",
+                "What was the cause of death of the deceased? a. Pierced by a knife b. Pierced into the eyeball by a screwdriver c. Poisoned d. Falling from a high place",
+                "What is the terrain outside the window of the crime scene? a. Flat land b. River c. Cliff d. Forest",
+                "Where did you find the key to the library? a. On the floor b. In the deceased's pocket c. In the desk drawer d. On the door",
+                "What is the height of the deceased? a. 163CM b. 173CM c. 182CM d. 176CM",
+                "What was the profession of the deceased? a. Teacher b. Lawyer c. Scholar d. Doctor",
+                "Where was the body of the deceased Phil found? a. On the carpet b. On the sofa c. On the bed d. On the balcony",
+                "Who discovered the body? a. Sara and Thomas b. Sara and Joey c. Taylor and Rolfe d. Taylor and Joey",
+                "How was the door at the crime scene opened? a. Using key b. being pried open c. automatically opening d. unlocked",
+                "Where did you find the key to the library? a. On the floor b. In the deceased's pocket c. In the desk drawer d. On the door",
+                "What was the posture of the deceased's death? a. Sitting b. Lying down c. Standing d. Lying down",
+                "What is the approximate time of death for the deceased Phil? a. 10am to 12pm b. 12pm to 1pm c. 1pm to 3pm d. 3pm to 5pm",
+                "What is the profession of the deceased Phil? a. Teacher b. Lawyer c. Scholar d. Doctor",
+                "What caused the death of the deceased? a. Blade b. Screwdriver c. Blunt object d. Rope",
+                "What is the condition of the windows at the crime scene? a. Close b. Open but with protective net c. Open but without protective net d. There are no windows",
+                "Where was the fatal injury on the deceased Phil's body? a. Heart b. Head c. Chest d. Right eye",
+                "What is the terrain outside the window of the crime scene? a. Flat land b. River c. Cliff d. Forest",
+                "In which room was the body of the deceased found? a. Living room b. Bedroom c. Dining room d. Library in the study room",
+                "What was the cause of death of the deceased? a. Falling from a high place b. Poisoning c. Being stabbed in the eyeball by a screwdriver d. Being stabbed by a knife",
+                "What time period was the time of death of the deceased? a. 11am to noon b. noon to 1pm c. 1pm to 3pm d. 3pm to 5pm",
+                "How was the door at the crime scene opened? a. Using key b. being pried open c. automatically opening d. unlocked",
+                "Where did you find the key to the library? a. On the floor b. In the deceased's pocket c. In the desk drawer d. On the door",
+                "What is the posture of the deceased's body? a. Sitting b. Lying down c. Standing d. Lying down",
+                "What was the profession of the deceased? a. Teacher b. Lawyer c. Scholar d. Doctor",
+                "What unusual clues are there beneath the body of the deceased? a. Footprints b. Blood stains c. Blood lettering messages d. Fingerprints",
+                "Where is the crime scene located? a. City center b. Business district c. Suburban d. Rural area"
+            ],
+            "a": [
+                "d",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "d",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "d",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "a",
+                "a",
+                "b",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "d",
+                "c",
+                "d",
+                "c",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c",
+                "c",
+                "c"
+            ]
+        },
+        {
+            "name": "Sara",
+            "back": "You're awake",
+            "self": "My name is Sarah, I am 18 years old this year",
+            "answer": "I don't know. I am not the murderer.",
+            "r_q": [
+                {
+                    "q": "What is Sarah's profession? a. Waiter b. Maid c. Chef d. Police",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the location of the case? a. Apartments in the city center b. Single family mansions in the suburbs c. Office buildings in commercial areas d. Small houses in rural areas",
+                    "ans": "b"
+                },
+                {
+                    "q": "What time did Sarah discover the body? a. 1 pm b. 2 pm c. 3 pm d. 4 pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is the repairman mentioned in Sara's testimony? a. Taylor B. Thomas C. Faris D. Webster",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the last time Sarah saw the deceased in the afternoon? a. 1 o'clock b. 2 o'clock c. 3 o'clock d. 4 o'clock",
+                    "ans": "a"
+                },
+                {
+                    "q": "On the day of the incident, who found Sarah and asked her to help open the door? a. Taylor B. Thomas C. Faris D. Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Faris leave the villa on the day of the incident? a. 1:50pm b. 2:50pm c. 3:50pm d. 4:50pm",
+                    "ans": "a"
+                },
+                {
+                    "q": "Sara saw Mr. Phil having a big argument with whom before the incident? a. Taylor B. Thomas C. Faris D. Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which serial killer's modus operandi is similar to the way Mr. Phil was killed? a. Wheel Killer b. Hammer Killer c. Eye Eater d. Masked Assassin",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who showed an excited attitude towards participating in this game? a. Taylor B. Thomas C. Webster D. Faris",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Sarah's profession? a. Waiter b. Maid c. Chef d. Police",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the location of the case? a. Apartments in the city center b. Single family mansions in the suburbs c. Office buildings in commercial areas d. Small houses in rural areas",
+                    "ans": "b"
+                },
+                {
+                    "q": "What time did Sarah discover the body? a. 1 pm b. 2 pm c. 3 pm d. 4 pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who found Sarah and asked her to help open the door to the library? a. Taylor B. Thomas C. Faris D. Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the last time Sarah saw the deceased in the afternoon? a. 1 o'clock b. 2 o'clock c. 3 o'clock d. 4 o'clock",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who went out to walk their dog around 2pm on the day of the incident? a. Taylor B. Thomas C. Faris D. Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Faris leave the villa on the day of the incident? a. 1:50pm b. 2:50pm c. 3:50pm d. 4:50pm",
+                    "ans": "a"
+                },
+                {
+                    "q": "Sara saw Mr. Phil having a big argument with whom before the incident? a. Taylor B. Thomas C. Faris D. Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which serial killer's modus operandi is similar to the way Mr. Phil was killed? a. Wheel Killer b. Hammer Killer c. Eye Eater d. Masked Assassin",
+                    "ans": "c"
+                },
+                {
+                    "q": "What door did Thomas ask Sarah to help open during the incident? a. Bedroom door b. Library door c. Garage door d. Kitchen door",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Sarah's age? a. 16 years old b. 18 years old c. 20 years old d. 22 years old",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the game of the judge called? a. Extreme Challenge b. Escape Room c. Inside Game d. Survival Game",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did the case occur? a. November 4th b. December 4th c. October 4th d. September 4th",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who was the maid of the deceased's house? a. Taylor B. Joey C. Sarah D. Webster",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Faris leave the villa? a. 1:00 PM b. 1:50 PM c. 2:00 PM d. 2:50 PM",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Thomas go out to walk his dog? a. 1 pm b. Around 2 pm c. 3 pm d. 4 pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Sarah have an alibi? a. Before 2 o'clock b. Before 3 o'clock c. Before 4 o'clock d. Before 1 o'clock",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who did Mr. Phil have a big argument with? a. Taylor B. Thomas C. Faris D. Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who does Sarah think could be the 'Eye Eater'? a. Taylor B. Thomas C. Faris D. Webster",
+                    "ans": "c"
+                },
+                {
+                    "q": "How was the deceased killed? a. Poisoning b. suffocation c. stabbing d. inserting a screwdriver into the eye",
+                    "ans": "d"
+                },
+                {
+                    "q": "How did Sarah open the door of the library when she found the body? a. Use key b. Use pry bar c. Kick open door d. Smash open window",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did Sarah last see the deceased Mr. Phil? a. Kitchen b. Library c. Study d. Corridor",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the last time Sarah saw Mr. Phil in the afternoon? a. 12:00 b. 1:00 c. 2:00 d. 3:00",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who was the last person Sarah saw leave the scene? a. Thomas B. Faris C. Webster D. Joey",
+                    "ans": "b"
+                },
+                {
+                    "q": "Sara saw Mr. Phil having a big argument with whom at noon on the day of the incident? a. Faris B. Thomas C. Taylor D. Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who does Sarah think could be the 'Eye Eater'? a. Taylor B. Thomas C. Faris D. Webster",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where is the door that Thomas found Sarah asking to open? a. Bedroom door b. Library door c. Garage door d. Kitchen door",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who went out to walk their dog around 2 pm on the day before the incident? a. Taylor B. Thomas C. Faris D. Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the body of Mr. Phil when he was found? a. Lying in bed b. Lying behind the desk c. Sitting on the sofa d. Lying on the floor",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who was present during the last meeting between Sara and Mr. Phil for home appliance maintenance? a. Taylor B. Thomas C. Faris D. Webster",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Sarah's profession? a. Waiter b. Maid c. Chef d. Police",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did the case occur? a. November 3rd b. November 4th c. November 5th d. November 6th",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the location of the case? a. City center apartment b. Suburban detached mansion c. Commercial district office building d. Rural cottage",
+                    "ans": "b"
+                },
+                {
+                    "q": "What time did Sarah discover the body? a. 1 pm b. 2 pm c. 3 pm d. 4 pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the last time Sarah saw the deceased in the afternoon? a. 12:00 b. 1:00 c. 2:00 d. 3:00",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who went out to walk their dog around 2 pm on the day of the incident? a. Taylor B. Thomas C. Faris D. Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the door that Thomas found Sarah asking to open? a. Bedroom door b. Library door c. Garage door d. Kitchen door",
+                    "ans": "b"
+                },
+                {
+                    "q": "When did Faris leave the villa on the day of the incident? a. 1:00 PM b. 1:50 PM c. 2:00 PM d. 2:50 PM",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the cause of death for the deceased Mr. Phil? a. Poisoning b. suffocation c. stabbing d. inserting a screwdriver into the eye",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who is suspected by Sarah to be an 'eye eater'? a. Taylor B. Thomas C. Faris D. Webster",
+                    "ans": "c"
+                }
+            ],
+            "m": 1,
+            "q": [
+                "What is Sarah's profession? a. Waiter b. Maid c. Chef d. Police",
+                "Where was the location of the case? a. Apartments in the city center b. Single family mansions in the suburbs c. Office buildings in commercial areas d. Small houses in rural areas",
+                "What time did Sarah discover the body? a. 1 pm b. 2 pm c. 3 pm d. 4 pm",
+                "Who is the repairman mentioned in Sara's testimony? a. Taylor B. Thomas C. Faris D. Webster",
+                "What was the last time Sarah saw the deceased in the afternoon? a. 1 o'clock b. 2 o'clock c. 3 o'clock d. 4 o'clock",
+                "On the day of the incident, who found Sarah and asked her to help open the door? a. Taylor B. Thomas C. Faris D. Webster",
+                "When did Faris leave the villa on the day of the incident? a. 1:50pm b. 2:50pm c. 3:50pm d. 4:50pm",
+                "Sara saw Mr. Phil having a big argument with whom before the incident? a. Taylor B. Thomas C. Faris D. Webster",
+                "Which serial killer's modus operandi is similar to the way Mr. Phil was killed? a. Wheel Killer b. Hammer Killer c. Eye Eater d. Masked Assassin",
+                "Who showed an excited attitude towards participating in this game? a. Taylor B. Thomas C. Webster D. Faris",
+                "What is Sarah's profession? a. Waiter b. Maid c. Chef d. Police",
+                "Where was the location of the case? a. Apartments in the city center b. Single family mansions in the suburbs c. Office buildings in commercial areas d. Small houses in rural areas",
+                "What time did Sarah discover the body? a. 1 pm b. 2 pm c. 3 pm d. 4 pm",
+                "Who found Sarah and asked her to help open the door to the library? a. Taylor B. Thomas C. Faris D. Webster",
+                "What was the last time Sarah saw the deceased in the afternoon? a. 1 o'clock b. 2 o'clock c. 3 o'clock d. 4 o'clock",
+                "Who went out to walk their dog around 2pm on the day of the incident? a. Taylor B. Thomas C. Faris D. Webster",
+                "When did Faris leave the villa on the day of the incident? a. 1:50pm b. 2:50pm c. 3:50pm d. 4:50pm",
+                "Sara saw Mr. Phil having a big argument with whom before the incident? a. Taylor B. Thomas C. Faris D. Webster",
+                "Which serial killer's modus operandi is similar to the way Mr. Phil was killed? a. Wheel Killer b. Hammer Killer c. Eye Eater d. Masked Assassin",
+                "What door did Thomas ask Sarah to help open during the incident? a. Bedroom door b. Library door c. Garage door d. Kitchen door",
+                "What is Sarah's age? a. 16 years old b. 18 years old c. 20 years old d. 22 years old",
+                "What is the game of the judge called? a. Extreme Challenge b. Escape Room c. Inside Game d. Survival Game",
+                "When did the case occur? a. November 4th b. December 4th c. October 4th d. September 4th",
+                "Who was the maid of the deceased's house? a. Taylor B. Joey C. Sarah D. Webster",
+                "When did Faris leave the villa? a. 1:00 PM b. 1:50 PM c. 2:00 PM d. 2:50 PM",
+                "When did Thomas go out to walk his dog? a. 1 pm b. Around 2 pm c. 3 pm d. 4 pm",
+                "When did Sarah have an alibi? a. Before 2 o'clock b. Before 3 o'clock c. Before 4 o'clock d. Before 1 o'clock",
+                "Who did Mr. Phil have a big argument with? a. Taylor B. Thomas C. Faris D. Webster",
+                "Who does Sarah think could be the 'Eye Eater'? a. Taylor B. Thomas C. Faris D. Webster",
+                "How was the deceased killed? a. Poisoning b. suffocation c. stabbing d. inserting a screwdriver into the eye",
+                "How did Sarah open the door of the library when she found the body? a. Use key b. Use pry bar c. Kick open door d. Smash open window",
+                "Where did Sarah last see the deceased Mr. Phil? a. Kitchen b. Library c. Study d. Corridor",
+                "What was the last time Sarah saw Mr. Phil in the afternoon? a. 12:00 b. 1:00 c. 2:00 d. 3:00",
+                "Who was the last person Sarah saw leave the scene? a. Thomas B. Faris C. Webster D. Joey",
+                "Sara saw Mr. Phil having a big argument with whom at noon on the day of the incident? a. Faris B. Thomas C. Taylor D. Webster",
+                "Who does Sarah think could be the 'Eye Eater'? a. Taylor B. Thomas C. Faris D. Webster",
+                "Where is the door that Thomas found Sarah asking to open? a. Bedroom door b. Library door c. Garage door d. Kitchen door",
+                "Who went out to walk their dog around 2 pm on the day before the incident? a. Taylor B. Thomas C. Faris D. Webster",
+                "Where was the body of Mr. Phil when he was found? a. Lying in bed b. Lying behind the desk c. Sitting on the sofa d. Lying on the floor",
+                "Who was present during the last meeting between Sara and Mr. Phil for home appliance maintenance? a. Taylor B. Thomas C. Faris D. Webster",
+                "What is Sarah's profession? a. Waiter b. Maid c. Chef d. Police",
+                "When did the case occur? a. November 3rd b. November 4th c. November 5th d. November 6th",
+                "Where was the location of the case? a. City center apartment b. Suburban detached mansion c. Commercial district office building d. Rural cottage",
+                "What time did Sarah discover the body? a. 1 pm b. 2 pm c. 3 pm d. 4 pm",
+                "What was the last time Sarah saw the deceased in the afternoon? a. 12:00 b. 1:00 c. 2:00 d. 3:00",
+                "Who went out to walk their dog around 2 pm on the day of the incident? a. Taylor B. Thomas C. Faris D. Webster",
+                "Where is the door that Thomas found Sarah asking to open? a. Bedroom door b. Library door c. Garage door d. Kitchen door",
+                "When did Faris leave the villa on the day of the incident? a. 1:00 PM b. 1:50 PM c. 2:00 PM d. 2:50 PM",
+                "What was the cause of death for the deceased Mr. Phil? a. Poisoning b. suffocation c. stabbing d. inserting a screwdriver into the eye",
+                "Who is suspected by Sarah to be an 'eye eater'? a. Taylor B. Thomas C. Faris D. Webster"
+            ],
+            "a": [
+                "b",
+                "b",
+                "c",
+                "c",
+                "a",
+                "b",
+                "a",
+                "b",
+                "c",
+                "c",
+                "b",
+                "b",
+                "c",
+                "b",
+                "a",
+                "b",
+                "a",
+                "b",
+                "c",
+                "b",
+                "b",
+                "c",
+                "a",
+                "c",
+                "b",
+                "b",
+                "a",
+                "b",
+                "c",
+                "d",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "b",
+                "b",
+                "b",
+                "b",
+                "d",
+                "c"
+            ]
+        },
+        {
+            "name": "Thomas",
+            "back": "You wake up",
+            "r_q": [
+                {
+                    "q": "What was the time when Thomas discovered the body? a. 2:45pm b. 2:50pm c. 3pm d. 3:10pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "When was the last time Thomas saw the deceased? a. 12:00 noon b. 10:00 am c. 1:00 pm d. 2:00 pm",
+                    "ans": "a"
+                },
+                {
+                    "q": "Does Thomas have an alibi at the crime scene? a. Yes B. No",
+                    "ans": "b"
+                },
+                {
+                    "q": "What's wrong with Thomas' eyes? a. Myopia b. Astigmatism c. Red green blindness d. Amblyopia",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who helped Thomas open the locked door? a. Taylor B. Sara C. Faris D. Joey",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Thomas' dream? a. Becoming a writer b. Becoming a doctor c. Becoming a pilot d. Becoming a lawyer",
+                    "ans": "c"
+                },
+                {
+                    "q": "What does Thomas use to describe the voice of the 'Judge' at the beginning of the game? a. Gentle b. Weird and mysterious c. Excited d. Calm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What type of game is organized by the judges? a. Chasing competition b. Puzzle game c. Death game d. Arena",
+                    "ans": "c"
+                },
+                {
+                    "q": "According to Thomas, who behaved suspiciously on the day of the incident? a. Faris B. Joey C. Taylor D. Sara",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is Thomas' father mainly busy with? a. Writing b. Painting c. Music Creation d. Research",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the reason for Thomas' last argument? a. Father's writing b. Mother's death c. Thomas' work d. Thomas' dream of flying",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Thomas' father mainly busy with? a. Social activities b. Writing c. Drawing d. Music",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the place where Thomas' father passed away? a. Kitchen b. Study c. Living room d. Garden",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who helped Thomas open the locked door? a. Taylor B. Sara C. Faris D. Joey",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the specific time when Thomas discovered his father's body? a. 2pm b. 2:45pm c. 2:50pm d. 3pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is suspected by Thomas to be possibly related to the case? a. Taylor B. Faris C. Sarah D. Joey",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the goal of the Judge Game? a. Search for the real culprit b. Surrender c. Victorious escape d. Keep alive",
+                    "ans": "a"
+                },
+                {
+                    "q": "How does Thomas address himself in the game of Judges? a. Victim b. Observer c. Suspect d. Dominator",
+                    "ans": "c"
+                },
+                {
+                    "q": "What's wrong with Thomas' eyes? a. Myopia b. Astigmatism c. Red green blindness d. Amblyopia",
+                    "ans": "c"
+                },
+                {
+                    "q": "What special facilities in Thomas' home may be related to the case? a. Security camera b. Automatic door lock c. Dog hole d. Alarm system",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the characteristics of the judge's voice? a. Deep b. Mute c. Weird d. Clear",
+                    "ans": "c"
+                },
+                {
+                    "q": "At the beginning of the game, in which environment did Thomas find himself? a. Chamber of Secrets b. Park c. Basement d. Garage",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Thomas' profession? a. Student b. Teacher c. Unemployed d. Engineer",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the reason for Thomas' last argument with his father? a. Money b. Work c. Residence d. Education",
+                    "ans": "b"
+                },
+                {
+                    "q": "What job is Thomas' father busy with? a. Writing b. Painting c. Music Creation d. Research",
+                    "ans": "a"
+                },
+                {
+                    "q": "When was the last time Thomas saw his father? a. 12:00 noon b. 1:00 pm c. 2:00 pm d. 3:00 pm",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the most likely cause of death for Thomas' father? a. Heart attack b. Car accident c. Assassination d. Not mentioned",
+                    "ans": "d"
+                },
+                {
+                    "q": "Who did Thomas ask for help to open the locked door before discovering his father's body? a. Taylor B. Sara C. Faris D. Joey",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why does Thomas think he might be a suspect? a. He is at the scene. b. He has tools for committing the crime. c. His relationship is not good. d. He joked about it",
+                    "ans": "c"
+                },
+                {
+                    "q": "What will happen if the innocent person is not found in the game of the judge? a. Everyone is released. b. Everyone is punished. c. Convicts reveal their crimes. d. Convicts are released",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the specific time when Thomas discovered the body? a. 2pm b. 2:45pm c. 2:50pm d. 3pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the theme of the Judge game? a. Chamber of Secrets Murder b. Chamber of Secrets Escape c. Chamber of Secrets Rescue d. Chamber of Secrets Adventure",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is Thomas' eye problem? a. Myopia b. Astigmatism c. Red green blindness d. Amblyopia",
+                    "ans": "c"
+                },
+                {
+                    "q": "What are the conditions for the disclosure of crimes in the game? a. Find all the true culprits b. Judge's decision c. Innocent person not found d. All players agree",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did the judge change his voice? a. Shouting b. Whispering c. Sound software d. Voice changer",
+                    "ans": "c"
+                },
+                {
+                    "q": "What crime is Thomas accused of in the game? a. Theft b. Murder c. Fraud d. Kidnapping",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Thomas' father mainly busy with? a. Writing b. Painting c. Music Creation d. Education",
+                    "ans": "a"
+                },
+                {
+                    "q": "When was the last time Thomas saw his father? a. 10am b. 12pm c. 1pm d. 2pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who did Thomas ask for help unlocking his father's body before he discovered it? a. Taylor B. Sara C. Faris D. Joey",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many participants in the Judge's game are wearing prison uniforms? a. 5 people b. 6 people c. 7 people d. 8 people",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the approximate time when Thomas discovered his father's body? a. 2pm b. 2:45pm c. 2:50pm d. 3pm",
+                    "ans": "c"
+                },
+                {
+                    "q": "When did Thomas last see his father? a. 10am b. 12pm c. 1pm d. 2pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the punishment for being accused of innocence in the 'Judge' game? a. Fire of Judgment b. Close the game c. Leave the game d. No punishment",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the way in which the judge changes their voice? a. Whispering b. Shouting c. Voice changer d. Sound software",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is Thomas' profession? a. Student b. Teacher c. Unemployed d. Engineer",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Thomas' eye problem? a. Myopia b. Astigmatism c. Red green blindness d. Amblyopia",
+                    "ans": "c"
+                },
+                {
+                    "q": "What environment did Thomas find himself in when the game 'Judge' began? a. Chamber of Secrets b. Park c. Basement d. Garage",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is installed in Thomas' home for his dog? a. Security camera b. Automatic door lock c. Dog hole d. Alarm system",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which repairman Thomas suspects is related to the case? a. Electrician b. Plumber c. Carpenter d. Heating worker",
+                    "ans": "a"
+                },
+                {
+                    "q": "How many participants in the Judge's game are wearing prison uniforms? a. 5 people b. 6 people c. 7 people d. 8 people",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What was the time when Thomas discovered the body? a. 2:45pm b. 2:50pm c. 3pm d. 3:10pm",
+                "When was the last time Thomas saw the deceased? a. 12:00 noon b. 10:00 am c. 1:00 pm d. 2:00 pm",
+                "Does Thomas have an alibi at the crime scene? a. Yes B. No",
+                "What's wrong with Thomas' eyes? a. Myopia b. Astigmatism c. Red green blindness d. Amblyopia",
+                "Who helped Thomas open the locked door? a. Taylor B. Sara C. Faris D. Joey",
+                "What is Thomas' dream? a. Becoming a writer b. Becoming a doctor c. Becoming a pilot d. Becoming a lawyer",
+                "What does Thomas use to describe the voice of the 'Judge' at the beginning of the game? a. Gentle b. Weird and mysterious c. Excited d. Calm",
+                "What type of game is organized by the judges? a. Chasing competition b. Puzzle game c. Death game d. Arena",
+                "According to Thomas, who behaved suspiciously on the day of the incident? a. Faris B. Joey C. Taylor D. Sara",
+                "What is Thomas' father mainly busy with? a. Writing b. Painting c. Music Creation d. Research",
+                "What was the reason for Thomas' last argument? a. Father's writing b. Mother's death c. Thomas' work d. Thomas' dream of flying",
+                "What is Thomas' father mainly busy with? a. Social activities b. Writing c. Drawing d. Music",
+                "Where was the place where Thomas' father passed away? a. Kitchen b. Study c. Living room d. Garden",
+                "Who helped Thomas open the locked door? a. Taylor B. Sara C. Faris D. Joey",
+                "What was the specific time when Thomas discovered his father's body? a. 2pm b. 2:45pm c. 2:50pm d. 3pm",
+                "Who is suspected by Thomas to be possibly related to the case? a. Taylor B. Faris C. Sarah D. Joey",
+                "What is the goal of the Judge Game? a. Search for the real culprit b. Surrender c. Victorious escape d. Keep alive",
+                "How does Thomas address himself in the game of Judges? a. Victim b. Observer c. Suspect d. Dominator",
+                "What's wrong with Thomas' eyes? a. Myopia b. Astigmatism c. Red green blindness d. Amblyopia",
+                "What special facilities in Thomas' home may be related to the case? a. Security camera b. Automatic door lock c. Dog hole d. Alarm system",
+                "What are the characteristics of the judge's voice? a. Deep b. Mute c. Weird d. Clear",
+                "At the beginning of the game, in which environment did Thomas find himself? a. Chamber of Secrets b. Park c. Basement d. Garage",
+                "What is Thomas' profession? a. Student b. Teacher c. Unemployed d. Engineer",
+                "What was the reason for Thomas' last argument with his father? a. Money b. Work c. Residence d. Education",
+                "What job is Thomas' father busy with? a. Writing b. Painting c. Music Creation d. Research",
+                "When was the last time Thomas saw his father? a. 12:00 noon b. 1:00 pm c. 2:00 pm d. 3:00 pm",
+                "What is the most likely cause of death for Thomas' father? a. Heart attack b. Car accident c. Assassination d. Not mentioned",
+                "Who did Thomas ask for help to open the locked door before discovering his father's body? a. Taylor B. Sara C. Faris D. Joey",
+                "Why does Thomas think he might be a suspect? a. He is at the scene. b. He has tools for committing the crime. c. His relationship is not good. d. He joked about it",
+                "What will happen if the innocent person is not found in the game of the judge? a. Everyone is released. b. Everyone is punished. c. Convicts reveal their crimes. d. Convicts are released",
+                "What was the specific time when Thomas discovered the body? a. 2pm b. 2:45pm c. 2:50pm d. 3pm",
+                "What is the theme of the Judge game? a. Chamber of Secrets Murder b. Chamber of Secrets Escape c. Chamber of Secrets Rescue d. Chamber of Secrets Adventure",
+                "What is Thomas' eye problem? a. Myopia b. Astigmatism c. Red green blindness d. Amblyopia",
+                "What are the conditions for the disclosure of crimes in the game? a. Find all the true culprits b. Judge's decision c. Innocent person not found d. All players agree",
+                "How did the judge change his voice? a. Shouting b. Whispering c. Sound software d. Voice changer",
+                "What crime is Thomas accused of in the game? a. Theft b. Murder c. Fraud d. Kidnapping",
+                "What is Thomas' father mainly busy with? a. Writing b. Painting c. Music Creation d. Education",
+                "When was the last time Thomas saw his father? a. 10am b. 12pm c. 1pm d. 2pm",
+                "Who did Thomas ask for help unlocking his father's body before he discovered it? a. Taylor B. Sara C. Faris D. Joey",
+                "How many participants in the Judge's game are wearing prison uniforms? a. 5 people b. 6 people c. 7 people d. 8 people",
+                "What was the approximate time when Thomas discovered his father's body? a. 2pm b. 2:45pm c. 2:50pm d. 3pm",
+                "When did Thomas last see his father? a. 10am b. 12pm c. 1pm d. 2pm",
+                "What is the punishment for being accused of innocence in the 'Judge' game? a. Fire of Judgment b. Close the game c. Leave the game d. No punishment",
+                "What is the way in which the judge changes their voice? a. Whispering b. Shouting c. Voice changer d. Sound software",
+                "What is Thomas' profession? a. Student b. Teacher c. Unemployed d. Engineer",
+                "What is Thomas' eye problem? a. Myopia b. Astigmatism c. Red green blindness d. Amblyopia",
+                "What environment did Thomas find himself in when the game 'Judge' began? a. Chamber of Secrets b. Park c. Basement d. Garage",
+                "What is installed in Thomas' home for his dog? a. Security camera b. Automatic door lock c. Dog hole d. Alarm system",
+                "Which repairman Thomas suspects is related to the case? a. Electrician b. Plumber c. Carpenter d. Heating worker",
+                "How many participants in the Judge's game are wearing prison uniforms? a. 5 people b. 6 people c. 7 people d. 8 people"
+            ],
+            "a": [
+                "b",
+                "a",
+                "b",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c",
+                "d",
+                "a",
+                "c",
+                "b",
+                "b",
+                "b",
+                "c",
+                "c",
+                "a",
+                "c",
+                "c",
+                "c",
+                "c",
+                "a",
+                "c",
+                "b",
+                "a",
+                "a",
+                "d",
+                "b",
+                "c",
+                "c",
+                "c",
+                "a",
+                "c",
+                "c",
+                "c",
+                "b",
+                "a",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "a",
+                "d",
+                "c",
+                "c",
+                "a",
+                "c",
+                "a",
+                "c"
+            ]
+        },
+        {
+            "name": "Webster",
+            "back": "You're awake.",
+            "r_q": [
+                {
+                    "q": "What is Webster's age? a. 18 years old b. 19 years old c. 20 years old d. 21 years old",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many people correspond to the murder case in the secret room in the game? a. 5 people b. 6 people c. 7 people d. 8 people",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which of the following names is not a participant mentioned in the story? a. Faris B. Thomas C. Sarah D. Edward",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is Sarah's weight? a. 45KG b. 48KG c. 52KG d. 68KG",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the game of the judge called? a. Death Game b. Inside c. Judgment Day d. Escape Room",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the key to the library? a. B in the drawer of the desk, C on the bookshelf, C in the pocket of the deceased, D under the carpet",
+                    "ans": "a"
+                },
+                {
+                    "q": "How did the deceased die? a. Heart attack b. Poisoned death c. Screwdriver stuck in right eye d. Falling off cliff",
+                    "ans": "c"
+                },
+                {
+                    "q": "Is the personality of the judge described? a. Kind b. Cunning c. Compassionate d. Ruthless",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which two people pried open the door in the secret room incident? a. Faris and Sara B. Thomas and Faris C. Sara and Thomas D. Taylor and Joey",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the profession of the deceased Phil? a. Professor b. Lawyer c. Doctor d. Scholar",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is Webster's profession? a. Professor b. Lawyer c. Doctor d. Scholar",
+                    "ans": "d"
+                },
+                {
+                    "q": "Why did the judge name the game? a. Death Game b. Inside c. Judgment Day d. Escape Room",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the total number of players in the room game? a. 6 people b. 7 people c. 8 people d. 9 people",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which two people pried open the door in the secret room game? a. Faris and Sara B. Thomas and Faris C. Sara and Thomas D. Taylor and Joey",
+                    "ans": "c"
+                },
+                {
+                    "q": "How was the deceased Phil killed? a. Heart attack b. Poisoned death c. Screwdriver stuck in right eye d. Falling off cliff",
+                    "ans": "c"
+                },
+                {
+                    "q": "How to describe the personality of the judge? a. Kind b. Cunning c. Compassionate d. Ruthless",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where is the key to the library placed in the Chamber of Secrets game? a. B in the drawer of the desk, C on the bookshelf, C in the pocket of the deceased, D under the carpet",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the approximate time of death for the deceased in the secret room? a. 11am to 1pm b. 1pm to 3pm c. 3pm to 5pm d. 5pm to 7pm",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who are the names of the participants who have not been mentioned? a. Faris B. Thomas C. Sarah D. Edward",
+                    "ans": "d"
+                },
+                {
+                    "q": "According to the on-site situation, what was the posture of the deceased's body? a. Standing b. Sitting c. Lying down d. Lying down",
+                    "ans": "c"
+                },
+                {
+                    "q": "How many rooms represent a murder case in the Chamber of Secrets in the game 'Judge'? a. 4 b. 5 c. 6 d. 7",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Webster's age? a. 18 years old b. 19 years old c. 20 years old d. 21 years old",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the game of the judge called? a. Death Game b. Inside c. Judgment Day d. Escape Room",
+                    "ans": "b"
+                },
+                {
+                    "q": "What words did the judge say to the game participants to emphasize their responsibility? a. No one is innocent. b. Everyone is guilty. c. Everyone will be put on trial. d. Innocent individuals will be granted freedom",
+                    "ans": "a"
+                },
+                {
+                    "q": "How many participants are there in the Chamber of Secrets game? a. 5 people b. 6 people c. 7 people d. 8 people",
+                    "ans": "c"
+                },
+                {
+                    "q": "Who is described as a muscular man with a strong physique? a. Taylor B. Faris C. Thomas D. Webster",
+                    "ans": "b"
+                },
+                {
+                    "q": "In the game of the judge, who does the murderer need to find out? a. Innocent person b. Guilty person c. The most serious crime d. Self",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the name of the deceased in the Chamber of Secrets incident? a. Faris B. Sara C. Thomas D. Phil",
+                    "ans": "d"
+                },
+                {
+                    "q": "What was the profession of the deceased? a. Professor b. Lawyer c. Doctor d. Scholar",
+                    "ans": "d"
+                },
+                {
+                    "q": "What is the posture in which the deceased was found in a secret room case? a. Standing b. Sitting c. Lying down d. Lying down",
+                    "ans": "c"
+                },
+                {
+                    "q": "Why does the 'Judge' name the game in the game? a. The Verdict b. Inside c. Death Match d. The Final Judgment",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many people are trapped in the secret room at the beginning of the game? a. 5 people b. 6 people c. 7 people d. 8 people",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is the total number of rooms representing murder cases in the Chamber of Secrets game? a. 4 b. 5 c. 6 d. 7",
+                    "ans": "c"
+                },
+                {
+                    "q": "What words do judges use to emphasize everyone's responsibility? a. Everyone is guilty b. No one is innocent c. Everyone must be tried d. Innocent individuals can obtain freedom",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the profession of the deceased Phil? a. Professor b. Lawyer c. Doctor d. Scholar",
+                    "ans": "d"
+                },
+                {
+                    "q": "What do participants in the Chamber of Secrets game need to find to win? a. Innocent b. Guilty c. Murderer d. Judge",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the cause of death of the deceased? a. Heart attack b. Poisoned death c. Screwdriver stuck in right eye d. Falling off cliff",
+                    "ans": "c"
+                },
+                {
+                    "q": "According to the game rules, if the innocent are not found, how will the judge deal with the guilty? a. Release them b. Punish them c. Publish their crimes d. Let them play the game again",
+                    "ans": "c"
+                },
+                {
+                    "q": "How to describe the personality of the judge? a. Kind b. Cunning c. Compassionate d. Ruthless",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the key to the library placed in the secret room incident? a. B in the drawer of the desk, C on the bookshelf, C in the pocket of the deceased, D under the carpet",
+                    "ans": "a"
+                },
+                {
+                    "q": "Why did the judge name their game? a. The Verdict b. Inside c. Death Match d. The Final Judgment",
+                    "ans": "b"
+                },
+                {
+                    "q": "How many rooms in the game represent a murder case in a secret room? a. 4 b. 5 c. 6 d. 7",
+                    "ans": "c"
+                },
+                {
+                    "q": "According to the judge, if the innocent person is not found, how will the judge handle it? a. Release the guilty b. Punish the innocent c. Publicize the guilt of the guilty d. None of them",
+                    "ans": "c"
+                },
+                {
+                    "q": "How is the personality of the judge described? a. Kind b. Cunning c. Compassionate d. Ruthless",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where was the location where the deceased Phil was found? a. Living room b. Kitchen c. Study d. Bedroom",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was the cause of death for the deceased Phil? a. Heart attack b. Poisoned death c. Screwdriver stuck in right eye d. Falling off cliff",
+                    "ans": "c"
+                },
+                {
+                    "q": "Where was the key to the library originally placed? a. B in the drawer of the desk, C on the bookshelf, C in the pocket of the deceased, D under the carpet",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the posture of the deceased's body? a. Standing b. Sitting c. Lying down d. Lying down",
+                    "ans": "c"
+                },
+                {
+                    "q": "What language does the judge use to emphasize the responsibility of game participants? a. No one is innocent. b. Everyone is guilty. c. Everyone will be put on trial. d. Innocent individuals will be granted freedom",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the profession of the deceased Phil? a. Professor b. Lawyer c. Doctor d. Scholar",
+                    "ans": "d"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is Webster's age? a. 18 years old b. 19 years old c. 20 years old d. 21 years old",
+                "How many people correspond to the murder case in the secret room in the game? a. 5 people b. 6 people c. 7 people d. 8 people",
+                "Which of the following names is not a participant mentioned in the story? a. Faris B. Thomas C. Sarah D. Edward",
+                "What is Sarah's weight? a. 45KG b. 48KG c. 52KG d. 68KG",
+                "What is the game of the judge called? a. Death Game b. Inside c. Judgment Day d. Escape Room",
+                "Where is the key to the library? a. B in the drawer of the desk, C on the bookshelf, C in the pocket of the deceased, D under the carpet",
+                "死者是如何死亡的？a. 心脏病发 b. 被毒死 c. 螺丝刀戳入右眼中 d. 跌落悬崖",
+                "Is the personality of the judge described? a. Kind b. Cunning c. Compassionate d. Ruthless",
+                "Which two people pried open the door in the secret room incident? a. Faris and Sara B. Thomas and Faris C. Sara and Thomas D. Taylor and Joey",
+                "What is the profession of the deceased Phil? a. Professor b. Lawyer c. Doctor d. Scholar",
+                "What is Webster's profession? a. Professor b. Lawyer c. Doctor d. Scholar",
+                "Why did the judge name the game? a. Death Game b. Inside c. Judgment Day d. Escape Room",
+                "What is the total number of players in the room game? a. 6 people b. 7 people c. 8 people d. 9 people",
+                "Which two people pried open the door in the secret room game? a. Faris and Sara B. Thomas and Faris C. Sara and Thomas D. Taylor and Joey",
+                "How was the deceased Phil killed? a. Heart attack b. Poisoned death c. Screwdriver stuck in right eye d. Falling off cliff",
+                "How to describe the personality of the judge? a. Kind b. Cunning c. Compassionate d. Ruthless",
+                "Where is the key to the library placed in the Chamber of Secrets game? a. B in the drawer of the desk, C on the bookshelf, C in the pocket of the deceased, D under the carpet",
+                "What is the approximate time of death for the deceased in the secret room? a. 11am to 1pm b. 1pm to 3pm c. 3pm to 5pm d. 5pm to 7pm",
+                "Who are the names of the participants who have not been mentioned? a. Faris B. Thomas C. Sarah D. Edward",
+                "According to the on-site situation, what was the posture of the deceased's body? a. Standing b. Sitting c. Lying down d. Lying down",
+                "How many rooms represent a murder case in the Chamber of Secrets in the game 'Judge'? a. 4 b. 5 c. 6 d. 7",
+                "What is Webster's age? a. 18 years old b. 19 years old c. 20 years old d. 21 years old",
+                "What is the game of the judge called? a. Death Game b. Inside c. Judgment Day d. Escape Room",
+                "What words did the judge say to the game participants to emphasize their responsibility? a. No one is innocent. b. Everyone is guilty. c. Everyone will be put on trial. d. Innocent individuals will be granted freedom",
+                "How many participants are there in the Chamber of Secrets game? a. 5 people b. 6 people c. 7 people d. 8 people",
+                "Who is described as a muscular man with a strong physique? a. Taylor B. Faris C. Thomas D. Webster",
+                "In the game of the judge, who does the murderer need to find out? a. Innocent person b. Guilty person c. The most serious crime d. Self",
+                "What was the name of the deceased in the Chamber of Secrets incident? a. Faris B. Sara C. Thomas D. Phil",
+                "What was the profession of the deceased? a. Professor b. Lawyer c. Doctor d. Scholar",
+                "What is the posture in which the deceased was found in a secret room case? a. Standing b. Sitting c. Lying down d. Lying down",
+                "Why does the 'Judge' name the game in the game? a. The Verdict b. Inside c. Death Match d. The Final Judgment",
+                "How many people are trapped in the secret room at the beginning of the game? a. 5 people b. 6 people c. 7 people d. 8 people",
+                "What is the total number of rooms representing murder cases in the Chamber of Secrets game? a. 4 b. 5 c. 6 d. 7",
+                "What words do judges use to emphasize everyone's responsibility? a. Everyone is guilty b. No one is innocent c. Everyone must be tried d. Innocent individuals can obtain freedom",
+                "What is the profession of the deceased Phil? a. Professor b. Lawyer c. Doctor d. Scholar",
+                "What do participants in the Chamber of Secrets game need to find to win? a. Innocent b. Guilty c. Murderer d. Judge",
+                "What was the cause of death of the deceased? a. Heart attack b. Poisoned death c. Screwdriver stuck in right eye d. Falling off cliff",
+                "According to the game rules, if the innocent are not found, how will the judge deal with the guilty? a. Release them b. Punish them c. Publish their crimes d. Let them play the game again",
+                "How to describe the personality of the judge? a. Kind b. Cunning c. Compassionate d. Ruthless",
+                "Where was the key to the library placed in the secret room incident? a. B in the drawer of the desk, C on the bookshelf, C in the pocket of the deceased, D under the carpet",
+                "Why did the judge name their game? a. The Verdict b. Inside c. Death Match d. The Final Judgment",
+                "How many rooms in the game represent a murder case in a secret room? a. 4 b. 5 c. 6 d. 7",
+                "According to the judge, if the innocent person is not found, how will the judge handle it? a. Release the guilty b. Punish the innocent c. Publicize the guilt of the guilty d. None of them",
+                "How is the personality of the judge described? a. Kind b. Cunning c. Compassionate d. Ruthless",
+                "Where was the location where the deceased Phil was found? a. Living room b. Kitchen c. Study d. Bedroom",
+                "What was the cause of death for the deceased Phil? a. Heart attack b. Poisoned death c. Screwdriver stuck in right eye d. Falling off cliff",
+                "Where was the key to the library originally placed? a. B in the drawer of the desk, C on the bookshelf, C in the pocket of the deceased, D under the carpet",
+                "What is the posture of the deceased's body? a. Standing b. Sitting c. Lying down d. Lying down",
+                "What language does the judge use to emphasize the responsibility of game participants? a. No one is innocent. b. Everyone is guilty. c. Everyone will be put on trial. d. Innocent individuals will be granted freedom",
+                "What is the profession of the deceased Phil? a. Professor b. Lawyer c. Doctor d. Scholar"
+            ],
+            "a": [
+                "c",
+                "b",
+                "d",
+                "a",
+                "b",
+                "a",
+                "c",
+                "b",
+                "c",
+                "d",
+                "d",
+                "b",
+                "b",
+                "c",
+                "c",
+                "b",
+                "a",
+                "b",
+                "d",
+                "c",
+                "c",
+                "c",
+                "b",
+                "a",
+                "c",
+                "b",
+                "b",
+                "d",
+                "d",
+                "c",
+                "b",
+                "c",
+                "c",
+                "b",
+                "d",
+                "b",
+                "c",
+                "c",
+                "b",
+                "a",
+                "b",
+                "c",
+                "c",
+                "b",
+                "c",
+                "c",
+                "a",
+                "c",
+                "a",
+                "d"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "What are the two possibilities for the perpetrator in this case? a. The real Eye Eater and the person who the deceased do not know b. The real Eye Eater and the person who the deceased know c. The person who imitates the crime and the person who the deceased does not know d. The person who imitates the crime and the person who the deceased knows",
+            "What does the message from the deceased imply? a. The clue is under the floor b. The clue is behind the curtain c. The clue is on the bookshelf d. The clue is behind the door",
+            "What does the 'face' in the deceased's message mean? a. Face to face b. Alphabet hierarchy c. Rapid action d. Victim's expression",
+            "According to the message from the deceased, what is the number represented by the 'victory gesture'? a. 1 b. 2 c. 3 d. 4",
+            "What are the corresponding books for aced? a. F, A, C, E, D b. A, B, C, D, E c. G, H, I, J, K d. M, N, O, P, Q",
+            "Where is the bookshelf for 'Lunar Eclipse Stories' located? a. A row b. B row c. C row d. F row",
+            "What tool did the murderer use to remove the bloodstains? a. Automatic sweeping machine b. Automatic mop c. Integrated mopping robot d. Vacuum cleaner",
+            "What was the last gesture of the deceased? a. The gesture of comparing three. b. The gesture of comparing one. c. The gesture of comparing two. d. The gesture of comparing four",
+            "How does the murderer observe the state of the deceased? a. Through the window b. Use a selfie stick to check with your phone c. Concealed camera d. Cat's eye on the door",
+            "What did the clues left by the deceased point to? a. Desk b. Bookshelf c. TV cabinet d. Sofa",
+            "How was the secret room formed? a. B. The victim locked the door themselves. C. The perpetrator locked the door from the outside. D. There was an iron plate blocking the door",
+            "Why isn't Thomas the murderer? a. He is present at the scene. B. He has an alibi. C. He has red and green blindness. D. He is a police officer",
+            "Which part of the book should I check based on the deceased's death message? a. Book title b. First word c. Second word d. Last word",
+            "What thickness carpet is suitable for the gear setting of the robot cleaning bloodstains? a. Less than 1 centimeter b. Less than 2 centimeters c. Less than 3 centimeters d. Less than 5 centimeters",
+            "Which book title corresponding to Faced mentions' one eyed monkey '? a. F row b. A row c. C row d. E row",
+            "Which direction did the victim's face face face at the time of the crime? a. Facing the doorway b. Facing the window c. Facing the desk d. Facing the bed",
+            "What measures did the deceased take to prevent the perpetrator from continuing the attack? a. Shouting loudly for help, b. injuring the murderer, c. locking the door themselves, d. escaping the room",
+            "What machine did the killer use to mislead people into thinking that the library was the first crime scene? a. Washing machine b. Drag and sweep integrated robot c. High pressure water gun d. Air purifier",
+            "What is the relationship between the murderer and the deceased? a. The murderer is someone the deceased does not know. b. The murderer is the enemy of the deceased. c. The murderer is someone the deceased knows. d. I am not sure",
+            "The deceased already knew the basic identity of the murderer before reporting to the police. Who was the murderer? a. A stranger b. A neighbor c. A family member d. A passerby",
+            "Why can't the murderer be the son? a. My son's hand is injured and he cannot kill. B. The deceased can write his son's name on a green blanket. C. The son had sufficient alibi at the time. D. The son was called away by the police at that time",
+            "What is the size of the dog hole under the room door? a. The door lock inside the room cannot be reached from the outside. b. It is large enough for people to pass through. c. Only small pets can pass through. d. It is slightly larger than a standard door lock",
+            "What was the posture of the deceased's death? a. Sitting b. Lying down with your back down c. Lying face down towards the entrance of the room d. Standing",
+            "What was the last gesture of the deceased? a. Make a fist b. Use the 'OK' gesture c. Use the 'Victory' gesture d. Wave your hand",
+            "What is the blood written message under the palm of the deceased's left hand? a. helpme b. murder c. faced1 d. lastword",
+            "What is the clue corresponding to 'faced1'? a. Each layer of letters on the bookshelf b. The first book on the bookshelf c. The last book on the bookshelf d. A secret message on the bookshelf",
+            "What is the item about 1 meter long in Sara's room? a. Selfie stick b. Golf club c. Cane d. Umbrella",
+            "What are the proof documents in Thomas' room? a. Driver's license b. Doctor's license c. Medical certificate for red green color blindness d. Lawyer's license",
+            "What items are included in the household appliance maintenance checklist? a. Television, washing machine, air conditioner b. Refrigerator, oven, microwave c. Water heater, induction cooker, vacuum cleaner d. Dishwasher, dryer, mop sweeping integrated robot",
+            "What was the cause of death of the deceased? a. Natural death b. Murder c. Accident death d. Suicide",
+            "How did the murderer create the illusion of a secret room? a. Lock doors and windows b. Wipe away bloodstains c. Change site layout d. Use high-tech tools"
+        ],
+        "key_ans": [
+            "a",
+            "c",
+            "b",
+            "b",
+            "a",
+            "d",
+            "c",
+            "c",
+            "b",
+            "b",
+            "b",
+            "c",
+            "c",
+            "b",
+            "b",
+            "a",
+            "c",
+            "b",
+            "c",
+            "c",
+            "b",
+            "a",
+            "c",
+            "c",
+            "c",
+            "b",
+            "a",
+            "c",
+            "a",
+            "b",
+            "b"
+        ],
+        "key_sc": [
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-2",
+            "p-3",
+            "p-4",
+            "p-5",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "Which direction did the deceased's face face face? a. Room entrance b. Room window c. Room back door d. Room interior",
+            "What was the left eye of the deceased? a. Closed b. Open c. Half open d. Uncertain",
+            "Which of the following descriptions is closest to the posture of the deceased's left arm and hand? a. Palm down, naturally drooping b. Straight forward, bent tightly c. Straight forward, palm down d. Straight forward, raised upwards",
+            "What may the blood character \"faced1\" under the palm of the deceased's left hand indicate? a. A password b. a direction c. the emotional state of the deceased d. unrelated to the case",
+            "What symbolic significance may the \"victory\" gesture in the hands of the deceased have? a. Help signal b. meaningless posture c. symbol of victory d. indicative clues",
+            "What direction could the deceased's fingers be pointing towards? a. Room door b. Bookshelf c. Window d. Floor",
+            "What is the most likely meaning of the blood character 'faced1'? a. Facing challenges b. Heading in one direction c. Identity identification d. Password or code",
+            "The posture and position of the deceased indicate what they were most likely doing at the time of death? a. Escape b. Search c. Instruct d. Attack",
+            "According to the scene, what is the most likely cause of death for the deceased? a. Natural death b. Accidents c. Attacks d. Suicide",
+            "What does the bloodstain information left by the deceased indicate that he attempted to do before his death? a. Seeking help b. Leaving clues c. Recording the identity of the perpetrator d. Expressing anger",
+            "What is the main function of the dog hole under the room door? a. Allow dogs to enter and exit b. Increase ventilation c. Facilitate cleaning d. Allow people to operate the internal door lock from the outside",
+            "Through experiments, it was found that the door lock inside the room cannot be reached from the outside through the dog hole, indicating what the design of the dog hole is? a. The dog hole is very small. b. The location of the dog hole is far away from the door lock. c. The dog hole is obstructed by other objects. d. The dog hole is only for visual communication",
+            "What could the bloodstains on the bottom of the slippers on the deceased's feet indicate? a. The deceased was attacked while standing. b. The deceased had walked past bloodstains before death. c. The deceased moved to the scene after being injured elsewhere. d. The bloodstains are not related to this case",
+            "What is the current status of the notebook on the desk? a. Open and filled with words b. did not open c. only opened the cover d. missing a few pages",
+            "What items are included in the pen holder of the desk? a. One pen and one pencil b. One pen and two pencils c. Two pens and one pencil d. Three pencils",
+            "Where was the key to the room placed? a. B. The upper drawer of the desk, c. The middle drawer of the desk, d. The lower drawer of the desk",
+            "In which direction did the bloodstains on the carpet disappear? a. Facing the doorway b. Facing the window c. Facing the bookshelf d. Facing the desk",
+            "What is written on the carpet? a. HELP ME b. FACED1 c. DANGER d. EXIT",
+            "What color is the carpet? a. Green b. Grey c. Red d. Blue",
+            "What is the injured area of the deceased? a. Right eye b. Left eye c. Mouth d. Neck",
+            "How is the door locked? a. Only use the key to lock b. Only lock from the inside c. Lock with the key and lock from the inside d. After prying open, it is found that the lock is in the key up state",
+            "What could be the reason for the upside down wooden chair? a. The deceased collapsed while resisting. b. The deceased was pushed over while sitting. c. The deceased ran away when they hit it. d. Others accidentally knocked it over while running away",
+            "What is the condition of the window and its external conditions? a. Closed and outside is a garden b. Open and outside is a street c. Closed and outside is a cliff d. Open and outside is a cliff"
+        ],
+        "key_ans": [
+            "a",
+            "b",
+            "c",
+            "a",
+            "d",
+            "b",
+            "d",
+            "c",
+            "c",
+            "b",
+            "a",
+            "b",
+            "b",
+            "b",
+            "b",
+            "c",
+            "b",
+            "b",
+            "a",
+            "a",
+            "d",
+            "c",
+            "d"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "How long is the bottom of the room at the scene of death? A. 3.8m b. 4.2m c. 4.5m d. 5m",
+            "How long is the left side of the room at the scene of death? A. 3.5m b. 4.0m c. 4.2m d. 4.5m",
+            "How long is the protrusion on the right side of the room at the scene of death? a. 0.8m b. 1.0m c. 1.2m d. 1.5m",
+            "How long is the concave part on the right side of the room at the scene of death? a. 2.5m b. 2.8m c. 3.0m d. 3.5m",
+            "What is position 4 in the room at the scene of death? a. One TV b. One computer c. Two bookshelves d. One sofa",
+            "What is position 2 in the room at the scene of death? a. Yellow carpet b. Red curtains c. Blue sofa d. 2cm thick green carpet",
+            "What is position 6 in the room at the scene of death? a. A table b. An inverted wooden chair c. A wardrobe d. A pot of flowers",
+            "What is location 1 in the room at the scene of death? a. A bed b. A chair c. A TV d. A desk",
+            "At what location did the deceased die in the room at the scene of death? a. 1. b. 2. c. 3. d. 4",
+            "Which location in the room at the scene of death is stained with blood? a. 1 and 3 b. 2 and 3 c. 3 and 4 d. 2 and 5",
+            "Which position is the door in the room at the scene of death? a. No.3 b. No.4 c. No.5 d. No.6",
+            "Which position is the bookshelf in the room at the scene of death? a. No. 2 b. No. 3 c. No. 4 d. No. 5",
+            "Which position is the desk in the room at the scene of death? a. 1. b. 2. c. 3. d. 4",
+            "What letter shape does the room at the scene of death present as a whole? a. T-shaped letter b. L-shaped letter c. U-shaped letter d. O-shaped letter"
+        ],
+        "key_ans": [
+            "b",
+            "b",
+            "b",
+            "c",
+            "c",
+            "d",
+            "b",
+            "d",
+            "c",
+            "b",
+            "c",
+            "c",
+            "a",
+            "b"
+        ]
+    },
+    "ju_name": "DI7MI1",
+    "task_nm": "Please complete the following tasks using all the clues at hand",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Sara"
+    ],
+    "murder": "Sara",
+    "reason": "Motive for committing the crime:"
+}

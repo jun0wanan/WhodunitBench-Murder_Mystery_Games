@@ -1,0 +1,613 @@
+{
+    "key_clues_pool": {
+        "p": [
+            "There were no traces of the crime tools found at the scene. It is speculated that the perpetrator came and left with tools, and no footprints were found at the scene. The perpetrator cleared both their own and Yu Xin's footprints.",
+            "The perpetrator has cleared all the valid information on the scene, indicating that the police can infer the body size and weight based on the depth and size of the footprints.",
+            "The taxi under Xu Youying's name left the city on the evening of June 2nd and returned to the city on the evening of June 6th.",
+            "The taxi under Xu Youying's name left the city on the evening of June 2nd and returned to the city on the evening of June 6th. On the night of Qiao Gu's disappearance, this car had driven into the underground garage of the Gretel Hotel.",
+            "Yu Xin owns a house in the suburbs, which is the ancestral home of the Yu family. More than a decade ago, I was a small thug who was loved and taken care of by a gang leader due to my exceptional skills. I once managed a small hotel. Seven or eight years ago, he opened a medical device manufacturing factory, which disappeared six years ago. There is almost too much information about him online.",
+            "Dead: Yu Xin, male, 40 years old. Autopsy time: 10:00 pm on the evening the body was found",
+            "Hourglass shaped mechanism - The method of triggering the mechanism is very simple, and people with some knowledge of physics may be able to do it. There are two heating points on the mechanism. As long as a candle is lit and placed below the heating point, the thermal barrier of the material will shrink, which will push the opening and closing of the funnel valve, causing sediment to leak downwards. Moreover, the faucet above the pit will keep dripping water to ensure that the leaked sediment has a certain viscosity. The heating point is also equipped with a small balance. When the weight of the candle burns and decreases, the balance becomes unbalanced, causing the candle to rise, ensuring that the heating point will continue to heat.",
+            "The police officer in charge of investigating the pregnant woman case at that time is Shang Jian. Six years ago, he participated in the arrest of the fugitive involved in the pregnant woman incident and caused serious injuries to the suspect Yu Xin. He was complained about and later transferred to the evidence room as a clerk. According to the intelligence report, Yu Xin is likely to be the person who made the problematic drugs and equipment, but he was acquitted due to insufficient evidence. Yu Xin's mobile phone call record was sent to Qiao Gu at 21:35 on June 8th. \"Old place, please contact me (I haven't had anything to do for over half a year, come quickly now)",
+            "Yu Xin's mobile phone call record was sent to Qiao Gu at 21:35 on June 9th, saying \"Old place, important matter, come quickly now\" (there had been no contact for more than half a year before)",
+            "Yu Xin's mobile phone call record was sent to Qiao Gu at 21:35 on June 10th, saying \"Old place, important matter, come quickly now\" (there had been no contact for more than half a year before)"
+        ],
+        "1-step": [
+            "The crime scene was cleaned up very cleanly, leaving no clues and using professional techniques",
+            "Xu Youying's taxi entry and exit time meets the conditions",
+            "Xu Youying is injured and unable to drive",
+            "It is rumored that Yu Xin is particularly skilled and ordinary people cannot beat him",
+            "After Yu Xin's death, his phone number sent a text message to Qiao Gu, indicating that it was the same person/group who committed the crime. The perpetrator arranged the crime scene as a ceremonial \"drip\" hourglass burial, pointing to the medical case and understanding its details",
+            "Shang Jian and Xu Youying have a foundation of trust"
+        ],
+        "2-step": [
+            "Shang Jianneng subdued Yu Xin and possesses the ability to commit crimes.",
+            "Shang Jian met Yu Xin as the person in charge due to his medical case back then",
+            "Others actually don't know Yu Xin"
+        ],
+        "吴东明": [
+            "Shang Jian once saved Xu Youying"
+        ],
+        "陈昊": [
+            "Shang Jian was the person in charge of the case at that time and committed assault on the suspect after learning that he could not be sentenced"
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            65
+        ]
+    },
+    "public_clue": "\n",
+    "key_clues_questions": [
+        {
+            "q": "Did the perpetrator leave the scene with tools? a. Yes B. No",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "What traces did the killer clean up at the scene? a. Tools b. Footprints c. DNA d. Blood stains",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "Which evening will Xu Youying's taxi return to the city? a. June 1st b. June 6th c. June 8th d. June 10th",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "Did Xu Youying's taxi enter the underground garage of the Gretel Hotel on the night of its disappearance in Qiaogu? a. Yes B. No",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "How long ago did Yu Xin open a medical device manufacturing factory? a. 5 years ago b. 7 years ago c. 8 years ago d. 6 years ago",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "When is the autopsy time for Yu Xin? a. The discovery of the body was made at 8:00 p.m. b. The discovery of the body was made at 10:00 p.m. c. The discovery of the body was made the following morning d. The discovery of the body was made the following evening",
+            "ans": "b",
+            "source": "p"
+        },
+        {
+            "q": "How is the hourglass mechanism triggered? a. Light the candle b. Pull the rod c. Press the button d. Step on the pedal",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "What is the name of the police officer investigating the pregnant woman case? a. Shang Jian b. Yu Xin c. Xu Youying d. Qiao Gu",
+            "ans": "a",
+            "source": "p"
+        },
+        {
+            "q": "When was the last time Yu Xin sent a message to Qiao Gu? a. June 8th b. June 9th c. June 10th",
+            "ans": "c",
+            "source": "p"
+        },
+        {
+            "q": "Did any clues remain at the crime scene? a. Yes B. No",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "Has Xu Youying's injury affected his driving ability? a. Yes B. No",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Does the text message sent by Yu Xin after his death imply that the same person or group committed the crime? a. Yes B. No",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Is the arrangement of the crime scene related to medical cases? a. Yes B. No",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Is there a trust relationship between Shang Jian and Xu Youying? a. Yes B. No",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "Does Shangjian have the ability to subdue Yu Xin? a. Yes B. No",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "Did Shang Jian know Yu Xin because of the medical case back then? a. Yes B. No",
+            "ans": "a",
+            "source": "p-2"
+        },
+        {
+            "q": "Do anyone else know Yu Xin besides Shang Jian? a. Yes B. No",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "Has Shang Jian ever saved Xu Youying? a. Yes B. No",
+            "ans": "a",
+            "source": "w"
+        },
+        {
+            "q": "Has there been any act of assaulting a suspect after Shang Jian was unable to be sentenced through normal legal procedures? a. Yes B. No",
+            "ans": "a",
+            "source": "c"
+        }
+    ],
+    "role": [
+        {
+            "name": "Chen Hao",
+            "back": "38 years old, male, military background, with many years of experience as a police officer, rich experience in handling cases and team management, and sensitive intuition in handling cases.",
+            "r_q": [
+                {
+                    "q": "What is Chenhao's original surname? a. Chen b. Chen c. Yang d. Zhao",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did Chenhao sever ties with his family? a. Interested in the family's business b. Dissatisfied with the family's life arrangements and engagement c. Enjoys independent living d. Wants to study abroad",
+                    "ans": "b"
+                },
+                {
+                    "q": "Where did Chenhao meet Yan Jing? a. Coffee shop b. Business school c. Hospital d. Police station",
+                    "ans": "b"
+                },
+                {
+                    "q": "What position was Qiao Gu forced to resign from after the pregnancy incident? a. Dean b. Vice Dean c. Advisor d. Head Nurse",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is the profession of Chenxi, the younger sister of Chenhao? a. Doctor b. Nurse c. Head Nurse d. Administrative Personnel",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was officially attributed as the cause of death for the pregnant woman in the incident that occurred on June 6, 2011? a. Medical accident b. Expired drip solution c. Doctor's mistake d. Carelessness of nursing staff",
+                    "ans": "b"
+                },
+                {
+                    "q": "Which hospital does Chenhao's father serve as the director of? a. Municipal People's Hospital b. Central Hospital c. Municipal Private Hospital d. Municipal Children's Hospital",
+                    "ans": "a"
+                },
+                {
+                    "q": "Which relative of Chenhao fell off a cliff during the team building trip? a. Parents b. Sister c. Brother d. Father",
+                    "ans": "a"
+                },
+                {
+                    "q": "What was the cause of death for the deceased Yu Xin? a. Heart attack b. Death from stabbing c. Death from suffocation d. Drug allergy",
+                    "ans": "c"
+                },
+                {
+                    "q": "What types of injuries did the autopsy report show on Yu Xin's body? a. Burn b. gunshot c. fracture and wound d. frostbite",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is Chenhao's original surname? a. Chen b. Chen c. Yang d. Zhao",
+                "Why did Chenhao sever ties with his family? a. Interested in the family's business b. Dissatisfied with the family's life arrangements and engagement c. Enjoys independent living d. Wants to study abroad",
+                "Where did Chenhao meet Yan Jing? a. Coffee shop b. Business school c. Hospital d. Police station",
+                "What position was Qiao Gu forced to resign from after the pregnancy incident? a. Dean b. Vice Dean c. Advisor d. Head Nurse",
+                "What is the profession of Chenxi, the younger sister of Chenhao? a. Doctor b. Nurse c. Head Nurse d. Administrative Personnel",
+                "What was officially attributed as the cause of death for the pregnant woman in the incident that occurred on June 6, 2011? a. Medical accident b. Expired drip solution c. Doctor's mistake d. Carelessness of nursing staff",
+                "Which hospital does Chenhao's father serve as the director of? a. Municipal People's Hospital b. Central Hospital c. Municipal Private Hospital d. Municipal Children's Hospital",
+                "Which relative of Chenhao fell off a cliff during the team building trip? a. Parents b. Sister c. Brother d. Father",
+                "What was the cause of death for the deceased Yu Xin? a. Heart attack b. Death from stabbing c. Death from suffocation d. Drug allergy",
+                "What types of injuries did the autopsy report show on Yu Xin's body? a. Burn b. gunshot c. fracture and wound d. frostbite"
+            ],
+            "a": [
+                "b",
+                "b",
+                "b",
+                "b",
+                "c",
+                "b",
+                "a",
+                "a",
+                "c",
+                "c"
+            ]
+        },
+        {
+            "name": "Wu Dongming",
+            "back": "Wu Dongming, 31 years old, male, graduated from a medical university with a dual degree in computer science. He has expertise in network security and can move freely in various advanced database systems.",
+            "r_q": [
+                {
+                    "q": "What are the two majors for Wu Dongming's dual degree program? a. Medicine and computer b. Medicine and network security c. Medicine and database systems d. Computer and network security",
+                    "ans": "a"
+                },
+                {
+                    "q": "How did Wu Dongming join the internet police? a. Excellent hacking skills b. Cracking advanced database systems c. Reporting illegal hospitals and providing effective clues d. Breaking through case difficulties",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did Wu Dongming make Hu Mengjie dependent on him? a. Fix her computer b. Help her with homework c. Leave a \"hidden danger\" on her computer d. Provide her with study materials",
+                    "ans": "c"
+                },
+                {
+                    "q": "What was Wu Dongming doing when he was knocked unconscious? a. B. Repair Xu Youying's computer. B. Discuss computers with Xu Youying. C. Trick Xu Youying out of school and teach him a lesson. D. Have an argument with Xu Youying",
+                    "ans": "c"
+                },
+                {
+                    "q": "How was the cause of death of Hu Mengjie explained by the hospital? a. Eating poisoning b. Pathogenic bacteria entering the brain caused by colds and fever c. Medical accidents d. Natural death",
+                    "ans": "b"
+                },
+                {
+                    "q": "For what reason did Wu Dongming attract the attention of the police and be recruited as an internet police officer? a. Report to Municipal People's Hospital b. Illegal intrusion into database c. Crackdown on old cases d. Hacked into hospital network database",
+                    "ans": "a"
+                },
+                {
+                    "q": "What made Luo Ming famous? a. Opening a computer repair shop b. Successfully solving old cases in the police database c. Successfully curing seriously ill patients d. Investigating medical accident cases",
+                    "ans": "b"
+                },
+                {
+                    "q": "What case did Wu Dongming find problematic drug storage records in the People's Hospital during his investigation? a. Li Yan's medical accident case b. Hu Mengjie's death case c. The cause of death of Qiao Gu, former vice president of the People's Hospital d. Supply records of Jingxintang Medical Equipment Company",
+                    "ans": "b"
+                },
+                {
+                    "q": "What symptoms did Qiao Gu exhibit due to food poisoning? a. Fever and dizziness b. Nausea and abdominal pain c. Difficulty breathing d. Allergic reactions",
+                    "ans": "b"
+                },
+                {
+                    "q": "The autopsy report of the deceased Yu Xin shows that approximately how long ago did he die? a. Between 3-4 days b. Between 5-7 days c. Between 8-10 days d. Between 11-13 days",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What are the two majors for Wu Dongming's dual degree program? a. Medicine and computer b. Medicine and network security c. Medicine and database systems d. Computer and network security",
+                "How did Wu Dongming join the internet police? a. Excellent hacking skills b. Cracking advanced database systems c. Reporting illegal hospitals and providing effective clues d. Breaking through case difficulties",
+                "How did Wu Dongming make Hu Mengjie dependent on him? a. Fix her computer b. Help her with homework c. Leave a \"hidden danger\" on her computer d. Provide her with study materials",
+                "What was Wu Dongming doing when he was knocked unconscious? a. B. Repair Xu Youying's computer. B. Discuss computers with Xu Youying. C. Trick Xu Youying out of school and teach him a lesson. D. Have an argument with Xu Youying",
+                "How was the cause of death of Hu Mengjie explained by the hospital? a. Eating poisoning b. Pathogenic bacteria entering the brain caused by colds and fever c. Medical accidents d. Natural death",
+                "For what reason did Wu Dongming attract the attention of the police and be recruited as an internet police officer? a. Report to Municipal People's Hospital b. Illegal intrusion into database c. Crackdown on old cases d. Hacked into hospital network database",
+                "What made Luo Ming famous? a. Opening a computer repair shop b. Successfully solving old cases in the police database c. Successfully curing seriously ill patients d. Investigating medical accident cases",
+                "What case did Wu Dongming find problematic drug storage records in the People's Hospital during his investigation? a. Li Yan's medical accident case b. Hu Mengjie's death case c. The cause of death of Qiao Gu, former vice president of the People's Hospital d. Supply records of Jingxintang Medical Equipment Company",
+                "What symptoms did Qiao Gu exhibit due to food poisoning? a. Fever and dizziness b. Nausea and abdominal pain c. Difficulty breathing d. Allergic reactions",
+                "The autopsy report of the deceased Yu Xin shows that approximately how long ago did he die? a. Between 3-4 days b. Between 5-7 days c. Between 8-10 days d. Between 11-13 days"
+            ],
+            "a": [
+                "a",
+                "c",
+                "c",
+                "c",
+                "b",
+                "a",
+                "b",
+                "b",
+                "b",
+                "b"
+            ]
+        },
+        {
+            "name": "Hu Mengyu",
+            "back": "Hu Mengyu, 28 years old, female, trace investigator, is one of the few female forensic examiners in the country and excels in school. Due to insufficient work experience and lack of practical experience, the police sent him to learn from Luo Ming. Your name is Hu Mengyu, and you have a twin sister named Hu Mengjie",
+            "r_q": [
+                {
+                    "q": "In the script, which two computer science seniors did Hu Mengyu's sister have a relationship with? a. Wu Dongming, Xu Youying b. Wu Dongming, Shang Jian c. Wu Dongming, Qiao Gu d. Xu Youying, Shang Jian",
+                    "ans": "a"
+                },
+                {
+                    "q": "According to the script, after the sister caught a cold, she went to the Municipal People's Hospital for treatment. What disease did the doctor diagnose? a. Common flu b. Pneumonia c. Acute bacterial infection d. Severe cold",
+                    "ans": "a"
+                },
+                {
+                    "q": "According to the script, what medication did the doctor prescribe for my sister? a. Penicillin b. Antibiotics c. Traditional Chinese Medicine d. Antipyretic and analgesic drugs",
+                    "ans": "b"
+                },
+                {
+                    "q": "In the script, who leaked information to Hu Mengyu about the woman in Qiao Gu's office inquiring about the bacterial incident? a. Wu Dongming b. Qiao Gu c. Yan Jing d. Qiao Gu's bodyguard",
+                    "ans": "c"
+                },
+                {
+                    "q": "According to the script, who attempted to put rat poison into Qiao Gu's cup? a. Hu Mengyu b. Shang Jian c. Yan Jing d. Luo Ming",
+                    "ans": "a"
+                },
+                {
+                    "q": "According to the script, Hu Mengyu had sneaked into Qiao Gu's office multiple times. What did she hope to find? a. Evidence b. Qiao Gu's documents c. Qiao Gu's personal belongings d. Qiao Gu's contact information",
+                    "ans": "a"
+                },
+                {
+                    "q": "In the script, who did Hu Mengyu anonymously entrust to investigate the case? a. Shang Jian b. Luo Ming c. Yan Jing d. Qiao Gu's bodyguard",
+                    "ans": "b"
+                },
+                {
+                    "q": "According to the script, who is the police investigating the case of Hu Mengyu's sister? a. Shang Jian b. Qiao Gu c. Yan Jing d. Luo Ming",
+                    "ans": "a"
+                },
+                {
+                    "q": "In the script, what medicine did the doctor give to my sister after she caught a cold? a. Fever reducing needle b. antibiotics c. traditional Chinese medicine d. vitamins",
+                    "ans": "a"
+                },
+                {
+                    "q": "According to the script, what poison did Hu Mengyu attempt to use to retaliate against Qiao Gu? a. Rat poison b. Cyanide c. Detonator d. Poisonous mushrooms",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "In the script, which two computer science seniors did Hu Mengyu's sister have a relationship with? a. Wu Dongming, Xu Youying b. Wu Dongming, Shang Jian c. Wu Dongming, Qiao Gu d. Xu Youying, Shang Jian",
+                "According to the script, after the sister caught a cold, she went to the Municipal People's Hospital for treatment. What disease did the doctor diagnose? a. Common flu b. Pneumonia c. Acute bacterial infection d. Severe cold",
+                "According to the script, what medication did the doctor prescribe for my sister? a. Penicillin b. Antibiotics c. Traditional Chinese Medicine d. Antipyretic and analgesic drugs",
+                "In the script, who leaked information to Hu Mengyu about the woman in Qiao Gu's office inquiring about the bacterial incident? a. Wu Dongming b. Qiao Gu c. Yan Jing d. Qiao Gu's bodyguard",
+                "According to the script, who attempted to put rat poison into Qiao Gu's cup? a. Hu Mengyu b. Shang Jian c. Yan Jing d. Luo Ming",
+                "According to the script, Hu Mengyu had sneaked into Qiao Gu's office multiple times. What did she hope to find? a. Evidence b. Qiao Gu's documents c. Qiao Gu's personal belongings d. Qiao Gu's contact information",
+                "In the script, who did Hu Mengyu anonymously entrust to investigate the case? a. Shang Jian b. Luo Ming c. Yan Jing d. Qiao Gu's bodyguard",
+                "According to the script, who is the police investigating the case of Hu Mengyu's sister? a. Shang Jian b. Qiao Gu c. Yan Jing d. Luo Ming",
+                "In the script, what medicine did the doctor give to my sister after she caught a cold? a. Fever reducing needle b. antibiotics c. traditional Chinese medicine d. vitamins",
+                "According to the script, what poison did Hu Mengyu attempt to use to retaliate against Qiao Gu? a. Rat poison b. Cyanide c. Detonator d. Poisonous mushrooms"
+            ],
+            "a": [
+                "a",
+                "a",
+                "b",
+                "c",
+                "a",
+                "a",
+                "b",
+                "a",
+                "a",
+                "a"
+            ]
+        },
+        {
+            "name": "Lu Shasha",
+            "back": "He Feifei is 29 years old, female, with a PhD in psychology. She specializes in criminal psychology and criminal behavior, and is skilled in deep hypnosis. She is also the police flower of the entire police district. Once hypnotized a drug dealer within 3 minutes, asking him to reveal the place where the drugs were produced and hidden, as well as the key figures involved in the case. Young and promising.",
+            "r_q": [
+                {
+                    "q": "What is He Feifei's major? a. Forensic Science b. Criminal Psychology c. Legal Science d. Sociology",
+                    "ans": "b"
+                },
+                {
+                    "q": "How long did He Feifei successfully hypnotize drug dealers? a. 1 minute b. 2 minutes c. 3 minutes d. 5 minutes",
+                    "ans": "c"
+                },
+                {
+                    "q": "Which boy attracted He Feifei to when she was at the police academy? a. Chen Zhen b. Luo Ming c. Qiao Gu d. Zeng Sichun",
+                    "ans": "b"
+                },
+                {
+                    "q": "What was the reason for Li Yan's death? a. Poisoning b. Disease c. Car accident d. Murder",
+                    "ans": "c"
+                },
+                {
+                    "q": "What position does Qiao Gu hold in the hospital? a. Dean b. Vice Dean c. Head Nurse d. Special Advisor",
+                    "ans": "d"
+                },
+                {
+                    "q": "In order to help Luo Ming uncover the truth, which position did He Feifei apply for at the Municipal People's Hospital? a. Nurse b. Psychological counselor c. Forensic doctor d. Psychiatric consultant",
+                    "ans": "b"
+                },
+                {
+                    "q": "Who is the surgeon who performed the surgery on Li Yan? a. Chen Zhen b. Luo Ming c. Qiao Gu d. Zeng Sichun",
+                    "ans": "d"
+                },
+                {
+                    "q": "Where did He Feifei work to get closer to Zeng Sichun? a. Hospital b. Detective Agency c. Police Force d. Social Service Organization",
+                    "ans": "c"
+                },
+                {
+                    "q": "What type of criminal gang did He Feifei use hypnosis to help the police crack down on? a. Theft gang b. Fraud gang c. Drug manufacturing, transportation, and trafficking gang d. Violent gang",
+                    "ans": "c"
+                },
+                {
+                    "q": "How did He Feifei calm down Luo Ming in the conflict between Luo Ming and Qiao Gu? a. Persuasion b. Hypnosis c. Warning d. Embracing and grabbing the knife",
+                    "ans": "d"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is He Feifei's major? a. Forensic Science b. Criminal Psychology c. Legal Science d. Sociology",
+                "How long did He Feifei successfully hypnotize drug dealers? a. 1 minute b. 2 minutes c. 3 minutes d. 5 minutes",
+                "Which boy attracted He Feifei to when she was at the police academy? a. Chen Zhen b. Luo Ming c. Qiao Gu d. Zeng Sichun",
+                "What was the reason for Li Yan's death? a. Poisoning b. Disease c. Car accident d. Murder",
+                "What position does Qiao Gu hold in the hospital? a. Dean b. Vice Dean c. Head Nurse d. Special Advisor",
+                "In order to help Luo Ming uncover the truth, which position did He Feifei apply for at the Municipal People's Hospital? a. Nurse b. Psychological counselor c. Forensic doctor d. Psychiatric consultant",
+                "Who is the surgeon who performed the surgery on Li Yan? a. Chen Zhen b. Luo Ming c. Qiao Gu d. Zeng Sichun",
+                "Where did He Feifei work to get closer to Zeng Sichun? a. Hospital b. Detective Agency c. Police Force d. Social Service Organization",
+                "What type of criminal gang did He Feifei use hypnosis to help the police crack down on? a. Theft gang b. Fraud gang c. Drug manufacturing, transportation, and trafficking gang d. Violent gang",
+                "How did He Feifei calm down Luo Ming in the conflict between Luo Ming and Qiao Gu? a. Persuasion b. Hypnosis c. Warning d. Embracing and grabbing the knife"
+            ],
+            "a": [
+                "b",
+                "c",
+                "b",
+                "c",
+                "d",
+                "b",
+                "d",
+                "c",
+                "c",
+                "d"
+            ]
+        },
+        {
+            "name": "pioneering spirit",
+            "back": "Shang Jian is 34 years old, male, with a background in armed police. He is tall, skilled in combat, and has a strong hatred for evil. He was once the first brother of the action team.",
+            "r_q": [
+                {
+                    "q": "In the script, which unit was Shang Jian assigned to? a. Evidence Room b. Action Team c. Armed Police Force d. People's Hospital",
+                    "ans": "a"
+                },
+                {
+                    "q": "Why was adopted father Shang De sentenced to death? a. Because of killing foster mother and sister, b. because hiding criminals, c. because leaking police secrets, d. because participating in black market transactions",
+                    "ans": "a"
+                },
+                {
+                    "q": "Who was the person who provided inferior drugs to the People's Hospital during the investigation of the case? a. Yu Xin b. Run Jing c. Hong Dejian d. Qiao Gu",
+                    "ans": "a"
+                },
+                {
+                    "q": "What is the first step of the Shangjian Plan? a. Kill Qiao Gu b. Kill Run Jing c. Find Yu Xin d. Investigate the hospital accident",
+                    "ans": "c"
+                },
+                {
+                    "q": "What action is Shang Jian planning to take to retaliate against Qiao Gu? a. Kill Qiao Gu b. Kidnap Qiao Gu c. Blast the hospital d. Shoot a video",
+                    "ans": "a"
+                },
+                {
+                    "q": "How does Shang Jian plan to subdue Yu Xin? a. Kill by shooting b. Needle puncture with anesthesia c. Combat skills d. Deception with lies",
+                    "ans": "c"
+                },
+                {
+                    "q": "What did Shang Jian prepare to establish a connection between the pregnant woman case and the Qiao Gu case? a. Prepared false evidence b. made a hotel reservation by phone c. made a fake video d. fabricated the scene",
+                    "ans": "b"
+                },
+                {
+                    "q": "Why did Shang Jian arrange for Xu Youying to go to Runjing's house? a. Stealing important files b. Completing black market transactions c. Killing Runjing d. Collecting evidence",
+                    "ans": "c"
+                },
+                {
+                    "q": "What is Shangjian's ultimate goal? a. Protecting evidence b. avenging father c. finding the real culprit d. obtaining promotion",
+                    "ans": "b"
+                },
+                {
+                    "q": "What is Shang Jian's position in the script? a. Doctor b. Police c. Evidence Room Management d. Lawyer",
+                    "ans": "c"
+                }
+            ],
+            "self": "Hello everyone, I am Shang Jian",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "In the script, which unit was Shang Jian assigned to? a. Evidence Room b. Action Team c. Armed Police Force d. People's Hospital",
+                "Why was adopted father Shang De sentenced to death? a. Because of killing foster mother and sister, b. because hiding criminals, c. because leaking police secrets, d. because participating in black market transactions",
+                "Who was the person who provided inferior drugs to the People's Hospital during the investigation of the case? a. Yu Xin b. Run Jing c. Hong Dejian d. Qiao Gu",
+                "What is the first step of the Shangjian Plan? a. Kill Qiao Gu b. Kill Run Jing c. Find Yu Xin d. Investigate the hospital accident",
+                "What action is Shang Jian planning to take to retaliate against Qiao Gu? a. Kill Qiao Gu b. Kidnap Qiao Gu c. Blast the hospital d. Shoot a video",
+                "How does Shang Jian plan to subdue Yu Xin? a. Kill by shooting b. Needle puncture with anesthesia c. Combat skills d. Deception with lies",
+                "What did Shang Jian prepare to establish a connection between the pregnant woman case and the Qiao Gu case? a. Prepared false evidence b. made a hotel reservation by phone c. made a fake video d. fabricated the scene",
+                "Why did Shang Jian arrange for Xu Youying to go to Runjing's house? a. Stealing important files b. Completing black market transactions c. Killing Runjing d. Collecting evidence",
+                "What is Shangjian's ultimate goal? a. Protecting evidence b. avenging father c. finding the real culprit d. obtaining promotion",
+                "What is Shang Jian's position in the script? a. Doctor b. Police c. Evidence Room Management d. Lawyer"
+            ],
+            "a": [
+                "a",
+                "a",
+                "a",
+                "c",
+                "a",
+                "c",
+                "b",
+                "c",
+                "b",
+                "c"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "Did the perpetrator leave the scene with tools? a. Yes B. No",
+            "What traces did the killer clean up at the scene? a. Tools b. Footprints c. DNA d. Blood stains",
+            "Which evening will Xu Youying's taxi return to the city? a. June 1st b. June 6th c. June 8th d. June 10th",
+            "Did Xu Youying's taxi enter the underground garage of the Gretel Hotel on the night of its disappearance in Qiaogu? a. Yes B. No",
+            "How long ago did Yu Xin open a medical device manufacturing factory? a. 5 years ago b. 7 years ago c. 8 years ago d. 6 years ago",
+            "When is the autopsy time for Yu Xin? a. The discovery of the body was made at 8:00 p.m. b. The discovery of the body was made at 10:00 p.m. c. The discovery of the body was made the following morning d. The discovery of the body was made the following evening",
+            "How is the hourglass mechanism triggered? a. Light the candle b. Pull the rod c. Press the button d. Step on the pedal",
+            "What is the name of the police officer investigating the pregnant woman case? a. Shang Jian b. Yu Xin c. Xu Youying d. Qiao Gu",
+            "When was the last time Yu Xin sent a message to Qiao Gu? a. June 8th b. June 9th c. June 10th",
+            "Did any clues remain at the crime scene? a. Yes B. No",
+            "Has Xu Youying's injury affected his driving ability? a. Yes B. No",
+            "Does the text message sent by Yu Xin after his death imply that the same person or group committed the crime? a. Yes B. No",
+            "Is the arrangement of the crime scene related to medical cases? a. Yes B. No",
+            "Is there a trust relationship between Shang Jian and Xu Youying? a. Yes B. No",
+            "Does Shangjian have the ability to subdue Yu Xin? a. Yes B. No",
+            "Did Shang Jian know Yu Xin because of the medical case back then? a. Yes B. No",
+            "Do anyone else know Yu Xin besides Shang Jian? a. Yes B. No",
+            "Has Shang Jian ever saved Xu Youying? a. Yes B. No",
+            "Has there been any act of assaulting a suspect after Shang Jian was unable to be sentenced through normal legal procedures? a. Yes B. No"
+        ],
+        "key_ans": [
+            "a",
+            "b",
+            "b",
+            "a",
+            "c",
+            "b",
+            "a",
+            "a",
+            "c",
+            "b",
+            "a",
+            "a",
+            "a",
+            "a",
+            "a",
+            "a",
+            "b",
+            "a",
+            "a"
+        ],
+        "key_sc": [
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-2",
+            "p-2",
+            "w",
+            "c"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "Do the on-site traces indicate that the perpetrator took away the tools of the crime? a. Yes B. No",
+            "What is the working principle of the hourglass mechanism? a. By electromagnetic force b. Due to thermal expansion and contraction of materials c. Through liquid pressure d. Driven by mechanical springs",
+            "What were Yu Xin's previous occupations? a. Small thugs and hotel managers b. Hotel managers and medical equipment production c. Small thugs and medical equipment production d. Medical equipment production and evidence room clerks",
+            "Where did Xu Youying's taxi go on the night of its disappearance? a. Gretel Hotel underground garage b. Outside the city c. Suburban d. Medical equipment production factory",
+            "Why was Shangjian police transferred to the evidence room as a civilian? a. Insufficient evidence b. Complaint c. Retirement d. Illness",
+            "What item needs to be placed to trigger the heating point of the hourglass mechanism? a. Battery b. Candle c. Water cup d. Book",
+            "Why did the killer clean up the footprints at the scene? a. Avoiding being recognized b. Reducing criminal evidence c. Out of habit d. Confusing the public",
+            "What types of businesses did Yu Xin manage in the past? a. Hotel industry b. Medical equipment production c. Ancestral house leasing d. Taxi services",
+            "When did the taxi under Xu Youying's name leave and return to the city? a. June 1st and June 5th b. June 2nd and June 6th c. June 3rd and June 7th d. June 4th and June 8th",
+            "In which incident did the Shangjian police act excessively? a. Investigation of pregnant women case b. Yu Xin drug and equipment case c. Yu Xin serious injury complaint case d. Evidence room management case",
+            "Where is the house under Yu Xin's name located? a. City center b. Suburban c. North city d. South city"
+        ],
+        "key_ans": [
+            "a",
+            "b",
+            "c",
+            "a",
+            "b",
+            "b",
+            "b",
+            "a",
+            "b",
+            "a",
+            "b"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "When did Yu Xin send a message to Qiao Gu? a. June 8th 21:35 b. June 7th 21:35 c. June 8th 20:35 d. June 9th 21:35",
+            "How long has it been since Yu Xin and Qiao Gu contacted each other before sending the message? a. One month b. Three months c. Over six months d. One year",
+            "What is the content of the message sent by Yu Xin? a. Old place, old matter, come now. b. Old place, important matter, come now. c. New place, old matter, come now. d. New place, important matter, come now"
+        ],
+        "key_ans": [
+            "a",
+            "c",
+            "b"
+        ]
+    },
+    "ju_name": "BAIRIGU1",
+    "task_nm": "The deceased is currently Yu Xin",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "pioneering spirit",
+        "Wu Dongming",
+        "Chen Hao"
+    ],
+    "murder": "pioneering spirit",
+    "reason": "Motive for committing the crime:"
+}

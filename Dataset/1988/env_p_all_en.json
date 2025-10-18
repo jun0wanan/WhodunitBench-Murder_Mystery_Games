@@ -1,0 +1,273 @@
+{
+    "key_clues_pool": {
+        "p": [
+            "The evidence found by Bai Zhuangyuan Space shows that he is investigating how to quickly repay his debts",
+            "The evidence found in the Zhen Ji grocery store is borrowed 50000 yuan from Mr. Zhen today and should be returned as soon as possible. One month later, on October 7, 1998, a total of 200000 yuan, including principal and interest, needs to be repaid. If the repayment is delayed, interest will be calculated at a daily rate of 10%. The promissory note of Bai Zhuangyuan on September 7, 1998, has different handwriting in the first and second sentences.",
+            "The evidence found at the Zhen Ji grocery store shows that there are still many beer bottles here, many beer bottles on the table, some of which have been spilled, and a small amount of beer and water stains on the ground at the feet of the deceased.",
+            "The evidence found by Bai Zhuangyuan Space shows that he is starting a business",
+            "The evidence found in Zhenji grocery store is bloodstains. There is a wet and bloody patch of grass outside the grocery store",
+            "There is a very wet raincoat under the evidence counter found in Zhenji grocery store.",
+            "The evidence found in the Bai Zhuangyuan space shows that there are some water stains on Bai Zhuangyuan's cuffs, mud spots on his pants, and mud on his soles.",
+            "The evidence found in the space of Sa Ba Wang is a set of wet clothes covered in mud.",
+            "Only those who have been to the game hall can get ice cubes",
+            "The people who have been to the game hall are Bai Zhuangyuan, Sa Bawang who works in the game hall, and the ghost girl who came to the game hall at 21:45."
+        ],
+        "1-step": [
+            "Bai Zhuangyuan owes money and cannot repay it.",
+            "Bai Zhuangyuan owed Mr. Zhen 50000 yuan, but after a month, it became 200000 yuan.",
+            "Bai Zhuangyuan may have used that money for entrepreneurship",
+            "Bai Zhuangyuan has been to a grocery store",
+            "The people who can get the ice cubes in the game hall freezer are Bai Zhuangyuan from the drama, Sa Bawang who works in the game hall, and the ghost girl who came to the game hall at 21:45."
+        ]
+    },
+    "role-q": {
+        "p": [
+            1,
+            15
+        ]
+    },
+    "public_clue": "There are many ice cubes in the cabinets in the game hall",
+    "key_clues_questions": [
+        {
+            "q": "What information did Bai Zhuangyuan search for in his space? a. How to quickly repay debts b. How to successfully start a business c. How to avoid legal liabilities d. How to manage time",
+            "ans": "a",
+            "source": "p-1"
+        },
+        {
+            "q": "What abnormal details are displayed on Bai Zhuangyuan's IOU? a. The date on the loan note is incorrect. b. The handwriting is inconsistent. c. The loan amount is too low. d. The interest rate is abnormally high",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the on-site situation at Zhenji grocery store? a. Neat and traceless b. There are many scattered beer bottles c. All items are neat d. Only food residue",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What else is Bai Zhuangyuan doing besides seeking a quick way to repay his debts? a. Travel b. Entrepreneurship c. Learning new skills d. Finding new jobs",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What is the abnormal evidence found outside the Zhen Ji grocery store? a. Dropped wallet b. Wet cloth with blood c. Lost phone d. Damaged bag",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What is hidden under the counter in Zhenji grocery store? a. Key b. Money c. Raincoat d. Documents",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "What are the marks on Bai Zhuangyuan's clothes? a. Blood stains and ink stains b. Water stains and mud spots c. Oil stains and brush marks d. Ink and grass stains",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "What evidence was found in the space of Sa Bawang? a. A set of clean clothes b. A set of soaked clothes c. Newly purchased shoes d. Lost watch",
+            "ans": "b",
+            "source": "p-1"
+        },
+        {
+            "q": "How can I get ice cubes in the game hall? a. Purchase game currency b. Become a VIP member c. Visit the game hall d. Win games in the game hall",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Who has been to the game hall? a. Bai Zhuangyuan and Sa Bawang b. Ghost Girl and Sa Bawang c. Bai Zhuangyuan, Sa Bawang and Ghost Girl d. Bai Zhuangyuan and Ghost Girl",
+            "ans": "c",
+            "source": "p-1"
+        },
+        {
+            "q": "Why can't Bai Zhuangyuan repay the borrowed money? a. He spent money on travel. b. He lost money. c. His investment failed. d. The amount of debt rapidly increased",
+            "ans": "d",
+            "source": "p-2"
+        },
+        {
+            "q": "How much did Bai Zhuangyuan initially borrow from Mr. Zhen? a. 5000 yuan b. 10000 yuan c. 50000 yuan d. 100000 yuan",
+            "ans": "c",
+            "source": "p-2"
+        },
+        {
+            "q": "What did Bai Zhuangyuan do with the borrowed money? a. Gambling b. Entrepreneurship c. Purchasing luxury goods d. Repaying other debts",
+            "ans": "b",
+            "source": "p-2"
+        },
+        {
+            "q": "Why did Bai Zhuangyuan go to the grocery store? a. Shopping b. Repaying money c. Meeting friends d. Unknown reasons",
+            "ans": "d",
+            "source": "p-2"
+        },
+        {
+            "q": "Who are the people who can get ice cubes in the game hall? a. Bai Zhuangyuan, Sa Bawang, Ghost Girl b. Boss Zhen, Bai Zhuangyuan, Sa Bawang c. Ghost Girl, Boss Zhen, Bai Zhuangyuan d. Sa Bawang, Ghost Girl, Boss Zhen",
+            "ans": "a",
+            "source": "p-2"
+        }
+    ],
+    "role": [
+        {
+            "name": "Cai Culture",
+            "back": "I am Cai Wenhua, 40 years old, currently the owner of a bookstore in M town. As for how I got here, it's a long story······",
+            "r_q": [
+                {
+                    "q": "When was Boss Zhen found dead? a. 18:00 b. 22:14 c. 22:15 d. 22:30",
+                    "ans": "c"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "When was Boss Zhen found dead? a. 18:00 b. 22:14 c. 22:15 d. 22:30"
+            ],
+            "a": [
+                "c"
+            ]
+        },
+        {
+            "name": "Sa Ba Wang",
+            "back": "I am Sa Bawang, 19 years old this year. I have been involved in group fights and bullying my classmates since I was young. Everyone thinks I'm a mixed world bully.",
+            "r_q": [
+                {
+                    "q": "What is the age of Ran Zheyan at Wuluo Manor? a. 25 years old b. 30 years old c. 35 years old d. 40 years old",
+                    "ans": "b"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "What is the age of Ran Zheyan at Wuluo Manor? a. 25 years old b. 30 years old c. 35 years old d. 40 years old"
+            ],
+            "a": [
+                "b"
+            ]
+        },
+        {
+            "name": "Ghost Girl",
+            "back": "I am a ghost girl, 18 years old this year. I enjoy singing, and my biggest dream is to become a big star like a young and beautiful girl.",
+            "r_q": [
+                {
+                    "q": "Why did the ghost girl decide to leave home? a. Dad got drunk and gave her a chance to escape. B. She received a notification from Mango Music Academy. C. She was knocked unconscious by Dad with an umbrella. D. Dad was very angry when he found her packing her luggage",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Why did the ghost girl decide to leave home? a. Dad got drunk and gave her a chance to escape. B. She received a notification from Mango Music Academy. C. She was knocked unconscious by Dad with an umbrella. D. Dad was very angry when he found her packing her luggage"
+            ],
+            "a": [
+                "a"
+            ]
+        },
+        {
+            "name": "Gull Beauty",
+            "back": "I am Ou Meiren, 38 years old, the owner of a music and video store. Twenty years ago, I married Lao Bai, and soon after marriage, I had the crystallization of love - a little white (the top scorer in the Bai family). Lao Bai's family had good economic conditions, and the two of us opened a music and video store, living a simple and happy life. I think I am the happiest woman in the world, but I didn't expect reality to hit me hard.",
+            "r_q": [
+                {
+                    "q": "Why did the female protagonist in this story decide to take bricks to the grocery store? a. Wanting revenge, the anger towards Boss Zhen made her lose control. b. Wanting to sell bricks to the grocery store. c. She picked them up casually in front of the music store and accidentally took them away. d. Planned to use bricks to help decorate the grocery store",
+                    "ans": "a"
+                }
+            ],
+            "m": 0,
+            "q": [
+                "Why did the female protagonist in this story decide to take bricks to the grocery store? a. Wanting revenge, the anger towards Boss Zhen made her lose control. b. Wanting to sell bricks to the grocery store. c. She picked them up casually in front of the music store and accidentally took them away. d. Planned to use bricks to help decorate the grocery store"
+            ],
+            "a": [
+                "a"
+            ]
+        },
+        {
+            "name": "Bai Zhuangyuan",
+            "back": "In 1995, Bai Zhuangyuan was admitted to Peking University,",
+            "r_q": [
+                {
+                    "q": "Why did Bai Zhuangyuan choose ice cubes as his weapon? a. Ice cubes can melt after killing without leaving any traces. b. Ice cubes are the only usable item. c. Ice cubes can cause serious injuries. d. Ice cubes can reduce the noise of killing",
+                    "ans": "a"
+                }
+            ],
+            "self": "Hello everyone, I am Bai Zhuangyuan",
+            "answer": "I don't know. I am not the murderer.",
+            "m": 1,
+            "q": [
+                "Why did Bai Zhuangyuan choose ice cubes as his weapon? a. Ice cubes can melt after killing without leaving any traces. b. Ice cubes are the only usable item. c. Ice cubes can cause serious injuries. d. Ice cubes can reduce the noise of killing"
+            ],
+            "a": [
+                "a"
+            ]
+        }
+    ],
+    "key_clue_q": {
+        "key_q": [
+            "What information did Bai Zhuangyuan search for in his space? a. How to quickly repay debts b. How to successfully start a business c. How to avoid legal liabilities d. How to manage time",
+            "What abnormal details are displayed on Bai Zhuangyuan's IOU? a. The date on the loan note is incorrect. b. The handwriting is inconsistent. c. The loan amount is too low. d. The interest rate is abnormally high",
+            "What is the on-site situation at Zhenji grocery store? a. Neat and traceless b. There are many scattered beer bottles c. All items are neat d. Only food residue",
+            "What else is Bai Zhuangyuan doing besides seeking a quick way to repay his debts? a. Travel b. Entrepreneurship c. Learning new skills d. Finding new jobs",
+            "What is the abnormal evidence found outside the Zhen Ji grocery store? a. Dropped wallet b. Wet cloth with blood c. Lost phone d. Damaged bag",
+            "What is hidden under the counter in Zhenji grocery store? a. Key b. Money c. Raincoat d. Documents",
+            "What are the marks on Bai Zhuangyuan's clothes? a. Blood stains and ink stains b. Water stains and mud spots c. Oil stains and brush marks d. Ink and grass stains",
+            "What evidence was found in the space of Sa Bawang? a. A set of clean clothes b. A set of soaked clothes c. Newly purchased shoes d. Lost watch",
+            "How can I get ice cubes in the game hall? a. Purchase game currency b. Become a VIP member c. Visit the game hall d. Win games in the game hall",
+            "Who has been to the game hall? a. Bai Zhuangyuan and Sa Bawang b. Ghost Girl and Sa Bawang c. Bai Zhuangyuan, Sa Bawang and Ghost Girl d. Bai Zhuangyuan and Ghost Girl",
+            "Why can't Bai Zhuangyuan repay the borrowed money? a. He spent money on travel. b. He lost money. c. His investment failed. d. The amount of debt rapidly increased",
+            "How much did Bai Zhuangyuan initially borrow from Mr. Zhen? a. 5000 yuan b. 10000 yuan c. 50000 yuan d. 100000 yuan",
+            "What did Bai Zhuangyuan do with the borrowed money? a. Gambling b. Entrepreneurship c. Purchasing luxury goods d. Repaying other debts",
+            "Why did Bai Zhuangyuan go to the grocery store? a. Shopping b. Repaying money c. Meeting friends d. Unknown reasons",
+            "Who are the people who can get ice cubes in the game hall? a. Bai Zhuangyuan, Sa Bawang, Ghost Girl b. Boss Zhen, Bai Zhuangyuan, Sa Bawang c. Ghost Girl, Boss Zhen, Bai Zhuangyuan d. Sa Bawang, Ghost Girl, Boss Zhen"
+        ],
+        "key_ans": [
+            "a",
+            "b",
+            "b",
+            "b",
+            "b",
+            "c",
+            "b",
+            "b",
+            "c",
+            "c",
+            "d",
+            "c",
+            "b",
+            "d",
+            "a"
+        ],
+        "key_sc": [
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-1",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2",
+            "p-2"
+        ]
+    },
+    "ei_q": {
+        "key_q": [
+            "What is the age of Ran Zheyan at Wuluo Manor? a. 25 years old b. 30 years old c. 35 years old d. 40 years old"
+        ],
+        "key_ans": [
+            "b"
+        ]
+    },
+    "cxi_q": {
+        "key_q": [
+            "What is the age of Ran Zheyan at Wuluo Manor? a. 25 years old b. 30 years old c. 35 years old d. 40 years old"
+        ],
+        "key_ans": [
+            "b"
+        ]
+    },
+    "ju_name": "1988",
+    "task_nm": "Please complete the following tasks using all the clues at hand",
+    "task_m": "Please complete the following tasks using all the clues at hand",
+    "key_role": [
+        "Bai Zhuangyuan"
+    ],
+    "murder": "Bai Zhuangyuan",
+    "reason": "Motive for committing the crime:"
+}
